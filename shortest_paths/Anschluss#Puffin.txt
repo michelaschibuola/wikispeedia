@@ -1,0 +1,1 @@
+[["Anschluss", "France", "Surtsey", "Puffin"], ["Anschluss", "Germany", "Faroe_Islands", "Puffin"], ["Anschluss", "Nazi_Germany", "Faroe_Islands", "Puffin"], ["Anschluss", "Netherlands", "Faroe_Islands", "Puffin"], ["Anschluss", "United_Kingdom", "Faroe_Islands", "Puffin"], ["Anschluss", "Liechtenstein", "Faroe_Islands", "Puffin"]]

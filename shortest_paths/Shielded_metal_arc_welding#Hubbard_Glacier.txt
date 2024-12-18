@@ -1,0 +1,1 @@
+[["Shielded_metal_arc_welding", "Aluminium", "Canada", "Hubbard_Glacier"], ["Shielded_metal_arc_welding", "Clay", "Canada", "Hubbard_Glacier"], ["Shielded_metal_arc_welding", "Copper", "Canada", "Hubbard_Glacier"], ["Shielded_metal_arc_welding", "Nickel", "Canada", "Hubbard_Glacier"], ["Shielded_metal_arc_welding", "Austria", "Glacier", "Hubbard_Glacier"]]

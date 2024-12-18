@@ -1,0 +1,1 @@
+[["Color_blindness", "Brain", "Horse", "Pony"], ["Color_blindness", "DNA", "Horse", "Pony"], ["Color_blindness", "Human", "Horse", "Pony"], ["Color_blindness", "DNA", "Ireland", "Pony"], ["Color_blindness", "Scotland", "Ireland", "Pony"], ["Color_blindness", "Scotland", "Ben_Nevis", "Pony"]]

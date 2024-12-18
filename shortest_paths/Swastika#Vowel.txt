@@ -1,0 +1,1 @@
+[["Swastika", "Chinese_language", "Vowel"], ["Swastika", "Dutch_language", "Vowel"], ["Swastika", "English_language", "Vowel"], ["Swastika", "French_language", "Vowel"], ["Swastika", "German_language", "Vowel"], ["Swastika", "Korea", "Vowel"], ["Swastika", "Latin", "Vowel"], ["Swastika", "Sanskrit", "Vowel"], ["Swastika", "Spanish_language", "Vowel"]]

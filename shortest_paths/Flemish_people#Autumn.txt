@@ -1,0 +1,1 @@
+[["Flemish_people", "Canada", "Autumn"], ["Flemish_people", "China", "Autumn"], ["Flemish_people", "English_language", "Autumn"], ["Flemish_people", "Jew", "Autumn"], ["Flemish_people", "United_States", "Autumn"]]

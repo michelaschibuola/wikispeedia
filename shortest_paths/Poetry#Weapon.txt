@@ -1,0 +1,1 @@
+[["Poetry", "Ancient_Greece", "Weapon"], ["Poetry", "Ancient_Rome", "Weapon"], ["Poetry", "Human", "Weapon"], ["Poetry", "Iran", "Weapon"], ["Poetry", "Iraq", "Weapon"], ["Poetry", "Renaissance", "Weapon"]]

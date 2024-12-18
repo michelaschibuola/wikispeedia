@@ -1,0 +1,1 @@
+[["Gliding", "Austria", "Otto_von_Bismarck"], ["Gliding", "Europe", "Otto_von_Bismarck"], ["Gliding", "Germany", "Otto_von_Bismarck"], ["Gliding", "Russia", "Otto_von_Bismarck"], ["Gliding", "United_States", "Otto_von_Bismarck"], ["Gliding", "World_War_I", "Otto_von_Bismarck"]]

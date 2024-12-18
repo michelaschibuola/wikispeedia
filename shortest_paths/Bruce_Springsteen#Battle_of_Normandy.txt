@@ -1,0 +1,1 @@
+[["Bruce_Springsteen", "Italy", "Battle_of_Normandy"], ["Bruce_Springsteen", "United_Kingdom", "Battle_of_Normandy"], ["Bruce_Springsteen", "United_States", "Battle_of_Normandy"]]

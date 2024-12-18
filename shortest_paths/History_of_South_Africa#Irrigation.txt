@@ -1,0 +1,1 @@
+[["History_of_South_Africa", "Cattle", "Irrigation"], ["History_of_South_Africa", "China", "Irrigation"], ["History_of_South_Africa", "Harvest", "Irrigation"], ["History_of_South_Africa", "Human", "Irrigation"], ["History_of_South_Africa", "India", "Irrigation"]]

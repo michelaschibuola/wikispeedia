@@ -1,0 +1,1 @@
+[["Drought", "Burkina_Faso", "Telecommunication"], ["Drought", "China", "Telecommunication"], ["Drought", "Economy_of_Pakistan", "Telecommunication"], ["Drought", "Mali", "Telecommunication"], ["Drought", "Niger", "Telecommunication"]]

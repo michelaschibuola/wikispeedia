@@ -1,0 +1,1 @@
+[["Barack_Obama", "Internet", "Nintendo"], ["Barack_Obama", "United_States_dollar", "Nintendo"]]

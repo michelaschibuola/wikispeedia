@@ -1,0 +1,1 @@
+[["Diamond", "Africa", "Yellow_fever"], ["Diamond", "Europe", "Yellow_fever"], ["Diamond", "United_States", "Yellow_fever"]]

@@ -1,0 +1,1 @@
+[["55_Cancri_c", "Hubble_Space_Telescope", "Comet_Hale-Bopp"], ["55_Cancri_c", "Star", "Comet_Hale-Bopp"], ["55_Cancri_c", "Sun", "Comet_Hale-Bopp"]]

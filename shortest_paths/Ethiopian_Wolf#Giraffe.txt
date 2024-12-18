@@ -1,0 +1,1 @@
+[["Ethiopian_Wolf", "Animal", "Giraffe"], ["Ethiopian_Wolf", "Binomial_nomenclature", "Giraffe"], ["Ethiopian_Wolf", "Ethiopia", "Giraffe"], ["Ethiopian_Wolf", "Mammal", "Giraffe"], ["Ethiopian_Wolf", "Scientific_classification", "Giraffe"]]

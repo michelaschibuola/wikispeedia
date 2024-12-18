@@ -1,0 +1,1 @@
+[["West_Virginia", "Europe", "Moscow"], ["West_Virginia", "Football_%28soccer%29", "Moscow"], ["West_Virginia", "Ice_hockey", "Moscow"], ["West_Virginia", "Metallurgy", "Moscow"]]

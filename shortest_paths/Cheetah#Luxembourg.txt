@@ -1,0 +1,1 @@
+[["Cheetah", "Agriculture", "Luxembourg"], ["Cheetah", "English_language", "Luxembourg"], ["Cheetah", "French_language", "Luxembourg"], ["Cheetah", "German_language", "Luxembourg"], ["Cheetah", "Portuguese_language", "Luxembourg"]]

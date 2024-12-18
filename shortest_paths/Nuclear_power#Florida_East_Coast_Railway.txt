@@ -1,0 +1,1 @@
+[["Nuclear_power", "Coal", "Florida_East_Coast_Railway"], ["Nuclear_power", "United_States", "Florida_East_Coast_Railway"]]

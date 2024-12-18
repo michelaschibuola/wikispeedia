@@ -1,0 +1,1 @@
+[["George_Washington", "18th_century", "Pacific_Ocean"], ["George_Washington", "France", "Pacific_Ocean"], ["George_Washington", "United_States", "Pacific_Ocean"], ["George_Washington", "Manifest_Destiny", "Pacific_Ocean"]]

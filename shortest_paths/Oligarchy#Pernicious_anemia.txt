@@ -1,0 +1,1 @@
+[["Oligarchy", "Europe", "ABO_blood_group_system", "Pernicious_anemia"], ["Oligarchy", "Russia", "ABO_blood_group_system", "Pernicious_anemia"], ["Oligarchy", "Russia", "Vitamin", "Pernicious_anemia"]]

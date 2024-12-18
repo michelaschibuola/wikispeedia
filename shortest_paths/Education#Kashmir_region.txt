@@ -1,0 +1,1 @@
+[["Education", "Afghanistan", "Kashmir_region"], ["Education", "Sanskrit", "Kashmir_region"], ["Education", "United_Nations", "Kashmir_region"]]

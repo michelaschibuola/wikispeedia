@@ -1,0 +1,1 @@
+[["Richard_Feynman", "Los_Angeles%2C_California", "Ku_Klux_Klan"], ["Richard_Feynman", "Nazi_Germany", "Ku_Klux_Klan"], ["Richard_Feynman", "United_States", "Ku_Klux_Klan"]]

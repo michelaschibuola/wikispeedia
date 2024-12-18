@@ -1,0 +1,1 @@
+[["Friedrich_Nietzsche", "19th_century", "Lake_District"], ["Friedrich_Nietzsche", "Poetry", "Lake_District"], ["Friedrich_Nietzsche", "United_Kingdom", "Lake_District"]]

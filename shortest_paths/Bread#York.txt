@@ -1,0 +1,1 @@
+[["Bread", "France", "York"], ["Bread", "Germany", "York"], ["Bread", "Ordination_of_women", "York"]]

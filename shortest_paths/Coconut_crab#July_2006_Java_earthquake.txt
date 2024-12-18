@@ -1,0 +1,1 @@
+[["Coconut_crab", "Christmas_Island", "July_2006_Java_earthquake"], ["Coconut_crab", "Bay_of_Bengal", "July_2006_Java_earthquake"], ["Coconut_crab", "Indonesia", "July_2006_Java_earthquake"]]

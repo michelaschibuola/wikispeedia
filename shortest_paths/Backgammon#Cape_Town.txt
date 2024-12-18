@@ -1,0 +1,1 @@
+[["Backgammon", "17th_century", "Cape_Town"], ["Backgammon", "English_language", "Cape_Town"], ["Backgammon", "France", "Cape_Town"], ["Backgammon", "Germany", "Cape_Town"], ["Backgammon", "India", "Cape_Town"]]

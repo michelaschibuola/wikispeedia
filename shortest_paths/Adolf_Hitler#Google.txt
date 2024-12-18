@@ -1,0 +1,1 @@
+[["Adolf_Hitler", "France", "Google"], ["Adolf_Hitler", "Germany", "Google"], ["Adolf_Hitler", "United_States", "Google"]]

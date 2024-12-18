@@ -1,0 +1,1 @@
+[["Dakar", "Africa", "Ancient_Greece", "Perfect_number"], ["Dakar", "Marseille", "Ancient_Greece", "Perfect_number"]]

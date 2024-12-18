@@ -1,0 +1,1 @@
+[["Israel", "Italy", "Daniel_Day-Lewis"], ["Israel", "Jew", "Daniel_Day-Lewis"], ["Israel", "London", "Daniel_Day-Lewis"]]

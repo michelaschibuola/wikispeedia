@@ -1,0 +1,1 @@
+[["Thomas_Edison", "France", "Panama_Canal"], ["Thomas_Edison", "New_York_City", "Panama_Canal"], ["Thomas_Edison", "United_States", "Panama_Canal"], ["Thomas_Edison", "World_War_II", "Panama_Canal"]]

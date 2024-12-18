@@ -1,0 +1,1 @@
+[["Atlantic_Ocean", "Argentina", "Soybean"], ["Atlantic_Ocean", "Brazil", "Soybean"], ["Atlantic_Ocean", "Canada", "Soybean"], ["Atlantic_Ocean", "Europe", "Soybean"], ["Atlantic_Ocean", "United_States", "Soybean"], ["Atlantic_Ocean", "Hurricane_Ivan", "Soybean"], ["Atlantic_Ocean", "Paraguay", "Soybean"]]

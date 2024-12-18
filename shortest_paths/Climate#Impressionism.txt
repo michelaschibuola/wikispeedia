@@ -1,0 +1,1 @@
+[["Climate", "Poland", "Impressionism"], ["Climate", "Russia", "Impressionism"], ["Climate", "Slovenia", "Impressionism"], ["Climate", "Turkey", "Impressionism"]]

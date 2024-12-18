@@ -1,0 +1,1 @@
+[["Romanticism", "Belgium", "Latvia"], ["Romanticism", "Moldova", "Latvia"], ["Romanticism", "Nationalism", "Latvia"], ["Romanticism", "Europe", "Latvia"], ["Romanticism", "Germany", "Latvia"], ["Romanticism", "Poland", "Latvia"], ["Romanticism", "Roman_Catholic_Church", "Latvia"], ["Romanticism", "Russia", "Latvia"]]

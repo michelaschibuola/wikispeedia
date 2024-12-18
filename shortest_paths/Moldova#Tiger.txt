@@ -1,0 +1,1 @@
+[["Moldova", "Asia", "Tiger"], ["Moldova", "Nazi_Germany", "Tiger"], ["Moldova", "Russia", "Tiger"], ["Moldova", "Soviet_Union", "Tiger"], ["Moldova", "Turkey", "Tiger"]]

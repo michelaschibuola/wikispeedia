@@ -1,0 +1,1 @@
+[["Space_Race", "Earth", "Pleiades_%28star_cluster%29"], ["Space_Race", "Japan", "Pleiades_%28star_cluster%29"], ["Space_Race", "Viking", "Pleiades_%28star_cluster%29"]]

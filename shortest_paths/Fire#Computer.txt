@@ -1,0 +1,1 @@
+[["Fire", "Charles_Babbage", "Computer"], ["Fire", "Electricity", "Computer"], ["Fire", "Energy", "Computer"], ["Fire", "Industry", "Computer"], ["Fire", "United_States", "Computer"], ["Fire", "Weapon", "Computer"], ["Fire", "History_of_Earth", "Computer"], ["Fire", "Technology", "Computer"]]

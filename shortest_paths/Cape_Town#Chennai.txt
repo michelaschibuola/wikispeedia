@@ -1,0 +1,1 @@
+[["Cape_Town", "Capital", "Chennai"], ["Cape_Town", "English_language", "Chennai"], ["Cape_Town", "Football_%28soccer%29", "Chennai"], ["Cape_Town", "France", "Chennai"], ["Cape_Town", "Germany", "Chennai"], ["Cape_Town", "India", "Chennai"], ["Cape_Town", "Portugal", "Chennai"], ["Cape_Town", "Season", "Chennai"], ["Cape_Town", "Time_zone", "Chennai"]]

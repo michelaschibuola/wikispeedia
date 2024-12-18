@@ -1,0 +1,1 @@
+[["Nintendo", "China", "Mongol_Empire"], ["Nintendo", "Europe", "Mongol_Empire"], ["Nintendo", "Timur", "Mongol_Empire"]]

@@ -1,0 +1,1 @@
+[["Hello_Garci_scandal", "Philippines", "Indonesia", "Francis_Drake"], ["Hello_Garci_scandal", "Philippines", "Philip_II_of_Spain", "Francis_Drake"], ["Hello_Garci_scandal", "Philippines", "Puerto_Rico", "Francis_Drake"]]

@@ -1,0 +1,1 @@
+[["Spacecraft_propulsion", "Earth", "Australia", "Darling_River"], ["Spacecraft_propulsion", "Earth", "Drought", "Darling_River"], ["Spacecraft_propulsion", "Earth", "Global_warming", "Darling_River"], ["Spacecraft_propulsion", "Earth", "Pollution", "Darling_River"]]

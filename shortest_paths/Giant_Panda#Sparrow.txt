@@ -1,0 +1,1 @@
+[["Giant_Panda", "Animal", "Sparrow"], ["Giant_Panda", "Chordate", "Sparrow"], ["Giant_Panda", "Scientific_classification", "Sparrow"], ["Giant_Panda", "South_America", "Sparrow"]]

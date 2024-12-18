@@ -1,0 +1,1 @@
+[["Libreville", "Africa", "Famine", "Hunger"], ["Libreville", "France", "Famine", "Hunger"], ["Libreville", "Market", "Famine", "Hunger"], ["Libreville", "Africa", "Poverty", "Hunger"], ["Libreville", "France", "Black_Death", "Hunger"]]

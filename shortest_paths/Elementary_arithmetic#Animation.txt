@@ -1,0 +1,1 @@
+[["Elementary_arithmetic", "Abacus", "Japan", "Animation"], ["Elementary_arithmetic", "Computer", "Mass_media", "Animation"], ["Elementary_arithmetic", "Mathematics", "Motion_%28physics%29", "Animation"]]

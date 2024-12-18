@@ -1,0 +1,1 @@
+[["Syria", "Arabic_language", "Emirate"], ["Syria", "David_III_of_Tao", "Emirate"], ["Syria", "Dubai", "Emirate"], ["Syria", "Monarchy", "Emirate"], ["Syria", "Saudi_Arabia", "Emirate"], ["Syria", "Spain", "Emirate"]]

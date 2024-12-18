@@ -1,0 +1,1 @@
+[["Mosque", "Argentina", "Osaka"], ["Mosque", "China", "Osaka"], ["Mosque", "United_States", "Osaka"]]

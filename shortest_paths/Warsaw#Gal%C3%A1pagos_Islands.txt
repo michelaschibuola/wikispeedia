@@ -1,0 +1,1 @@
+[["Warsaw", "Europe", "Gal%C3%A1pagos_Islands"], ["Warsaw", "United_States", "Gal%C3%A1pagos_Islands"], ["Warsaw", "World_War_II", "Gal%C3%A1pagos_Islands"]]

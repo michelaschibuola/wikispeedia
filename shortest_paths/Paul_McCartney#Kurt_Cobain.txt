@@ -1,0 +1,1 @@
+[["Paul_McCartney", "Hey_Jude", "Kurt_Cobain"], ["Paul_McCartney", "Elvis_Presley", "Kurt_Cobain"], ["Paul_McCartney", "Germany", "Kurt_Cobain"], ["Paul_McCartney", "Musical_instrument", "Kurt_Cobain"], ["Paul_McCartney", "New_York_City", "Kurt_Cobain"], ["Paul_McCartney", "The_Beatles", "Kurt_Cobain"], ["Paul_McCartney", "United_States", "Kurt_Cobain"]]

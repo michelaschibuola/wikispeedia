@@ -1,0 +1,1 @@
+[["Ralph_Nader", "Edward_Teller", "Fascism"], ["Ralph_Nader", "Democracy", "Fascism"]]

@@ -1,0 +1,1 @@
+[["Copper", "United_States", "John_McEnroe"], ["Copper", "Sweden", "John_McEnroe"], ["Copper", "Zimbabwe", "John_McEnroe"]]

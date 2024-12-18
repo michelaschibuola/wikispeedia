@@ -1,0 +1,1 @@
+[["Buckingham_Palace", "Germany", "AK-47"], ["Buckingham_Palace", "Russia", "AK-47"], ["Buckingham_Palace", "World_War_II", "AK-47"], ["Buckingham_Palace", "United_Kingdom", "AK-47"]]

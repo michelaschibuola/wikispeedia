@@ -1,0 +1,1 @@
+[["History_of_Russia", "Anarchism", "War_and_Peace"], ["History_of_Russia", "Moscow", "War_and_Peace"], ["History_of_Russia", "Russia", "War_and_Peace"], ["History_of_Russia", "Saint_Petersburg", "War_and_Peace"], ["History_of_Russia", "Soviet_Union", "War_and_Peace"], ["History_of_Russia", "United_States", "War_and_Peace"]]

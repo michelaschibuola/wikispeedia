@@ -1,0 +1,1 @@
+[["Mars", "Astronomy", "Big_Bang"], ["Mars", "History_of_Earth", "Big_Bang"], ["Mars", "Gravitation", "Big_Bang"], ["Mars", "Hubble_Space_Telescope", "Big_Bang"], ["Mars", "Solar_System", "Big_Bang"], ["Mars", "Telescope", "Big_Bang"], ["Mars", "Star", "Big_Bang"]]

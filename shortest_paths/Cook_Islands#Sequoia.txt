@@ -1,0 +1,1 @@
+[["Cook_Islands", "New_Zealand", "Sequoia"], ["Cook_Islands", "Pacific_Ocean", "Sequoia"], ["Cook_Islands", "United_States", "Sequoia"]]

@@ -1,0 +1,1 @@
+[["Hanoi", "Asia", "Abu_Dhabi"], ["Hanoi", "Global_city", "Abu_Dhabi"]]

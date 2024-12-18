@@ -1,0 +1,1 @@
+[["Ariel_Sharon", "Brussels", "Guild"], ["Ariel_Sharon", "France", "Guild"], ["Ariel_Sharon", "United_States", "Guild"]]

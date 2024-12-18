@@ -1,0 +1,1 @@
+[["Kurt_Cobain", "Germany", "Linus_Pauling"], ["Kurt_Cobain", "Munich", "Linus_Pauling"], ["Kurt_Cobain", "United_States", "Linus_Pauling"]]

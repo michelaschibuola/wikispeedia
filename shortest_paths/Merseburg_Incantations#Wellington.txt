@@ -1,0 +1,1 @@
+[["Merseburg_Incantations", "German_language", "Australia", "Wellington"], ["Merseburg_Incantations", "Latin", "Capital", "Wellington"], ["Merseburg_Incantations", "Latin", "Europe", "Wellington"], ["Merseburg_Incantations", "Middle_Ages", "Europe", "Wellington"], ["Merseburg_Incantations", "Latin", "New_Zealand", "Wellington"]]

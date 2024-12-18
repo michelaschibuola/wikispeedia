@@ -1,0 +1,1 @@
+[["Economics", "United_Kingdom", "Bruce_Springsteen"], ["Economics", "United_States", "Bruce_Springsteen"], ["Economics", "Sweden", "Bruce_Springsteen"], ["Economics", "Washington%2C_D.C.", "Bruce_Springsteen"]]

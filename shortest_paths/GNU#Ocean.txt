@@ -1,0 +1,1 @@
+[["GNU", "Internet", "Argentina", "Ocean"], ["GNU", "Internet", "Comet_Hale-Bopp", "Ocean"], ["GNU", "Internet", "North_America", "Ocean"], ["GNU", "Internet", "Seattle%2C_Washington", "Ocean"], ["GNU", "Linux", "Mars_Exploration_Rover", "Ocean"], ["GNU", "Microsoft_Windows", "Mars_Exploration_Rover", "Ocean"], ["GNU", "Macintosh", "Mars_Exploration_Rover", "Ocean"]]

@@ -1,0 +1,1 @@
+[["Integrated_circuit", "Copper", "Sulfuric_acid"], ["Integrated_circuit", "Aluminium", "Sulfuric_acid"], ["Integrated_circuit", "Gold", "Sulfuric_acid"], ["Integrated_circuit", "Photon", "Sulfuric_acid"], ["Integrated_circuit", "Ultraviolet", "Sulfuric_acid"]]

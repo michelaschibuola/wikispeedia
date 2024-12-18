@@ -1,0 +1,1 @@
+[["Agriculture", "Fertilizer", "Kiev"], ["Agriculture", "Middle_Ages", "Kiev"], ["Agriculture", "Beijing", "Kiev"], ["Agriculture", "Polish-Lithuanian_Commonwealth", "Kiev"], ["Agriculture", "Russia", "Kiev"], ["Agriculture", "Ukraine", "Kiev"], ["Agriculture", "Viking", "Kiev"]]

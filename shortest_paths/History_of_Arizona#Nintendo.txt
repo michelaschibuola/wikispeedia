@@ -1,0 +1,1 @@
+[["History_of_Arizona", "Canada", "Nintendo"], ["History_of_Arizona", "North_America", "Nintendo"], ["History_of_Arizona", "United_States", "Nintendo"]]

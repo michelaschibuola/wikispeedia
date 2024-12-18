@@ -1,0 +1,1 @@
+[["Timken_1111", "Northern_Pacific_Railway", "United_States", "Working_poor"], ["Timken_1111", "Chicago", "United_States", "Working_poor"], ["Timken_1111", "Pennsylvania_Railroad", "United_States", "Working_poor"], ["Timken_1111", "Seattle%2C_Washington", "United_States", "Working_poor"]]

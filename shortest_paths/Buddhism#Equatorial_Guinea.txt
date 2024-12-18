@@ -1,0 +1,1 @@
+[["Buddhism", "Brazil", "Equatorial_Guinea"], ["Buddhism", "Denmark", "Equatorial_Guinea"], ["Buddhism", "India", "Equatorial_Guinea"], ["Buddhism", "France", "Equatorial_Guinea"], ["Buddhism", "Latin_America", "Equatorial_Guinea"], ["Buddhism", "United_States", "Equatorial_Guinea"]]

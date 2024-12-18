@@ -1,0 +1,1 @@
+[["Rugby_World_Cup", "Africa", "Diamond"], ["Rugby_World_Cup", "Australia", "Diamond"], ["Rugby_World_Cup", "England", "Diamond"], ["Rugby_World_Cup", "Europe", "Diamond"], ["Rugby_World_Cup", "Japan", "Diamond"], ["Rugby_World_Cup", "London", "Diamond"], ["Rugby_World_Cup", "South_Africa", "Diamond"]]

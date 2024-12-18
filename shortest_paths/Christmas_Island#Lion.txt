@@ -1,0 +1,1 @@
+[["Christmas_Island", "Europe", "Lion"], ["Christmas_Island", "India", "Lion"], ["Christmas_Island", "Middle_East", "Lion"], ["Christmas_Island", "Singapore", "Lion"], ["Christmas_Island", "Kenya", "Lion"], ["Christmas_Island", "Tanzania", "Lion"], ["Christmas_Island", "Yemen", "Lion"]]

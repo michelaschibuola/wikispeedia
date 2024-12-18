@@ -1,0 +1,1 @@
+[["Season", "Denmark", "Adolf_Hitler"], ["Season", "United_Kingdom", "Adolf_Hitler"], ["Season", "United_States", "Adolf_Hitler"]]

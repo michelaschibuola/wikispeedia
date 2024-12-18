@@ -1,0 +1,1 @@
+[["Autumn", "United_States", "Wikimedia_Foundation"], ["Autumn", "Florida", "Wikimedia_Foundation"]]

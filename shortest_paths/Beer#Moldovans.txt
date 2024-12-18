@@ -1,0 +1,1 @@
+[["Beer", "Kazakhstan", "Moldovans"], ["Beer", "Kyrgyzstan", "Moldovans"], ["Beer", "Russia", "Moldovans"], ["Beer", "Ukraine", "Moldovans"], ["Beer", "United_States", "Moldovans"]]

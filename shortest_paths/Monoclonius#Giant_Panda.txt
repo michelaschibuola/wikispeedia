@@ -1,0 +1,1 @@
+[["Monoclonius", "Animal", "Giant_Panda"], ["Monoclonius", "Chordate", "Giant_Panda"], ["Monoclonius", "Herbivore", "Giant_Panda"], ["Monoclonius", "Scientific_classification", "Giant_Panda"]]

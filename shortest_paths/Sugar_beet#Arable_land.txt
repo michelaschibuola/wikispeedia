@@ -1,0 +1,1 @@
+[["Sugar_beet", "Photosynthesis", "Arable_land"]]

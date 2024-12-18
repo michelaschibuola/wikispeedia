@@ -1,0 +1,1 @@
+[["Drought", "China", "City"], ["Drought", "Australia", "City"], ["Drought", "Industry", "City"], ["Drought", "Rain", "City"], ["Drought", "Tripoli", "City"]]

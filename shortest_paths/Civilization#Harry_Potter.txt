@@ -1,0 +1,1 @@
+[["Civilization", "21st_century", "Harry_Potter"], ["Civilization", "United_States", "Harry_Potter"], ["Civilization", "Portugal", "Harry_Potter"]]

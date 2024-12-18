@@ -1,0 +1,1 @@
+[["Nematode", "Insulin", "Cancer", "Edema"], ["Nematode", "Animal", "Brain", "Edema"], ["Nematode", "Arthropod", "Brain", "Edema"], ["Nematode", "Bacteria", "Brain", "Edema"], ["Nematode", "Arthropod", "Eye", "Edema"], ["Nematode", "Bacteria", "Contact_lens", "Edema"]]

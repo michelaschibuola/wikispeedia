@@ -1,0 +1,1 @@
+[["Yellowstone_National_Park", "19th_century", "Physics"], ["Yellowstone_National_Park", "Earth", "Physics"], ["Yellowstone_National_Park", "Human", "Physics"]]

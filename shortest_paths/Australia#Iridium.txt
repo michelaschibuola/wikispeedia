@@ -1,0 +1,1 @@
+[["Australia", "England", "Iridium"], ["Australia", "Cretaceous", "Iridium"], ["Australia", "Earth", "Iridium"], ["Australia", "Nickel", "Iridium"], ["Australia", "Paleocene", "Iridium"], ["Australia", "Paris", "Iridium"]]

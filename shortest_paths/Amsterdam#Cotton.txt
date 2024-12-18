@@ -1,0 +1,1 @@
+[["Amsterdam", "14th_century", "Cotton"], ["Amsterdam", "Africa", "Cotton"], ["Amsterdam", "Europe", "Cotton"], ["Amsterdam", "France", "Cotton"], ["Amsterdam", "Industrial_Revolution", "Cotton"], ["Amsterdam", "Charles_II_of_England", "Cotton"], ["Amsterdam", "Manchester", "Cotton"], ["Amsterdam", "Polish-Lithuanian_Commonwealth", "Cotton"]]

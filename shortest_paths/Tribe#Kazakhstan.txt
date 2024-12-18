@@ -1,0 +1,1 @@
+[["Tribe", "Democracy", "Kazakhstan"], ["Tribe", "Genghis_Khan", "Kazakhstan"], ["Tribe", "Mongolia", "Kazakhstan"], ["Tribe", "Russia", "Kazakhstan"]]

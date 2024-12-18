@@ -1,0 +1,1 @@
+[["Kyrgyzstan", "Horse", "Leonardo_da_Vinci"], ["Kyrgyzstan", "Istanbul", "Leonardo_da_Vinci"], ["Kyrgyzstan", "Metallurgy", "Leonardo_da_Vinci"], ["Kyrgyzstan", "Turkey", "Leonardo_da_Vinci"]]

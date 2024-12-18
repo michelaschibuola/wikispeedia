@@ -1,0 +1,1 @@
+[["Multiple_sequence_alignment", "DNA", "Christopher_Columbus", "Las_Palmas_de_Gran_Canaria"]]

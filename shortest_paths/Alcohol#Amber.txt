@@ -1,0 +1,1 @@
+[["Alcohol", "Arabic_language", "Amber"], ["Alcohol", "Carbon", "Amber"], ["Alcohol", "Ethanol", "Amber"], ["Alcohol", "Hydrogen", "Amber"], ["Alcohol", "Oxygen", "Amber"], ["Alcohol", "Sulfur", "Amber"], ["Alcohol", "United_States", "Amber"], ["Alcohol", "Plant", "Amber"], ["Alcohol", "Turkey", "Amber"]]

@@ -1,0 +1,1 @@
+[["Australian_Green_Tree_Frog", "Animal", "History_of_Earth"], ["Australian_Green_Tree_Frog", "Australia", "History_of_Earth"], ["Australian_Green_Tree_Frog", "Bird", "History_of_Earth"], ["Australian_Green_Tree_Frog", "Mammal", "History_of_Earth"], ["Australian_Green_Tree_Frog", "Oxygen", "History_of_Earth"]]

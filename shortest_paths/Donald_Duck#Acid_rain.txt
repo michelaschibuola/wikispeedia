@@ -1,0 +1,1 @@
+[["Donald_Duck", "England", "Acid_rain"], ["Donald_Duck", "People%27s_Republic_of_China", "Acid_rain"], ["Donald_Duck", "Russia", "Acid_rain"]]

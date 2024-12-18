@@ -1,0 +1,1 @@
+[["Edward_VI_of_England", "France", "List_of_circulating_currencies"], ["Edward_VI_of_England", "Germany", "List_of_circulating_currencies"], ["Edward_VI_of_England", "Netherlands", "List_of_circulating_currencies"], ["Edward_VI_of_England", "United_States", "List_of_circulating_currencies"]]

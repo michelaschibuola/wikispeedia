@@ -1,0 +1,1 @@
+[["Carbon", "Art", "Money"], ["Carbon", "Coal", "Money"], ["Carbon", "Diamond", "Money"], ["Carbon", "Iron", "Money"], ["Carbon", "Petroleum", "Money"]]

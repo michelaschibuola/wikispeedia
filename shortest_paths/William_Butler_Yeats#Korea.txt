@@ -1,0 +1,1 @@
+[["William_Butler_Yeats", "Autumn", "Korea"], ["William_Butler_Yeats", "Japan", "Korea"]]

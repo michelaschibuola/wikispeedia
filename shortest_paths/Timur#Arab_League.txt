@@ -1,0 +1,1 @@
+[["Timur", "Afghanistan", "Arab_League"], ["Timur", "Baghdad", "Arab_League"], ["Timur", "Egypt", "Arab_League"], ["Timur", "Iran", "Arab_League"], ["Timur", "Iraq", "Arab_League"], ["Timur", "Kuwait", "Arab_League"], ["Timur", "Syria", "Arab_League"], ["Timur", "Turkey", "Arab_League"]]

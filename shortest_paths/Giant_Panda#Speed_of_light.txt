@@ -1,0 +1,1 @@
+[["Giant_Panda", "Japan", "Speed_of_light"], ["Giant_Panda", "United_States", "Speed_of_light"]]

@@ -1,0 +1,1 @@
+[["History_of_Earth", "Australia", "Eurovision_Song_Contest"], ["History_of_Earth", "European_Union", "Eurovision_Song_Contest"], ["History_of_Earth", "Italy", "Eurovision_Song_Contest"]]

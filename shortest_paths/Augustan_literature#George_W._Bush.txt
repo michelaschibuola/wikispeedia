@@ -1,0 +1,1 @@
+[["Augustan_literature", "France", "George_W._Bush"], ["Augustan_literature", "Philosophy", "George_W._Bush"], ["Augustan_literature", "United_Kingdom", "George_W._Bush"]]

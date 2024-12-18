@@ -1,0 +1,1 @@
+[["Mahmoud_Abbas", "Arabic_language", "Earth"], ["Mahmoud_Abbas", "Canada", "Earth"], ["Mahmoud_Abbas", "United_States", "Earth"]]

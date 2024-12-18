@@ -1,0 +1,1 @@
+[["Bill_Gates", "Business", "Clothing"], ["Bill_Gates", "Japan", "Clothing"], ["Bill_Gates", "Popular_culture", "Clothing"], ["Bill_Gates", "Lesotho", "Clothing"]]

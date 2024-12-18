@@ -1,0 +1,1 @@
+[["Economics", "United_States", "Denver%2C_Colorado"], ["Economics", "Global_city", "Denver%2C_Colorado"], ["Economics", "Las_Vegas%2C_Nevada", "Denver%2C_Colorado"]]

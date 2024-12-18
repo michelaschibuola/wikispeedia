@@ -1,0 +1,1 @@
+[["Martin_Luther", "Augustan_literature", "Political_economy"], ["Martin_Luther", "History_of_science", "Political_economy"], ["Martin_Luther", "18th_century", "Political_economy"]]

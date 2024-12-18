@@ -1,0 +1,1 @@
+[["Rice", "British_Empire", "Bertrand_Russell"], ["Rice", "Japan", "Bertrand_Russell"], ["Rice", "English_language", "Bertrand_Russell"], ["Rice", "France", "Bertrand_Russell"], ["Rice", "Middle_East", "Bertrand_Russell"], ["Rice", "United_States", "Bertrand_Russell"]]

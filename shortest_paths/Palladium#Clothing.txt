@@ -1,0 +1,1 @@
+[["Palladium", "Metal", "Clothing"], ["Palladium", "Russia", "Clothing"]]

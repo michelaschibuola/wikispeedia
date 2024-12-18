@@ -1,0 +1,1 @@
+[["Eastern_Orthodox_Church", "Australia", "Osaka"], ["Eastern_Orthodox_Church", "Russia", "Osaka"], ["Eastern_Orthodox_Church", "United_States", "Osaka"], ["Eastern_Orthodox_Church", "Finland", "Osaka"], ["Eastern_Orthodox_Church", "Italy", "Osaka"]]

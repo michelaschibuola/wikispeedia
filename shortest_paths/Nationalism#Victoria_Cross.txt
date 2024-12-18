@@ -1,0 +1,1 @@
+[["Nationalism", "China", "Victoria_Cross"], ["Nationalism", "Germany", "Victoria_Cross"], ["Nationalism", "Iraq", "Victoria_Cross"], ["Nationalism", "Northern_Ireland", "Victoria_Cross"], ["Nationalism", "Russia", "Victoria_Cross"]]

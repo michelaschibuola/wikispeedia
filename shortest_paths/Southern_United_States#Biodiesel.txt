@@ -1,0 +1,1 @@
+[["Southern_United_States", "Detroit%2C_Michigan", "Biodiesel"], ["Southern_United_States", "France", "Biodiesel"], ["Southern_United_States", "Infrastructure", "Biodiesel"], ["Southern_United_States", "Minnesota", "Biodiesel"], ["Southern_United_States", "United_States", "Biodiesel"]]

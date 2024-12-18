@@ -1,0 +1,1 @@
+[["Big_Bang", "Belgium", "Super_Bowl_XL", "New_England_Patriots"], ["Big_Bang", "Albert_Einstein", "Elvis_Presley", "New_England_Patriots"], ["Big_Bang", "Solar_System", "Boston%2C_Massachusetts", "New_England_Patriots"]]

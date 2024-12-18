@@ -1,0 +1,1 @@
+[["Falkland_Islands", "English_language", "University_of_Cambridge"], ["Falkland_Islands", "England", "University_of_Cambridge"], ["Falkland_Islands", "United_Kingdom", "University_of_Cambridge"], ["Falkland_Islands", "United_States", "University_of_Cambridge"], ["Falkland_Islands", "Margaret_Thatcher", "University_of_Cambridge"]]

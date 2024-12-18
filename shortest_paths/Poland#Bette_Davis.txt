@@ -1,0 +1,1 @@
+[["Poland", "Europe", "Bette_Davis"], ["Poland", "Philadelphia", "Bette_Davis"], ["Poland", "France", "Bette_Davis"], ["Poland", "United_States", "Bette_Davis"], ["Poland", "Sunset_Boulevard_%281950_film%29", "Bette_Davis"]]

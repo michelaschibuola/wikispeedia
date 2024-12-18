@@ -1,0 +1,1 @@
+[["Turquoise", "California", "Miocene"], ["Turquoise", "Europe", "Miocene"], ["Turquoise", "Japan", "Miocene"]]

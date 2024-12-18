@@ -1,0 +1,1 @@
+[["Jersey", "France", "Arthur_Wellesley%2C_1st_Duke_of_Wellington"], ["Jersey", "Great_Britain", "Arthur_Wellesley%2C_1st_Duke_of_Wellington"], ["Jersey", "United_Kingdom", "Arthur_Wellesley%2C_1st_Duke_of_Wellington"]]

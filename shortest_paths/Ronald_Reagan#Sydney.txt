@@ -1,0 +1,1 @@
+[["Ronald_Reagan", "Bill_Clinton", "Sydney"], ["Ronald_Reagan", "20th_century", "Sydney"], ["Ronald_Reagan", "Europe", "Sydney"], ["Ronald_Reagan", "Lebanon", "Sydney"]]

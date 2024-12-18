@@ -1,0 +1,1 @@
+[["Anarcho-capitalism", "Capitalism", "Winston_Churchill"], ["Anarcho-capitalism", "Cold_War", "Winston_Churchill"], ["Anarcho-capitalism", "Liberalism", "Winston_Churchill"]]

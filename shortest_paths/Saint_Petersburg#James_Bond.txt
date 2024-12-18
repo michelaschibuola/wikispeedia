@@ -1,0 +1,1 @@
+[["Saint_Petersburg", "Canada", "James_Bond"], ["Saint_Petersburg", "Germany", "James_Bond"], ["Saint_Petersburg", "Japan", "James_Bond"], ["Saint_Petersburg", "Soviet_Union", "James_Bond"], ["Saint_Petersburg", "United_Kingdom", "James_Bond"], ["Saint_Petersburg", "World_War_II", "James_Bond"]]

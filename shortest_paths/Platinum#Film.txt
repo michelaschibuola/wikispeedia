@@ -1,0 +1,1 @@
+[["Platinum", "Color", "Film"], ["Platinum", "United_States", "Film"]]

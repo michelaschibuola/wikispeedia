@@ -1,0 +1,1 @@
+[["Norway", "Petroleum", "University_of_Texas_at_Austin"], ["Norway", "World_War_II", "University_of_Texas_at_Austin"]]

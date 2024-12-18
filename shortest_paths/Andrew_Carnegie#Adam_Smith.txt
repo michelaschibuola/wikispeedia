@@ -1,0 +1,1 @@
+[["Andrew_Carnegie", "Church_of_England", "Adam_Smith"], ["Andrew_Carnegie", "Edinburgh", "Adam_Smith"], ["Andrew_Carnegie", "Glasgow", "Adam_Smith"], ["Andrew_Carnegie", "Scotland", "Adam_Smith"], ["Andrew_Carnegie", "United_Kingdom", "Adam_Smith"], ["Andrew_Carnegie", "Corporation", "Adam_Smith"]]

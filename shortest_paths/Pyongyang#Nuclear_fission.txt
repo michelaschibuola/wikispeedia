@@ -1,0 +1,1 @@
+[["Pyongyang", "Paris", "Nuclear_fission"]]

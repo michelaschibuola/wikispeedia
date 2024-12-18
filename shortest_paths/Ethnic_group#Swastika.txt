@@ -1,0 +1,1 @@
+[["Ethnic_group", "Africa", "Swastika"], ["Ethnic_group", "English_language", "Swastika"], ["Ethnic_group", "Europe", "Swastika"], ["Ethnic_group", "Iran", "Swastika"], ["Ethnic_group", "North_America", "Swastika"], ["Ethnic_group", "Tibet", "Swastika"], ["Ethnic_group", "Finland", "Swastika"], ["Ethnic_group", "Jew", "Swastika"], ["Ethnic_group", "United_States", "Swastika"]]

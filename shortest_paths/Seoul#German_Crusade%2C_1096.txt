@@ -1,0 +1,1 @@
+[["Seoul", "France", "German_Crusade%2C_1096"], ["Seoul", "Italy", "German_Crusade%2C_1096"]]

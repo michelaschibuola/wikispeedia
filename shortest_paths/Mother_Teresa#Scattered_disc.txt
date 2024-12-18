@@ -1,0 +1,1 @@
+[["Mother_Teresa", "Asia", "Sun", "Scattered_disc"], ["Mother_Teresa", "Mexico", "Sun", "Scattered_disc"], ["Mother_Teresa", "United_States", "Sun", "Scattered_disc"], ["Mother_Teresa", "California", "90377_Sedna", "Scattered_disc"], ["Mother_Teresa", "United_States", "90377_Sedna", "Scattered_disc"], ["Mother_Teresa", "California", "Eris_%28dwarf_planet%29", "Scattered_disc"]]

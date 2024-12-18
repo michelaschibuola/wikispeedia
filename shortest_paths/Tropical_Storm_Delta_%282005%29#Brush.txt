@@ -1,0 +1,1 @@
+[["Tropical_Storm_Delta_%282005%29", "Electricity", "Aluminium", "Brush"], ["Tropical_Storm_Delta_%282005%29", "Electricity", "Copper", "Brush"]]

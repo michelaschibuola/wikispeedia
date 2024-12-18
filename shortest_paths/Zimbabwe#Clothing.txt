@@ -1,0 +1,1 @@
+[["Zimbabwe", "Africa", "Clothing"], ["Zimbabwe", "19th_century", "Clothing"], ["Zimbabwe", "China", "Clothing"], ["Zimbabwe", "Domestic_goat", "Clothing"], ["Zimbabwe", "India", "Clothing"], ["Zimbabwe", "Lesotho", "Clothing"]]

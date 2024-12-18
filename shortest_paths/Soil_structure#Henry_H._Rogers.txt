@@ -1,0 +1,1 @@
+[["Soil_structure", "Fertilizer", "Copper", "Henry_H._Rogers"], ["Soil_structure", "Fertilizer", "Natural_gas", "Henry_H._Rogers"], ["Soil_structure", "Fertilizer", "Petroleum", "Henry_H._Rogers"]]

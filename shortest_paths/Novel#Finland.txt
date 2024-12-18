@@ -1,0 +1,1 @@
+[["Novel", "13th_century", "Finland"], ["Novel", "English_language", "Finland"], ["Novel", "France", "Finland"], ["Novel", "Literacy", "Finland"], ["Novel", "United_Kingdom", "Finland"]]

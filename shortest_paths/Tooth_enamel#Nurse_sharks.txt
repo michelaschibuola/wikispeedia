@@ -1,0 +1,1 @@
+[["Tooth_enamel", "Bacteria", "Animal", "Nurse_sharks"], ["Tooth_enamel", "Cell_%28biology%29", "Animal", "Nurse_sharks"], ["Tooth_enamel", "Bacteria", "Scientific_classification", "Nurse_sharks"], ["Tooth_enamel", "Tobacco", "Scientific_classification", "Nurse_sharks"]]

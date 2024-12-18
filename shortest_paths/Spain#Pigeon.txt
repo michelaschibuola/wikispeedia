@@ -1,0 +1,1 @@
+[["Spain", "Asia", "Pigeon"], ["Spain", "France", "Pigeon"], ["Spain", "Global_spread_of_H5N1", "Pigeon"], ["Spain", "Iran", "Pigeon"], ["Spain", "Jew", "Pigeon"], ["Spain", "Australia", "Pigeon"], ["Spain", "United_States", "Pigeon"], ["Spain", "Tuberculosis", "Pigeon"]]

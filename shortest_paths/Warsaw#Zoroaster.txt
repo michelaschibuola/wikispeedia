@@ -1,0 +1,1 @@
+[["Warsaw", "9th_century", "Zoroaster"], ["Warsaw", "Russia", "Zoroaster"]]

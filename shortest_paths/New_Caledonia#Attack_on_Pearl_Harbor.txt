@@ -1,0 +1,1 @@
+[["New_Caledonia", "Europe", "Attack_on_Pearl_Harbor"], ["New_Caledonia", "United_Kingdom", "Attack_on_Pearl_Harbor"]]

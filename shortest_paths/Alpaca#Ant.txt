@@ -1,0 +1,1 @@
+[["Alpaca", "Animal", "Ant"], ["Alpaca", "Australia", "Ant"], ["Alpaca", "Mammal", "Ant"], ["Alpaca", "Scientific_classification", "Ant"], ["Alpaca", "South_America", "Ant"]]

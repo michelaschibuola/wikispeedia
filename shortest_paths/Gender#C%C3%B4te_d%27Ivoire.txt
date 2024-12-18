@@ -1,0 +1,1 @@
+[["Gender", "English_language", "C%C3%B4te_d%27Ivoire"], ["Gender", "French_language", "C%C3%B4te_d%27Ivoire"], ["Gender", "German_language", "C%C3%B4te_d%27Ivoire"], ["Gender", "Portuguese_language", "C%C3%B4te_d%27Ivoire"]]

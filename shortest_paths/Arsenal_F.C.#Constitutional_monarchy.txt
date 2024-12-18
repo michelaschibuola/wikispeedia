@@ -1,0 +1,1 @@
+[["Arsenal_F.C.", "England", "Constitutional_monarchy"], ["Arsenal_F.C.", "Elizabeth_II_of_the_United_Kingdom", "Constitutional_monarchy"], ["Arsenal_F.C.", "United_Kingdom", "Constitutional_monarchy"]]

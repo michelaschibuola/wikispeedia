@@ -1,0 +1,1 @@
+[["Ringed_Plover", "Africa", "Earth", "Spacecraft_propulsion"], ["Ringed_Plover", "Animal", "Earth", "Spacecraft_propulsion"], ["Ringed_Plover", "Canada", "Earth", "Spacecraft_propulsion"], ["Ringed_Plover", "Europe", "Earth", "Spacecraft_propulsion"]]

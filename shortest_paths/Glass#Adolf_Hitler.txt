@@ -1,0 +1,1 @@
+[["Glass", "Aluminium", "Adolf_Hitler"], ["Glass", "Egypt", "Adolf_Hitler"], ["Glass", "Germany", "Adolf_Hitler"], ["Glass", "Gold", "Adolf_Hitler"], ["Glass", "Radar", "Adolf_Hitler"]]

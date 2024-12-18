@@ -1,0 +1,1 @@
+[["Haiti", "Africa", "Strait_of_Malacca"], ["Haiti", "Christopher_Columbus", "Strait_of_Malacca"]]

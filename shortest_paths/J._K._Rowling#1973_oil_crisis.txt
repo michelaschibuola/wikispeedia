@@ -1,0 +1,1 @@
+[["J._K._Rowling", "Netherlands", "1973_oil_crisis"], ["J._K._Rowling", "Newspaper", "1973_oil_crisis"], ["J._K._Rowling", "People%27s_Republic_of_China", "1973_oil_crisis"], ["J._K._Rowling", "Portugal", "1973_oil_crisis"], ["J._K._Rowling", "United_States_dollar", "1973_oil_crisis"], ["J._K._Rowling", "United_Kingdom", "1973_oil_crisis"]]

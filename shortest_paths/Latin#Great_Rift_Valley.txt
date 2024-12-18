@@ -1,0 +1,1 @@
+[["Latin", "Red_Sea", "Great_Rift_Valley"], ["Latin", "Volcano", "Great_Rift_Valley"], ["Latin", "West_Bank", "Great_Rift_Valley"]]

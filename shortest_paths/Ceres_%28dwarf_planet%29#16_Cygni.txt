@@ -1,0 +1,1 @@
+[["Ceres_%28dwarf_planet%29", "Day", "16_Cygni"], ["Ceres_%28dwarf_planet%29", "Jupiter", "16_Cygni"], ["Ceres_%28dwarf_planet%29", "Solar_System", "16_Cygni"], ["Ceres_%28dwarf_planet%29", "Sun", "16_Cygni"]]

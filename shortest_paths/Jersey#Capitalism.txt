@@ -1,0 +1,1 @@
+[["Jersey", "Europe", "Capitalism"], ["Jersey", "16th_century", "Capitalism"], ["Jersey", "England", "Capitalism"], ["Jersey", "United_Kingdom", "Capitalism"], ["Jersey", "United_States", "Capitalism"]]

@@ -1,0 +1,1 @@
+[["Seoul", "Athens", "Wind"], ["Seoul", "Brazil", "Wind"], ["Seoul", "Mongolia", "Wind"]]

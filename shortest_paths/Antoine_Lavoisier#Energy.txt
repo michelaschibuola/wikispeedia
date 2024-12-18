@@ -1,0 +1,1 @@
+[["Antoine_Lavoisier", "Biology", "Energy"], ["Antoine_Lavoisier", "Chemistry", "Energy"], ["Antoine_Lavoisier", "Politics", "Energy"], ["Antoine_Lavoisier", "Heat", "Energy"]]

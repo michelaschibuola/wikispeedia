@@ -1,0 +1,1 @@
+[["Capital", "Cold_War", "Charlie_Chaplin"], ["Capital", "France", "Charlie_Chaplin"], ["Capital", "London", "Charlie_Chaplin"], ["Capital", "United_States", "Charlie_Chaplin"], ["Capital", "Europe", "Charlie_Chaplin"]]

@@ -1,0 +1,1 @@
+[["Jurassic", "Europe", "Cologne"], ["Jurassic", "France", "Cologne"], ["Jurassic", "Germany", "Cologne"], ["Jurassic", "Japan", "Cologne"], ["Jurassic", "Russia", "Cologne"], ["Jurassic", "United_Kingdom", "Cologne"], ["Jurassic", "United_States", "Cologne"], ["Jurassic", "Rhine", "Cologne"]]

@@ -1,0 +1,1 @@
+[["Gazelle", "Animal", "Indian_Peafowl"], ["Gazelle", "Scientific_classification", "Indian_Peafowl"]]

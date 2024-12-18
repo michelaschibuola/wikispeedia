@@ -1,0 +1,1 @@
+[["New_Zealand", "English_language", "Poetry"], ["New_Zealand", "Iran", "Poetry"], ["New_Zealand", "Iraq", "Poetry"], ["New_Zealand", "Olympic_Games", "Poetry"], ["New_Zealand", "Rudyard_Kipling", "Poetry"], ["New_Zealand", "Wine", "Poetry"]]

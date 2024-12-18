@@ -1,0 +1,1 @@
+[["Sassanid_Empire", "Byzantine_Empire", "Mosaic"], ["Sassanid_Empire", "Georgia_%28country%29", "Mosaic"], ["Sassanid_Empire", "Jerusalem", "Mosaic"], ["Sassanid_Empire", "Jesus", "Mosaic"], ["Sassanid_Empire", "Roman_Empire", "Mosaic"], ["Sassanid_Empire", "Rome", "Mosaic"]]

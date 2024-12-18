@@ -1,0 +1,1 @@
+[["Alpaca", "Australia", "Eocene"], ["Alpaca", "Mammal", "Eocene"], ["Alpaca", "Ostrich", "Eocene"], ["Alpaca", "South_America", "Eocene"]]

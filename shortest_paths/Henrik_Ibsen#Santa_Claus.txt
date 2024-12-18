@@ -1,0 +1,1 @@
+[["Henrik_Ibsen", "Germany", "Santa_Claus"], ["Henrik_Ibsen", "Italy", "Santa_Claus"], ["Henrik_Ibsen", "Norway", "Santa_Claus"], ["Henrik_Ibsen", "United_States", "Santa_Claus"]]

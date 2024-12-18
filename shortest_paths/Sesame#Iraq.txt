@@ -1,0 +1,1 @@
+[["Sesame", "Osama_bin_Laden", "Iraq"], ["Sesame", "Copper", "Iraq"], ["Sesame", "Middle_East", "Iraq"]]

@@ -1,0 +1,1 @@
+[["Dmitri_Mendeleev", "19th_century", "Latin_America"], ["Dmitri_Mendeleev", "Europe", "Latin_America"], ["Dmitri_Mendeleev", "Russia", "Latin_America"]]

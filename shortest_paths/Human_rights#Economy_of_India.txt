@@ -1,0 +1,1 @@
+[["Human_rights", "Democracy", "Economy_of_India"], ["Human_rights", "India", "Economy_of_India"], ["Human_rights", "Japan", "Economy_of_India"], ["Human_rights", "Netherlands", "Economy_of_India"], ["Human_rights", "United_Kingdom", "Economy_of_India"], ["Human_rights", "United_States", "Economy_of_India"], ["Human_rights", "People%27s_Republic_of_China", "Economy_of_India"]]

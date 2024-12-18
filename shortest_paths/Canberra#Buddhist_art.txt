@@ -1,0 +1,1 @@
+[["Canberra", "Art", "Buddhist_art"], ["Canberra", "China", "Buddhist_art"], ["Canberra", "Chinese_language", "Buddhist_art"], ["Canberra", "Japan", "Buddhist_art"], ["Canberra", "Vietnam", "Buddhist_art"]]

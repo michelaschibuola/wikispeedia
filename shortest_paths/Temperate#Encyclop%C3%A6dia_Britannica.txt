@@ -1,0 +1,1 @@
+[["Temperate", "Edinburgh", "Encyclop%C3%A6dia_Britannica"], ["Temperate", "Scotland", "Encyclop%C3%A6dia_Britannica"], ["Temperate", "United_Kingdom", "Encyclop%C3%A6dia_Britannica"]]

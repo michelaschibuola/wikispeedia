@@ -1,0 +1,1 @@
+[["Plate_tectonics", "North_America", "John_Dee"], ["Plate_tectonics", "Astronomy", "John_Dee"], ["Plate_tectonics", "Europe", "John_Dee"], ["Plate_tectonics", "Francis_Bacon", "John_Dee"]]

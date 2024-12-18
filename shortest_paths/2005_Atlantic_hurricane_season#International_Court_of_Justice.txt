@@ -1,0 +1,1 @@
+[["2005_Atlantic_hurricane_season", "Mexico", "International_Court_of_Justice"], ["2005_Atlantic_hurricane_season", "Morocco", "International_Court_of_Justice"], ["2005_Atlantic_hurricane_season", "Nicaragua", "International_Court_of_Justice"], ["2005_Atlantic_hurricane_season", "United_States", "International_Court_of_Justice"]]

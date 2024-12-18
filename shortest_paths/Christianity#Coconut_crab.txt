@@ -1,0 +1,1 @@
+[["Christianity", "Christmas_Island", "Coconut_crab"], ["Christianity", "Indonesia", "Coconut_crab"], ["Christianity", "Japan", "Coconut_crab"]]

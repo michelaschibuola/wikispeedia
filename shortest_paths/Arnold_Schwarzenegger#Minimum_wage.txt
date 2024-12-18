@@ -1,0 +1,1 @@
+[["Arnold_Schwarzenegger", "Austria", "Minimum_wage"], ["Arnold_Schwarzenegger", "Bill_Clinton", "Minimum_wage"], ["Arnold_Schwarzenegger", "California", "Minimum_wage"], ["Arnold_Schwarzenegger", "United_Kingdom", "Minimum_wage"], ["Arnold_Schwarzenegger", "United_States", "Minimum_wage"]]

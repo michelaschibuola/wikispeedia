@@ -1,0 +1,1 @@
+[["Community", "Animal", "Property"], ["Community", "Capitalism", "Property"], ["Community", "Economics", "Property"], ["Community", "United_States", "Property"]]

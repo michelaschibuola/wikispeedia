@@ -1,0 +1,1 @@
+[["Absolute_zero", "Albert_Einstein", "Michigan_State_University", "Harlem_Globetrotters"], ["Absolute_zero", "Diamond", "Austria", "Harlem_Globetrotters"], ["Absolute_zero", "Galileo_Galilei", "Pope_John_Paul_II", "Harlem_Globetrotters"], ["Absolute_zero", "Max_Planck", "Vienna", "Harlem_Globetrotters"]]

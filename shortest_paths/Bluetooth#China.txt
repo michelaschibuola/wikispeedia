@@ -1,0 +1,1 @@
+[["Bluetooth", "Chinese_language", "China"], ["Bluetooth", "Telecommunication", "China"]]

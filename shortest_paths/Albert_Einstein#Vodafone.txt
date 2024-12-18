@@ -1,0 +1,1 @@
+[["Albert_Einstein", "Brazil", "Vodafone"], ["Albert_Einstein", "Germany", "Vodafone"], ["Albert_Einstein", "India", "Vodafone"], ["Albert_Einstein", "Italy", "Vodafone"], ["Albert_Einstein", "Switzerland", "Vodafone"], ["Albert_Einstein", "United_States", "Vodafone"]]

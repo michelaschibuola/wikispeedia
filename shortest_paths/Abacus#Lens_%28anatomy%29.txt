@@ -1,0 +1,1 @@
+[["Abacus", "China", "Glasses", "Lens_%28anatomy%29"], ["Abacus", "Japan", "Glasses", "Lens_%28anatomy%29"], ["Abacus", "Japan", "Contact_lens", "Lens_%28anatomy%29"], ["Abacus", "Japan", "Shark", "Lens_%28anatomy%29"], ["Abacus", "Latin", "Cataract", "Lens_%28anatomy%29"], ["Abacus", "Latin", "Light", "Lens_%28anatomy%29"]]

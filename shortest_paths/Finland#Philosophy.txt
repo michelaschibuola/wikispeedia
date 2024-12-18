@@ -1,0 +1,1 @@
+[["Finland", "1755_Lisbon_earthquake", "Philosophy"], ["Finland", "19th_century", "Philosophy"], ["Finland", "Islam", "Philosophy"], ["Finland", "United_States", "Philosophy"], ["Finland", "World_War_II", "Philosophy"], ["Finland", "Greece", "Philosophy"], ["Finland", "Law", "Philosophy"], ["Finland", "Slovenia", "Philosophy"], ["Finland", "Water", "Philosophy"]]

@@ -1,0 +1,1 @@
+[["Princeton_University", "New_York_City", "Carbon_dioxide"], ["Princeton_University", "Scotland", "Carbon_dioxide"], ["Princeton_University", "United_States", "Carbon_dioxide"]]

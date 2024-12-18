@@ -1,0 +1,1 @@
+[["Earth", "Australia", "Barley"], ["Earth", "Canada", "Barley"], ["Earth", "Middle_East", "Barley"], ["Earth", "Nitrogen", "Barley"], ["Earth", "Plant", "Barley"], ["Earth", "United_States", "Barley"], ["Earth", "Water", "Barley"], ["Earth", "Russia", "Barley"], ["Earth", "United_Kingdom", "Barley"]]

@@ -1,0 +1,1 @@
+[["Mbabane", "English_language", "Jesus", "Jehovah"], ["Mbabane", "English_language", "Switzerland", "Jehovah"], ["Mbabane", "United_States", "Switzerland", "Jehovah"], ["Mbabane", "United_States", "God", "Jehovah"]]

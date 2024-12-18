@@ -1,0 +1,1 @@
+[["Dwight_D._Eisenhower", "Belgium", "Parrot"], ["Dwight_D._Eisenhower", "Europe", "Parrot"], ["Dwight_D._Eisenhower", "Germany", "Parrot"], ["Dwight_D._Eisenhower", "United_States", "Parrot"], ["Dwight_D._Eisenhower", "Winston_Churchill", "Parrot"]]

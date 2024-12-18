@@ -1,0 +1,1 @@
+[["Wake_Island", "United_States", "Capital"], ["Wake_Island", "China", "Capital"], ["Wake_Island", "Cold_War", "Capital"], ["Wake_Island", "Germany", "Capital"], ["Wake_Island", "Ho_Chi_Minh_City", "Capital"], ["Wake_Island", "Japan", "Capital"]]

@@ -1,0 +1,1 @@
+[["Clothing", "Anthropology", "Political_science"], ["Clothing", "Buddhism", "Political_science"], ["Clothing", "Polish-Lithuanian_Commonwealth", "Political_science"]]

@@ -1,0 +1,1 @@
+[["Coin", "Australia", "Neil_Young"], ["Coin", "Canada", "Neil_Young"], ["Coin", "Japan", "Neil_Young"], ["Coin", "People%27s_Republic_of_China", "Neil_Young"]]

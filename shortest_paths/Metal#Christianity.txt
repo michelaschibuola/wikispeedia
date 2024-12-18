@@ -1,0 +1,1 @@
+[["Metal", "Alchemy", "Christianity"], ["Metal", "Birth_control", "Christianity"], ["Metal", "Fire", "Christianity"], ["Metal", "Japan", "Christianity"], ["Metal", "Jewellery", "Christianity"], ["Metal", "Johannesburg", "Christianity"], ["Metal", "Lisbon", "Christianity"]]

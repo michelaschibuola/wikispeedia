@@ -1,0 +1,1 @@
+[["Geography", "16th_century", "Diamond_cut"], ["Geography", "17th_century", "Diamond_cut"], ["Geography", "18th_century", "Diamond_cut"], ["Geography", "19th_century", "Diamond_cut"], ["Geography", "20th_century", "Diamond_cut"], ["Geography", "Europe", "Diamond_cut"], ["Geography", "Mathematics", "Diamond_cut"], ["Geography", "Middle_Ages", "Diamond_cut"]]

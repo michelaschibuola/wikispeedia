@@ -1,0 +1,1 @@
+[["Slavery", "English_language", "The_Brothers_Karamazov"], ["Slavery", "Europe", "The_Brothers_Karamazov"], ["Slavery", "Russia", "The_Brothers_Karamazov"]]

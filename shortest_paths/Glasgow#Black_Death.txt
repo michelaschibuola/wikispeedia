@@ -1,0 +1,1 @@
+[["Glasgow", "England", "Black_Death"], ["Glasgow", "France", "Black_Death"], ["Glasgow", "Germany", "Black_Death"], ["Glasgow", "Italy", "Black_Death"], ["Glasgow", "London", "Black_Death"], ["Glasgow", "Marseille", "Black_Death"], ["Glasgow", "Russia", "Black_Death"], ["Glasgow", "Scotland", "Black_Death"]]

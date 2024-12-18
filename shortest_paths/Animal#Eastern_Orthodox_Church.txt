@@ -1,0 +1,1 @@
+[["Animal", "Latin", "Eastern_Orthodox_Church"], ["Animal", "Meat", "Eastern_Orthodox_Church"]]

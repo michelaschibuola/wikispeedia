@@ -1,0 +1,1 @@
+[["James_Callaghan", "Ireland", "Henry_H._Rogers"], ["James_Callaghan", "United_States", "Henry_H._Rogers"], ["James_Callaghan", "World_War_II", "Henry_H._Rogers"]]

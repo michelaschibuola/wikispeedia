@@ -1,0 +1,1 @@
+[["Black_Death", "Germany", "Minimum_wage"], ["Black_Death", "Italy", "Minimum_wage"], ["Black_Death", "New_Zealand", "Minimum_wage"], ["Black_Death", "Norway", "Minimum_wage"], ["Black_Death", "Sweden", "Minimum_wage"]]

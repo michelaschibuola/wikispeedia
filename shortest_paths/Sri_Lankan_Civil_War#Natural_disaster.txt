@@ -1,0 +1,1 @@
+[["Sri_Lankan_Civil_War", "Germany", "Natural_disaster"], ["Sri_Lankan_Civil_War", "India", "Natural_disaster"], ["Sri_Lankan_Civil_War", "Norway", "Natural_disaster"], ["Sri_Lankan_Civil_War", "Pakistan", "Natural_disaster"], ["Sri_Lankan_Civil_War", "Thailand", "Natural_disaster"], ["Sri_Lankan_Civil_War", "United_States", "Natural_disaster"]]

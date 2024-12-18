@@ -1,0 +1,1 @@
+[["Hawk", "Bird", "Great_Spotted_Woodpecker"], ["Hawk", "Europe", "Great_Spotted_Woodpecker"], ["Hawk", "Animal", "Great_Spotted_Woodpecker"], ["Hawk", "Chordate", "Great_Spotted_Woodpecker"], ["Hawk", "Scientific_classification", "Great_Spotted_Woodpecker"]]

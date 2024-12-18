@@ -1,0 +1,1 @@
+[["William_Gilbert", "Electric_charge", "Photon"], ["William_Gilbert", "Electron", "Photon"], ["William_Gilbert", "James_Clerk_Maxwell", "Photon"], ["William_Gilbert", "Magnetism", "Photon"]]

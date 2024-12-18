@@ -1,0 +1,1 @@
+[["Anatomy", "Human", "Religion"], ["Anatomy", "Race", "Religion"], ["Anatomy", "Science", "Religion"], ["Anatomy", "Astrology", "Religion"], ["Anatomy", "Evolution", "Religion"], ["Anatomy", "Islam", "Religion"], ["Anatomy", "Medicine", "Religion"], ["Anatomy", "Renaissance", "Religion"], ["Anatomy", "Roman_Vishniac", "Religion"], ["Anatomy", "Sociology", "Religion"]]

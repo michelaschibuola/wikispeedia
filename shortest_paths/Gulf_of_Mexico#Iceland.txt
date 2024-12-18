@@ -1,0 +1,1 @@
+[["Gulf_of_Mexico", "2005_Atlantic_hurricane_season", "Iceland"], ["Gulf_of_Mexico", "Atlantic_Ocean", "Iceland"], ["Gulf_of_Mexico", "British_Isles", "Iceland"], ["Gulf_of_Mexico", "Effects_of_global_warming", "Iceland"], ["Gulf_of_Mexico", "United_States", "Iceland"]]

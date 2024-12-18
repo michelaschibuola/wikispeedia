@@ -1,0 +1,1 @@
+[["Richard_Nixon", "Chile", "Right_whale"], ["Richard_Nixon", "California", "Right_whale"], ["Richard_Nixon", "Indian_Ocean", "Right_whale"], ["Richard_Nixon", "Soviet_Union", "Right_whale"]]

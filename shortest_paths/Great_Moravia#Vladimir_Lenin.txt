@@ -1,0 +1,1 @@
+[["Great_Moravia", "Latin", "Vladimir_Lenin"], ["Great_Moravia", "Russia", "Vladimir_Lenin"], ["Great_Moravia", "Vienna", "Vladimir_Lenin"]]

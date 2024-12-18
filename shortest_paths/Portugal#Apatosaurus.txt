@@ -1,0 +1,1 @@
+[["Portugal", "Allosaurus", "Apatosaurus"], ["Portugal", "Brachiosaurus", "Apatosaurus"], ["Portugal", "Guam", "Apatosaurus"], ["Portugal", "United_States", "Apatosaurus"]]

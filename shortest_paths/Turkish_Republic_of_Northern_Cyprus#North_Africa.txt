@@ -1,0 +1,1 @@
+[["Turkish_Republic_of_Northern_Cyprus", "Cyprus", "North_Africa"], ["Turkish_Republic_of_Northern_Cyprus", "Europe", "North_Africa"], ["Turkish_Republic_of_Northern_Cyprus", "Mediterranean_Sea", "North_Africa"], ["Turkish_Republic_of_Northern_Cyprus", "Sudan", "North_Africa"], ["Turkish_Republic_of_Northern_Cyprus", "United_Nations", "North_Africa"]]

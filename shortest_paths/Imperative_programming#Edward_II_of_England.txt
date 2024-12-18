@@ -1,0 +1,1 @@
+[["Imperative_programming", "20th_century", "16th_century", "Edward_II_of_England"], ["Imperative_programming", "20th_century", "19th_century", "Edward_II_of_England"], ["Imperative_programming", "20th_century", "France", "Edward_II_of_England"], ["Imperative_programming", "20th_century", "Trinity_College%2C_Cambridge", "Edward_II_of_England"]]

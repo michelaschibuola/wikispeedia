@@ -1,0 +1,1 @@
+[["Apple", "Ancient_Greece", "Mercury_%28planet%29"], ["Apple", "Argentina", "Mercury_%28planet%29"], ["Apple", "Gravitation", "Mercury_%28planet%29"], ["Apple", "New_Zealand", "Mercury_%28planet%29"], ["Apple", "Water", "Mercury_%28planet%29"], ["Apple", "Mesopotamia", "Mercury_%28planet%29"]]

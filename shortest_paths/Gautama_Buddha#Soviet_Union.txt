@@ -1,0 +1,1 @@
+[["Gautama_Buddha", "Atheism", "Soviet_Union"], ["Gautama_Buddha", "Buddhism", "Soviet_Union"], ["Gautama_Buddha", "India", "Soviet_Union"], ["Gautama_Buddha", "Rabindranath_Tagore", "Soviet_Union"]]

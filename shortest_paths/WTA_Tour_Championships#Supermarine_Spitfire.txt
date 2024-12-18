@@ -1,0 +1,1 @@
+[["WTA_Tour_Championships", "Florida", "Supermarine_Spitfire"], ["WTA_Tour_Championships", "United_States", "Supermarine_Spitfire"]]

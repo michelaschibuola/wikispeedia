@@ -1,0 +1,1 @@
+[["Columbus%2C_Ohio", "Capital", "Libya"], ["Columbus%2C_Ohio", "Israel", "Libya"], ["Columbus%2C_Ohio", "Italy", "Libya"], ["Columbus%2C_Ohio", "Somalia", "Libya"], ["Columbus%2C_Ohio", "Time_zone", "Libya"], ["Columbus%2C_Ohio", "United_States", "Libya"], ["Columbus%2C_Ohio", "World_War_II", "Libya"]]

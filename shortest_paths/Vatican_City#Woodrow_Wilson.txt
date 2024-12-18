@@ -1,0 +1,1 @@
+[["Vatican_City", "Armenia", "Woodrow_Wilson"], ["Vatican_City", "Germany", "Woodrow_Wilson"], ["Vatican_City", "Nationalism", "Woodrow_Wilson"], ["Vatican_City", "France", "Woodrow_Wilson"], ["Vatican_City", "Weimar_Republic", "Woodrow_Wilson"]]

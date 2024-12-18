@@ -1,0 +1,1 @@
+[["Indian_cricket_team", "India", "Sassanid_Empire"], ["Indian_cricket_team", "Pakistan", "Sassanid_Empire"]]

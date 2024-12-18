@@ -1,0 +1,1 @@
+[["Police", "China", "Apricot"], ["Police", "Chinese_language", "Apricot"], ["Police", "Latin", "Apricot"], ["Police", "Roman_Empire", "Apricot"], ["Police", "Russia", "Apricot"], ["Police", "United_States", "Apricot"]]

@@ -1,0 +1,1 @@
+[["Battle_of_Moscow", "Nazi_Germany", "Space_exploration"], ["Battle_of_Moscow", "Soviet_Union", "Space_exploration"], ["Battle_of_Moscow", "World_War_II", "Space_exploration"]]

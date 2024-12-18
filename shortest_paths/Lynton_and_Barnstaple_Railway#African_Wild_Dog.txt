@@ -1,0 +1,1 @@
+[["Lynton_and_Barnstaple_Railway", "Brazil", "Africa", "African_Wild_Dog"], ["Lynton_and_Barnstaple_Railway", "World_War_I", "Africa", "African_Wild_Dog"], ["Lynton_and_Barnstaple_Railway", "World_War_II", "Africa", "African_Wild_Dog"], ["Lynton_and_Barnstaple_Railway", "England", "Lion", "African_Wild_Dog"]]

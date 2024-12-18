@@ -1,0 +1,1 @@
+[["Sun_Yat-sen", "China", "Shining_Path"], ["Sun_Yat-sen", "Canada", "Shining_Path"], ["Sun_Yat-sen", "Communism", "Shining_Path"], ["Sun_Yat-sen", "Socialism", "Shining_Path"]]

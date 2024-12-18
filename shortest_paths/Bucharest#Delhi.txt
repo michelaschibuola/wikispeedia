@@ -1,0 +1,1 @@
+[["Bucharest", "19th_century", "Delhi"], ["Bucharest", "Football_%28soccer%29", "Delhi"], ["Bucharest", "Jew", "Delhi"], ["Bucharest", "Summer", "Delhi"], ["Bucharest", "Winter", "Delhi"], ["Bucharest", "World_War_I", "Delhi"], ["Bucharest", "Global_city", "Delhi"]]

@@ -1,0 +1,1 @@
+[["Bouvet_Island", "Germany", "Propaganda"], ["Bouvet_Island", "United_Kingdom", "Propaganda"]]

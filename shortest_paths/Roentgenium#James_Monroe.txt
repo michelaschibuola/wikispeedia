@@ -1,0 +1,1 @@
+[["Roentgenium", "Germany", "Europe", "James_Monroe"], ["Roentgenium", "Germany", "Florida", "James_Monroe"], ["Roentgenium", "Germany", "French_Revolution", "James_Monroe"], ["Roentgenium", "Germany", "Spain", "James_Monroe"], ["Roentgenium", "Germany", "Scramble_for_Africa", "James_Monroe"], ["Roentgenium", "Germany", "Tuberculosis", "James_Monroe"]]

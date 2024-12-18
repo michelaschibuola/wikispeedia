@@ -1,0 +1,1 @@
+[["Troodon", "Arctic", "Sweden", "Autocracy"], ["Troodon", "Binomial_nomenclature", "Sweden", "Autocracy"], ["Troodon", "North_America", "Iran", "Autocracy"], ["Troodon", "North_America", "Law", "Autocracy"]]

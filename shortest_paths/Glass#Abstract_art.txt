@@ -1,0 +1,1 @@
+[["Glass", "20th_century", "Abstract_art"], ["Glass", "Sculpture", "Abstract_art"], ["Glass", "Painting", "Abstract_art"]]

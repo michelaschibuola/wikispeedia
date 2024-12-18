@@ -1,0 +1,1 @@
+[["16th_century", "Anglicanism", "Trinity"], ["16th_century", "Egypt", "Trinity"], ["16th_century", "Francis_Drake", "Trinity"], ["16th_century", "John_Calvin", "Trinity"], ["16th_century", "Roman_Catholic_Church", "Trinity"], ["16th_century", "Christianity", "Trinity"], ["16th_century", "German_language", "Trinity"], ["16th_century", "Islam", "Trinity"]]

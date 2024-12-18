@@ -1,0 +1,1 @@
+[["Pelagic_zone", "Cretaceous-Tertiary_extinction_event", "India", "Gangtok"], ["Pelagic_zone", "Ocean", "Climate", "Gangtok"], ["Pelagic_zone", "Sea", "Climate", "Gangtok"], ["Pelagic_zone", "Orca", "Autumn", "Gangtok"], ["Pelagic_zone", "Photosynthesis", "Tree", "Gangtok"]]

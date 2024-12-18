@@ -1,0 +1,1 @@
+[["Detroit%2C_Michigan", "Chicago", "I_Want_to_Hold_Your_Hand"], ["Detroit%2C_Michigan", "United_States", "I_Want_to_Hold_Your_Hand"], ["Detroit%2C_Michigan", "Washington%2C_D.C.", "I_Want_to_Hold_Your_Hand"], ["Detroit%2C_Michigan", "New_York_City", "I_Want_to_Hold_Your_Hand"]]

@@ -1,0 +1,1 @@
+[["Palestinian_territories", "Jerusalem", "Viking"], ["Palestinian_territories", "Mediterranean_Sea", "Viking"], ["Palestinian_territories", "United_Kingdom", "Viking"], ["Palestinian_territories", "Sweden", "Viking"]]

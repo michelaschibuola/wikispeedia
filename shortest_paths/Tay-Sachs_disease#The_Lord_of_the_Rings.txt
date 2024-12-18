@@ -1,0 +1,1 @@
+[["Tay-Sachs_disease", "United_Kingdom", "The_Lord_of_the_Rings"], ["Tay-Sachs_disease", "United_States", "The_Lord_of_the_Rings"]]

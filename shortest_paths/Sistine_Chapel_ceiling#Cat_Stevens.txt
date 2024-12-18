@@ -1,0 +1,1 @@
+[["Sistine_Chapel_ceiling", "Africa", "Cat_Stevens"], ["Sistine_Chapel_ceiling", "God", "Cat_Stevens"]]

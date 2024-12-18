@@ -1,0 +1,1 @@
+[["Liberia", "France", "Stained_glass"], ["Liberia", "World_War_II", "Stained_glass"]]

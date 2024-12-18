@@ -1,0 +1,1 @@
+[["Mount_Vesuvius", "Europe", "Central_African_Republic"], ["Mount_Vesuvius", "World_War_II", "Central_African_Republic"]]

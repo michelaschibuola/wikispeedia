@@ -1,0 +1,1 @@
+[["Royal_Dutch_Shell", "BBC", "Encyclop%C3%A6dia_Britannica"], ["Royal_Dutch_Shell", "United_Kingdom", "Encyclop%C3%A6dia_Britannica"], ["Royal_Dutch_Shell", "United_States", "Encyclop%C3%A6dia_Britannica"], ["Royal_Dutch_Shell", "United_States_dollar", "Encyclop%C3%A6dia_Britannica"]]

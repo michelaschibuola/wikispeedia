@@ -1,0 +1,1 @@
+[["Avro_Lancaster", "Australia", "Coventry"], ["Avro_Lancaster", "Birmingham", "Coventry"], ["Avro_Lancaster", "Canada", "Coventry"], ["Avro_Lancaster", "France", "Coventry"], ["Avro_Lancaster", "Luftwaffe", "Coventry"], ["Avro_Lancaster", "Poland", "Coventry"], ["Avro_Lancaster", "World_War_II", "Coventry"]]

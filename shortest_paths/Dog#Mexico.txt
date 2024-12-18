@@ -1,0 +1,1 @@
+[["Dog", "Chocolate", "Mexico"], ["Dog", "Cocoa", "Mexico"], ["Dog", "English_language", "Mexico"], ["Dog", "Germany", "Mexico"], ["Dog", "Middle_East", "Mexico"], ["Dog", "North_America", "Mexico"], ["Dog", "Peru", "Mexico"], ["Dog", "Russia", "Mexico"], ["Dog", "Great_white_shark", "Mexico"], ["Dog", "Vampire", "Mexico"]]

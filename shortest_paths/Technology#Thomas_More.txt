@@ -1,0 +1,1 @@
+[["Technology", "Karl_Marx", "Thomas_More"], ["Technology", "Modern_history", "Thomas_More"], ["Technology", "Gold", "Thomas_More"], ["Technology", "University_of_Cambridge", "Thomas_More"]]

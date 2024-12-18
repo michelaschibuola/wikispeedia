@@ -1,0 +1,1 @@
+[["Greenland", "Atlantic_Ocean", "Rotterdam"], ["Greenland", "Europe", "Rotterdam"], ["Greenland", "European_Union", "Rotterdam"], ["Greenland", "Football_%28soccer%29", "Rotterdam"], ["Greenland", "Germany", "Rotterdam"], ["Greenland", "Tourism", "Rotterdam"], ["Greenland", "World_War_II", "Rotterdam"], ["Greenland", "Wind", "Rotterdam"]]

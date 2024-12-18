@@ -1,0 +1,1 @@
+[["Papua_New_Guinea", "Art", "Hubble_Space_Telescope", "Spherical_aberration"], ["Papua_New_Guinea", "Europe", "Hubble_Space_Telescope", "Spherical_aberration"], ["Papua_New_Guinea", "Mineral", "Optical_microscope", "Spherical_aberration"]]

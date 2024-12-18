@@ -1,0 +1,1 @@
+[["Tony_Blair", "Education", "Government_of_France"], ["Tony_Blair", "France", "Government_of_France"], ["Tony_Blair", "Human_rights", "Government_of_France"], ["Tony_Blair", "Trade_union", "Government_of_France"]]

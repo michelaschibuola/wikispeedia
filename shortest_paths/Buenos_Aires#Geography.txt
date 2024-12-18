@@ -1,0 +1,1 @@
+[["Buenos_Aires", "Berlin", "Geography"], ["Buenos_Aires", "China", "Geography"], ["Buenos_Aires", "Jew", "Geography"], ["Buenos_Aires", "Lebanon", "Geography"], ["Buenos_Aires", "Paris", "Geography"], ["Buenos_Aires", "Water", "Geography"]]

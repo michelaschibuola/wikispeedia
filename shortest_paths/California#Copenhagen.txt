@@ -1,0 +1,1 @@
+[["California", "English_language", "Copenhagen"], ["California", "United_States", "Copenhagen"], ["California", "Winter", "Copenhagen"], ["California", "Fishing", "Copenhagen"], ["California", "Open_source", "Copenhagen"], ["California", "Sweden", "Copenhagen"], ["California", "Time_zone", "Copenhagen"]]

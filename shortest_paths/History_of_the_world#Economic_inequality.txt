@@ -1,0 +1,1 @@
+[["History_of_the_world", "Capitalism", "Economic_inequality"], ["History_of_the_world", "Communism", "Economic_inequality"], ["History_of_the_world", "Democracy", "Economic_inequality"], ["History_of_the_world", "Italy", "Economic_inequality"], ["History_of_the_world", "Religion", "Economic_inequality"], ["History_of_the_world", "United_States", "Economic_inequality"]]

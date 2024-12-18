@@ -1,0 +1,1 @@
+[["Swastika", "England", "United_States_Bill_of_Rights"], ["Swastika", "Latin", "United_States_Bill_of_Rights"], ["Swastika", "New_York_City", "United_States_Bill_of_Rights"], ["Swastika", "United_States", "United_States_Bill_of_Rights"]]

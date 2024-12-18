@@ -1,0 +1,1 @@
+[["Osiris", "Deity", "Earth", "Krypton"], ["Osiris", "Firefly_%28TV_series%29", "Earth", "Krypton"], ["Osiris", "Deity", "Mars", "Krypton"], ["Osiris", "Doctor_Who", "Hungary", "Krypton"], ["Osiris", "Stargate_SG-1", "Hungary", "Krypton"], ["Osiris", "Vampire", "Silver", "Krypton"], ["Osiris", "Wolfgang_Amadeus_Mozart", "Paris", "Krypton"]]

@@ -1,0 +1,1 @@
+[["Copenhagen", "Denmark", "Comet", "Great_comet"], ["Copenhagen", "English_language", "Comet", "Great_comet"], ["Copenhagen", "Tycho_Brahe", "Comet", "Great_comet"], ["Copenhagen", "United_States", "Comet_Hale-Bopp", "Great_comet"], ["Copenhagen", "Tycho_Brahe", "Solar_System", "Great_comet"]]

@@ -1,0 +1,1 @@
+[["Dinosaur", "Animal", "Kakapo"], ["Dinosaur", "Bird", "Kakapo"], ["Dinosaur", "Chordate", "Kakapo"], ["Dinosaur", "Feather", "Kakapo"], ["Dinosaur", "Herbivore", "Kakapo"], ["Dinosaur", "Mammal", "Kakapo"], ["Dinosaur", "Scientific_classification", "Kakapo"], ["Dinosaur", "Owl", "Kakapo"]]

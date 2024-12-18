@@ -1,0 +1,1 @@
+[["University", "Geography", "Desert"], ["University", "Jordan", "Desert"], ["University", "Australia", "Desert"], ["University", "China", "Desert"], ["University", "Egypt", "Desert"], ["University", "India", "Desert"]]

@@ -1,0 +1,1 @@
+[["Baseball", "Israel", "Jordan"], ["Baseball", "September_11%2C_2001_attacks", "Jordan"], ["Baseball", "United_States", "Jordan"], ["Baseball", "Miami%2C_Florida", "Jordan"], ["Baseball", "Ronald_Reagan", "Jordan"]]

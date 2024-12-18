@@ -1,0 +1,1 @@
+[["Zionism", "Norway", "Orkney"], ["Zionism", "Roman_Empire", "Orkney"], ["Zionism", "United_Kingdom", "Orkney"], ["Zionism", "World_War_I", "Orkney"], ["Zionism", "World_War_II", "Orkney"]]

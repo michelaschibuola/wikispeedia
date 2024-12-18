@@ -1,0 +1,1 @@
+[["Canada_Goose", "China", "Barcelona"], ["Canada_Goose", "Great_Britain", "Barcelona"], ["Canada_Goose", "Japan", "Barcelona"], ["Canada_Goose", "United_States", "Barcelona"]]

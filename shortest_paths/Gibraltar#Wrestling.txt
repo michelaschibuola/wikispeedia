@@ -1,0 +1,1 @@
+[["Gibraltar", "Europe", "Wrestling"], ["Gibraltar", "Ancient_Rome", "Wrestling"], ["Gibraltar", "India", "Wrestling"], ["Gibraltar", "Switzerland", "Wrestling"], ["Gibraltar", "United_States", "Wrestling"]]

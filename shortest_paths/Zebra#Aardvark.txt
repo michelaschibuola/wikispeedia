@@ -1,0 +1,1 @@
+[["Zebra", "Mammal", "Aardvark"], ["Zebra", "Africa", "Aardvark"], ["Zebra", "Animal", "Aardvark"], ["Zebra", "Kenya", "Aardvark"], ["Zebra", "Scientific_classification", "Aardvark"]]

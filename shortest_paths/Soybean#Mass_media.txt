@@ -1,0 +1,1 @@
+[["Soybean", "Technology", "Mass_media"], ["Soybean", "United_States", "Mass_media"]]

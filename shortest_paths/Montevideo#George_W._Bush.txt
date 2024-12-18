@@ -1,0 +1,1 @@
+[["Montevideo", "Canada", "George_W._Bush"], ["Montevideo", "Europe", "George_W._Bush"], ["Montevideo", "Germany", "George_W._Bush"], ["Montevideo", "United_Kingdom", "George_W._Bush"]]

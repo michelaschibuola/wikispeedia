@@ -1,0 +1,1 @@
+[["Coal", "Earth%27s_atmosphere", "Rainbow"], ["Coal", "Sunlight", "Rainbow"]]

@@ -1,0 +1,1 @@
+[["Japanese_yen", "United_States", "Woodpecker"]]

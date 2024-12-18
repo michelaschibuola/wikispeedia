@@ -1,0 +1,1 @@
+[["Jerusalem", "Silver", "Giant_Panda"]]

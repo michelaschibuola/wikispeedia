@@ -1,0 +1,1 @@
+[["Whipworm", "Anemia", "Iron", "Andrew_Carnegie"], ["Whipworm", "Animal", "Diplodocus", "Andrew_Carnegie"], ["Whipworm", "Scientific_classification", "Diplodocus", "Andrew_Carnegie"], ["Whipworm", "Crohn%27s_disease", "Scotland", "Andrew_Carnegie"], ["Whipworm", "Crohn%27s_disease", "United_States", "Andrew_Carnegie"]]

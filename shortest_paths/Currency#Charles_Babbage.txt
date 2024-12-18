@@ -1,0 +1,1 @@
+[["Currency", "Australia", "Charles_Babbage"], ["Currency", "England", "Charles_Babbage"], ["Currency", "United_States", "Charles_Babbage"]]

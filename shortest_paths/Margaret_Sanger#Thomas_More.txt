@@ -1,0 +1,1 @@
+[["Margaret_Sanger", "Europe", "Thomas_More"], ["Margaret_Sanger", "Roman_Catholic_Church", "Thomas_More"], ["Margaret_Sanger", "Socialism", "Thomas_More"]]

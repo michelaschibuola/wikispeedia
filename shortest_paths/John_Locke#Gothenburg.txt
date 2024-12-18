@@ -1,0 +1,1 @@
+[["John_Locke", "Emanuel_Swedenborg", "Gothenburg"], ["John_Locke", "England", "Gothenburg"], ["John_Locke", "France", "Gothenburg"], ["John_Locke", "Netherlands", "Gothenburg"], ["John_Locke", "United_States", "Gothenburg"]]

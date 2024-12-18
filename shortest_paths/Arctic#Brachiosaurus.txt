@@ -1,0 +1,1 @@
+[["Arctic", "Cretaceous", "Brachiosaurus"], ["Arctic", "United_States", "Brachiosaurus"], ["Arctic", "Fossil", "Brachiosaurus"]]

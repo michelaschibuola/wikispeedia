@@ -1,0 +1,1 @@
+[["Fishing", "Ancient_Egypt", "Dead_Sea"], ["Fishing", "Antarctica", "Dead_Sea"], ["Fishing", "Sea", "Dead_Sea"], ["Fishing", "United_States", "Dead_Sea"], ["Fishing", "Water", "Dead_Sea"]]

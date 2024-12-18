@@ -1,0 +1,1 @@
+[["Finland", "Amber", "Silver"], ["Finland", "Baltic_Sea", "Silver"], ["Finland", "Cobalt", "Silver"], ["Finland", "English_language", "Silver"], ["Finland", "Folklore", "Silver"], ["Finland", "United_States", "Silver"], ["Finland", "World_War_I", "Silver"], ["Finland", "Olympic_Games", "Silver"], ["Finland", "Viking", "Silver"]]

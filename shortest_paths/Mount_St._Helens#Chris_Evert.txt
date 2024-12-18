@@ -1,0 +1,1 @@
+[["Mount_St._Helens", "Skiing", "Chris_Evert"], ["Mount_St._Helens", "United_States", "Chris_Evert"]]

@@ -1,0 +1,1 @@
+[["Aristotle", "Politics", "Food"], ["Aristotle", "Energy", "Food"], ["Aristotle", "Hippocrates", "Food"], ["Aristotle", "Law", "Food"]]

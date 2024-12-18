@@ -1,0 +1,1 @@
+[["Cuba", "Canada", "Nintendo"], ["Cuba", "Europe", "Nintendo"], ["Cuba", "France", "Nintendo"], ["Cuba", "North_America", "Nintendo"], ["Cuba", "United_States", "Nintendo"], ["Cuba", "United_States_dollar", "Nintendo"], ["Cuba", "Latin_America", "Nintendo"]]

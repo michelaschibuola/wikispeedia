@@ -1,0 +1,1 @@
+[["Photosynthesis", "Jupiter", "PSR_B1620-26c"], ["Photosynthesis", "Sun", "PSR_B1620-26c"]]

@@ -1,0 +1,1 @@
+[["Bat-eared_Fox", "Africa", "France", "Gadolinium"], ["Bat-eared_Fox", "Animal", "Calcium", "Gadolinium"], ["Bat-eared_Fox", "Mammal", "Iron", "Gadolinium"]]

@@ -1,0 +1,1 @@
+[["Judaism", "Argentina", "Manufacturing"], ["Judaism", "Brazil", "Manufacturing"], ["Judaism", "Europe", "Manufacturing"], ["Judaism", "Finland", "Manufacturing"], ["Judaism", "Iran", "Manufacturing"], ["Judaism", "United_Kingdom", "Manufacturing"], ["Judaism", "United_States", "Manufacturing"]]

@@ -1,0 +1,1 @@
+[["Gray_Wolf", "Fauna_of_Australia", "Emu"], ["Gray_Wolf", "Animal", "Emu"], ["Gray_Wolf", "Binomial_nomenclature", "Emu"], ["Gray_Wolf", "Chordate", "Emu"], ["Gray_Wolf", "North_America", "Emu"], ["Gray_Wolf", "Scientific_classification", "Emu"]]

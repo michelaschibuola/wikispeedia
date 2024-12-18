@@ -1,0 +1,1 @@
+[["Canberra", "Atlanta%2C_Georgia", "Nintendo"], ["Canberra", "Australia", "Nintendo"], ["Canberra", "Asia", "Nintendo"], ["Canberra", "China", "Nintendo"], ["Canberra", "France", "Nintendo"], ["Canberra", "Germany", "Nintendo"], ["Canberra", "Japan", "Nintendo"], ["Canberra", "Melbourne", "Nintendo"], ["Canberra", "United_States", "Nintendo"]]

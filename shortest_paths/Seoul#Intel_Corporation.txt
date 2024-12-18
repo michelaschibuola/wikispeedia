@@ -1,0 +1,1 @@
+[["Seoul", "Japan", "Intel_Corporation"], ["Seoul", "United_States", "Intel_Corporation"]]

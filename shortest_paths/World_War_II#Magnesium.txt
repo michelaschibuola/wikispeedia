@@ -1,0 +1,1 @@
+[["World_War_II", "Fire", "Magnesium"], ["World_War_II", "IG_Farben_Building", "Magnesium"], ["World_War_II", "Lithium", "Magnesium"], ["World_War_II", "Plate_tectonics", "Magnesium"], ["World_War_II", "Scotland", "Magnesium"], ["World_War_II", "Shoshone_National_Forest", "Magnesium"], ["World_War_II", "Uranium", "Magnesium"], ["World_War_II", "Welding", "Magnesium"]]

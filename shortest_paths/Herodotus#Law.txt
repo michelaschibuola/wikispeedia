@@ -1,0 +1,1 @@
+[["Herodotus", "Ancient_Greece", "Law"], ["Herodotus", "Greece", "Law"], ["Herodotus", "Italy", "Law"]]

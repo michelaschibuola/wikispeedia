@@ -1,0 +1,1 @@
+[["Strontium", "Ammolite", "Italy"], ["Strontium", "Chernobyl_disaster", "Italy"], ["Strontium", "Humphry_Davy", "Italy"], ["Strontium", "England", "Italy"], ["Strontium", "Scotland", "Italy"], ["Strontium", "Sulfur", "Italy"]]

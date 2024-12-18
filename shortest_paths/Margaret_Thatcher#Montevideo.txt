@@ -1,0 +1,1 @@
+[["Margaret_Thatcher", "20th_century", "Montevideo"], ["Margaret_Thatcher", "Argentina", "Montevideo"], ["Margaret_Thatcher", "Canada", "Montevideo"], ["Margaret_Thatcher", "Europe", "Montevideo"], ["Margaret_Thatcher", "Madrid", "Montevideo"], ["Margaret_Thatcher", "United_Kingdom", "Montevideo"]]

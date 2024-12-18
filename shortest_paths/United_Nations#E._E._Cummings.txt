@@ -1,0 +1,1 @@
+[["United_Nations", "Europe", "E._E._Cummings"], ["United_Nations", "France", "E._E._Cummings"], ["United_Nations", "Soviet_Union", "E._E._Cummings"]]

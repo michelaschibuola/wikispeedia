@@ -1,0 +1,1 @@
+[["First_Macedonian_War", "Ancient_Greece", "Sun", "Upsilon_Andromedae_c"], ["First_Macedonian_War", "Egypt", "Sun", "Upsilon_Andromedae_c"], ["First_Macedonian_War", "Ancient_Greece", "Venus", "Upsilon_Andromedae_c"]]

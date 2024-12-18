@@ -1,0 +1,1 @@
+[["Erwin_Rommel", "Africa", "Damascus"], ["Erwin_Rommel", "Egypt", "Damascus"], ["Erwin_Rommel", "France", "Damascus"], ["Erwin_Rommel", "World_War_II", "Damascus"]]

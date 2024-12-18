@@ -1,0 +1,1 @@
+[["47_Ursae_Majoris_b", "Ammonia", "Extraterrestrial_life"], ["47_Ursae_Majoris_b", "Extrasolar_planet", "Extraterrestrial_life"], ["47_Ursae_Majoris_b", "Jupiter", "Extraterrestrial_life"], ["47_Ursae_Majoris_b", "Solar_System", "Extraterrestrial_life"], ["47_Ursae_Majoris_b", "Sun", "Extraterrestrial_life"], ["47_Ursae_Majoris_b", "Water", "Extraterrestrial_life"]]

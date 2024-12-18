@@ -1,0 +1,1 @@
+[["Astronomy", "Law", "Friedrich_Nietzsche"], ["Astronomy", "Nicolaus_Copernicus", "Friedrich_Nietzsche"], ["Astronomy", "Atheism", "Friedrich_Nietzsche"], ["Astronomy", "Philosophy", "Friedrich_Nietzsche"]]

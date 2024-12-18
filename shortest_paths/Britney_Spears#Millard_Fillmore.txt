@@ -1,0 +1,1 @@
+[["Britney_Spears", "California", "Millard_Fillmore"], ["Britney_Spears", "Europe", "Millard_Fillmore"], ["Britney_Spears", "Washington%2C_D.C.", "Millard_Fillmore"]]

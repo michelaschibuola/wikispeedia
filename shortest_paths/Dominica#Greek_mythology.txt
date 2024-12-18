@@ -1,0 +1,1 @@
+[["Dominica", "Agriculture", "Greek_mythology"], ["Dominica", "Europe", "Greek_mythology"], ["Dominica", "France", "Greek_mythology"]]

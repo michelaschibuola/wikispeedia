@@ -1,0 +1,1 @@
+[["Link_%28The_Legend_of_Zelda%29", "Japan", "Shark", "Gray_reef_shark"], ["Link_%28The_Legend_of_Zelda%29", "Owl", "Animal", "Gray_reef_shark"], ["Link_%28The_Legend_of_Zelda%29", "Owl", "Scientific_classification", "Gray_reef_shark"]]

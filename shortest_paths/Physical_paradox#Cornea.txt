@@ -1,0 +1,1 @@
+[["Physical_paradox", "Fermi_paradox", "Human", "Cornea"], ["Physical_paradox", "Physics", "Human", "Cornea"], ["Physical_paradox", "Time", "Human", "Cornea"], ["Physical_paradox", "Universe", "Human", "Cornea"]]

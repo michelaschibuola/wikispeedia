@@ -1,0 +1,1 @@
+[["Kylie_Minogue", "Asia", "Sun"], ["Kylie_Minogue", "Japan", "Sun"], ["Kylie_Minogue", "United_States", "Sun"]]

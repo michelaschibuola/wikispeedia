@@ -1,0 +1,1 @@
+[["Cape_Town", "Africa", "Amazon_River"], ["Cape_Town", "Atlantic_Ocean", "Amazon_River"], ["Cape_Town", "Asia", "Amazon_River"], ["Cape_Town", "Gold", "Amazon_River"], ["Cape_Town", "Portugal", "Amazon_River"]]

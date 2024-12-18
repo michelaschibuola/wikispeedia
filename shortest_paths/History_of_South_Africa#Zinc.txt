@@ -1,0 +1,1 @@
+[["History_of_South_Africa", "Australia", "Zinc"], ["History_of_South_Africa", "Canada", "Zinc"], ["History_of_South_Africa", "China", "Zinc"], ["History_of_South_Africa", "France", "Zinc"], ["History_of_South_Africa", "Gold", "Zinc"], ["History_of_South_Africa", "India", "Zinc"], ["History_of_South_Africa", "Iron", "Zinc"], ["History_of_South_Africa", "Namibia", "Zinc"]]

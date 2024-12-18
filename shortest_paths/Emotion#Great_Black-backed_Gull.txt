@@ -1,0 +1,1 @@
+[["Emotion", "Animal", "Great_Black-backed_Gull"]]

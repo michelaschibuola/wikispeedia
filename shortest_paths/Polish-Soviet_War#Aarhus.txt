@@ -1,0 +1,1 @@
+[["Polish-Soviet_War", "Poland", "Aarhus"], ["Polish-Soviet_War", "Europe", "Aarhus"], ["Polish-Soviet_War", "France", "Aarhus"], ["Polish-Soviet_War", "World_War_II", "Aarhus"]]

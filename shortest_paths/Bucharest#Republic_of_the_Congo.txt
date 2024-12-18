@@ -1,0 +1,1 @@
+[["Bucharest", "Bulgaria", "Republic_of_the_Congo"], ["Bucharest", "Soviet_Union", "Republic_of_the_Congo"], ["Bucharest", "World_War_II", "Republic_of_the_Congo"], ["Bucharest", "Europe", "Republic_of_the_Congo"]]

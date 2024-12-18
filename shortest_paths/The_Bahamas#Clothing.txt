@@ -1,0 +1,1 @@
+[["The_Bahamas", "Macau", "Clothing"], ["The_Bahamas", "Climate", "Clothing"], ["The_Bahamas", "Culture", "Clothing"], ["The_Bahamas", "Manufacturing", "Clothing"]]

@@ -1,0 +1,1 @@
+[["Lithuania", "Chicago", "Theodore_Roosevelt"], ["Lithuania", "Germany", "Theodore_Roosevelt"], ["Lithuania", "Russia", "Theodore_Roosevelt"], ["Lithuania", "World_War_I", "Theodore_Roosevelt"]]

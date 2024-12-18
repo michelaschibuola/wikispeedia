@@ -1,0 +1,1 @@
+[["Common_cold", "Copper", "Welding"], ["Common_cold", "Germany", "Welding"], ["Common_cold", "United_Kingdom", "Welding"], ["Common_cold", "Zinc", "Welding"]]

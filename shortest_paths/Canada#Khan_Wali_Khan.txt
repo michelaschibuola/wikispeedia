@@ -1,0 +1,1 @@
+[["Canada", "United_States", "Khan_Wali_Khan"], ["Canada", "Muhammad_Ali_Jinnah", "Khan_Wali_Khan"], ["Canada", "Pashtun_people", "Khan_Wali_Khan"], ["Canada", "World_War_I", "Khan_Wali_Khan"]]

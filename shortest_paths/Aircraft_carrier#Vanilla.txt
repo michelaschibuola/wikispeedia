@@ -1,0 +1,1 @@
+[["Aircraft_carrier", "France", "Vanilla"], ["Aircraft_carrier", "People%27s_Republic_of_China", "Vanilla"], ["Aircraft_carrier", "Spain", "Vanilla"]]

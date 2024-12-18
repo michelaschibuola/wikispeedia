@@ -1,0 +1,1 @@
+[["Snow", "Los_Angeles%2C_California", "Guangzhou"], ["Snow", "Finland", "Guangzhou"], ["Snow", "United_States", "Guangzhou"], ["Snow", "South_Africa", "Guangzhou"]]

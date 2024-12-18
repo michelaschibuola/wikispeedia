@@ -1,0 +1,1 @@
+[["Soviet_Union", "Condoleezza_Rice", "Sesame_Street"], ["Soviet_Union", "India", "Sesame_Street"], ["Soviet_Union", "Israel", "Sesame_Street"], ["Soviet_Union", "Russia", "Sesame_Street"], ["Soviet_Union", "United_Kingdom", "Sesame_Street"], ["Soviet_Union", "United_States", "Sesame_Street"], ["Soviet_Union", "Superman", "Sesame_Street"]]

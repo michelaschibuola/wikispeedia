@@ -1,0 +1,1 @@
+[["Globalization", "21st_century", "Salt_Lake_City%2C_Utah"], ["Globalization", "Tourism", "Salt_Lake_City%2C_Utah"], ["Globalization", "United_States", "Salt_Lake_City%2C_Utah"], ["Globalization", "Spanish_language", "Salt_Lake_City%2C_Utah"]]

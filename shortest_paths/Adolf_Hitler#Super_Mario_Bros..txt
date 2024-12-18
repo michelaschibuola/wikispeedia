@@ -1,0 +1,1 @@
+[["Adolf_Hitler", "United_States", "Super_Mario_Bros."], ["Adolf_Hitler", "Italy", "Super_Mario_Bros."]]

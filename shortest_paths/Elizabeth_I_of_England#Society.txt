@@ -1,0 +1,1 @@
+[["Elizabeth_I_of_England", "British_Empire", "Society"], ["Elizabeth_I_of_England", "France", "Society"], ["Elizabeth_I_of_England", "United_States", "Society"], ["Elizabeth_I_of_England", "Modern_history", "Society"]]

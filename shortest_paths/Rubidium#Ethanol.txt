@@ -1,0 +1,1 @@
+[["Rubidium", "Hydrogen", "Ethanol"], ["Rubidium", "Iodine", "Ethanol"], ["Rubidium", "Oxygen", "Ethanol"], ["Rubidium", "Phase_%28matter%29", "Ethanol"], ["Rubidium", "Sodium", "Ethanol"]]

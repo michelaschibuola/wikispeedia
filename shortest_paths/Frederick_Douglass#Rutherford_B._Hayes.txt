@@ -1,0 +1,1 @@
+[["Frederick_Douglass", "American_Civil_War", "Rutherford_B._Hayes"], ["Frederick_Douglass", "Ulysses_S._Grant", "Rutherford_B._Hayes"]]

@@ -1,0 +1,1 @@
+[["History_of_Earth", "Australia", "AK-47"], ["History_of_Earth", "Italy", "AK-47"], ["History_of_Earth", "Soviet_Union", "AK-47"], ["History_of_Earth", "World_War_II", "AK-47"]]

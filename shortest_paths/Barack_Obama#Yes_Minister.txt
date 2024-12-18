@@ -1,0 +1,1 @@
+[["Barack_Obama", "Margaret_Thatcher", "Yes_Minister"], ["Barack_Obama", "Political_science", "Yes_Minister"]]

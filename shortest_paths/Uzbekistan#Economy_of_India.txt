@@ -1,0 +1,1 @@
+[["Uzbekistan", "Pakistan", "Economy_of_India"], ["Uzbekistan", "Petroleum", "Economy_of_India"], ["Uzbekistan", "United_States", "Economy_of_India"], ["Uzbekistan", "World_Trade_Organization", "Economy_of_India"]]

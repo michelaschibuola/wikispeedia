@@ -1,0 +1,1 @@
+[["Prospecting", "Mineral", "Antarctica", "Emperor_Penguin"], ["Prospecting", "Mineral", "Binomial_nomenclature", "Emperor_Penguin"], ["Prospecting", "Mineral", "Southern_Ocean", "Emperor_Penguin"]]

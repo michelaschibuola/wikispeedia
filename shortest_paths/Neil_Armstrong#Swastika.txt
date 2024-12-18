@@ -1,0 +1,1 @@
+[["Neil_Armstrong", "United_States", "Swastika"], ["Neil_Armstrong", "Vietnam", "Swastika"]]

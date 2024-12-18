@@ -1,0 +1,1 @@
+[["Amber", "Coal", "Nuclear_fission"], ["Amber", "Denmark", "Nuclear_fission"], ["Amber", "Nazism", "Nuclear_fission"], ["Amber", "Sweden", "Nuclear_fission"], ["Amber", "United_States", "Nuclear_fission"], ["Amber", "Electric_charge", "Nuclear_fission"], ["Amber", "Electron", "Nuclear_fission"]]

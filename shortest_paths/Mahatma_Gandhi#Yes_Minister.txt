@@ -1,0 +1,1 @@
+[["Mahatma_Gandhi", "India", "Yes_Minister"], ["Mahatma_Gandhi", "God", "Yes_Minister"], ["Mahatma_Gandhi", "Islam", "Yes_Minister"], ["Mahatma_Gandhi", "Pakistan", "Yes_Minister"], ["Mahatma_Gandhi", "United_Kingdom", "Yes_Minister"], ["Mahatma_Gandhi", "Winston_Churchill", "Yes_Minister"]]

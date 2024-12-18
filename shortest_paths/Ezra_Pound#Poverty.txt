@@ -1,0 +1,1 @@
+[["Ezra_Pound", "Du_Fu", "Poverty"], ["Ezra_Pound", "James_Joyce", "Poverty"], ["Ezra_Pound", "Latin", "Poverty"], ["Ezra_Pound", "Paris", "Poverty"], ["Ezra_Pound", "Politics", "Poverty"], ["Ezra_Pound", "World_War_II", "Poverty"]]

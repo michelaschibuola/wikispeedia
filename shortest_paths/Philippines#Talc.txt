@@ -1,0 +1,1 @@
+[["Philippines", "Arabic_language", "Talc"], ["Philippines", "Brazil", "Talc"], ["Philippines", "United_States", "Talc"], ["Philippines", "Turkey", "Talc"]]

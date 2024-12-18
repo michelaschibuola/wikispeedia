@@ -1,0 +1,1 @@
+[["Water_Buffalo", "Animal", "H5N1"], ["Water_Buffalo", "China", "H5N1"], ["Water_Buffalo", "Europe", "H5N1"], ["Water_Buffalo", "Indonesia", "H5N1"], ["Water_Buffalo", "Middle_East", "H5N1"], ["Water_Buffalo", "Thailand", "H5N1"], ["Water_Buffalo", "Vietnam", "H5N1"]]

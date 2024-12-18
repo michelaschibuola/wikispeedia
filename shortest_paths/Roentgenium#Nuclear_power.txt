@@ -1,0 +1,1 @@
+[["Roentgenium", "Periodic_table", "Nuclear_power"], ["Roentgenium", "Germany", "Nuclear_power"]]

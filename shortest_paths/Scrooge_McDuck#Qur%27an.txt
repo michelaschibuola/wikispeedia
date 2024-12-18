@@ -1,0 +1,1 @@
+[["Scrooge_McDuck", "Arabic_language", "Qur%27an"], ["Scrooge_McDuck", "English_language", "Qur%27an"]]

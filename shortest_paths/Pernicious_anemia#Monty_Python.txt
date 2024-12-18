@@ -1,0 +1,1 @@
+[["Pernicious_anemia", "Anemia", "Cancer", "Monty_Python"], ["Pernicious_anemia", "Cyanocobalamin", "United_Kingdom", "Monty_Python"], ["Pernicious_anemia", "ABO_blood_group_system", "United_Kingdom", "Monty_Python"], ["Pernicious_anemia", "Vitamin", "Coconut", "Monty_Python"], ["Pernicious_anemia", "Vitamin", "Scotland", "Monty_Python"]]

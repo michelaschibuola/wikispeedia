@@ -1,0 +1,1 @@
+[["Athens", "Aristotle", "Augustine_of_Hippo"], ["Athens", "Europe", "Augustine_of_Hippo"], ["Athens", "Italy", "Augustine_of_Hippo"], ["Athens", "Herodotus", "Augustine_of_Hippo"], ["Athens", "Paul_of_Tarsus", "Augustine_of_Hippo"], ["Athens", "Stoicism", "Augustine_of_Hippo"]]

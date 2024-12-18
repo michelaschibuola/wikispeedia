@@ -1,0 +1,1 @@
+[["Adam_Smith", "Europe", "Maize"], ["Adam_Smith", "France", "Maize"]]

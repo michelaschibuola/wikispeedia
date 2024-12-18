@@ -1,0 +1,1 @@
+[["Andrew_Carnegie", "Canada", "HSBC"], ["Andrew_Carnegie", "Philippines", "HSBC"], ["Andrew_Carnegie", "Scotland", "HSBC"], ["Andrew_Carnegie", "United_Kingdom", "HSBC"], ["Andrew_Carnegie", "United_States", "HSBC"], ["Andrew_Carnegie", "United_States_dollar", "HSBC"], ["Andrew_Carnegie", "Corporation", "HSBC"]]

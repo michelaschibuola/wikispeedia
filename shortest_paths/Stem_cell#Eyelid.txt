@@ -1,0 +1,1 @@
+[["Stem_cell", "Multiple_sclerosis", "Eye", "Eyelid"], ["Stem_cell", "Human", "Eye", "Eyelid"], ["Stem_cell", "Human", "Cornea", "Eyelid"], ["Stem_cell", "Human", "Vertebrate", "Eyelid"]]

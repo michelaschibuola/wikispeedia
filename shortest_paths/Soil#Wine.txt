@@ -1,0 +1,1 @@
+[["Soil", "Acetic_acid", "Wine"], ["Soil", "Apple", "Wine"], ["Soil", "Mesopotamia", "Wine"], ["Soil", "Plant", "Wine"], ["Soil", "Egypt", "Wine"], ["Soil", "Salt", "Wine"], ["Soil", "Sulfur", "Wine"], ["Soil", "Tobacco", "Wine"]]

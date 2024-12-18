@@ -1,0 +1,1 @@
+[["Bird", "Arctic_Tern", "Greenland"], ["Bird", "Fish", "Greenland"], ["Bird", "Great_Auk", "Greenland"], ["Bird", "Owl", "Greenland"], ["Bird", "Cretaceous", "Greenland"], ["Bird", "Great_Cormorant", "Greenland"], ["Bird", "Mallard", "Greenland"], ["Bird", "Peregrine_Falcon", "Greenland"]]

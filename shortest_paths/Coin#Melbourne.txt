@@ -1,0 +1,1 @@
+[["Coin", "Australia", "Melbourne"], ["Coin", "India", "Melbourne"], ["Coin", "Japan", "Melbourne"], ["Coin", "Nauru", "Melbourne"], ["Coin", "People%27s_Republic_of_China", "Melbourne"], ["Coin", "United_Kingdom", "Melbourne"], ["Coin", "United_States", "Melbourne"], ["Coin", "Gold", "Melbourne"]]

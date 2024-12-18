@@ -1,0 +1,1 @@
+[["Tony_Blair", "Margaret_Thatcher", "Acid_rain"], ["Tony_Blair", "England", "Acid_rain"], ["Tony_Blair", "Russia", "Acid_rain"]]

@@ -1,0 +1,1 @@
+[["Energy", "Transport", "Chicago"], ["Energy", "Nature", "Chicago"], ["Energy", "Nikola_Tesla", "Chicago"], ["Energy", "Thunderstorm", "Chicago"]]

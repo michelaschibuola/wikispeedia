@@ -1,0 +1,1 @@
+[["Rome", "Black_pepper", "Sumatra"], ["Rome", "History_of_Buddhism", "Sumatra"], ["Rome", "Christianity", "Sumatra"], ["Rome", "Islam", "Sumatra"], ["Rome", "Strait_of_Malacca", "Sumatra"]]

@@ -1,0 +1,1 @@
+[["Rocky_Mountains", "Education_in_the_United_States", "Language"], ["Rocky_Mountains", "Crow", "Language"], ["Rocky_Mountains", "English_language", "Language"], ["Rocky_Mountains", "Spanish_language", "Language"]]

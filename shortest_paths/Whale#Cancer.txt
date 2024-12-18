@@ -1,0 +1,1 @@
+[["Whale", "Brain", "Cancer"], ["Whale", "Ecology", "Cancer"], ["Whale", "Human", "Cancer"], ["Whale", "Japan", "Cancer"], ["Whale", "Natural_selection", "Cancer"], ["Whale", "United_States", "Cancer"]]

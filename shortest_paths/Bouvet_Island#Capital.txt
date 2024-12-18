@@ -1,0 +1,1 @@
+[["Bouvet_Island", "France", "Capital"], ["Bouvet_Island", "Germany", "Capital"], ["Bouvet_Island", "South_Africa", "Capital"]]

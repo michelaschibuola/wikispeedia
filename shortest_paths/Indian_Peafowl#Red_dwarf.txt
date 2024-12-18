@@ -1,0 +1,1 @@
+[["Indian_Peafowl", "Animal", "Earth", "Red_dwarf"], ["Indian_Peafowl", "Animal", "Planetary_habitability", "Red_dwarf"], ["Indian_Peafowl", "India", "Helium", "Red_dwarf"], ["Indian_Peafowl", "India", "Milky_Way", "Red_dwarf"], ["Indian_Peafowl", "Mexico", "Sun", "Red_dwarf"]]

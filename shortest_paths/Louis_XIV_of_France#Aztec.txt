@@ -1,0 +1,1 @@
+[["Louis_XIV_of_France", "Holy_Roman_Empire", "Aztec"], ["Louis_XIV_of_France", "Charles_V%2C_Holy_Roman_Emperor", "Aztec"], ["Louis_XIV_of_France", "Smallpox", "Aztec"]]

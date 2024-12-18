@@ -1,0 +1,1 @@
+[["La_Paz", "English_language", "Ancient_Rome"], ["La_Paz", "Mining", "Ancient_Rome"], ["La_Paz", "Peace", "Ancient_Rome"], ["La_Paz", "Silver", "Ancient_Rome"]]

@@ -1,0 +1,1 @@
+[["Tufted_Duck", "Animal", "Alligator"], ["Tufted_Duck", "Chordate", "Alligator"], ["Tufted_Duck", "Scientific_classification", "Alligator"], ["Tufted_Duck", "United_States", "Alligator"]]

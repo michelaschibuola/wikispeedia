@@ -1,0 +1,1 @@
+[["Plate_tectonics", "Europe", "Stock"], ["Plate_tectonics", "United_States", "Stock"]]

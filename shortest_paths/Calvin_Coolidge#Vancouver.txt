@@ -1,0 +1,1 @@
+[["Calvin_Coolidge", "Japan", "Vancouver"], ["Calvin_Coolidge", "United_Kingdom", "Vancouver"], ["Calvin_Coolidge", "Warren_G._Harding", "Vancouver"]]

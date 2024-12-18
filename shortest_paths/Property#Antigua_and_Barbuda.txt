@@ -1,0 +1,1 @@
+[["Property", "Government", "Antigua_and_Barbuda"], ["Property", "Monarchy", "Antigua_and_Barbuda"], ["Property", "Slavery", "Antigua_and_Barbuda"], ["Property", "United_States", "Antigua_and_Barbuda"]]

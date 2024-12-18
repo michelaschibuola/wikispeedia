@@ -1,0 +1,1 @@
+[["Baghdad", "United_Kingdom", "Globalization"], ["Baghdad", "United_States", "Globalization"], ["Baghdad", "Mongol_Empire", "Globalization"]]

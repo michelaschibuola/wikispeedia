@@ -1,0 +1,1 @@
+[["Atheism", "Bertrand_Russell", "Trinity_College%2C_Cambridge"], ["Atheism", "France", "Trinity_College%2C_Cambridge"], ["Atheism", "United_States", "Trinity_College%2C_Cambridge"], ["Atheism", "Germany", "Trinity_College%2C_Cambridge"], ["Atheism", "Isaac_Newton", "Trinity_College%2C_Cambridge"]]

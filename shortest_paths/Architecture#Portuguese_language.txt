@@ -1,0 +1,1 @@
+[["Architecture", "Ancient_Greece", "Portuguese_language"], ["Architecture", "China", "Portuguese_language"], ["Architecture", "France", "Portuguese_language"], ["Architecture", "India", "Portuguese_language"], ["Architecture", "England", "Portuguese_language"], ["Architecture", "Goa", "Portuguese_language"], ["Architecture", "Shanghai", "Portuguese_language"]]

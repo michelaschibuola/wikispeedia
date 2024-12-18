@@ -1,0 +1,1 @@
+[["Fire", "Ancient_history", "Jew"], ["Fire", "Christianity", "Jew"], ["Fire", "Europe", "Jew"], ["Fire", "Judaism", "Jew"], ["Fire", "Religion", "Jew"], ["Fire", "United_States", "Jew"], ["Fire", "World_War_II", "Jew"], ["Fire", "South_Africa", "Jew"]]

@@ -1,0 +1,1 @@
+[["Berber_languages", "Israel", "Anne_Frank"], ["Berber_languages", "Hamburg", "Anne_Frank"]]

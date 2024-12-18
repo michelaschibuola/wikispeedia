@@ -1,0 +1,1 @@
+[["Baruch_Spinoza", "Christianity", "Guyana"], ["Baruch_Spinoza", "Europe", "Guyana"], ["Baruch_Spinoza", "Government", "Guyana"], ["Baruch_Spinoza", "Netherlands", "Guyana"]]

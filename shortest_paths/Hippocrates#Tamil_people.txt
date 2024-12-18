@@ -1,0 +1,1 @@
+[["Hippocrates", "Ancient_history", "Tamil_people"], ["Hippocrates", "English_language", "Tamil_people"], ["Hippocrates", "France", "Tamil_people"]]

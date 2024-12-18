@@ -1,0 +1,1 @@
+[["Nuclear_power", "Canada", "Nintendo_Entertainment_System"], ["Nuclear_power", "Japan", "Nintendo_Entertainment_System"], ["Nuclear_power", "Soviet_Union", "Nintendo_Entertainment_System"], ["Nuclear_power", "United_States", "Nintendo_Entertainment_System"]]

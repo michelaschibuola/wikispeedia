@@ -1,0 +1,1 @@
+[["Kookaburra", "Australia", "Coupling_%28railway%29", "Montreal_Metro"], ["Kookaburra", "Australia", "Paris", "Montreal_Metro"], ["Kookaburra", "Australia", "Sculpture", "Montreal_Metro"]]

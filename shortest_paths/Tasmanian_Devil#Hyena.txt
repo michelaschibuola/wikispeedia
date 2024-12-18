@@ -1,0 +1,1 @@
+[["Tasmanian_Devil", "Animal", "Hyena"], ["Tasmanian_Devil", "Carnivore", "Hyena"], ["Tasmanian_Devil", "Mammal", "Hyena"], ["Tasmanian_Devil", "Scientific_classification", "Hyena"]]

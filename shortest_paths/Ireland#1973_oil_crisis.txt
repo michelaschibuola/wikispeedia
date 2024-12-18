@@ -1,0 +1,1 @@
+[["Ireland", "Australia", "1973_oil_crisis"], ["Ireland", "Canada", "1973_oil_crisis"], ["Ireland", "Natural_gas", "1973_oil_crisis"], ["Ireland", "United_Kingdom", "1973_oil_crisis"], ["Ireland", "World_War_II", "1973_oil_crisis"], ["Ireland", "Newspaper", "1973_oil_crisis"], ["Ireland", "Nuclear_power", "1973_oil_crisis"], ["Ireland", "Wheat", "1973_oil_crisis"]]

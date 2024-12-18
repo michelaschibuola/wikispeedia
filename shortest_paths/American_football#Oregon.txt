@@ -1,0 +1,1 @@
+[["American_football", "United_Kingdom", "Oregon"], ["American_football", "United_States", "Oregon"], ["American_football", "Nashville%2C_Tennessee", "Oregon"]]

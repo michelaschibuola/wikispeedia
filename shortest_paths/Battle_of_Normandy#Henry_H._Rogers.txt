@@ -1,0 +1,1 @@
+[["Battle_of_Normandy", "United_States", "Henry_H._Rogers"], ["Battle_of_Normandy", "World_War_II", "Henry_H._Rogers"]]

@@ -1,0 +1,1 @@
+[["Autism", "Austria", "Cheese"], ["Autism", "English_language", "Cheese"], ["Autism", "Germany", "Cheese"], ["Autism", "Switzerland", "Cheese"], ["Autism", "United_Kingdom", "Cheese"], ["Autism", "United_States", "Cheese"], ["Autism", "World_War_II", "Cheese"]]

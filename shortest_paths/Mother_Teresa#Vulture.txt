@@ -1,0 +1,1 @@
+[["Mother_Teresa", "Africa", "Vulture"], ["Mother_Teresa", "Asia", "Vulture"], ["Mother_Teresa", "Europe", "Vulture"], ["Mother_Teresa", "India", "Vulture"]]

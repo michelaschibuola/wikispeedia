@@ -1,0 +1,1 @@
+[["Looney_Tunes", "Germany", "Ammonia", "Copper%28I%29_chloride"], ["Looney_Tunes", "Mexico", "Copper", "Copper%28I%29_chloride"], ["Looney_Tunes", "United_Kingdom", "Ethanol", "Copper%28I%29_chloride"]]

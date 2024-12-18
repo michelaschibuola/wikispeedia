@@ -1,0 +1,1 @@
+[["Turkmenistan", "Persian_Empire", "Accountancy"], ["Turkmenistan", "Europe", "Accountancy"], ["Turkmenistan", "Islam", "Accountancy"]]

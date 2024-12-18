@@ -1,0 +1,1 @@
+[["Bangkok", "Christianity", "Guernsey"], ["Bangkok", "English_language", "Guernsey"], ["Bangkok", "Tourism", "Guernsey"], ["Bangkok", "United_States", "Guernsey"]]

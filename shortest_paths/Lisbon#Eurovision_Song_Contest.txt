@@ -1,0 +1,1 @@
+[["Lisbon", "Atlantic_Ocean", "Eurovision_Song_Contest"], ["Lisbon", "Europe", "Eurovision_Song_Contest"], ["Lisbon", "European_Union", "Eurovision_Song_Contest"], ["Lisbon", "Germany", "Eurovision_Song_Contest"], ["Lisbon", "India", "Eurovision_Song_Contest"], ["Lisbon", "United_States", "Eurovision_Song_Contest"]]

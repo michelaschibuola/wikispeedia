@@ -1,0 +1,1 @@
+[["Platinum", "Ozone", "Tehran"], ["Platinum", "18th_century", "Tehran"], ["Platinum", "South_Africa", "Tehran"]]

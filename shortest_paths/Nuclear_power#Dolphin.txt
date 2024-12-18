@@ -1,0 +1,1 @@
+[["Nuclear_power", "Argentina", "Dolphin"], ["Nuclear_power", "Ireland", "Dolphin"], ["Nuclear_power", "Japan", "Dolphin"], ["Nuclear_power", "United_Nations", "Dolphin"], ["Nuclear_power", "United_States", "Dolphin"]]

@@ -1,0 +1,1 @@
+[["Condoleezza_Rice", "European_Union", "Radon"], ["Condoleezza_Rice", "Germany", "Radon"], ["Condoleezza_Rice", "Japan", "Radon"], ["Condoleezza_Rice", "Poland", "Radon"], ["Condoleezza_Rice", "United_States", "Radon"]]

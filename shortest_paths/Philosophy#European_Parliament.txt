@@ -1,0 +1,1 @@
+[["Philosophy", "Greece", "European_Parliament"], ["Philosophy", "Law", "European_Parliament"], ["Philosophy", "Pope_John_Paul_II", "European_Parliament"], ["Philosophy", "Slovenia", "European_Parliament"]]

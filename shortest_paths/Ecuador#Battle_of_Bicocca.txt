@@ -1,0 +1,1 @@
+[["Ecuador", "Germany", "Battle_of_Bicocca"], ["Ecuador", "Spain", "Battle_of_Bicocca"], ["Ecuador", "Genoa", "Battle_of_Bicocca"]]

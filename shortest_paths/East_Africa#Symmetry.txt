@@ -1,0 +1,1 @@
+[["East_Africa", "Blue_Wildebeest", "Symmetry"], ["East_Africa", "Egypt", "Symmetry"], ["East_Africa", "Islam", "Symmetry"], ["East_Africa", "Sikhism", "Symmetry"]]

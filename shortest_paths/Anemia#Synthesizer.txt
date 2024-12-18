@@ -1,0 +1,1 @@
+[["Anemia", "American_English", "New_York_City", "Synthesizer"], ["Anemia", "Culture", "New_York_City", "Synthesizer"], ["Anemia", "Cancer", "Paul_McCartney", "Synthesizer"], ["Anemia", "Cancer", "Van_Halen", "Synthesizer"]]

@@ -1,0 +1,1 @@
+[["Tea", "Europe", "Gas_metal_arc_welding"], ["Tea", "Japan", "Gas_metal_arc_welding"], ["Tea", "North_America", "Gas_metal_arc_welding"]]

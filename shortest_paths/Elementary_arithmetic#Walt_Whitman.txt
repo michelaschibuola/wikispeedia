@@ -1,0 +1,1 @@
+[["Elementary_arithmetic", "Computer", "United_States", "Walt_Whitman"]]

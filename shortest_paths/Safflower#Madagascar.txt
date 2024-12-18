@@ -1,0 +1,1 @@
+[["Safflower", "Plant", "Madagascar"], ["Safflower", "Australia", "Madagascar"], ["Safflower", "China", "Madagascar"], ["Safflower", "Ethiopia", "Madagascar"], ["Safflower", "India", "Madagascar"], ["Safflower", "United_States", "Madagascar"]]

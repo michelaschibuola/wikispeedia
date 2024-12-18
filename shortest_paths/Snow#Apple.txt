@@ -1,0 +1,1 @@
+[["Snow", "1980_eruption_of_Mount_St._Helens", "Apple"], ["Snow", "England", "Apple"], ["Snow", "Kigo", "Apple"], ["Snow", "Minnesota", "Apple"], ["Snow", "Sikkim", "Apple"], ["Snow", "Argentina", "Apple"], ["Snow", "Chile", "Apple"], ["Snow", "United_States", "Apple"], ["Snow", "Water", "Apple"], ["Snow", "South_Africa", "Apple"]]

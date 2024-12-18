@@ -1,0 +1,1 @@
+[["Taiwan", "Japan", "Munich"], ["Taiwan", "List_of_countries", "Munich"], ["Taiwan", "Olympic_Games", "Munich"], ["Taiwan", "United_Kingdom", "Munich"], ["Taiwan", "World_War_II", "Munich"]]

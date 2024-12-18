@@ -1,0 +1,1 @@
+[["Gerald_Ford", "East_Timor", "List_of_countries"], ["Gerald_Ford", "Cambodia", "List_of_countries"], ["Gerald_Ford", "Canada", "List_of_countries"], ["Gerald_Ford", "Egypt", "List_of_countries"], ["Gerald_Ford", "People%27s_Republic_of_China", "List_of_countries"], ["Gerald_Ford", "Poland", "List_of_countries"], ["Gerald_Ford", "Vietnam", "List_of_countries"]]

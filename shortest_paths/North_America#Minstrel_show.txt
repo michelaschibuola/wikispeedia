@@ -1,0 +1,1 @@
+[["North_America", "Irish_people", "Minstrel_show"], ["North_America", "New_York_City", "Minstrel_show"], ["North_America", "United_States", "Minstrel_show"]]

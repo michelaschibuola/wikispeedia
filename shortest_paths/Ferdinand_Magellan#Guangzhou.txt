@@ -1,0 +1,1 @@
+[["Ferdinand_Magellan", "Europe", "Guangzhou"], ["Ferdinand_Magellan", "Philippines", "Guangzhou"], ["Ferdinand_Magellan", "Portugal", "Guangzhou"], ["Ferdinand_Magellan", "Portuguese_language", "Guangzhou"], ["Ferdinand_Magellan", "Zheng_He", "Guangzhou"]]

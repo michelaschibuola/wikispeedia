@@ -1,0 +1,1 @@
+[["Cornell_University", "Beijing", "Buenos_Aires"], ["Cornell_University", "Internet", "Buenos_Aires"], ["Cornell_University", "Israel", "Buenos_Aires"], ["Cornell_University", "Japan", "Buenos_Aires"], ["Cornell_University", "Olympic_Games", "Buenos_Aires"], ["Cornell_University", "Peru", "Buenos_Aires"], ["Cornell_University", "Spanish_language", "Buenos_Aires"]]

@@ -1,0 +1,1 @@
+[["Vampire", "China", "Shanghai"], ["Vampire", "England", "Shanghai"], ["Vampire", "Europe", "Shanghai"], ["Vampire", "France", "Shanghai"], ["Vampire", "French_language", "Shanghai"], ["Vampire", "German_language", "Shanghai"], ["Vampire", "London", "Shanghai"], ["Vampire", "Romania", "Shanghai"]]

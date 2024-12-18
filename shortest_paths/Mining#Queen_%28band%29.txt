@@ -1,0 +1,1 @@
+[["Mining", "Argentina", "Queen_%28band%29"], ["Mining", "Brazil", "Queen_%28band%29"], ["Mining", "Australia", "Queen_%28band%29"], ["Mining", "United_States", "Queen_%28band%29"]]

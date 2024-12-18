@@ -1,0 +1,1 @@
+[["Greco-Buddhism", "Buddhist_art", "Sumatra"], ["Greco-Buddhism", "Buddhism", "Sumatra"], ["Greco-Buddhism", "China", "Sumatra"], ["Greco-Buddhism", "India", "Sumatra"], ["Greco-Buddhism", "Islam", "Sumatra"], ["Greco-Buddhism", "Sanskrit", "Sumatra"]]

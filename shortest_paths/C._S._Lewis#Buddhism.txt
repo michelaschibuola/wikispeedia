@@ -1,0 +1,1 @@
+[["C._S._Lewis", "Ancient_history", "Buddhism"], ["C._S._Lewis", "Atheism", "Buddhism"], ["C._S._Lewis", "Christianity", "Buddhism"], ["C._S._Lewis", "France", "Buddhism"], ["C._S._Lewis", "Greece", "Buddhism"], ["C._S._Lewis", "T._S._Eliot", "Buddhism"]]

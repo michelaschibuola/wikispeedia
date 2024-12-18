@@ -1,0 +1,1 @@
+[["Republic_of_China", "Europe", "Jurassic"], ["Republic_of_China", "France", "Jurassic"], ["Republic_of_China", "Germany", "Jurassic"], ["Republic_of_China", "Japan", "Jurassic"], ["Republic_of_China", "United_States", "Jurassic"]]

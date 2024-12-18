@@ -1,0 +1,1 @@
+[["Arctic", "Earth", "Life"], ["Arctic", "Carbon", "Life"], ["Arctic", "Human", "Life"]]

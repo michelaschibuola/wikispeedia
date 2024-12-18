@@ -1,0 +1,1 @@
+[["Paleontology", "History_of_science", "Apollo_8"], ["Paleontology", "Earth", "Apollo_8"]]

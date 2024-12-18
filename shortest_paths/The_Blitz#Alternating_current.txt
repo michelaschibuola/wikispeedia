@@ -1,0 +1,1 @@
+[["The_Blitz", "Germany", "Alternating_current"]]

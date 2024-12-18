@@ -1,0 +1,1 @@
+[["Tiger", "Nazi_Germany", "Adolf_Hitler"], ["Tiger", "India", "Adolf_Hitler"], ["Tiger", "Soviet_Union", "Adolf_Hitler"], ["Tiger", "Tower_of_London", "Adolf_Hitler"]]

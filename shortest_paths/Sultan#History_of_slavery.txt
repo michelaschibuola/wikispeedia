@@ -1,0 +1,1 @@
+[["Sultan", "Islam", "History_of_slavery"], ["Sultan", "Istanbul", "History_of_slavery"], ["Sultan", "Ottoman_Empire", "History_of_slavery"], ["Sultan", "Central_African_Republic", "History_of_slavery"], ["Sultan", "Egypt", "History_of_slavery"], ["Sultan", "Morocco", "History_of_slavery"], ["Sultan", "Nigeria", "History_of_slavery"], ["Sultan", "Sudan", "History_of_slavery"]]

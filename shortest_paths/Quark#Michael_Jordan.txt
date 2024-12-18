@@ -1,0 +1,1 @@
+[["Quark", "James_Joyce", "United_States", "Michael_Jordan"], ["Quark", "Buddhism", "United_States", "Michael_Jordan"], ["Quark", "Helium", "United_States", "Michael_Jordan"], ["Quark", "Richard_Feynman", "United_States", "Michael_Jordan"], ["Quark", "Helium", "Tiger_Woods", "Michael_Jordan"], ["Quark", "Rubik%27s_Cube", "New_York_City", "Michael_Jordan"]]

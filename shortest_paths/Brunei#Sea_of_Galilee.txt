@@ -1,0 +1,1 @@
+[["Brunei", "Arabic_language", "Sea_of_Galilee"], ["Brunei", "United_Kingdom", "Sea_of_Galilee"], ["Brunei", "Israel", "Sea_of_Galilee"]]

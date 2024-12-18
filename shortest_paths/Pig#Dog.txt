@@ -1,0 +1,1 @@
+[["Pig", "Athanasius_Kircher", "Dog"], ["Pig", "Chicken", "Dog"], ["Pig", "Dodo", "Dog"], ["Pig", "English_language", "Dog"], ["Pig", "Global_spread_of_H5N1", "Dog"], ["Pig", "Mammal", "Dog"], ["Pig", "Animal", "Dog"], ["Pig", "Chordate", "Dog"], ["Pig", "Meat", "Dog"], ["Pig", "Scientific_classification", "Dog"], ["Pig", "Pliocene", "Dog"], ["Pig", "Tooth_development", "Dog"]]

@@ -1,0 +1,1 @@
+[["Guinea", "Spain", "Laika"], ["Guinea", "United_Kingdom", "Laika"], ["Guinea", "United_States", "Laika"]]

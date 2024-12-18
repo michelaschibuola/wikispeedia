@@ -1,0 +1,1 @@
+[["Manchester_United_F.C.", "Europe", "Osama_bin_Laden"], ["Manchester_United_F.C.", "United_States", "Osama_bin_Laden"]]

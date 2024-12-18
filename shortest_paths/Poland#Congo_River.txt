@@ -1,0 +1,1 @@
+[["Poland", "Copper", "Congo_River"], ["Poland", "Democratic_Republic_of_the_Congo", "Congo_River"], ["Poland", "Europe", "Congo_River"], ["Poland", "List_of_rivers_by_length", "Congo_River"], ["Poland", "River", "Congo_River"], ["Poland", "Rwanda", "Congo_River"]]

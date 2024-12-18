@@ -1,0 +1,1 @@
+[["Roman_Empire", "Propaganda", "The_Lion_King"], ["Roman_Empire", "Africa", "The_Lion_King"], ["Roman_Empire", "United_States", "The_Lion_King"], ["Roman_Empire", "William_Shakespeare", "The_Lion_King"]]

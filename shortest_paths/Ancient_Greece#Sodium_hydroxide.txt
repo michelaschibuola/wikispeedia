@@ -1,0 +1,1 @@
+[["Ancient_Greece", "Aluminium", "Sodium_hydroxide"], ["Ancient_Greece", "Water", "Sodium_hydroxide"], ["Ancient_Greece", "Copper", "Sodium_hydroxide"], ["Ancient_Greece", "Mercury_%28element%29", "Sodium_hydroxide"]]

@@ -1,0 +1,1 @@
+[["Augusta%2C_Lady_Gregory", "England", "War_of_the_League_of_Cambrai"], ["Augusta%2C_Lady_Gregory", "Italy", "War_of_the_League_of_Cambrai"], ["Augusta%2C_Lady_Gregory", "Spain", "War_of_the_League_of_Cambrai"]]

@@ -1,0 +1,1 @@
+[["Democracy", "David_Hume", "Creationism"], ["Democracy", "United_States", "Creationism"], ["Democracy", "Europe", "Creationism"], ["Democracy", "Greece", "Creationism"], ["Democracy", "Italy", "Creationism"], ["Democracy", "Middle_East", "Creationism"], ["Democracy", "Politics", "Creationism"], ["Democracy", "Renaissance", "Creationism"]]

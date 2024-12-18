@@ -1,0 +1,1 @@
+[["Civil_rights", "Life", "DNA"], ["Civil_rights", "Federal_Bureau_of_Investigation", "DNA"], ["Civil_rights", "Ireland", "DNA"]]

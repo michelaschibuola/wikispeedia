@@ -1,0 +1,1 @@
+[["Francisco_Goya", "Opera", "Nazism"], ["Francisco_Goya", "War", "Nazism"], ["Francisco_Goya", "Romanticism", "Nazism"]]

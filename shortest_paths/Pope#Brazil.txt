@@ -1,0 +1,1 @@
+[["Pope", "Africa", "Brazil"], ["Pope", "Baroque", "Brazil"], ["Pope", "Germany", "Brazil"], ["Pope", "Italy", "Brazil"], ["Pope", "Liberalism", "Brazil"], ["Pope", "Middle_Ages", "Brazil"], ["Pope", "Philip_II_of_Spain", "Brazil"], ["Pope", "Portugal", "Brazil"], ["Pope", "Pope_Pius_XII", "Brazil"]]

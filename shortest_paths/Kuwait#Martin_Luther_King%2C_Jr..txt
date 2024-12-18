@@ -1,0 +1,1 @@
+[["Kuwait", "Asia", "Martin_Luther_King%2C_Jr."], ["Kuwait", "India", "Martin_Luther_King%2C_Jr."], ["Kuwait", "United_Kingdom", "Martin_Luther_King%2C_Jr."], ["Kuwait", "United_States", "Martin_Luther_King%2C_Jr."], ["Kuwait", "Ronald_Reagan", "Martin_Luther_King%2C_Jr."]]

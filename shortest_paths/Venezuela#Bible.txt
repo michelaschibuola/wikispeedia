@@ -1,0 +1,1 @@
+[["Venezuela", "19th_century", "Bible"], ["Venezuela", "German_language", "Bible"], ["Venezuela", "Jew", "Bible"], ["Venezuela", "Lebanon", "Bible"], ["Venezuela", "Slavery", "Bible"], ["Venezuela", "God", "Bible"], ["Venezuela", "Jesus", "Bible"], ["Venezuela", "Sweden", "Bible"]]

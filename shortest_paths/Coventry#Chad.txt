@@ -1,0 +1,1 @@
+[["Coventry", "Austria", "Chad"], ["Coventry", "Canada", "Chad"], ["Coventry", "Czech_Republic", "Chad"], ["Coventry", "France", "Chad"], ["Coventry", "Hungary", "Chad"], ["Coventry", "Middle_Ages", "Chad"], ["Coventry", "Poland", "Chad"], ["Coventry", "Romania", "Chad"], ["Coventry", "Russia", "Chad"], ["Coventry", "Serbia", "Chad"], ["Coventry", "World_War_II", "Chad"]]

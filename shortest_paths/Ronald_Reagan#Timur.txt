@@ -1,0 +1,1 @@
+[["Ronald_Reagan", "Afghanistan", "Timur"], ["Ronald_Reagan", "China", "Timur"], ["Ronald_Reagan", "Iran", "Timur"], ["Ronald_Reagan", "Iraq", "Timur"], ["Ronald_Reagan", "Kuwait", "Timur"], ["Ronald_Reagan", "Moscow", "Timur"]]

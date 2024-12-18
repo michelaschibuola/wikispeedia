@@ -1,0 +1,1 @@
+[["Mexico_City", "Aztec", "Maize"], ["Mexico_City", "History_of_Arizona", "Maize"], ["Mexico_City", "Mexico", "Maize"], ["Mexico_City", "Europe", "Maize"], ["Mexico_City", "United_States", "Maize"], ["Mexico_City", "Norman_Borlaug", "Maize"], ["Mexico_City", "North_America", "Maize"], ["Mexico_City", "Peanut", "Maize"], ["Mexico_City", "Sylvanus_Morley", "Maize"]]

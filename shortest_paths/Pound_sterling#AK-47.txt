@@ -1,0 +1,1 @@
+[["Pound_sterling", "Australia", "AK-47"], ["Pound_sterling", "Egypt", "AK-47"], ["Pound_sterling", "India", "AK-47"], ["Pound_sterling", "Israel", "AK-47"], ["Pound_sterling", "Norway", "AK-47"], ["Pound_sterling", "United_Kingdom", "AK-47"], ["Pound_sterling", "World_War_II", "AK-47"]]

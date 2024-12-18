@@ -1,0 +1,1 @@
+[["Ireland", "Charlemagne", "Vulgar_Latin"], ["Ireland", "Latin", "Vulgar_Latin"], ["Ireland", "King_Arthur", "Vulgar_Latin"]]

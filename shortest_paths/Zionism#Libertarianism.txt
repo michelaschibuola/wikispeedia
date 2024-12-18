@@ -1,0 +1,1 @@
+[["Zionism", "Political_philosophy", "Libertarianism"], ["Zionism", "France", "Libertarianism"], ["Zionism", "Germany", "Libertarianism"], ["Zionism", "Socialism", "Libertarianism"], ["Zionism", "United_Nations", "Libertarianism"], ["Zionism", "United_States", "Libertarianism"]]

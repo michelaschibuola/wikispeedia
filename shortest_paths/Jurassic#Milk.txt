@@ -1,0 +1,1 @@
+[["Jurassic", "Canada", "Milk"], ["Jurassic", "Europe", "Milk"], ["Jurassic", "France", "Milk"], ["Jurassic", "India", "Milk"], ["Jurassic", "Japan", "Milk"], ["Jurassic", "North_America", "Milk"], ["Jurassic", "Russia", "Milk"], ["Jurassic", "United_Kingdom", "Milk"], ["Jurassic", "United_States", "Milk"], ["Jurassic", "Mammal", "Milk"]]

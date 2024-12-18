@@ -1,0 +1,1 @@
+[["Poverty", "Climate", "Ice"], ["Poverty", "Water", "Ice"]]

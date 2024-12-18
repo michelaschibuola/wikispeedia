@@ -1,0 +1,1 @@
+[["Project_Vanguard", "Science", "Bertrand_Russell"], ["Project_Vanguard", "Soviet_Union", "Bertrand_Russell"], ["Project_Vanguard", "United_States", "Bertrand_Russell"]]

@@ -1,0 +1,1 @@
+[["Kazakhstan", "Europe", "2005_Atlantic_hurricane_season"], ["Kazakhstan", "George_W._Bush", "2005_Atlantic_hurricane_season"], ["Kazakhstan", "International_Space_Station", "2005_Atlantic_hurricane_season"]]

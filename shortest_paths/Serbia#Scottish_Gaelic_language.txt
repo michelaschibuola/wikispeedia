@@ -1,0 +1,1 @@
+[["Serbia", "River", "Scottish_Gaelic_language"], ["Serbia", "Canada", "Scottish_Gaelic_language"], ["Serbia", "English_language", "Scottish_Gaelic_language"], ["Serbia", "Latin", "Scottish_Gaelic_language"], ["Serbia", "Republic_of_Ireland", "Scottish_Gaelic_language"], ["Serbia", "United_Kingdom", "Scottish_Gaelic_language"]]

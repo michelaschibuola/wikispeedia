@@ -1,0 +1,1 @@
+[["The_Wall_Street_Journal", "Canada", "Milk"], ["The_Wall_Street_Journal", "Chile", "Milk"], ["The_Wall_Street_Journal", "Hong_Kong", "Milk"], ["The_Wall_Street_Journal", "South_Africa", "Milk"], ["The_Wall_Street_Journal", "United_States", "Milk"]]

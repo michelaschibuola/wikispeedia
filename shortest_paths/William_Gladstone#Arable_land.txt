@@ -1,0 +1,1 @@
+[["William_Gladstone", "England", "Arable_land"], ["William_Gladstone", "Northern_Ireland", "Arable_land"], ["William_Gladstone", "Scotland", "Arable_land"], ["William_Gladstone", "Wales", "Arable_land"]]

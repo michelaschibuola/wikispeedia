@@ -1,0 +1,1 @@
+[["Munich", "Germany", "Mona_Lisa"], ["Munich", "Leonardo_da_Vinci", "Mona_Lisa"], ["Munich", "France", "Mona_Lisa"], ["Munich", "Italy", "Mona_Lisa"], ["Munich", "New_York_City", "Mona_Lisa"], ["Munich", "Ukraine", "Mona_Lisa"], ["Munich", "United_States", "Mona_Lisa"], ["Munich", "World_War_II", "Mona_Lisa"], ["Munich", "Raphael", "Mona_Lisa"]]

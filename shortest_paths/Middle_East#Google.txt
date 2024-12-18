@@ -1,0 +1,1 @@
+[["Middle_East", "Al_Jazeera", "Google"], ["Middle_East", "China", "Google"], ["Middle_East", "France", "Google"], ["Middle_East", "United_States", "Google"]]

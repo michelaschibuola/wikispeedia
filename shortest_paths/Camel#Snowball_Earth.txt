@@ -1,0 +1,1 @@
+[["Camel", "Animal", "Snowball_Earth"], ["Camel", "Iron", "Snowball_Earth"]]

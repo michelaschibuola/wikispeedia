@@ -1,0 +1,1 @@
+[["Bronze_Age", "China", "Chicken"], ["Bronze_Age", "Great_Britain", "Chicken"], ["Bronze_Age", "Iran", "Chicken"], ["Bronze_Age", "Isan", "Chicken"], ["Bronze_Age", "Jerusalem", "Chicken"]]

@@ -1,0 +1,1 @@
+[["19th_century", "France", "Code_of_Hammurabi"], ["19th_century", "Paris", "Code_of_Hammurabi"], ["19th_century", "Slavery", "Code_of_Hammurabi"], ["19th_century", "Human_rights", "Code_of_Hammurabi"]]

@@ -1,0 +1,1 @@
+[["Mosaic", "Italy", "Aircraft_carrier"], ["Mosaic", "Spain", "Aircraft_carrier"]]

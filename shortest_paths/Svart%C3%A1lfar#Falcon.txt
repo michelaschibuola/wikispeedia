@@ -1,0 +1,1 @@
+[["Svart%C3%A1lfar", "Norse_mythology", "Europe", "Falcon"], ["Svart%C3%A1lfar", "Norse_mythology", "Latin", "Falcon"], ["Svart%C3%A1lfar", "German_language", "Latin", "Falcon"], ["Svart%C3%A1lfar", "German_language", "Canada", "Falcon"]]

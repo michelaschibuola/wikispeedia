@@ -1,0 +1,1 @@
+[["Homo_floresiensis", "Africa", "Diplodocus"], ["Homo_floresiensis", "Animal", "Diplodocus"], ["Homo_floresiensis", "Chordate", "Diplodocus"], ["Homo_floresiensis", "Fossil", "Diplodocus"], ["Homo_floresiensis", "Scientific_classification", "Diplodocus"]]

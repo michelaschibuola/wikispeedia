@@ -1,0 +1,1 @@
+[["Liberalism", "Germany", "Felix_Mendelssohn"], ["Liberalism", "Italy", "Felix_Mendelssohn"], ["Liberalism", "Nazism", "Felix_Mendelssohn"], ["Liberalism", "Romanticism", "Felix_Mendelssohn"], ["Liberalism", "Victor_Hugo", "Felix_Mendelssohn"]]

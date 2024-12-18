@@ -1,0 +1,1 @@
+[["Pentateuch", "Bible", "19th_century", "Robert_Schumann"], ["Pentateuch", "Jehovah", "Switzerland", "Robert_Schumann"], ["Pentateuch", "Christianity", "Richard_Wagner", "Robert_Schumann"]]

@@ -1,0 +1,1 @@
+[["Star", "Iron", "Silver"], ["Star", "Magnetism", "Silver"], ["Star", "Phase_%28matter%29", "Silver"], ["Star", "Planet", "Silver"], ["Star", "Solar_System", "Silver"], ["Star", "Chemical_element", "Silver"], ["Star", "Color", "Silver"], ["Star", "Oxygen", "Silver"], ["Star", "Sulfur", "Silver"], ["Star", "Tycho_Brahe", "Silver"], ["Star", "Ultraviolet", "Silver"]]

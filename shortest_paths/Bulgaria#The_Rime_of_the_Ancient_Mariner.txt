@@ -1,0 +1,1 @@
+[["Bulgaria", "Antarctica", "The_Rime_of_the_Ancient_Mariner"], ["Bulgaria", "Australia", "The_Rime_of_the_Ancient_Mariner"], ["Bulgaria", "England", "The_Rime_of_the_Ancient_Mariner"], ["Bulgaria", "Russia", "The_Rime_of_the_Ancient_Mariner"], ["Bulgaria", "United_States", "The_Rime_of_the_Ancient_Mariner"]]

@@ -1,0 +1,1 @@
+[["Hutu", "Africa", "Madagascar"], ["Hutu", "Burundi", "Madagascar"], ["Hutu", "Hippopotamus", "Madagascar"], ["Hutu", "Democratic_Republic_of_the_Congo", "Madagascar"], ["Hutu", "Ethiopia", "Madagascar"], ["Hutu", "Rwanda", "Madagascar"], ["Hutu", "United_States", "Madagascar"]]

@@ -1,0 +1,1 @@
+[["Ethnic_group", "Capitalism", "England"], ["Ethnic_group", "English_language", "England"], ["Ethnic_group", "Europe", "England"], ["Ethnic_group", "Middle_East", "England"], ["Ethnic_group", "Nationalism", "England"], ["Ethnic_group", "Irish_people", "England"], ["Ethnic_group", "Jew", "England"], ["Ethnic_group", "London", "England"]]

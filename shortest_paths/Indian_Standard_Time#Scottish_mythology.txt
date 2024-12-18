@@ -1,0 +1,1 @@
+[["Indian_Standard_Time", "British_East_India_Company", "Scotland", "Scottish_mythology"], ["Indian_Standard_Time", "United_Kingdom", "Scotland", "Scottish_mythology"], ["Indian_Standard_Time", "Washington%2C_D.C.", "Scotland", "Scottish_mythology"]]

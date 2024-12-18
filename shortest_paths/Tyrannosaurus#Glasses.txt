@@ -1,0 +1,1 @@
+[["Tyrannosaurus", "China", "Glasses"], ["Tyrannosaurus", "Popular_culture", "Glasses"]]

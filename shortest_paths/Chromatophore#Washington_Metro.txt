@@ -1,0 +1,1 @@
+[["Chromatophore", "Animal", "Fire", "Washington_Metro"], ["Chromatophore", "Animal", "Giant_Panda", "Washington_Metro"], ["Chromatophore", "Fish", "Giant_Panda", "Washington_Metro"], ["Chromatophore", "Mammal", "Giant_Panda", "Washington_Metro"]]

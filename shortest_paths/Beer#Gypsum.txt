@@ -1,0 +1,1 @@
+[["Beer", "Bhutan", "Gypsum"], ["Beer", "United_States", "Gypsum"], ["Beer", "Economy_of_the_Republic_of_Ireland", "Gypsum"]]

@@ -1,0 +1,1 @@
+[["Yellow_fever", "United_States", "Cook_Islands"], ["Yellow_fever", "World_Health_Organization", "Cook_Islands"]]

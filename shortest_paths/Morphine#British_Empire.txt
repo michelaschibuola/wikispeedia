@@ -1,0 +1,1 @@
+[["Morphine", "Afghanistan", "British_Empire"], ["Morphine", "George_V_of_the_United_Kingdom", "British_Empire"], ["Morphine", "Australia", "British_Empire"], ["Morphine", "Canada", "British_Empire"], ["Morphine", "United_Kingdom", "British_Empire"], ["Morphine", "United_States", "British_Empire"]]

@@ -1,0 +1,1 @@
+[["California", "Computer", "Microsoft"], ["California", "Television", "Microsoft"], ["California", "United_States", "Microsoft"], ["California", "History_of_the_Internet", "Microsoft"], ["California", "Phishing", "Microsoft"], ["California", "Stock", "Microsoft"]]

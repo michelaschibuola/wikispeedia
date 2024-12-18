@@ -1,0 +1,1 @@
+[["Macbeth", "British_monarchy", "William_II_of_England"], ["Macbeth", "England", "William_II_of_England"], ["Macbeth", "Malcolm_III_of_Scotland", "William_II_of_England"], ["Macbeth", "Scotland", "William_II_of_England"], ["Macbeth", "Scotland_in_the_High_Middle_Ages", "William_II_of_England"]]

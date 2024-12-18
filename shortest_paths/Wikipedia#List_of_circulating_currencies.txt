@@ -1,0 +1,1 @@
+[["Wikipedia", "Austria", "List_of_circulating_currencies"], ["Wikipedia", "Japan", "List_of_circulating_currencies"], ["Wikipedia", "United_States_dollar", "List_of_circulating_currencies"]]

@@ -1,0 +1,1 @@
+[["Probability_theory", "Blaise_Pascal", "Brain", "Sleep"], ["Probability_theory", "Mathematics", "Brain", "Sleep"], ["Probability_theory", "Mathematics", "Asperger_syndrome", "Sleep"], ["Probability_theory", "Dice", "Horse", "Sleep"], ["Probability_theory", "Physics", "Human", "Sleep"], ["Probability_theory", "Quantum_mechanics", "Protein", "Sleep"]]

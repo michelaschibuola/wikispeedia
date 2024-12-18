@@ -1,0 +1,1 @@
+[["DNA", "Bacteria", "Cheese"], ["DNA", "Fungus", "Cheese"], ["DNA", "Protein", "Cheese"], ["DNA", "United_Kingdom", "Cheese"], ["DNA", "Phosphorus", "Cheese"], ["DNA", "Trade_and_usage_of_saffron", "Cheese"]]

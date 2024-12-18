@@ -1,0 +1,1 @@
+[["Rhine", "Netherlands", "Amber"], ["Rhine", "North_Sea", "Amber"], ["Rhine", "Baltic_Sea", "Amber"], ["Rhine", "Black_Sea", "Amber"], ["Rhine", "Eocene", "Amber"], ["Rhine", "German_language", "Amber"], ["Rhine", "Gold", "Amber"], ["Rhine", "Mediterranean_Sea", "Amber"], ["Rhine", "Miocene", "Amber"], ["Rhine", "Oligocene", "Amber"], ["Rhine", "Switzerland", "Amber"]]

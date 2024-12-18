@@ -1,0 +1,1 @@
+[["Gyeongju", "Canada", "Snowy_Owl"], ["Gyeongju", "China", "Snowy_Owl"]]

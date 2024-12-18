@@ -1,0 +1,1 @@
+[["Rupee", "Maldives", "Whale_shark"], ["Rupee", "Pakistan", "Whale_shark"], ["Rupee", "Seychelles", "Whale_shark"]]

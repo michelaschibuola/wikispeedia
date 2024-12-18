@@ -1,0 +1,1 @@
+[["California", "Spain", "Sarajevo"], ["California", "France", "Sarajevo"], ["California", "Margaret_Thatcher", "Sarajevo"], ["California", "Olympic_Games", "Sarajevo"], ["California", "Sweden", "Sarajevo"], ["California", "Time_zone", "Sarajevo"]]

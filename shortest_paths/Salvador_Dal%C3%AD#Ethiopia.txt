@@ -1,0 +1,1 @@
+[["Salvador_Dal%C3%AD", "France", "Ethiopia"], ["Salvador_Dal%C3%AD", "Marxism", "Ethiopia"], ["Salvador_Dal%C3%AD", "Meningitis", "Ethiopia"], ["Salvador_Dal%C3%AD", "Spain", "Ethiopia"], ["Salvador_Dal%C3%AD", "United_States", "Ethiopia"]]

@@ -1,0 +1,1 @@
+[["GNOME", "Computer", "20th_century", "Soil", "Soil_profile"], ["GNOME", "Computer", "Beryllium", "Soil", "Soil_profile"], ["GNOME", "Computer", "Engineering", "Soil", "Soil_profile"], ["GNOME", "Linux", "Mars_Exploration_Rover", "Soil", "Soil_profile"], ["GNOME", "Microsoft_Windows", "Mars_Exploration_Rover", "Soil", "Soil_profile"]]

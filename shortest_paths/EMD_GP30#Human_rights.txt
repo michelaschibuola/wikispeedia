@@ -1,0 +1,1 @@
+[["EMD_GP30", "North_America", "Human_rights"], ["EMD_GP30", "United_States", "Human_rights"]]

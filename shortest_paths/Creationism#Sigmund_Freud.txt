@@ -1,0 +1,1 @@
+[["Creationism", "Atheism", "Sigmund_Freud"], ["Creationism", "Charles_Darwin", "Sigmund_Freud"], ["Creationism", "God", "Sigmund_Freud"], ["Creationism", "Karl_Popper", "Sigmund_Freud"], ["Creationism", "Religion", "Sigmund_Freud"]]

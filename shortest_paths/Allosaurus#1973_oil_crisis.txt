@@ -1,0 +1,1 @@
+[["Allosaurus", "Australia", "1973_oil_crisis"], ["Allosaurus", "BBC", "1973_oil_crisis"], ["Allosaurus", "North_America", "1973_oil_crisis"], ["Allosaurus", "Portugal", "1973_oil_crisis"], ["Allosaurus", "United_States", "1973_oil_crisis"]]

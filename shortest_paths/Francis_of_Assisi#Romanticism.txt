@@ -1,0 +1,1 @@
+[["Francis_of_Assisi", "Germany", "Romanticism"], ["Francis_of_Assisi", "Medieval_literature", "Romanticism"]]

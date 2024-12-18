@@ -1,0 +1,1 @@
+[["Gmail", "Arabic_language", "Jew"], ["Gmail", "Australia", "Jew"], ["Gmail", "Germany", "Jew"], ["Gmail", "Hebrew_language", "Jew"], ["Gmail", "Turkey", "Jew"], ["Gmail", "United_Kingdom", "Jew"], ["Gmail", "United_States", "Jew"]]

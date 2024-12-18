@@ -1,0 +1,1 @@
+[["Lyon", "France", "African_Union"], ["Lyon", "English_language", "African_Union"], ["Lyon", "French_language", "African_Union"]]

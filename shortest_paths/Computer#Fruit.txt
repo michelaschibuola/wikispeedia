@@ -1,0 +1,1 @@
+[["Computer", "California", "Fruit"], ["Computer", "Evolution", "Fruit"], ["Computer", "Food", "Fruit"], ["Computer", "Syria", "Fruit"]]

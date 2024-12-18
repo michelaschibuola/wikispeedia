@@ -1,0 +1,1 @@
+[["Eritrea", "Angola", "Ronald_Reagan"], ["Eritrea", "Marxism", "Ronald_Reagan"], ["Eritrea", "South_Africa", "Ronald_Reagan"], ["Eritrea", "United_Nations", "Ronald_Reagan"], ["Eritrea", "United_States", "Ronald_Reagan"], ["Eritrea", "Israel", "Ronald_Reagan"], ["Eritrea", "Lebanon", "Ronald_Reagan"]]

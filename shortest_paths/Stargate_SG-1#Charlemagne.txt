@@ -1,0 +1,1 @@
+[["Stargate_SG-1", "Belgium", "Charlemagne"], ["Stargate_SG-1", "Denmark", "Charlemagne"], ["Stargate_SG-1", "France", "Charlemagne"], ["Stargate_SG-1", "Germany", "Charlemagne"], ["Stargate_SG-1", "Hungary", "Charlemagne"], ["Stargate_SG-1", "Italy", "Charlemagne"], ["Stargate_SG-1", "King_Arthur", "Charlemagne"], ["Stargate_SG-1", "Spain", "Charlemagne"]]

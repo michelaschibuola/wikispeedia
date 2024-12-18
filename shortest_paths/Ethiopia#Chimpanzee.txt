@@ -1,0 +1,1 @@
+[["Ethiopia", "Democratic_Republic_of_the_Congo", "Chimpanzee"], ["Ethiopia", "Angola", "Chimpanzee"], ["Ethiopia", "Cameroon", "Chimpanzee"], ["Ethiopia", "Kenya", "Chimpanzee"], ["Ethiopia", "Portugal", "Chimpanzee"], ["Ethiopia", "Mitochondrial_Eve", "Chimpanzee"]]

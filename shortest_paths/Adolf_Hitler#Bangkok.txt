@@ -1,0 +1,1 @@
+[["Adolf_Hitler", "Moscow", "Bangkok"], ["Adolf_Hitler", "United_States", "Bangkok"]]

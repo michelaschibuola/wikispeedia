@@ -1,0 +1,1 @@
+[["Equatorial_Guinea", "France", "Chicken"], ["Equatorial_Guinea", "United_Nations", "Chicken"], ["Equatorial_Guinea", "United_States", "Chicken"]]

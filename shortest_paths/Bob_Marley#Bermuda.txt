@@ -1,0 +1,1 @@
+[["Bob_Marley", "20th_century", "Bermuda"], ["Bob_Marley", "Africa", "Bermuda"], ["Bob_Marley", "England", "Bermuda"], ["Bob_Marley", "Florida", "Bermuda"], ["Bob_Marley", "Football_%28soccer%29", "Bermuda"], ["Bob_Marley", "United_Kingdom", "Bermuda"], ["Bob_Marley", "United_States", "Bermuda"]]

@@ -1,0 +1,1 @@
+[["Ethiopia", "19th_century", "Telephone_exchange"], ["Ethiopia", "United_States", "Telephone_exchange"]]

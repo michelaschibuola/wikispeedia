@@ -1,0 +1,1 @@
+[["Benito_Mussolini", "Italy", "Smallpox"], ["Benito_Mussolini", "Soviet_Union", "Smallpox"], ["Benito_Mussolini", "United_Kingdom", "Smallpox"], ["Benito_Mussolini", "United_States", "Smallpox"]]

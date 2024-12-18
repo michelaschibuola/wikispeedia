@@ -1,0 +1,1 @@
+[["Chicken", "Agriculture", "History_of_Arizona"], ["Chicken", "Pottery", "History_of_Arizona"], ["Chicken", "United_States", "History_of_Arizona"]]

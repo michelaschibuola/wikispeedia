@@ -1,0 +1,1 @@
+[["Papua_New_Guinea", "Australia", "Erwin_Rommel"], ["Papua_New_Guinea", "Africa", "Erwin_Rommel"], ["Papua_New_Guinea", "World_War_I", "Erwin_Rommel"]]

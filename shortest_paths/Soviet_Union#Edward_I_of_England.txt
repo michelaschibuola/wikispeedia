@@ -1,0 +1,1 @@
+[["Soviet_Union", "Adolf_Hitler", "Edward_I_of_England"], ["Soviet_Union", "France", "Edward_I_of_England"]]

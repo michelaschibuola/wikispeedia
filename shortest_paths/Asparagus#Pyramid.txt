@@ -1,0 +1,1 @@
+[["Asparagus", "California", "Pyramid"], ["Asparagus", "Mexico", "Pyramid"], ["Asparagus", "United_States", "Pyramid"]]

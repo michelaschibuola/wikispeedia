@@ -1,0 +1,1 @@
+[["Interpol", "Australia", "Eocene"], ["Interpol", "Egypt", "Eocene"], ["Interpol", "India", "Eocene"], ["Interpol", "Trinidad_and_Tobago", "Eocene"], ["Interpol", "United_States", "Eocene"]]

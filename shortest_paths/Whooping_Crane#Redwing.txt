@@ -1,0 +1,1 @@
+[["Whooping_Crane", "Bird_migration", "Redwing"], ["Whooping_Crane", "Animal", "Redwing"], ["Whooping_Crane", "Binomial_nomenclature", "Redwing"], ["Whooping_Crane", "Carolus_Linnaeus", "Redwing"], ["Whooping_Crane", "Chordate", "Redwing"], ["Whooping_Crane", "Scientific_classification", "Redwing"]]

@@ -1,0 +1,1 @@
+[["Water", "Energy", "Royal_Dutch_Shell"], ["Water", "Hydrogen", "Royal_Dutch_Shell"], ["Water", "Hong_Kong", "Royal_Dutch_Shell"], ["Water", "London", "Royal_Dutch_Shell"], ["Water", "Netherlands", "Royal_Dutch_Shell"], ["Water", "South_Africa", "Royal_Dutch_Shell"], ["Water", "United_Kingdom", "Royal_Dutch_Shell"], ["Water", "United_States", "Royal_Dutch_Shell"]]

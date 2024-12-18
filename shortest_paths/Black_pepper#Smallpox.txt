@@ -1,0 +1,1 @@
+[["Black_pepper", "England", "Smallpox"], ["Black_pepper", "India", "Smallpox"], ["Black_pepper", "Latin", "Smallpox"], ["Black_pepper", "Roman_Empire", "Smallpox"]]

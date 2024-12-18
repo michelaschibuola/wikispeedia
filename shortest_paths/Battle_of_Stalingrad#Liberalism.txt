@@ -1,0 +1,1 @@
+[["Battle_of_Stalingrad", "Adolf_Hitler", "Liberalism"], ["Battle_of_Stalingrad", "Italy", "Liberalism"], ["Battle_of_Stalingrad", "Japan", "Liberalism"], ["Battle_of_Stalingrad", "United_States", "Liberalism"], ["Battle_of_Stalingrad", "Germany", "Liberalism"], ["Battle_of_Stalingrad", "Russia", "Liberalism"]]

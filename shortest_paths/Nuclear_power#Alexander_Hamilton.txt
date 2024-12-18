@@ -1,0 +1,1 @@
+[["Nuclear_power", "France", "Alexander_Hamilton"], ["Nuclear_power", "United_States", "Alexander_Hamilton"]]

@@ -1,0 +1,1 @@
+[["Globe_Theatre", "Chicago", "German_language"], ["Globe_Theatre", "England", "German_language"], ["Globe_Theatre", "Prague", "German_language"]]

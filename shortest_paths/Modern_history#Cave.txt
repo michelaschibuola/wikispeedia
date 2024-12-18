@@ -1,0 +1,1 @@
+[["Modern_history", "China", "Cave"], ["Modern_history", "Europe", "Cave"], ["Modern_history", "France", "Cave"], ["Modern_history", "Germany", "Cave"], ["Modern_history", "Italy", "Cave"], ["Modern_history", "North_America", "Cave"], ["Modern_history", "United_Kingdom", "Cave"], ["Modern_history", "United_States", "Cave"]]

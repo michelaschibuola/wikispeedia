@@ -1,0 +1,1 @@
+[["Gangtok", "Buddhism", "Aberdeen"], ["Gangtok", "Hinduism", "Aberdeen"], ["Gangtok", "United_Kingdom", "Aberdeen"]]

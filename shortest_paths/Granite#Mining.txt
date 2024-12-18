@@ -1,0 +1,1 @@
+[["Granite", "Ancient_Egypt", "Mining"], ["Granite", "Boundary_Waters_Canoe_Area_Wilderness", "Mining"], ["Granite", "Death_Valley_National_Park", "Mining"], ["Granite", "Brazil", "Mining"], ["Granite", "Namibia", "Mining"], ["Granite", "Quartz", "Mining"], ["Granite", "Zimbabwe", "Mining"], ["Granite", "Shoshone_National_Forest", "Mining"]]

@@ -1,0 +1,1 @@
+[["Cairo", "Time_zone", "Northern_Mariana_Islands"], ["Cairo", "Tourism", "Northern_Mariana_Islands"], ["Cairo", "United_Nations", "Northern_Mariana_Islands"], ["Cairo", "United_States", "Northern_Mariana_Islands"]]

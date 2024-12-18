@@ -1,0 +1,1 @@
+[["Rose-ringed_Parakeet", "Binomial_nomenclature", "Oregano"], ["Rose-ringed_Parakeet", "Europe", "Oregano"], ["Rose-ringed_Parakeet", "Scientific_classification", "Oregano"]]

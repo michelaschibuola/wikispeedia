@@ -1,0 +1,1 @@
+[["Expressionism", "20th_century", "Africa", "African_dwarf_frog"], ["Expressionism", "Belgium", "Africa", "African_dwarf_frog"], ["Expressionism", "Emotion", "Animal", "African_dwarf_frog"]]

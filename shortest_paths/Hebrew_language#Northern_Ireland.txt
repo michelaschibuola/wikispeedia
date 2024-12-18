@@ -1,0 +1,1 @@
+[["Hebrew_language", "England", "Northern_Ireland"], ["Hebrew_language", "Europe", "Northern_Ireland"], ["Hebrew_language", "English_language", "Northern_Ireland"], ["Hebrew_language", "French_language", "Northern_Ireland"], ["Hebrew_language", "Israel", "Northern_Ireland"], ["Hebrew_language", "Nationalism", "Northern_Ireland"]]

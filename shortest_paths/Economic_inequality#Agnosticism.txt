@@ -1,0 +1,1 @@
+[["Economic_inequality", "Brazil", "Agnosticism"], ["Economic_inequality", "Religion", "Agnosticism"]]

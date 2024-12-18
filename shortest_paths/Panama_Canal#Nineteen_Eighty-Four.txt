@@ -1,0 +1,1 @@
+[["Panama_Canal", "North_America", "Nineteen_Eighty-Four"], ["Panama_Canal", "Asia", "Nineteen_Eighty-Four"], ["Panama_Canal", "United_States", "Nineteen_Eighty-Four"], ["Panama_Canal", "World_War_II", "Nineteen_Eighty-Four"]]

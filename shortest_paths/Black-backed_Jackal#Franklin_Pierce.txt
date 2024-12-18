@@ -1,0 +1,1 @@
+[["Black-backed_Jackal", "Africa", "Spain", "Franklin_Pierce"], ["Black-backed_Jackal", "Africa", "United_Kingdom", "Franklin_Pierce"], ["Black-backed_Jackal", "Africa", "United_States_Senate", "Franklin_Pierce"]]

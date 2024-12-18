@@ -1,0 +1,1 @@
+[["Temperate", "Birmingham", "Rabindranath_Tagore"], ["Temperate", "Himalayas", "Rabindranath_Tagore"], ["Temperate", "Japan", "Rabindranath_Tagore"], ["Temperate", "Kerala", "Rabindranath_Tagore"], ["Temperate", "Rome", "Rabindranath_Tagore"]]

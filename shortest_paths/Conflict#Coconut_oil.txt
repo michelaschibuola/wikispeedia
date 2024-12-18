@@ -1,0 +1,1 @@
+[["Conflict", "Israel", "Philippines", "Coconut_oil"], ["Conflict", "Human", "Philippines", "Coconut_oil"], ["Conflict", "Rwanda", "Dominica", "Coconut_oil"]]

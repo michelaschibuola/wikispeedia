@@ -1,0 +1,1 @@
+[["Oregon", "Apricot", "Mediterranean_Sea"], ["Oregon", "Arecaceae", "Mediterranean_Sea"], ["Oregon", "Carcinus_maenas", "Mediterranean_Sea"], ["Oregon", "French_language", "Mediterranean_Sea"], ["Oregon", "Latin", "Mediterranean_Sea"], ["Oregon", "Spain", "Mediterranean_Sea"], ["Oregon", "Sundew", "Mediterranean_Sea"]]

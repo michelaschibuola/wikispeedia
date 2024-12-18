@@ -1,0 +1,1 @@
+[["Archaeology", "City", "Brighton"], ["Archaeology", "England", "Brighton"], ["Archaeology", "United_Kingdom", "Brighton"], ["Archaeology", "United_States", "Brighton"], ["Archaeology", "Birmingham", "Brighton"]]

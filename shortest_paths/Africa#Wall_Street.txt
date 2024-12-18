@@ -1,0 +1,1 @@
+[["Africa", "Netherlands", "Wall_Street"], ["Africa", "United_Kingdom", "Wall_Street"], ["Africa", "United_States", "Wall_Street"], ["Africa", "S%C3%A3o_Paulo", "Wall_Street"]]

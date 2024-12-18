@@ -1,0 +1,1 @@
+[["Cheese", "German_language", "Quantum_mechanics"], ["Cheese", "Latin", "Quantum_mechanics"], ["Cheese", "Protein", "Quantum_mechanics"]]

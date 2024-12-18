@@ -1,0 +1,1 @@
+[["Pythagoras", "Greece", "Ancient_history"], ["Pythagoras", "Aristotle", "Ancient_history"], ["Pythagoras", "Italy", "Ancient_history"], ["Pythagoras", "Jew", "Ancient_history"], ["Pythagoras", "Middle_East", "Ancient_history"], ["Pythagoras", "Philosophy", "Ancient_history"]]

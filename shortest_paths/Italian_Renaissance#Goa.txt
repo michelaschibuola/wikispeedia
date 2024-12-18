@@ -1,0 +1,1 @@
+[["Italian_Renaissance", "Christianity", "Goa"], ["Italian_Renaissance", "Europe", "Goa"], ["Italian_Renaissance", "Roman_Catholic_Church", "Goa"], ["Italian_Renaissance", "Science", "Goa"], ["Italian_Renaissance", "Vasco_da_Gama", "Goa"], ["Italian_Renaissance", "Wheat", "Goa"]]

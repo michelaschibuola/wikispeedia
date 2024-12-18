@@ -1,0 +1,1 @@
+[["Vodafone", "England", "Paul_Dirac"], ["Vodafone", "Switzerland", "Paul_Dirac"], ["Vodafone", "United_Kingdom", "Paul_Dirac"]]

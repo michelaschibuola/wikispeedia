@@ -1,0 +1,1 @@
+[["Football_%28soccer%29", "Ireland", "Giant%27s_Causeway"], ["Football_%28soccer%29", "Mexico", "Giant%27s_Causeway"], ["Football_%28soccer%29", "New_Zealand", "Giant%27s_Causeway"], ["Football_%28soccer%29", "Scotland", "Giant%27s_Causeway"], ["Football_%28soccer%29", "United_Kingdom", "Giant%27s_Causeway"]]

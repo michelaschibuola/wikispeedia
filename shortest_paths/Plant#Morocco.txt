@@ -1,0 +1,1 @@
+[["Plant", "Almond", "Morocco"], ["Plant", "Argan", "Morocco"], ["Plant", "Genetics", "Morocco"], ["Plant", "List_of_vegetable_oils", "Morocco"], ["Plant", "Madagascar", "Morocco"], ["Plant", "Agriculture", "Morocco"], ["Plant", "Forest", "Morocco"], ["Plant", "Phosphorus", "Morocco"], ["Plant", "Triassic", "Morocco"], ["Plant", "Saffron", "Morocco"]]

@@ -1,0 +1,1 @@
+[["Mammoth_Cave_National_Park", "20th_century", "Kyrgyzstan"], ["Mammoth_Cave_National_Park", "Agriculture", "Kyrgyzstan"], ["Mammoth_Cave_National_Park", "Switzerland", "Kyrgyzstan"]]

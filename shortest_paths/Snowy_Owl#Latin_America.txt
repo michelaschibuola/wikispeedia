@@ -1,0 +1,1 @@
+[["Snowy_Owl", "Canada", "Latin_America"], ["Snowy_Owl", "Russia", "Latin_America"]]

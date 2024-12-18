@@ -1,0 +1,1 @@
+[["Dice", "American_football", "Dolphin"], ["Dice", "Ancient_Rome", "Dolphin"], ["Dice", "Japan", "Dolphin"]]

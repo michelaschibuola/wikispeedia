@@ -1,0 +1,1 @@
+[["Pollution", "Earth", "Hebrew_language"], ["Pollution", "Kochi_%28India%29", "Hebrew_language"], ["Pollution", "Canada", "Hebrew_language"], ["Pollution", "Egypt", "Hebrew_language"], ["Pollution", "England", "Hebrew_language"], ["Pollution", "Rome", "Hebrew_language"], ["Pollution", "United_States", "Hebrew_language"]]

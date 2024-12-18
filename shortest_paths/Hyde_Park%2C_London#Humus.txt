@@ -1,0 +1,1 @@
+[["Hyde_Park%2C_London", "Samuel_Taylor_Coleridge", "Spring_%28season%29", "Humus"], ["Hyde_Park%2C_London", "United_Kingdom", "Dune", "Humus"], ["Hyde_Park%2C_London", "United_Kingdom", "Rain", "Humus"]]

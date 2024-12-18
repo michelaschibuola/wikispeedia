@@ -1,0 +1,1 @@
+[["Cheetah", "Africa", "Carbon"], ["Cheetah", "Ancient_Egypt", "Carbon"], ["Cheetah", "French_language", "Carbon"], ["Cheetah", "German_language", "Carbon"], ["Cheetah", "India", "Carbon"], ["Cheetah", "Latin", "Carbon"], ["Cheetah", "Namibia", "Carbon"], ["Cheetah", "South_Africa", "Carbon"], ["Cheetah", "United_States", "Carbon"]]

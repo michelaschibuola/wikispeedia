@@ -1,0 +1,1 @@
+[["Canberra", "Australia", "Mars_Exploration_Rover"], ["Canberra", "Germany", "Mars_Exploration_Rover"], ["Canberra", "Thunderstorm", "Mars_Exploration_Rover"]]

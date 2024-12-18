@@ -1,0 +1,1 @@
+[["Season", "Animal", "Humanities"], ["Season", "Sun", "Humanities"], ["Season", "United_States", "Humanities"], ["Season", "Wind", "Humanities"]]

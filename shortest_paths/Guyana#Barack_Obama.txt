@@ -1,0 +1,1 @@
+[["Guyana", "Chad", "Barack_Obama"], ["Guyana", "Djibouti", "Barack_Obama"], ["Guyana", "Government", "Barack_Obama"], ["Guyana", "Religion", "Barack_Obama"]]

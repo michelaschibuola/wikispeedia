@@ -1,0 +1,1 @@
+[["Blue_Whale", "Norway", "American_English"], ["Blue_Whale", "United_States", "American_English"]]

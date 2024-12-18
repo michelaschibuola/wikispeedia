@@ -1,0 +1,1 @@
+[["Painting", "Leonardo_da_Vinci", "Monkey"]]

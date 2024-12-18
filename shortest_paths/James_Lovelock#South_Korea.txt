@@ -1,0 +1,1 @@
+[["James_Lovelock", "Climate", "South_Korea"], ["James_Lovelock", "Nuclear_power", "South_Korea"]]

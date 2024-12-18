@@ -1,0 +1,1 @@
+[["Friedrich_Nietzsche", "France", "Harry_Potter"], ["Friedrich_Nietzsche", "United_Kingdom", "Harry_Potter"]]

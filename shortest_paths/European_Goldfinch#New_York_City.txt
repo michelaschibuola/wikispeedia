@@ -1,0 +1,1 @@
+[["European_Goldfinch", "Europe", "New_York_City"], ["European_Goldfinch", "North_America", "New_York_City"]]

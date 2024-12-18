@@ -1,0 +1,1 @@
+[["Westminster_Abbey", "England", "Aachen"], ["Westminster_Abbey", "20th_century", "Aachen"], ["Westminster_Abbey", "France", "Aachen"], ["Westminster_Abbey", "Winston_Churchill", "Aachen"]]

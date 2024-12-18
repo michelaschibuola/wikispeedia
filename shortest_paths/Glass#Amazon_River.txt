@@ -1,0 +1,1 @@
+[["Glass", "Carbon_dioxide", "Amazon_River"], ["Glass", "Gold", "Amazon_River"]]

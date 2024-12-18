@@ -1,0 +1,1 @@
+[["Quantity", "Aristotle", "Animal", "Indian_Peafowl"], ["Quantity", "Energy", "Animal", "Indian_Peafowl"], ["Quantity", "Aristotle", "Scientific_classification", "Indian_Peafowl"], ["Quantity", "Number", "India", "Indian_Peafowl"], ["Quantity", "Number", "Mexico", "Indian_Peafowl"]]

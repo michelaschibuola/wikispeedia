@@ -1,0 +1,1 @@
+[["Beer", "Africa", "Crohn%27s_disease"], ["Beer", "Magnesium", "Crohn%27s_disease"], ["Beer", "Potassium", "Crohn%27s_disease"], ["Beer", "United_States", "Crohn%27s_disease"]]

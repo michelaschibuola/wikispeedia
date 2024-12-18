@@ -1,0 +1,1 @@
+[["Pinworm", "Animal", "Aristotle", "Quantity"], ["Pinworm", "Scientific_classification", "Aristotle", "Quantity"], ["Pinworm", "Animal", "Energy", "Quantity"]]

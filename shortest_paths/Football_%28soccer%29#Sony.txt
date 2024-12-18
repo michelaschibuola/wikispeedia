@@ -1,0 +1,1 @@
+[["Football_%28soccer%29", "European_Union", "Sony"], ["Football_%28soccer%29", "Japan", "Sony"], ["Football_%28soccer%29", "Tokyo", "Sony"], ["Football_%28soccer%29", "Miami%2C_Florida", "Sony"], ["Football_%28soccer%29", "New_York_City", "Sony"], ["Football_%28soccer%29", "San_Francisco%2C_California", "Sony"]]

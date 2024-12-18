@@ -1,0 +1,1 @@
+[["Bolivia", "Automobile", "Platinum"], ["Bolivia", "Colombia", "Platinum"], ["Bolivia", "Gold", "Platinum"], ["Bolivia", "Peru", "Platinum"], ["Bolivia", "Silver", "Platinum"], ["Bolivia", "United_States", "Platinum"]]

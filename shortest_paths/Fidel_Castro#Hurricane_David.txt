@@ -1,0 +1,1 @@
+[["Fidel_Castro", "Cuba", "Hurricane_David"], ["Fidel_Castro", "Barbados", "Hurricane_David"], ["Fidel_Castro", "Dominica", "Hurricane_David"], ["Fidel_Castro", "Dominican_Republic", "Hurricane_David"], ["Fidel_Castro", "Miami%2C_Florida", "Hurricane_David"], ["Fidel_Castro", "United_States", "Hurricane_David"]]

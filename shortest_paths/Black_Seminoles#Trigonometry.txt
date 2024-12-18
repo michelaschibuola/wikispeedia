@@ -1,0 +1,1 @@
+[["Black_Seminoles", "North_America", "James_Cook", "Trigonometry"], ["Black_Seminoles", "North_America", "Meteorology", "Trigonometry"], ["Black_Seminoles", "Slavery", "Ancient_Egypt", "Trigonometry"], ["Black_Seminoles", "Slavery", "Babylonia", "Trigonometry"], ["Black_Seminoles", "Slavery", "Mesopotamia", "Trigonometry"]]

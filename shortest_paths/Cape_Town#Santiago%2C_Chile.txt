@@ -1,0 +1,1 @@
+[["Cape_Town", "Buenos_Aires", "Santiago%2C_Chile"], ["Cape_Town", "Capital", "Santiago%2C_Chile"], ["Cape_Town", "Global_city", "Santiago%2C_Chile"]]

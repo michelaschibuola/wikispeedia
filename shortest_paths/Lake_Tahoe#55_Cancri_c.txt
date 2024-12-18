@@ -1,0 +1,1 @@
+[["Lake_Tahoe", "Gold", "Sun", "55_Cancri_c"], ["Lake_Tahoe", "World_War_II", "Hubble_Space_Telescope", "55_Cancri_c"]]

@@ -1,0 +1,1 @@
+[["Arnold_Schwarzenegger", "United_Kingdom", "AK-47"], ["Arnold_Schwarzenegger", "Yugoslavia", "AK-47"]]

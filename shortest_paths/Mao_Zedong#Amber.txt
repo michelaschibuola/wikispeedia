@@ -1,0 +1,1 @@
+[["Mao_Zedong", "Asia", "Amber"], ["Mao_Zedong", "United_States", "Amber"]]

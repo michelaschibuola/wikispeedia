@@ -1,0 +1,1 @@
+[["Andrew_Robinson", "United_States", "Earth%27s_atmosphere", "Soil_moisture"], ["Andrew_Robinson", "United_States", "Rain", "Soil_moisture"], ["Andrew_Robinson", "United_States", "Agriculture", "Soil_moisture"], ["Andrew_Robinson", "United_States", "Water", "Soil_moisture"]]

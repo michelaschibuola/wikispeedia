@@ -1,0 +1,1 @@
+[["Olympic_Games", "Boris_Becker", "DNA"], ["Olympic_Games", "Horse", "DNA"], ["Olympic_Games", "Bear", "DNA"], ["Olympic_Games", "United_Kingdom", "DNA"]]

@@ -1,0 +1,1 @@
+[["Graphic_novel", "Radio", "Light", "Optical_telescope"], ["Graphic_novel", "Radio", "Photon", "Optical_telescope"], ["Graphic_novel", "Radio", "Telescope", "Optical_telescope"], ["Graphic_novel", "World_War_II", "Binoculars", "Optical_telescope"]]

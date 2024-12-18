@@ -1,0 +1,1 @@
+[["Dog", "Africa", "African_Grey_Parrot"], ["Dog", "Animal", "African_Grey_Parrot"], ["Dog", "Chordate", "African_Grey_Parrot"], ["Dog", "Scientific_classification", "African_Grey_Parrot"]]

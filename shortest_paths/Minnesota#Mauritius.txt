@@ -1,0 +1,1 @@
+[["Minnesota", "Agriculture", "Mauritius"], ["Minnesota", "India", "Mauritius"], ["Minnesota", "Islam", "Mauritius"], ["Minnesota", "United_States", "Mauritius"], ["Minnesota", "Volcano", "Mauritius"]]

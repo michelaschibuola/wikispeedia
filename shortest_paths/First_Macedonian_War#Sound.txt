@@ -1,0 +1,1 @@
+[["First_Macedonian_War", "Ancient_Greece", "Music", "Sound"], ["First_Macedonian_War", "Athens", "Music", "Sound"], ["First_Macedonian_War", "Ancient_Greece", "Physical_science", "Sound"], ["First_Macedonian_War", "Egypt", "Painting", "Sound"], ["First_Macedonian_War", "Hannibal_Barca", "Silent_film", "Sound"]]

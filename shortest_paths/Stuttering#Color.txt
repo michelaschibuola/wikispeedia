@@ -1,0 +1,1 @@
+[["Stuttering", "Aristotle", "Color"], ["Stuttering", "Isaac_Newton", "Color"], ["Stuttering", "Language", "Color"]]

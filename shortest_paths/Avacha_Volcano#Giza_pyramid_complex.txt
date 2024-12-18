@@ -1,0 +1,1 @@
+[["Avacha_Volcano", "Russia", "World_Heritage_Site", "Giza_pyramid_complex"], ["Avacha_Volcano", "United_Nations", "World_Heritage_Site", "Giza_pyramid_complex"], ["Avacha_Volcano", "United_Nations", "Cairo", "Giza_pyramid_complex"], ["Avacha_Volcano", "United_Nations", "Egypt", "Giza_pyramid_complex"]]

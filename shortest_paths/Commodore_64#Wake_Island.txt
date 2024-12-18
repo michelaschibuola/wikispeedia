@@ -1,0 +1,1 @@
+[["Commodore_64", "Germany", "Wake_Island"], ["Commodore_64", "United_States", "Wake_Island"], ["Commodore_64", "United_States_dollar", "Wake_Island"]]

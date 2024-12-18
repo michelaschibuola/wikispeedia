@@ -1,0 +1,1 @@
+[["Mining", "Gottfried_Leibniz", "Atom"], ["Mining", "Mineral", "Atom"], ["Mining", "Tin", "Atom"], ["Mining", "Uranium", "Atom"]]

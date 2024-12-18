@@ -1,0 +1,1 @@
+[["Bill_Clinton", "2004_Indian_Ocean_earthquake", "Arctic"], ["Bill_Clinton", "Cold_War", "Arctic"], ["Bill_Clinton", "United_States", "Arctic"]]

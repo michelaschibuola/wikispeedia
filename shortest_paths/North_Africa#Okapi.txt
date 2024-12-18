@@ -1,0 +1,1 @@
+[["North_Africa", "Egypt", "Okapi"], ["North_Africa", "Europe", "Okapi"], ["North_Africa", "Sudan", "Okapi"]]

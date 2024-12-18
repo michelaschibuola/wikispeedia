@@ -1,0 +1,1 @@
+[["Poultry", "Isle_of_Man", "Ireland"], ["Poultry", "Oat", "Ireland"], ["Poultry", "Africa", "Ireland"], ["Poultry", "China", "Ireland"]]

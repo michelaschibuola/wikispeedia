@@ -1,0 +1,1 @@
+[["Euro", "European_Parliament", "Whale"], ["Euro", "Japan", "Whale"], ["Euro", "United_States", "Whale"], ["Euro", "Human", "Whale"]]

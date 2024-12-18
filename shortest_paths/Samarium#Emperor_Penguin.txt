@@ -1,0 +1,1 @@
+[["Samarium", "Color", "Fish", "Emperor_Penguin"], ["Samarium", "France", "Antarctica", "Emperor_Penguin"], ["Samarium", "Russia", "Antarctica", "Emperor_Penguin"], ["Samarium", "Russia", "Krill", "Emperor_Penguin"]]

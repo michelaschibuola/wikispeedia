@@ -1,0 +1,1 @@
+[["Dog", "Athanasius_Kircher", "Mathematics", "Elementary_algebra"], ["Dog", "English_language", "Mathematics", "Elementary_algebra"], ["Dog", "Africa", "Arithmetic", "Elementary_algebra"], ["Dog", "Germany", "Linear_algebra", "Elementary_algebra"]]

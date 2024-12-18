@@ -1,0 +1,1 @@
+[["Liberalism", "European_Union", "Irish_Sea"], ["Liberalism", "Denmark", "Irish_Sea"], ["Liberalism", "England", "Irish_Sea"], ["Liberalism", "Sweden", "Irish_Sea"], ["Liberalism", "United_Kingdom", "Irish_Sea"], ["Liberalism", "United_States", "Irish_Sea"]]

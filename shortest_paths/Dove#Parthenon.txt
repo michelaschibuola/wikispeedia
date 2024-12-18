@@ -1,0 +1,1 @@
+[["Dove", "France", "Parthenon"]]

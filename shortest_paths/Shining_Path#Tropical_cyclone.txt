@@ -1,0 +1,1 @@
+[["Shining_Path", "China", "Tropical_cyclone"], ["Shining_Path", "Spanish_language", "Tropical_cyclone"]]

@@ -1,0 +1,1 @@
+[["Butter", "Cattle", "Oregon"], ["Butter", "Latin", "Oregon"], ["Butter", "Milk", "Oregon"], ["Butter", "Potato", "Oregon"], ["Butter", "United_Kingdom", "Oregon"], ["Butter", "Wine", "Oregon"], ["Butter", "Common_Hazel", "Oregon"]]

@@ -1,0 +1,1 @@
+[["Chad", "Armenia", "Behistun_Inscription"], ["Chad", "Afghanistan", "Behistun_Inscription"], ["Chad", "Austria", "Behistun_Inscription"], ["Chad", "Iran", "Behistun_Inscription"], ["Chad", "World_War_II", "Behistun_Inscription"]]

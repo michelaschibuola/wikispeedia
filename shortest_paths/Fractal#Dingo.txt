@@ -1,0 +1,1 @@
+[["Fractal", "Art", "Australia", "Dingo"], ["Fractal", "Music", "Australia", "Dingo"], ["Fractal", "River", "Australia", "Dingo"], ["Fractal", "Symmetry", "Australia", "Dingo"], ["Fractal", "Life", "Animal", "Dingo"], ["Fractal", "Medicine", "Animal", "Dingo"]]

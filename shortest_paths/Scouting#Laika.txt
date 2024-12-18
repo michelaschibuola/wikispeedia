@@ -1,0 +1,1 @@
+[["Scouting", "Russia", "Laika"], ["Scouting", "Sweden", "Laika"], ["Scouting", "United_Kingdom", "Laika"], ["Scouting", "United_States", "Laika"]]

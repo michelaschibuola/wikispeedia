@@ -1,0 +1,1 @@
+[["Liverpool", "London", "Pok%C3%A9mon_Trading_Card_Game"], ["Liverpool", "Manchester", "Pok%C3%A9mon_Trading_Card_Game"], ["Liverpool", "Norwich", "Pok%C3%A9mon_Trading_Card_Game"]]

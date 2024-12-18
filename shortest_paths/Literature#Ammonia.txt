@@ -1,0 +1,1 @@
+[["Literature", "Alchemy", "Ammonia"], ["Literature", "India", "Ammonia"], ["Literature", "Middle_Ages", "Ammonia"], ["Literature", "Water", "Ammonia"]]

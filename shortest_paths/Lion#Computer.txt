@@ -1,0 +1,1 @@
+[["Lion", "20th_century", "Computer"], ["Lion", "Middle_Ages", "Computer"], ["Lion", "United_Kingdom", "Computer"]]

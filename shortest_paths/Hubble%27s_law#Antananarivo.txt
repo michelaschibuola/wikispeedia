@@ -1,0 +1,1 @@
+[["Hubble%27s_law", "Albert_Einstein", "Africa", "Antananarivo"], ["Hubble%27s_law", "Milky_Way", "Armenia", "Antananarivo"], ["Hubble%27s_law", "Speed_of_light", "Communication", "Antananarivo"]]

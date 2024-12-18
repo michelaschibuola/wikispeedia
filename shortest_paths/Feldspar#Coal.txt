@@ -1,0 +1,1 @@
+[["Feldspar", "Mineral", "Coal"], ["Feldspar", "Oxygen", "Coal"]]

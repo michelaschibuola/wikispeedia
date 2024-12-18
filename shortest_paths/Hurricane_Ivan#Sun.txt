@@ -1,0 +1,1 @@
+[["Hurricane_Ivan", "Barbados", "Sun"], ["Hurricane_Ivan", "South_America", "Sun"], ["Hurricane_Ivan", "Tropical_cyclone", "Sun"], ["Hurricane_Ivan", "United_States", "Sun"]]

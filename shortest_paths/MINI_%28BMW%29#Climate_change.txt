@@ -1,0 +1,1 @@
+[["MINI_%28BMW%29", "Europe", "Climate_change"], ["MINI_%28BMW%29", "United_States", "Climate_change"]]

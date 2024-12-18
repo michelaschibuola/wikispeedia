@@ -1,0 +1,1 @@
+[["Silver", "Quartz", "Cleveland%2C_Ohio"], ["Silver", "United_States", "Cleveland%2C_Ohio"], ["Silver", "Steel", "Cleveland%2C_Ohio"], ["Silver", "United_States_dollar", "Cleveland%2C_Ohio"]]

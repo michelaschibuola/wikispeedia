@@ -1,0 +1,1 @@
+[["Tel_Aviv", "Global_city", "Dresden"], ["Tel_Aviv", "Cologne", "Dresden"], ["Tel_Aviv", "World_Heritage_Site", "Dresden"]]

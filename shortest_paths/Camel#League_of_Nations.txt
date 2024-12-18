@@ -1,0 +1,1 @@
+[["Camel", "Africa", "League_of_Nations"], ["Camel", "African_slave_trade", "League_of_Nations"], ["Camel", "20th_century", "League_of_Nations"], ["Camel", "Australia", "League_of_Nations"], ["Camel", "Egypt", "League_of_Nations"], ["Camel", "Ethiopia", "League_of_Nations"], ["Camel", "Jordan", "League_of_Nations"], ["Camel", "Namibia", "League_of_Nations"]]

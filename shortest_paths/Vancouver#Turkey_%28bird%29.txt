@@ -1,0 +1,1 @@
+[["Vancouver", "North_America", "Turkey_%28bird%29"], ["Vancouver", "United_States", "Turkey_%28bird%29"]]

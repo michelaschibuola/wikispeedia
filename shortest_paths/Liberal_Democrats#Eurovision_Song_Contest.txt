@@ -1,0 +1,1 @@
+[["Liberal_Democrats", "Birmingham", "Eurovision_Song_Contest"], ["Liberal_Democrats", "European_Union", "Eurovision_Song_Contest"], ["Liberal_Democrats", "London", "Eurovision_Song_Contest"], ["Liberal_Democrats", "United_Kingdom", "Eurovision_Song_Contest"]]

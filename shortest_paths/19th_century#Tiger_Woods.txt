@@ -1,0 +1,1 @@
+[["19th_century", "Sweden", "Tiger_Woods"], ["19th_century", "United_States", "Tiger_Woods"], ["19th_century", "Pacific_Ocean", "Tiger_Woods"], ["19th_century", "Vietnam", "Tiger_Woods"]]

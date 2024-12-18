@@ -1,0 +1,1 @@
+[["Virtuti_Militari", "Silver", "History_of_Arizona"], ["Virtuti_Militari", "Spain", "History_of_Arizona"], ["Virtuti_Militari", "United_States", "History_of_Arizona"], ["Virtuti_Militari", "World_War_I", "History_of_Arizona"], ["Virtuti_Militari", "World_War_II", "History_of_Arizona"]]

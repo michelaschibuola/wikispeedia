@@ -1,0 +1,1 @@
+[["Israel", "India", "Tenzing_Norgay"], ["Israel", "Nepal", "Tenzing_Norgay"], ["Israel", "Pakistan", "Tenzing_Norgay"]]

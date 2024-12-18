@@ -1,0 +1,1 @@
+[["Wernher_von_Braun", "Saturn_V", "Helium"], ["Wernher_von_Braun", "Space_Race", "Helium"], ["Wernher_von_Braun", "Moon", "Helium"], ["Wernher_von_Braun", "Poland", "Helium"], ["Wernher_von_Braun", "Telescope", "Helium"], ["Wernher_von_Braun", "United_States", "Helium"], ["Wernher_von_Braun", "Washington%2C_D.C.", "Helium"], ["Wernher_von_Braun", "World_War_II", "Helium"]]

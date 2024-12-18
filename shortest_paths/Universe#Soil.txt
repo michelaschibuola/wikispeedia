@@ -1,0 +1,1 @@
+[["Universe", "Athanasius_Kircher", "Soil"], ["Universe", "Earth", "Soil"], ["Universe", "Gravitation", "Soil"], ["Universe", "Life", "Soil"], ["Universe", "Mesopotamia", "Soil"], ["Universe", "Planetary_habitability", "Soil"]]

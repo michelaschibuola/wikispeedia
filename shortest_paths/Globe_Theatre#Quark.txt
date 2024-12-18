@@ -1,0 +1,1 @@
+[["Globe_Theatre", "England", "Neutron", "Quark"], ["Globe_Theatre", "England", "Rubik%27s_Cube", "Quark"], ["Globe_Theatre", "London", "Rubik%27s_Cube", "Quark"], ["Globe_Theatre", "Rome", "James_Joyce", "Quark"]]

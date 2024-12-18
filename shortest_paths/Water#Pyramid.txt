@@ -1,0 +1,1 @@
+[["Water", "Earth", "Pyramid"], ["Water", "France", "Pyramid"], ["Water", "Mesopotamia", "Pyramid"], ["Water", "Mexico_City", "Pyramid"], ["Water", "Paris", "Pyramid"], ["Water", "Sun", "Pyramid"], ["Water", "United_States", "Pyramid"]]

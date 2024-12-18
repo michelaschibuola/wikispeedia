@@ -1,0 +1,1 @@
+[["Homo_floresiensis", "Animal", "Giant_Panda"], ["Homo_floresiensis", "Binomial_nomenclature", "Giant_Panda"], ["Homo_floresiensis", "Chordate", "Giant_Panda"], ["Homo_floresiensis", "Elephant", "Giant_Panda"], ["Homo_floresiensis", "Mammal", "Giant_Panda"], ["Homo_floresiensis", "Scientific_classification", "Giant_Panda"]]

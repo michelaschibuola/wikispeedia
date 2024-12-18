@@ -1,0 +1,1 @@
+[["Kitsch", "Hungary", "Battle_of_Stalingrad"], ["Kitsch", "Italy", "Battle_of_Stalingrad"], ["Kitsch", "Russia", "Battle_of_Stalingrad"], ["Kitsch", "United_States", "Battle_of_Stalingrad"]]

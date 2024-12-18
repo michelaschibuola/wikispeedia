@@ -1,0 +1,1 @@
+[["Kuwait", "Agriculture", "Rocky_Mountains"], ["Kuwait", "English_language", "Rocky_Mountains"], ["Kuwait", "Fish", "Rocky_Mountains"], ["Kuwait", "Petroleum", "Rocky_Mountains"], ["Kuwait", "United_States", "Rocky_Mountains"]]

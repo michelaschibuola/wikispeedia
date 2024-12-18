@@ -1,0 +1,1 @@
+[["Henry_IV_of_England", "British_monarchy", "Nazi_Germany"], ["Henry_IV_of_England", "Denmark", "Nazi_Germany"], ["Henry_IV_of_England", "Norway", "Nazi_Germany"], ["Henry_IV_of_England", "Sweden", "Nazi_Germany"]]

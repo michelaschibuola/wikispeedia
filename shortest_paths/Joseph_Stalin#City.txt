@@ -1,0 +1,1 @@
+[["Joseph_Stalin", "Asia", "City"], ["Joseph_Stalin", "Europe", "City"], ["Joseph_Stalin", "Italy", "City"], ["Joseph_Stalin", "London", "City"], ["Joseph_Stalin", "Moscow", "City"], ["Joseph_Stalin", "United_States", "City"], ["Joseph_Stalin", "Russia", "City"], ["Joseph_Stalin", "Tehran", "City"], ["Joseph_Stalin", "University", "City"]]

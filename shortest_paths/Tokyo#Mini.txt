@@ -1,0 +1,1 @@
+[["Tokyo", "London", "Mini"], ["Tokyo", "United_Kingdom", "Mini"]]

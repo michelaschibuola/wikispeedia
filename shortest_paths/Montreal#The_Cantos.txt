@@ -1,0 +1,1 @@
+[["Montreal", "England", "The_Cantos"], ["Montreal", "France", "The_Cantos"], ["Montreal", "Irish_people", "The_Cantos"], ["Montreal", "Japan", "The_Cantos"], ["Montreal", "Jew", "The_Cantos"], ["Montreal", "Paris", "The_Cantos"], ["Montreal", "United_States", "The_Cantos"], ["Montreal", "World_War_I", "The_Cantos"], ["Montreal", "World_War_II", "The_Cantos"]]

@@ -1,0 +1,1 @@
+[["Taj_Mahal", "Asia", "Sun", "55_Cancri_c"], ["Taj_Mahal", "Garden", "Sun", "55_Cancri_c"], ["Taj_Mahal", "Stonehenge", "Sun", "55_Cancri_c"], ["Taj_Mahal", "China", "Jupiter", "55_Cancri_c"], ["Taj_Mahal", "Crystal", "Jupiter", "55_Cancri_c"], ["Taj_Mahal", "English_language", "Day", "55_Cancri_c"], ["Taj_Mahal", "United_Kingdom", "Hubble_Space_Telescope", "55_Cancri_c"]]

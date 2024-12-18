@@ -1,0 +1,1 @@
+[["Slovakia", "Europe", "SimCity"], ["Slovakia", "Germany", "SimCity"], ["Slovakia", "World_War_II", "SimCity"], ["Slovakia", "United_States", "SimCity"]]

@@ -1,0 +1,1 @@
+[["Medieval_music", "Germany", "The_Adventures_of_Tintin"], ["Medieval_music", "Jew", "The_Adventures_of_Tintin"], ["Medieval_music", "Switzerland", "The_Adventures_of_Tintin"]]

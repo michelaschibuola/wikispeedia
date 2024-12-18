@@ -1,0 +1,1 @@
+[["J%C3%B3zef_Pi%C5%82sudski", "Belgium", "Vincent_van_Gogh"], ["J%C3%B3zef_Pi%C5%82sudski", "France", "Vincent_van_Gogh"], ["J%C3%B3zef_Pi%C5%82sudski", "Paris", "Vincent_van_Gogh"], ["J%C3%B3zef_Pi%C5%82sudski", "World_War_II", "Vincent_van_Gogh"]]

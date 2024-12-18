@@ -1,0 +1,1 @@
+[["Folic_acid", "Australia", "Franklin_D._Roosevelt"], ["Folic_acid", "Morocco", "Franklin_D._Roosevelt"], ["Folic_acid", "Soviet_Union", "Franklin_D._Roosevelt"]]

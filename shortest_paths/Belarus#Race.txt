@@ -1,0 +1,1 @@
+[["Belarus", "Adolf_Hitler", "Race"], ["Belarus", "English_language", "Race"], ["Belarus", "Human_rights", "Race"], ["Belarus", "Germany", "Race"], ["Belarus", "Nationalism", "Race"]]

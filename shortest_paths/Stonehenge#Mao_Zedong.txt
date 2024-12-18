@@ -1,0 +1,1 @@
+[["Stonehenge", "Japan", "Mao_Zedong"], ["Stonehenge", "United_States", "Mao_Zedong"]]

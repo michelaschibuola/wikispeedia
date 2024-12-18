@@ -1,0 +1,1 @@
+[["Oligocene", "Amber", "Insect"], ["Oligocene", "Cretaceous-Tertiary_extinction_event", "Insect"], ["Oligocene", "Fauna_of_Australia", "Insect"], ["Oligocene", "Honey_bee", "Insect"], ["Oligocene", "Evolution", "Insect"], ["Oligocene", "Swift", "Insect"]]

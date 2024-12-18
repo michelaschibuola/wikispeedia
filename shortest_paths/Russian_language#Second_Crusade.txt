@@ -1,0 +1,1 @@
+[["Russian_language", "Jew", "Second_Crusade"], ["Russian_language", "Greece", "Second_Crusade"], ["Russian_language", "Hungary", "Second_Crusade"], ["Russian_language", "Spain", "Second_Crusade"]]

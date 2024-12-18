@@ -1,0 +1,1 @@
+[["Agriculture", "Cereal", "Tropical_Storm_Delta_%282005%29"], ["Agriculture", "Algeria", "Tropical_Storm_Delta_%282005%29"], ["Agriculture", "Morocco", "Tropical_Storm_Delta_%282005%29"]]

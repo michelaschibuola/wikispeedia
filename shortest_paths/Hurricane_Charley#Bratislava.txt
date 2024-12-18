@@ -1,0 +1,1 @@
+[["Hurricane_Charley", "George_W._Bush", "Bratislava"], ["Hurricane_Charley", "United_States", "Bratislava"]]

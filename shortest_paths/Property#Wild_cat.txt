@@ -1,0 +1,1 @@
+[["Property", "Animal", "Wild_cat"], ["Property", "Europe", "Wild_cat"]]

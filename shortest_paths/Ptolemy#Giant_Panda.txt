@@ -1,0 +1,1 @@
+[["Ptolemy", "China", "Giant_Panda"], ["Ptolemy", "France", "Giant_Panda"], ["Ptolemy", "Tibet", "Giant_Panda"]]

@@ -1,0 +1,1 @@
+[["Cheese", "Dutch_language", "Cape_Town"], ["Cheese", "English_language", "Cape_Town"], ["Cheese", "France", "Cape_Town"], ["Cheese", "Germany", "Cape_Town"], ["Cheese", "Islam", "Cape_Town"], ["Cheese", "Judaism", "Cape_Town"], ["Cheese", "Latin", "Cape_Town"], ["Cheese", "Netherlands", "Cape_Town"], ["Cheese", "Tuberculosis", "Cape_Town"]]

@@ -1,0 +1,1 @@
+[["Gender", "Cattle", "Horse", "Pony"], ["Gender", "14th_century", "Horse", "Pony"], ["Gender", "Mandan", "Horse", "Pony"], ["Gender", "Cultural_identity", "Ireland", "Pony"], ["Gender", "Fundamental_Rights_in_India", "Ireland", "Pony"], ["Gender", "English_language", "Ireland", "Pony"], ["Gender", "Latin", "Ireland", "Pony"], ["Gender", "Nationalism", "Ireland", "Pony"]]

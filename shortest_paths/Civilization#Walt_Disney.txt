@@ -1,0 +1,1 @@
+[["Civilization", "Cold_War", "Walt_Disney"], ["Civilization", "Communism", "Walt_Disney"], ["Civilization", "United_States", "Walt_Disney"], ["Civilization", "World_War_I", "Walt_Disney"], ["Civilization", "World_War_II", "Walt_Disney"]]

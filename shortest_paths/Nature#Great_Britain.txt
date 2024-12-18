@@ -1,0 +1,1 @@
+[["Nature", "Devonian", "Great_Britain"], ["Nature", "History_of_the_world", "Great_Britain"], ["Nature", "Australia", "Great_Britain"], ["Nature", "Ice_age", "Great_Britain"], ["Nature", "River", "Great_Britain"]]

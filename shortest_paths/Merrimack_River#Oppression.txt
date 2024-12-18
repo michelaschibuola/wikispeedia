@@ -1,0 +1,1 @@
+[["Merrimack_River", "United_States", "Civilization", "Oppression"], ["Merrimack_River", "United_States", "Invasion", "Oppression"], ["Merrimack_River", "United_States", "Pope_John_Paul_II", "Oppression"], ["Merrimack_River", "United_States", "Psychology", "Oppression"], ["Merrimack_River", "United_States", "Stephen_Jay_Gould", "Oppression"]]

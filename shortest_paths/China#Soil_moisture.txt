@@ -1,0 +1,1 @@
+[["China", "Drought", "Soil_moisture"], ["China", "Irrigation", "Soil_moisture"], ["China", "Soil", "Soil_moisture"], ["China", "Water", "Soil_moisture"]]

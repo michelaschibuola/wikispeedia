@@ -1,0 +1,1 @@
+[["Smallpox", "Slavery", "Robinson_Crusoe"], ["Smallpox", "England", "Robinson_Crusoe"]]

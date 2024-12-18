@@ -1,0 +1,1 @@
+[["Communism", "Bertrand_Russell", "University_of_Chicago"], ["Communism", "Vietnam_War", "University_of_Chicago"], ["Communism", "World_War_II", "University_of_Chicago"], ["Communism", "Edward_Teller", "University_of_Chicago"], ["Communism", "United_States", "University_of_Chicago"]]

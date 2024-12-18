@@ -1,0 +1,1 @@
+[["Cancer", "20th_century", "Refrigerator_car"], ["Cancer", "China", "Refrigerator_car"], ["Cancer", "United_States", "Refrigerator_car"], ["Cancer", "World_War_II", "Refrigerator_car"]]

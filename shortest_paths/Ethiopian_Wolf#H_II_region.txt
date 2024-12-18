@@ -1,0 +1,1 @@
+[["Ethiopian_Wolf", "Binomial_nomenclature", "20th_century", "H_II_region"], ["Ethiopian_Wolf", "Mammal", "20th_century", "H_II_region"], ["Ethiopian_Wolf", "Rabies", "20th_century", "H_II_region"]]

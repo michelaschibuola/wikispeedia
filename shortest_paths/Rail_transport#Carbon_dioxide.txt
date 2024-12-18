@@ -1,0 +1,1 @@
+[["Rail_transport", "Industrial_Revolution", "Carbon_dioxide"], ["Rail_transport", "Coal", "Carbon_dioxide"], ["Rail_transport", "Iron", "Carbon_dioxide"], ["Rail_transport", "New_York_City", "Carbon_dioxide"], ["Rail_transport", "Transport", "Carbon_dioxide"], ["Rail_transport", "United_States", "Carbon_dioxide"]]

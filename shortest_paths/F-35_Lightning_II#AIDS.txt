@@ -1,0 +1,1 @@
+[["F-35_Lightning_II", "Denmark", "AIDS"], ["F-35_Lightning_II", "George_W._Bush", "AIDS"], ["F-35_Lightning_II", "Italy", "AIDS"], ["F-35_Lightning_II", "Netherlands", "AIDS"], ["F-35_Lightning_II", "Norway", "AIDS"], ["F-35_Lightning_II", "United_Kingdom", "AIDS"], ["F-35_Lightning_II", "United_States", "AIDS"]]

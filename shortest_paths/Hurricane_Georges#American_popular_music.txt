@@ -1,0 +1,1 @@
+[["Hurricane_Georges", "Cuba", "American_popular_music"], ["Hurricane_Georges", "Puerto_Rico", "American_popular_music"], ["Hurricane_Georges", "United_States", "American_popular_music"]]

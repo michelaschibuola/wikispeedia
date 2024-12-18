@@ -1,0 +1,1 @@
+[["Plato", "Friedrich_Nietzsche", "Edgar_Allan_Poe"], ["Plato", "Marcel_Proust", "Edgar_Allan_Poe"], ["Plato", "Philosophy", "Edgar_Allan_Poe"], ["Plato", "19th_century", "Edgar_Allan_Poe"], ["Plato", "Democracy", "Edgar_Allan_Poe"]]

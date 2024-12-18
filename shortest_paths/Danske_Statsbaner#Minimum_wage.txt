@@ -1,0 +1,1 @@
+[["Danske_Statsbaner", "Denmark", "Minimum_wage"], ["Danske_Statsbaner", "Employment", "Minimum_wage"]]

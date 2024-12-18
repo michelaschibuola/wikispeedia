@@ -1,0 +1,1 @@
+[["Pollution", "England", "Jacobite_rising"], ["Pollution", "London", "Jacobite_rising"]]

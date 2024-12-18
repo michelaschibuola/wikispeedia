@@ -1,0 +1,1 @@
+[["Chinyingi", "AIDS", "Norway", "Harvest"], ["Chinyingi", "Copper", "Axe", "Harvest"], ["Chinyingi", "Mining", "History_of_South_Africa", "Harvest"], ["Chinyingi", "Zambia", "History_of_South_Africa", "Harvest"], ["Chinyingi", "Mining", "Agriculture", "Harvest"], ["Chinyingi", "Zambezi", "Agriculture", "Harvest"], ["Chinyingi", "Zambezi", "Fish", "Harvest"]]

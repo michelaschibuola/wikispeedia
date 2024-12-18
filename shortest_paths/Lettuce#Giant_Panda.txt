@@ -1,0 +1,1 @@
+[["Lettuce", "Binomial_nomenclature", "Giant_Panda"], ["Lettuce", "China", "Giant_Panda"], ["Lettuce", "Chinese_language", "Giant_Panda"], ["Lettuce", "Scientific_classification", "Giant_Panda"], ["Lettuce", "United_States", "Giant_Panda"]]

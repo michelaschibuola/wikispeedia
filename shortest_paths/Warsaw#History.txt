@@ -1,0 +1,1 @@
+[["Warsaw", "Architecture", "History"], ["Warsaw", "Athens", "History"], ["Warsaw", "The_Holocaust", "History"]]

@@ -1,0 +1,1 @@
+[["Bird", "Animal", "Great_white_shark"], ["Bird", "Carolus_Linnaeus", "Great_white_shark"], ["Bird", "Chordate", "Great_white_shark"], ["Bird", "Fish", "Great_white_shark"], ["Bird", "Scientific_classification", "Great_white_shark"], ["Bird", "Bull_shark", "Great_white_shark"]]

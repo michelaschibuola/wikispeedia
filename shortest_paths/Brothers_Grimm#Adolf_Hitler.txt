@@ -1,0 +1,1 @@
+[["Brothers_Grimm", "Berlin", "Adolf_Hitler"], ["Brothers_Grimm", "Germany", "Adolf_Hitler"], ["Brothers_Grimm", "German_language", "Adolf_Hitler"], ["Brothers_Grimm", "Nationalism", "Adolf_Hitler"]]

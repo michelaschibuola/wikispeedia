@@ -1,0 +1,1 @@
+[["Earth", "Athanasius_Kircher", "Jesus"], ["Earth", "Creationism", "Jesus"], ["Earth", "Deity", "Jesus"], ["Earth", "China", "Jesus"], ["Earth", "Europe", "Jesus"], ["Earth", "Hebrew_language", "Jesus"], ["Earth", "Lunar_eclipse", "Jesus"], ["Earth", "Thomas_Aquinas", "Jesus"], ["Earth", "The_Brothers_Karamazov", "Jesus"]]

@@ -1,0 +1,1 @@
+[["Lebanon", "Germany", "Parrot"], ["Lebanon", "Belgium", "Parrot"], ["Lebanon", "Europe", "Parrot"], ["Lebanon", "India", "Parrot"], ["Lebanon", "Myanmar", "Parrot"], ["Lebanon", "South_America", "Parrot"], ["Lebanon", "Spain", "Parrot"], ["Lebanon", "United_States", "Parrot"]]

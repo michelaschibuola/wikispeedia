@@ -1,0 +1,1 @@
+[["Salt", "2004_Indian_Ocean_earthquake", "Mexico"], ["Salt", "Carlsbad_Caverns_National_Park", "Mexico"], ["Salt", "History_of_Portugal_%281777%E2%80%931834%29", "Mexico"], ["Salt", "Maya_civilization", "Mexico"], ["Salt", "Electricity", "Mexico"], ["Salt", "Pigment", "Mexico"], ["Salt", "Wine", "Mexico"]]

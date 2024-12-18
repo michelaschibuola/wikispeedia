@@ -1,0 +1,1 @@
+[["Textile", "Acetic_acid", "Wine"], ["Textile", "Armenia", "Wine"], ["Textile", "Jordan", "Wine"], ["Textile", "Mesopotamia", "Wine"], ["Textile", "Portugal", "Wine"]]

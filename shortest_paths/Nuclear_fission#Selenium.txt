@@ -1,0 +1,1 @@
+[["Nuclear_fission", "Krypton", "Selenium"], ["Nuclear_fission", "Chemical_element", "Selenium"], ["Nuclear_fission", "Coal", "Selenium"], ["Nuclear_fission", "Electron", "Selenium"], ["Nuclear_fission", "Neutron", "Selenium"]]

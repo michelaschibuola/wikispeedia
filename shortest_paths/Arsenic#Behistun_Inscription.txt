@@ -1,0 +1,1 @@
+[["Arsenic", "Iran", "Behistun_Inscription"], ["Arsenic", "Iron", "Behistun_Inscription"], ["Arsenic", "Lead", "Behistun_Inscription"]]

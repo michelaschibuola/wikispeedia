@@ -1,0 +1,1 @@
+[["Vampire", "France", "Trade_union"]]

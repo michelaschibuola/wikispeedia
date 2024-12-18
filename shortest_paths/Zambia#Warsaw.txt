@@ -1,0 +1,1 @@
+[["Zambia", "12th_century", "Warsaw"], ["Zambia", "19th_century", "Warsaw"], ["Zambia", "Country", "Warsaw"], ["Zambia", "Europe", "Warsaw"], ["Zambia", "United_Kingdom", "Warsaw"]]

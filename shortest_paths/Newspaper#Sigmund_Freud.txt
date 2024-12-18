@@ -1,0 +1,1 @@
+[["Newspaper", "Film", "Sigmund_Freud"], ["Newspaper", "Library_of_Congress", "Sigmund_Freud"], ["Newspaper", "London", "Sigmund_Freud"], ["Newspaper", "English_language", "Sigmund_Freud"], ["Newspaper", "France", "Sigmund_Freud"]]

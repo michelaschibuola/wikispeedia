@@ -1,0 +1,1 @@
+[["Portuguese_language", "English_language", "Amish"], ["Portuguese_language", "Switzerland", "Amish"], ["Portuguese_language", "United_States", "Amish"]]

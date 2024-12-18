@@ -1,0 +1,1 @@
+[["Portuguese_language", "Africa", "Isis"], ["Portuguese_language", "England", "Isis"], ["Portuguese_language", "Mediterranean_Sea", "Isis"], ["Portuguese_language", "Asia", "Isis"], ["Portuguese_language", "Vowel", "Isis"]]

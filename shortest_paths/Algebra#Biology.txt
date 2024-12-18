@@ -1,0 +1,1 @@
+[["Algebra", "Age_of_Enlightenment", "Biology"], ["Algebra", "Differential_equation", "Biology"], ["Algebra", "Gottfried_Leibniz", "Biology"], ["Algebra", "Latin", "Biology"], ["Algebra", "Mathematics", "Biology"], ["Algebra", "Education", "Biology"], ["Algebra", "Trigonometry", "Biology"]]

@@ -1,0 +1,1 @@
+[["Baseball", "South_America", "Adolf_Hitler"], ["Baseball", "United_States", "Adolf_Hitler"], ["Baseball", "Sweden", "Adolf_Hitler"]]

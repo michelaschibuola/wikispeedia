@@ -1,0 +1,1 @@
+[["F-4_Phantom_II", "Australia", "Horse"], ["F-4_Phantom_II", "Egypt", "Horse"], ["F-4_Phantom_II", "Great_Britain", "Horse"], ["F-4_Phantom_II", "Spain", "Horse"], ["F-4_Phantom_II", "United_Kingdom", "Horse"], ["F-4_Phantom_II", "United_States", "Horse"]]

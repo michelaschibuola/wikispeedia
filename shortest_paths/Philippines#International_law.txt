@@ -1,0 +1,1 @@
+[["Philippines", "Japanese_war_crimes", "International_law"], ["Philippines", "United_Nations", "International_law"], ["Philippines", "World_Trade_Organization", "International_law"], ["Philippines", "Police", "International_law"], ["Philippines", "World_Health_Organization", "International_law"], ["Philippines", "World_War_II", "International_law"]]

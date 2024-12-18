@@ -1,0 +1,1 @@
+[["Jackal", "Europe", "Water_Buffalo"], ["Jackal", "Animal", "Water_Buffalo"], ["Jackal", "Asia", "Water_Buffalo"], ["Jackal", "Chordate", "Water_Buffalo"], ["Jackal", "Mammal", "Water_Buffalo"], ["Jackal", "Scientific_classification", "Water_Buffalo"]]

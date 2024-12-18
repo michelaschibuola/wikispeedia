@@ -1,0 +1,1 @@
+[["Gold", "Geology", "Gal%C3%A1pagos_Islands"], ["Gold", "Peru", "Gal%C3%A1pagos_Islands"], ["Gold", "United_States", "Gal%C3%A1pagos_Islands"]]

@@ -1,0 +1,1 @@
+[["Economy_of_India", "Democracy", "Nazism"], ["Economy_of_India", "Germany", "Nazism"], ["Economy_of_India", "Hinduism", "Nazism"], ["Economy_of_India", "Japan", "Nazism"], ["Economy_of_India", "United_States", "Nazism"]]

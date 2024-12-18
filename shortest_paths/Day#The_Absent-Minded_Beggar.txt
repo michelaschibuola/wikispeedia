@@ -1,0 +1,1 @@
+[["Day", "English_language", "Poetry", "The_Absent-Minded_Beggar"], ["Day", "Nahuatl_language", "Poetry", "The_Absent-Minded_Beggar"], ["Day", "English_language", "Rudyard_Kipling", "The_Absent-Minded_Beggar"], ["Day", "Newspaper", "Rudyard_Kipling", "The_Absent-Minded_Beggar"]]

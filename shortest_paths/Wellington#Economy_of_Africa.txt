@@ -1,0 +1,1 @@
+[["Wellington", "Capital", "Economy_of_Africa"], ["Wellington", "Europe", "Economy_of_Africa"]]

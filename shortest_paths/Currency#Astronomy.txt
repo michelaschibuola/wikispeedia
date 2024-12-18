@@ -1,0 +1,1 @@
+[["Currency", "Ancient_Egypt", "Astronomy"], ["Currency", "India", "Astronomy"], ["Currency", "Iran", "Astronomy"], ["Currency", "Metal", "Astronomy"]]

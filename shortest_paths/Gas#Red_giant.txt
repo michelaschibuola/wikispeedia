@@ -1,0 +1,1 @@
+[["Gas", "Helium", "Red_giant"], ["Gas", "Hydrogen", "Red_giant"], ["Gas", "Planetary_nebula", "Red_giant"], ["Gas", "Sun", "Red_giant"]]

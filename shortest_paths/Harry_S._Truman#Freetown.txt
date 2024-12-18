@@ -1,0 +1,1 @@
+[["Harry_S._Truman", "France", "Freetown"], ["Harry_S._Truman", "Kansas_City%2C_Missouri", "Freetown"], ["Harry_S._Truman", "United_States", "Freetown"], ["Harry_S._Truman", "World_War_II", "Freetown"], ["Harry_S._Truman", "History_of_the_Royal_Australian_Navy", "Freetown"]]

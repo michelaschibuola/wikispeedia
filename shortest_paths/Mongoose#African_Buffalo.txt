@@ -1,0 +1,1 @@
+[["Mongoose", "Animal", "African_Buffalo"], ["Mongoose", "Botswana", "African_Buffalo"], ["Mongoose", "Chordate", "African_Buffalo"], ["Mongoose", "Namibia", "African_Buffalo"], ["Mongoose", "Scientific_classification", "African_Buffalo"], ["Mongoose", "South_Africa", "African_Buffalo"]]

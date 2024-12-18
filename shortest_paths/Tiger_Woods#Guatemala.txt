@@ -1,0 +1,1 @@
+[["Tiger_Woods", "Bill_Clinton", "Guatemala"], ["Tiger_Woods", "Pacific_Ocean", "Guatemala"], ["Tiger_Woods", "United_States", "Guatemala"]]

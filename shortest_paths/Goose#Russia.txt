@@ -1,0 +1,1 @@
+[["Goose", "Foie_gras", "Russia"], ["Goose", "Global_spread_of_H5N1", "Russia"], ["Goose", "Asia", "Russia"], ["Goose", "Europe", "Russia"], ["Goose", "North_America", "Russia"], ["Goose", "Swan", "Russia"]]

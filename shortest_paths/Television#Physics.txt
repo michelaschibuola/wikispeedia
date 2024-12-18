@@ -1,0 +1,1 @@
+[["Television", "20th_century", "Physics"], ["Television", "Computer", "Physics"], ["Television", "Electrical_engineering", "Physics"], ["Television", "Electronics", "Physics"], ["Television", "Magnet", "Physics"], ["Television", "Radio", "Physics"], ["Television", "Color", "Physics"], ["Television", "Technology", "Physics"], ["Television", "Time", "Physics"]]

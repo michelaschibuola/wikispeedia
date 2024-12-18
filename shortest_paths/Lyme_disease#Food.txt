@@ -1,0 +1,1 @@
+[["Lyme_disease", "Bacteria", "Food"], ["Lyme_disease", "Minnesota", "Food"], ["Lyme_disease", "Vitamin_C", "Food"], ["Lyme_disease", "Vitamin_D", "Food"]]

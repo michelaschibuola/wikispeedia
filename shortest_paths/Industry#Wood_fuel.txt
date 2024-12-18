@@ -1,0 +1,1 @@
+[["Industry", "Coal", "Wood_fuel"], ["Industry", "Steam_engine", "Wood_fuel"], ["Industry", "Steel", "Wood_fuel"], ["Industry", "Natural_gas", "Wood_fuel"]]

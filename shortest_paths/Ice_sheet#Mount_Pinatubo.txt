@@ -1,0 +1,1 @@
+[["Ice_sheet", "Antarctica", "Mount_Pinatubo"], ["Ice_sheet", "South_America", "Mount_Pinatubo"]]

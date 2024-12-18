@@ -1,0 +1,1 @@
+[["Glasses", "Italy", "Santa_Claus"], ["Glasses", "Japan", "Santa_Claus"], ["Glasses", "United_States", "Santa_Claus"]]

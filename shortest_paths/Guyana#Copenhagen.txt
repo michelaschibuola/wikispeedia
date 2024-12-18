@@ -1,0 +1,1 @@
+[["Guyana", "English_language", "Copenhagen"], ["Guyana", "Fishing", "Copenhagen"], ["Guyana", "Europe", "Copenhagen"], ["Guyana", "Football_%28soccer%29", "Copenhagen"], ["Guyana", "Time_zone", "Copenhagen"], ["Guyana", "United_States", "Copenhagen"], ["Guyana", "Turkey", "Copenhagen"]]

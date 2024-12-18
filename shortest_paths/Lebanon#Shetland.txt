@@ -1,0 +1,1 @@
+[["Lebanon", "Agriculture", "Shetland"], ["Lebanon", "Europe", "Shetland"], ["Lebanon", "Great_Britain", "Shetland"], ["Lebanon", "World_War_II", "Shetland"]]

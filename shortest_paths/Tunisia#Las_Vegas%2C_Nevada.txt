@@ -1,0 +1,1 @@
+[["Tunisia", "Bulgaria", "Las_Vegas%2C_Nevada"], ["Tunisia", "Tourism", "Las_Vegas%2C_Nevada"], ["Tunisia", "Desert", "Las_Vegas%2C_Nevada"], ["Tunisia", "Spain", "Las_Vegas%2C_Nevada"], ["Tunisia", "Time_zone", "Las_Vegas%2C_Nevada"]]

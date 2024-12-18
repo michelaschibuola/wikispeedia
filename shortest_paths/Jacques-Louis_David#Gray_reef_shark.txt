@@ -1,0 +1,1 @@
+[["Jacques-Louis_David", "19th_century", "Red_Sea", "Gray_reef_shark"], ["Jacques-Louis_David", "Egypt", "Red_Sea", "Gray_reef_shark"], ["Jacques-Louis_David", "France", "Red_Sea", "Gray_reef_shark"]]

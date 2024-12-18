@@ -1,0 +1,1 @@
+[["Language", "Anthropology", "Love"], ["Language", "Bertrand_Russell", "Love"], ["Language", "Human", "Love"], ["Language", "Biology", "Love"], ["Language", "Mesopotamia", "Love"], ["Language", "Psychology", "Love"], ["Language", "William_Shakespeare", "Love"]]

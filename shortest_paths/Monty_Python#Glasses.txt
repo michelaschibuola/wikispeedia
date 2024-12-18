@@ -1,0 +1,1 @@
+[["Monty_Python", "China", "Glasses"], ["Monty_Python", "Italy", "Glasses"], ["Monty_Python", "Middle_Ages", "Glasses"], ["Monty_Python", "The_Beatles", "Glasses"], ["Monty_Python", "United_Kingdom", "Glasses"], ["Monty_Python", "United_States", "Glasses"]]

@@ -1,0 +1,1 @@
+[["Gravitation", "Ancient_Rome", "Salt"], ["Gravitation", "Mineral", "Salt"], ["Gravitation", "Hydrogen", "Salt"], ["Gravitation", "Soil", "Salt"], ["Gravitation", "Water", "Salt"]]

@@ -1,0 +1,1 @@
+[["Tank", "France", "Medal_of_Honor"], ["Tank", "Israel", "Medal_of_Honor"], ["Tank", "United_States", "Medal_of_Honor"], ["Tank", "World_War_I", "Medal_of_Honor"], ["Tank", "World_War_II", "Medal_of_Honor"]]

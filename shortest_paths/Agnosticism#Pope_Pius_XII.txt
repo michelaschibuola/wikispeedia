@@ -1,0 +1,1 @@
+[["Agnosticism", "Philosophy", "Pope_Pius_XII"], ["Agnosticism", "Brazil", "Pope_Pius_XII"], ["Agnosticism", "Germany", "Pope_Pius_XII"]]

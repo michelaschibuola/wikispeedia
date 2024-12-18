@@ -1,0 +1,1 @@
+[["African_slave_trade", "Brazil", "Richard_Francis_Burton"], ["African_slave_trade", "India", "Richard_Francis_Burton"], ["African_slave_trade", "Portugal", "Richard_Francis_Burton"], ["African_slave_trade", "Scramble_for_Africa", "Richard_Francis_Burton"]]

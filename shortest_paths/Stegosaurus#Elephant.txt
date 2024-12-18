@@ -1,0 +1,1 @@
+[["Stegosaurus", "Animal", "Elephant"], ["Stegosaurus", "Camarasaurus", "Elephant"], ["Stegosaurus", "Chordate", "Elephant"], ["Stegosaurus", "England", "Elephant"], ["Stegosaurus", "Herbivore", "Elephant"], ["Stegosaurus", "Mammal", "Elephant"], ["Stegosaurus", "Scientific_classification", "Elephant"], ["Stegosaurus", "Tyrannosaurus", "Elephant"]]

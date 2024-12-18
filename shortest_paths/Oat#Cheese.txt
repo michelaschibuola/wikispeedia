@@ -1,0 +1,1 @@
+[["Oat", "Argentina", "Cheese"], ["Oat", "Bread", "Cheese"], ["Oat", "Australia", "Cheese"], ["Oat", "Europe", "Cheese"], ["Oat", "Fatty_acid", "Cheese"], ["Oat", "Germany", "Cheese"], ["Oat", "People%27s_Republic_of_China", "Cheese"], ["Oat", "Poland", "Cheese"], ["Oat", "United_Kingdom", "Cheese"], ["Oat", "United_States", "Cheese"]]

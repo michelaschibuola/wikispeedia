@@ -1,0 +1,1 @@
+[["18th_century", "London", "Liberal_Democrats"], ["18th_century", "Scotland", "Liberal_Democrats"], ["18th_century", "Human_rights", "Liberal_Democrats"], ["18th_century", "Parliament_of_the_United_Kingdom", "Liberal_Democrats"], ["18th_century", "Pound_sterling", "Liberal_Democrats"]]

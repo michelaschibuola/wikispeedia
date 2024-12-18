@@ -1,0 +1,1 @@
+[["Canberra", "Football_%28soccer%29", "French_Guiana"], ["Canberra", "France", "French_Guiana"], ["Canberra", "United_States", "French_Guiana"]]

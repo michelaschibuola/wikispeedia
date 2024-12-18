@@ -1,0 +1,1 @@
+[["Monarchy", "Napoleon_I_of_France", "Shaka"], ["Monarchy", "Zulu", "Shaka"]]

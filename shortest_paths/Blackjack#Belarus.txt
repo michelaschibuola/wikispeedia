@@ -1,0 +1,1 @@
+[["Blackjack", "Europe", "Belarus"], ["Blackjack", "Playing_card", "Belarus"]]

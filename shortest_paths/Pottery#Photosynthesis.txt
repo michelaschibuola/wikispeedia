@@ -1,0 +1,1 @@
+[["Pottery", "18th_century", "Photosynthesis"], ["Pottery", "Iron", "Photosynthesis"], ["Pottery", "Oxygen", "Photosynthesis"]]

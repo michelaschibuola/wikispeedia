@@ -1,0 +1,1 @@
+[["Bee", "Ant", "Sun"], ["Bee", "Antarctica", "Sun"], ["Bee", "Light", "Sun"], ["Bee", "Minoan_civilization", "Sun"], ["Bee", "Ultraviolet", "Sun"]]

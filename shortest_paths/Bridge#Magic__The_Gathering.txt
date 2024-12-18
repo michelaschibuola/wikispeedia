@@ -1,0 +1,1 @@
+[["Bridge", "German_language", "Magic__The_Gathering"], ["Bridge", "Japan", "Magic__The_Gathering"]]

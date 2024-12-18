@@ -1,0 +1,1 @@
+[["Nature", "Culture", "Istanbul"], ["Nature", "Plate_tectonics", "Istanbul"]]

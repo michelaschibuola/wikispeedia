@@ -1,0 +1,1 @@
+[["Triathlon", "Portugal", "Slovenia", "Magpie"], ["Triathlon", "France", "Slovenia", "Magpie"], ["Triathlon", "France", "Global_spread_of_H5N1", "Magpie"]]

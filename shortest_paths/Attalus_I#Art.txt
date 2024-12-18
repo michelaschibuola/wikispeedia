@@ -1,0 +1,1 @@
+[["Attalus_I", "Ancient_Egypt", "Art"], ["Attalus_I", "Ancient_Rome", "Art"], ["Attalus_I", "France", "Art"]]

@@ -1,0 +1,1 @@
+[["Hurricane_Dennis", "United_States", "Economy_of_India"], ["Hurricane_Dennis", "United_States_dollar", "Economy_of_India"]]

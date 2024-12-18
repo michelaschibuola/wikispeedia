@@ -1,0 +1,1 @@
+[["History_of_South_Africa", "Capital", "American_Samoa"], ["History_of_South_Africa", "Germany", "American_Samoa"], ["History_of_South_Africa", "Law", "American_Samoa"], ["History_of_South_Africa", "United_States", "American_Samoa"]]

@@ -1,0 +1,1 @@
+[["Palau", "Europe", "Winter"], ["Palau", "Fishing", "Winter"], ["Palau", "Germany", "Winter"], ["Palau", "United_States", "Winter"]]

@@ -1,0 +1,1 @@
+[["Malaria", "Johnny_Appleseed", "Walt_Disney"], ["Malaria", "Tuberculosis", "Walt_Disney"], ["Malaria", "United_States", "Walt_Disney"], ["Malaria", "World_War_II", "Walt_Disney"]]

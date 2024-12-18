@@ -1,0 +1,1 @@
+[["Russia", "Acid_rain", "Fossil_fuel"], ["Russia", "Bog", "Fossil_fuel"], ["Russia", "Carbon", "Fossil_fuel"], ["Russia", "Industrial_Revolution", "Fossil_fuel"], ["Russia", "Modern_history", "Fossil_fuel"], ["Russia", "Pollution", "Fossil_fuel"], ["Russia", "Agriculture", "Fossil_fuel"], ["Russia", "Natural_gas", "Fossil_fuel"], ["Russia", "Sulfur", "Fossil_fuel"]]

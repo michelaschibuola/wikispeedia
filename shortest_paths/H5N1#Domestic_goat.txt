@@ -1,0 +1,1 @@
+[["H5N1", "Animal", "Domestic_goat"], ["H5N1", "Azerbaijan", "Domestic_goat"], ["H5N1", "Chicken", "Domestic_goat"], ["H5N1", "Indonesia", "Domestic_goat"], ["H5N1", "Middle_East", "Domestic_goat"]]

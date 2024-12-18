@@ -1,0 +1,1 @@
+[["Nicolaus_Copernicus", "Baroque", "Mosaic"], ["Nicolaus_Copernicus", "Italy", "Mosaic"], ["Nicolaus_Copernicus", "Rome", "Mosaic"]]

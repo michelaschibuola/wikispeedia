@@ -1,0 +1,1 @@
+[["Kenya", "Chimpanzee", "Whale"], ["Kenya", "Hippopotamus", "Whale"], ["Kenya", "Indian_Ocean", "Whale"], ["Kenya", "19th_century", "Whale"], ["Kenya", "Ghana", "Whale"], ["Kenya", "Human", "Whale"], ["Kenya", "Japan", "Whale"], ["Kenya", "United_States", "Whale"]]

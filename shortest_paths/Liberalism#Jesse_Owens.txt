@@ -1,0 +1,1 @@
+[["Liberalism", "Adolf_Hitler", "Jesse_Owens"], ["Liberalism", "Germany", "Jesse_Owens"], ["Liberalism", "Nazism", "Jesse_Owens"]]

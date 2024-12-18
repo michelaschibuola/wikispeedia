@@ -1,0 +1,1 @@
+[["Proxima_Centauri", "Moon", "Physics", "Applied_mathematics"], ["Proxima_Centauri", "Sun", "Physics", "Applied_mathematics"], ["Proxima_Centauri", "Star", "Physics", "Applied_mathematics"]]

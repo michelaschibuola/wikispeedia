@@ -1,0 +1,1 @@
+[["Lord_Voldemort", "Hebrew_language", "Baruch_Spinoza"], ["Lord_Voldemort", "Latin", "Baruch_Spinoza"]]

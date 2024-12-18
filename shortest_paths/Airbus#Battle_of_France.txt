@@ -1,0 +1,1 @@
+[["Airbus", "Belgium", "Battle_of_France"], ["Airbus", "France", "Battle_of_France"], ["Airbus", "Germany", "Battle_of_France"], ["Airbus", "Luxembourg", "Battle_of_France"], ["Airbus", "United_Kingdom", "Battle_of_France"]]

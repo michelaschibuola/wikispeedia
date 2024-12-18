@@ -1,0 +1,1 @@
+[["Tokyo", "Asia", "Mestizo"], ["Tokyo", "Football_%28soccer%29", "Mestizo"], ["Tokyo", "Japan", "Mestizo"], ["Tokyo", "Mexico_City", "Mestizo"], ["Tokyo", "Australia", "Mestizo"], ["Tokyo", "Brazil", "Mestizo"], ["Tokyo", "India", "Mestizo"], ["Tokyo", "People%27s_Republic_of_China", "Mestizo"], ["Tokyo", "United_States", "Mestizo"]]

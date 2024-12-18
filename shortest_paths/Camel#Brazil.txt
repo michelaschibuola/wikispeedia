@@ -1,0 +1,1 @@
+[["Camel", "Africa", "Brazil"], ["Camel", "African_slave_trade", "Brazil"], ["Camel", "Asia", "Brazil"], ["Camel", "Kenya", "Brazil"], ["Camel", "Ferdinand_Magellan", "Brazil"], ["Camel", "Milk", "Brazil"]]

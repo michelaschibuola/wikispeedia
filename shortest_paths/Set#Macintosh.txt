@@ -1,0 +1,1 @@
+[["Set", "Mathematics", "Bill_Gates", "Macintosh"], ["Set", "Programming_language", "Bill_Gates", "Macintosh"], ["Set", "Programming_language", "GNU", "Macintosh"], ["Set", "Programming_language", "Internet", "Macintosh"], ["Set", "Programming_language", "Python_%28programming_language%29", "Macintosh"]]

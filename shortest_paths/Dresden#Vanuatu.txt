@@ -1,0 +1,1 @@
+[["Dresden", "Currency", "Vanuatu"], ["Dresden", "France", "Vanuatu"], ["Dresden", "List_of_countries", "Vanuatu"], ["Dresden", "United_Kingdom", "Vanuatu"], ["Dresden", "World_War_II", "Vanuatu"]]

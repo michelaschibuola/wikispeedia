@@ -1,0 +1,1 @@
+[["Alexander_Graham_Bell", "19th_century", "Black_Death"], ["Alexander_Graham_Bell", "England", "Black_Death"], ["Alexander_Graham_Bell", "London", "Black_Death"], ["Alexander_Graham_Bell", "Scotland", "Black_Death"]]

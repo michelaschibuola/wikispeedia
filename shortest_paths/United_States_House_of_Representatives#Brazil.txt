@@ -1,0 +1,1 @@
+[["United_States_House_of_Representatives", "American_Civil_War", "Brazil"], ["United_States_House_of_Representatives", "Criticism_of_the_War_on_Terrorism", "Brazil"], ["United_States_House_of_Representatives", "United_States", "Brazil"], ["United_States_House_of_Representatives", "Democracy", "Brazil"]]

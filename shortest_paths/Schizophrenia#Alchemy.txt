@@ -1,0 +1,1 @@
+[["Schizophrenia", "Carl_Jung", "Alchemy"], ["Schizophrenia", "Copper", "Alchemy"], ["Schizophrenia", "Lead", "Alchemy"], ["Schizophrenia", "Ancient_Greece", "Alchemy"], ["Schizophrenia", "Ancient_Rome", "Alchemy"], ["Schizophrenia", "Europe", "Alchemy"], ["Schizophrenia", "India", "Alchemy"], ["Schizophrenia", "Japan", "Alchemy"], ["Schizophrenia", "Vitamin", "Alchemy"]]

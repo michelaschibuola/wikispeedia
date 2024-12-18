@@ -1,0 +1,1 @@
+[["Pollinator_decline", "Food", "Islam", "Waheguru"], ["Pollinator_decline", "United_States", "Islam", "Waheguru"], ["Pollinator_decline", "Food", "Judaism", "Waheguru"], ["Pollinator_decline", "United_States", "Judaism", "Waheguru"], ["Pollinator_decline", "United_States", "God", "Waheguru"], ["Pollinator_decline", "United_States", "Sikhism", "Waheguru"]]

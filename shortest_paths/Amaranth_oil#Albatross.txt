@@ -1,0 +1,1 @@
+[["Amaranth_oil", "Fatty_acid", "Genetics", "Albatross"], ["Amaranth_oil", "List_of_vegetable_oils", "Brazil", "Albatross"], ["Amaranth_oil", "List_of_vegetable_oils", "Chile", "Albatross"], ["Amaranth_oil", "List_of_vegetable_oils", "Europe", "Albatross"]]

@@ -1,0 +1,1 @@
+[["Roman_Catholic_Church", "Christianity", "Extraterrestrial_life"], ["Roman_Catholic_Church", "Egypt", "Extraterrestrial_life"], ["Roman_Catholic_Church", "Age_of_Enlightenment", "Extraterrestrial_life"], ["Roman_Catholic_Church", "Astronomy", "Extraterrestrial_life"], ["Roman_Catholic_Church", "God", "Extraterrestrial_life"]]

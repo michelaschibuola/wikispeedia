@@ -1,0 +1,1 @@
+[["Ordinal_number", "Education_in_the_United_States", "U.S._state", "Lake_Tahoe"], ["Ordinal_number", "Education_in_the_United_States", "World_War_II", "Lake_Tahoe"]]

@@ -1,0 +1,1 @@
+[["Johannes_Gutenberg", "Europe", "Indian_Ocean"], ["Johannes_Gutenberg", "Ottoman_Empire", "Indian_Ocean"]]

@@ -1,0 +1,1 @@
+[["French_Southern_and_Antarctic_Lands", "British_Indian_Ocean_Territory", "Vasco_da_Gama"], ["French_Southern_and_Antarctic_Lands", "Africa", "Vasco_da_Gama"], ["French_Southern_and_Antarctic_Lands", "Brazil", "Vasco_da_Gama"], ["French_Southern_and_Antarctic_Lands", "Indian_Ocean", "Vasco_da_Gama"], ["French_Southern_and_Antarctic_Lands", "Kenya", "Vasco_da_Gama"]]

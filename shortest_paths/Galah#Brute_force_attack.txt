@@ -1,0 +1,1 @@
+[["Galah", "Australia", "English_language", "Brute_force_attack"], ["Galah", "Australia", "United_States", "Brute_force_attack"], ["Galah", "Melbourne", "United_States", "Brute_force_attack"], ["Galah", "DNA", "Cryptography", "Brute_force_attack"]]

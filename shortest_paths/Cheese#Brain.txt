@@ -1,0 +1,1 @@
+[["Cheese", "Bacteria", "Brain"], ["Cheese", "Cattle", "Brain"], ["Cheese", "Domestic_goat", "Brain"], ["Cheese", "Europe", "Brain"], ["Cheese", "Mammal", "Brain"], ["Cheese", "Protein", "Brain"], ["Cheese", "Phenylketonuria", "Brain"]]

@@ -1,0 +1,1 @@
+[["Esperanto", "Brazil", "Frog"], ["Esperanto", "China", "Frog"], ["Esperanto", "France", "Frog"], ["Esperanto", "Madagascar", "Frog"], ["Esperanto", "Kigo", "Frog"]]

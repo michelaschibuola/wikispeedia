@@ -1,0 +1,1 @@
+[["Mercury_%28element%29", "Latin", "Virus"], ["Mercury_%28element%29", "Medicine", "Virus"], ["Mercury_%28element%29", "World_Health_Organization", "Virus"]]

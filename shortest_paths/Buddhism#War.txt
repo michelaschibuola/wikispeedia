@@ -1,0 +1,1 @@
+[["Buddhism", "Ancient_history", "War"], ["Buddhism", "Korea", "War"], ["Buddhism", "Psychology", "War"], ["Buddhism", "Religion", "War"], ["Buddhism", "Du_Fu", "War"], ["Buddhism", "History_of_the_world", "War"], ["Buddhism", "Human_rights", "War"], ["Buddhism", "Jewellery", "War"], ["Buddhism", "United_States", "War"]]

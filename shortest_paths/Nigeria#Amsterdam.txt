@@ -1,0 +1,1 @@
+[["Nigeria", "Africa", "Amsterdam"], ["Nigeria", "Atlantic_Ocean", "Amsterdam"], ["Nigeria", "Brazil", "Amsterdam"], ["Nigeria", "Jew", "Amsterdam"], ["Nigeria", "London", "Amsterdam"], ["Nigeria", "United_Kingdom", "Amsterdam"]]

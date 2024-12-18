@@ -1,0 +1,1 @@
+[["Gas_giant", "Planet", "Religion"], ["Gas_giant", "Sun", "Religion"]]

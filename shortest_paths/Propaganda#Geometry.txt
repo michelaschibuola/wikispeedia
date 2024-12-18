@@ -1,0 +1,1 @@
+[["Propaganda", "Edward_Teller", "Geometry"], ["Propaganda", "El_Lissitzky", "Geometry"], ["Propaganda", "Religion", "Geometry"]]

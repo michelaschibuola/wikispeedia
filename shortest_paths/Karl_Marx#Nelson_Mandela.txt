@@ -1,0 +1,1 @@
+[["Karl_Marx", "Citizenship", "Nelson_Mandela"], ["Karl_Marx", "Fidel_Castro", "Nelson_Mandela"], ["Karl_Marx", "Mozambique", "Nelson_Mandela"]]

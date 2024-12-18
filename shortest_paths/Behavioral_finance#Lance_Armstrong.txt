@@ -1,0 +1,1 @@
+[["Behavioral_finance", "Adam_Smith", "France", "Lance_Armstrong"], ["Behavioral_finance", "Finance", "United_States", "Lance_Armstrong"], ["Behavioral_finance", "Psychology", "United_States", "Lance_Armstrong"], ["Behavioral_finance", "Psychology", "Brain", "Lance_Armstrong"]]

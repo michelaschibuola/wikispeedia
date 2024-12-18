@@ -1,0 +1,1 @@
+[["Great_Britain", "Australia", "Sugarcane"], ["Great_Britain", "Europe", "Sugarcane"], ["Great_Britain", "France", "Sugarcane"], ["Great_Britain", "Martinique", "Sugarcane"], ["Great_Britain", "Netherlands", "Sugarcane"], ["Great_Britain", "North_America", "Sugarcane"], ["Great_Britain", "Saint_Lucia", "Sugarcane"], ["Great_Britain", "Sugar", "Sugarcane"]]

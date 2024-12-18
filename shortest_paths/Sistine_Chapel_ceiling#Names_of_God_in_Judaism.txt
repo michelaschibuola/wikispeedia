@@ -1,0 +1,1 @@
+[["Sistine_Chapel_ceiling", "Bible", "Names_of_God_in_Judaism"], ["Sistine_Chapel_ceiling", "God", "Names_of_God_in_Judaism"], ["Sistine_Chapel_ceiling", "Isaac", "Names_of_God_in_Judaism"], ["Sistine_Chapel_ceiling", "Jesus", "Names_of_God_in_Judaism"], ["Sistine_Chapel_ceiling", "Jew", "Names_of_God_in_Judaism"], ["Sistine_Chapel_ceiling", "Raphael", "Names_of_God_in_Judaism"]]

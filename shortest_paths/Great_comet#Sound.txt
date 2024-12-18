@@ -1,0 +1,1 @@
+[["Great_comet", "Comet", "Gas", "Sound"], ["Great_comet", "Solar_System", "Light", "Sound"], ["Great_comet", "Solar_System", "Physical_science", "Sound"], ["Great_comet", "Solar_System", "Helium", "Sound"]]

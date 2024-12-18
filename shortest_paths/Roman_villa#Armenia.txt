@@ -1,0 +1,1 @@
+[["Roman_villa", "Ancient_Rome", "Armenia"], ["Roman_villa", "Coal", "Armenia"], ["Roman_villa", "France", "Armenia"], ["Roman_villa", "Poland", "Armenia"], ["Roman_villa", "Roman_Empire", "Armenia"]]

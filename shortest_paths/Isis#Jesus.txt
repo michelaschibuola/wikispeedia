@@ -1,0 +1,1 @@
+[["Isis", "1st_century_BC", "Jesus"], ["Isis", "6th_century", "Jesus"], ["Isis", "Art", "Jesus"], ["Isis", "Augustus", "Jesus"], ["Isis", "Christianity", "Jesus"], ["Isis", "Egypt", "Jesus"], ["Isis", "Europe", "Jesus"], ["Isis", "Josephus", "Jesus"]]

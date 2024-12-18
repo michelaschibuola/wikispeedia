@@ -1,0 +1,1 @@
+[["Bridge", "Europe", "Exploration_of_Mars"], ["Bridge", "Japan", "Exploration_of_Mars"], ["Bridge", "Russia", "Exploration_of_Mars"], ["Bridge", "United_States", "Exploration_of_Mars"]]

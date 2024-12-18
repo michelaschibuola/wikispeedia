@@ -1,0 +1,1 @@
+[["Buckminster_Fuller", "Human", "International_Red_Cross_and_Red_Crescent_Movement"], ["Buckminster_Fuller", "United_States", "International_Red_Cross_and_Red_Crescent_Movement"], ["Buckminster_Fuller", "World_War_I", "International_Red_Cross_and_Red_Crescent_Movement"]]

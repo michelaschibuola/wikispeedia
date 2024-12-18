@@ -1,0 +1,1 @@
+[["Culture", "Anemia", "Oxygen"], ["Culture", "Gender", "Oxygen"], ["Culture", "Nature", "Oxygen"]]

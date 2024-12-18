@@ -1,0 +1,1 @@
+[["Hyena", "Africa", "British_Empire"], ["Hyena", "Europe", "British_Empire"], ["Hyena", "South_Africa", "British_Empire"]]

@@ -1,0 +1,1 @@
+[["Devonian", "Fossil", "Camarasaurus"], ["Devonian", "North_America", "Camarasaurus"], ["Devonian", "Fossil_record", "Camarasaurus"]]

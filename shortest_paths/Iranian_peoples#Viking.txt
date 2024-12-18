@@ -1,0 +1,1 @@
+[["Iranian_peoples", "Germany", "Viking"], ["Iranian_peoples", "Byzantine_Empire", "Viking"], ["Iranian_peoples", "Christianity", "Viking"], ["Iranian_peoples", "English_language", "Viking"], ["Iranian_peoples", "Islam", "Viking"], ["Iranian_peoples", "North_Africa", "Viking"], ["Iranian_peoples", "Roman_Empire", "Viking"], ["Iranian_peoples", "Russia", "Viking"]]

@@ -1,0 +1,1 @@
+[["Soil_structure", "Fertilizer", "Plant", "Celery"], ["Soil_structure", "Soil", "Plant", "Celery"], ["Soil_structure", "Garden", "Plant", "Celery"], ["Soil_structure", "Fertilizer", "Seed", "Celery"], ["Soil_structure", "Soil", "Seed", "Celery"], ["Soil_structure", "Soil", "Avocado", "Celery"]]

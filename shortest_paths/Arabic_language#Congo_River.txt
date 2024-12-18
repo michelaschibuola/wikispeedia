@@ -1,0 +1,1 @@
+[["Arabic_language", "Africa", "Congo_River"], ["Arabic_language", "Cotton", "Congo_River"], ["Arabic_language", "Sugar", "Congo_River"], ["Arabic_language", "Europe", "Congo_River"], ["Arabic_language", "Nile", "Congo_River"]]

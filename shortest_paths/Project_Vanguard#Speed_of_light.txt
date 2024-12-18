@@ -1,0 +1,1 @@
+[["Project_Vanguard", "Earth", "Speed_of_light"], ["Project_Vanguard", "United_States", "Speed_of_light"]]

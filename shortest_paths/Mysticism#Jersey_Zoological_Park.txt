@@ -1,0 +1,1 @@
+[["Mysticism", "19th_century", "Bird", "Jersey_Zoological_Park"], ["Mysticism", "20th_century", "Chimpanzee", "Jersey_Zoological_Park"], ["Mysticism", "20th_century", "Mammal", "Jersey_Zoological_Park"], ["Mysticism", "Asia", "Black-winged_Stilt", "Jersey_Zoological_Park"]]

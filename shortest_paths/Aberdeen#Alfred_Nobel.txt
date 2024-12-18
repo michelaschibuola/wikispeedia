@@ -1,0 +1,1 @@
+[["Aberdeen", "Saint_Petersburg", "Alfred_Nobel"]]

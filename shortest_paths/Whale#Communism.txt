@@ -1,0 +1,1 @@
+[["Whale", "Dr._Seuss", "Communism"], ["Whale", "Human", "Communism"], ["Whale", "United_States", "Communism"]]

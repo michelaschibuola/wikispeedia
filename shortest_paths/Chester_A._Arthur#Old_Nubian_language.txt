@@ -1,0 +1,1 @@
+[["Chester_A._Arthur", "Canada", "Christianity", "Old_Nubian_language"], ["Chester_A._Arthur", "Rhode_Island", "Christianity", "Old_Nubian_language"], ["Chester_A._Arthur", "Washington%2C_D.C.", "9th_century", "Old_Nubian_language"]]

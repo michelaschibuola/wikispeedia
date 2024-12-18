@@ -1,0 +1,1 @@
+[["Belarus", "Austria", "Giant_Panda"], ["Belarus", "Soviet_Union", "Giant_Panda"], ["Belarus", "United_States_dollar", "Giant_Panda"], ["Belarus", "Germany", "Giant_Panda"]]

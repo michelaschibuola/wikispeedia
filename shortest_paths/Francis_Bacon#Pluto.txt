@@ -1,0 +1,1 @@
+[["Francis_Bacon", "Astrology", "Pluto"], ["Francis_Bacon", "England", "Pluto"]]

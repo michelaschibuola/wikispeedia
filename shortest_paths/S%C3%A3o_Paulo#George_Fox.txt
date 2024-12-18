@@ -1,0 +1,1 @@
+[["S%C3%A3o_Paulo", "Germany", "George_Fox"], ["S%C3%A3o_Paulo", "London", "George_Fox"], ["S%C3%A3o_Paulo", "North_America", "George_Fox"]]

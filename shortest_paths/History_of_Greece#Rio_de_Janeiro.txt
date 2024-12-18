@@ -1,0 +1,1 @@
+[["History_of_Greece", "England", "Rio_de_Janeiro"], ["History_of_Greece", "France", "Rio_de_Janeiro"], ["History_of_Greece", "Germany", "Rio_de_Janeiro"], ["History_of_Greece", "South_Africa", "Rio_de_Janeiro"], ["History_of_Greece", "Spain", "Rio_de_Janeiro"], ["History_of_Greece", "Tourism", "Rio_de_Janeiro"], ["History_of_Greece", "Turkey", "Rio_de_Janeiro"]]

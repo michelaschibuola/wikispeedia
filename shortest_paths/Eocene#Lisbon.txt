@@ -1,0 +1,1 @@
+[["Eocene", "Atlantic_Ocean", "Lisbon"], ["Eocene", "Europe", "Lisbon"], ["Eocene", "India", "Lisbon"], ["Eocene", "United_States", "Lisbon"], ["Eocene", "Horse", "Lisbon"], ["Eocene", "Rhine", "Lisbon"]]

@@ -1,0 +1,1 @@
+[["Queen_%28band%29", "England", "Politics"], ["Queen_%28band%29", "London", "Politics"], ["Queen_%28band%29", "France", "Politics"], ["Queen_%28band%29", "Italy", "Politics"], ["Queen_%28band%29", "United_States", "Politics"]]

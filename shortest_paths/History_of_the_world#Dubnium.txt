@@ -1,0 +1,1 @@
+[["History_of_the_world", "Germany", "Dubnium"], ["History_of_the_world", "Russia", "Dubnium"], ["History_of_the_world", "Soviet_Union", "Dubnium"], ["History_of_the_world", "United_States", "Dubnium"]]

@@ -1,0 +1,1 @@
+[["Monarchy", "Agriculture", "Hanoi"], ["Monarchy", "Australia", "Hanoi"], ["Monarchy", "Japan", "Hanoi"]]

@@ -1,0 +1,1 @@
+[["Fertilizer", "Chlorine", "Fluorine"], ["Fertilizer", "Manganese", "Fluorine"], ["Fertilizer", "Mineral", "Fluorine"], ["Fertilizer", "Potassium", "Fluorine"], ["Fertilizer", "Uranium", "Fluorine"]]

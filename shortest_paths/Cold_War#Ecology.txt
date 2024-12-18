@@ -1,0 +1,1 @@
+[["Cold_War", "Civilization", "Ecology"], ["Cold_War", "Marxism", "Ecology"], ["Cold_War", "Socialism", "Ecology"], ["Cold_War", "Sociocultural_evolution", "Ecology"]]

@@ -1,0 +1,1 @@
+[["Rain", "England", "Culture"], ["Rain", "Evolution", "Culture"], ["Rain", "Africa", "Culture"], ["Rain", "Agriculture", "Culture"], ["Rain", "Middle_East", "Culture"], ["Rain", "United_States", "Culture"]]

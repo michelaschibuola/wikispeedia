@@ -1,0 +1,1 @@
+[["Australian_rules_football", "Atlanta%2C_Georgia", "U.S._state"], ["Australian_rules_football", "Louisville%2C_Kentucky", "U.S._state"], ["Australian_rules_football", "Washington%2C_D.C.", "U.S._state"]]

@@ -1,0 +1,1 @@
+[["Pollution", "21st_century", "Internet"], ["Pollution", "Globalization", "Internet"], ["Pollution", "People%27s_Republic_of_China", "Internet"], ["Pollution", "Chicago", "Internet"], ["Pollution", "London", "Internet"], ["Pollution", "United_States", "Internet"]]

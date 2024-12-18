@@ -1,0 +1,1 @@
+[["Philippines", "Malaria", "Yellow_fever"], ["Philippines", "Capital", "Yellow_fever"], ["Philippines", "Spanish_language", "Yellow_fever"], ["Philippines", "United_States", "Yellow_fever"], ["Philippines", "Theodore_Roosevelt", "Yellow_fever"], ["Philippines", "World_Health_Organization", "Yellow_fever"]]

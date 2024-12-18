@@ -1,0 +1,1 @@
+[["Plutonium", "History_of_nuclear_weapons", "Adolf_Hitler"], ["Plutonium", "John_von_Neumann", "Adolf_Hitler"], ["Plutonium", "Cold_War", "Adolf_Hitler"], ["Plutonium", "Soviet_Union", "Adolf_Hitler"], ["Plutonium", "United_States", "Adolf_Hitler"]]

@@ -1,0 +1,1 @@
+[["Ordovician", "China", "South_Africa"], ["Ordovician", "Europe", "South_Africa"], ["Ordovician", "Fossil", "South_Africa"], ["Ordovician", "North_America", "South_Africa"], ["Ordovician", "Petroleum", "South_Africa"], ["Ordovician", "Plant", "South_Africa"]]

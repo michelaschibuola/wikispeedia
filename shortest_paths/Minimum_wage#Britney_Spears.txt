@@ -1,0 +1,1 @@
+[["Minimum_wage", "California", "Britney_Spears"], ["Minimum_wage", "Florida", "Britney_Spears"], ["Minimum_wage", "Australia", "Britney_Spears"], ["Minimum_wage", "United_Kingdom", "Britney_Spears"], ["Minimum_wage", "United_States", "Britney_Spears"]]

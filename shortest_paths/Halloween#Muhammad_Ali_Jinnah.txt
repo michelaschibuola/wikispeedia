@@ -1,0 +1,1 @@
+[["Halloween", "Australia", "Muhammad_Ali_Jinnah"], ["Halloween", "Canada", "Muhammad_Ali_Jinnah"], ["Halloween", "New_York_City", "Muhammad_Ali_Jinnah"], ["Halloween", "New_Zealand", "Muhammad_Ali_Jinnah"]]

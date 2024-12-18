@@ -1,0 +1,1 @@
+[["Thomas_More", "Gold", "Tycho_Brahe"], ["Thomas_More", "Roman_Catholic_Church", "Tycho_Brahe"]]

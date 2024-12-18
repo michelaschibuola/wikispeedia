@@ -1,0 +1,1 @@
+[["P%C3%B3voa_de_Varzim", "Denmark", "Gone_with_the_Wind_%28film%29"], ["P%C3%B3voa_de_Varzim", "France", "Gone_with_the_Wind_%28film%29"], ["P%C3%B3voa_de_Varzim", "Spain", "Gone_with_the_Wind_%28film%29"]]

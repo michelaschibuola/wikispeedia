@@ -1,0 +1,1 @@
+[["Kenya", "Human", "Weapon"], ["Kenya", "Iran", "Weapon"], ["Kenya", "Iraq", "Weapon"], ["Kenya", "Royal_Navy", "Weapon"], ["Kenya", "United_States", "Weapon"], ["Kenya", "World_War_I", "Weapon"]]

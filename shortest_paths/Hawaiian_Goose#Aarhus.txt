@@ -1,0 +1,1 @@
+[["Hawaiian_Goose", "Animal", "Humanities", "Aarhus"], ["Hawaiian_Goose", "Binomial_nomenclature", "Sweden", "Aarhus"], ["Hawaiian_Goose", "Bird", "Agriculture", "Aarhus"], ["Hawaiian_Goose", "Goose", "Europe", "Aarhus"], ["Hawaiian_Goose", "Mongoose", "Europe", "Aarhus"]]

@@ -1,0 +1,1 @@
+[["Ireland", "Gypsum", "Sand"], ["Ireland", "Nepenthes_rajah", "Sand"], ["Ireland", "Salt_Lake_City%2C_Utah", "Sand"]]

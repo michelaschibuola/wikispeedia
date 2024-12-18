@@ -1,0 +1,1 @@
+[["Kurt_Cobain", "Germany", "Rabindranath_Tagore"], ["Kurt_Cobain", "Philosophy", "Rabindranath_Tagore"], ["Kurt_Cobain", "Rome", "Rabindranath_Tagore"], ["Kurt_Cobain", "United_States", "Rabindranath_Tagore"]]

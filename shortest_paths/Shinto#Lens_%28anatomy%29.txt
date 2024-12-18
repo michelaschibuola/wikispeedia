@@ -1,0 +1,1 @@
+[["Shinto", "7th_century", "Light", "Lens_%28anatomy%29"], ["Shinto", "Moon", "Light", "Lens_%28anatomy%29"], ["Shinto", "Symmetry", "Light", "Lens_%28anatomy%29"], ["Shinto", "Japan", "Contact_lens", "Lens_%28anatomy%29"], ["Shinto", "Japan", "Glasses", "Lens_%28anatomy%29"], ["Shinto", "Japan", "Shark", "Lens_%28anatomy%29"]]

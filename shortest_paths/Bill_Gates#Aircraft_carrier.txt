@@ -1,0 +1,1 @@
+[["Bill_Gates", "Brazil", "Aircraft_carrier"], ["Bill_Gates", "Denmark", "Aircraft_carrier"], ["Bill_Gates", "Japan", "Aircraft_carrier"], ["Bill_Gates", "United_Kingdom", "Aircraft_carrier"], ["Bill_Gates", "United_States", "Aircraft_carrier"]]

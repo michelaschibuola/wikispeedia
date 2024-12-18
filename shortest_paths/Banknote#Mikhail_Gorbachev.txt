@@ -1,0 +1,1 @@
+[["Banknote", "Canada", "Mikhail_Gorbachev"], ["Banknote", "United_Kingdom", "Mikhail_Gorbachev"], ["Banknote", "United_States", "Mikhail_Gorbachev"]]

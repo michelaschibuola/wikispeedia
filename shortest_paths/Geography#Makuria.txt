@@ -1,0 +1,1 @@
+[["Geography", "Ptolemy", "Makuria"], ["Geography", "Roman_Empire", "Makuria"]]

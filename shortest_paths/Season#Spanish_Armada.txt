@@ -1,0 +1,1 @@
+[["Season", "England", "Spanish_Armada"], ["Season", "Ireland", "Spanish_Armada"], ["Season", "Tropical_cyclone", "Spanish_Armada"]]

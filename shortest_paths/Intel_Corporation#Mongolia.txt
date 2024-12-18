@@ -1,0 +1,1 @@
+[["Intel_Corporation", "Cryptography", "Mongolia"], ["Intel_Corporation", "Israel", "Mongolia"], ["Intel_Corporation", "Japan", "Mongolia"], ["Intel_Corporation", "United_States", "Mongolia"]]

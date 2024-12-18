@@ -1,0 +1,1 @@
+[["Lake_District", "England", "Acid_rain"], ["Lake_District", "Granite", "Acid_rain"], ["Lake_District", "Snow", "Acid_rain"]]

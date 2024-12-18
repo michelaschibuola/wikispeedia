@@ -1,0 +1,1 @@
+[["Renaissance", "Europe", "Southern_Africa"], ["Renaissance", "Politics", "Southern_Africa"], ["Renaissance", "Christianity", "Southern_Africa"]]

@@ -1,0 +1,1 @@
+[["Kazakhstan", "Chromium", "Ganges_River"], ["Kazakhstan", "History_of_Buddhism", "Ganges_River"], ["Kazakhstan", "United_Kingdom", "Ganges_River"], ["Kazakhstan", "List_of_rivers_by_length", "Ganges_River"], ["Kazakhstan", "Netherlands", "Ganges_River"], ["Kazakhstan", "Retreat_of_glaciers_since_1850", "Ganges_River"], ["Kazakhstan", "Timur", "Ganges_River"]]

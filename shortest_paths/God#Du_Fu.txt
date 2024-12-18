@@ -1,0 +1,1 @@
+[["God", "Famine", "Du_Fu"], ["God", "Buddhism", "Du_Fu"], ["God", "Philosophy", "Du_Fu"], ["God", "Taoism", "Du_Fu"], ["God", "Poverty", "Du_Fu"], ["God", "William_Shakespeare", "Du_Fu"]]

@@ -1,0 +1,1 @@
+[["Lanthanum", "Carbon", "Africa", "Bongo_%28antelope%29"], ["Lanthanum", "Iron", "Mammal", "Bongo_%28antelope%29"], ["Lanthanum", "Molybdenum", "Animal", "Bongo_%28antelope%29"], ["Lanthanum", "Phosphorus", "Animal", "Bongo_%28antelope%29"]]

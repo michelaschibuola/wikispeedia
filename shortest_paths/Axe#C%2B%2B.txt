@@ -1,0 +1,1 @@
+[["Axe", "Great_Britain", "Computer", "C%2B%2B"], ["Axe", "Weapon", "Computer", "C%2B%2B"], ["Axe", "Ireland", "Nineteen_Eighty-Four", "C%2B%2B"], ["Axe", "Religion", "Evolution", "C%2B%2B"], ["Axe", "Steel", "Library", "C%2B%2B"], ["Axe", "Sumer", "Library", "C%2B%2B"], ["Axe", "Switzerland", "World_Wide_Web", "C%2B%2B"]]

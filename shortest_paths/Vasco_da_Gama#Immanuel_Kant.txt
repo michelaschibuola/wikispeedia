@@ -1,0 +1,1 @@
+[["Vasco_da_Gama", "1755_Lisbon_earthquake", "Immanuel_Kant"], ["Vasco_da_Gama", "Tsunami", "Immanuel_Kant"]]

@@ -1,0 +1,1 @@
+[["Great_Salt_Lake", "Dead_Sea", "Aristotle", "Humour"], ["Great_Salt_Lake", "Crocodile", "Platypus", "Humour"], ["Great_Salt_Lake", "South_America", "Platypus", "Humour"], ["Great_Salt_Lake", "Fish", "Emotion", "Humour"], ["Great_Salt_Lake", "Horse", "Cattle", "Humour"]]

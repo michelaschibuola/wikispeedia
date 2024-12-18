@@ -1,0 +1,1 @@
+[["GNOME", "Linux", "SimCity"], ["GNOME", "Microsoft_Windows", "SimCity"], ["GNOME", "X_Window_System", "SimCity"]]

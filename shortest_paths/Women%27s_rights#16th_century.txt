@@ -1,0 +1,1 @@
+[["Women%27s_rights", "Egypt", "16th_century"], ["Women%27s_rights", "India", "16th_century"], ["Women%27s_rights", "Iran", "16th_century"], ["Women%27s_rights", "Islam", "16th_century"]]

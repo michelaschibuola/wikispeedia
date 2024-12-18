@@ -1,0 +1,1 @@
+[["Eukaryote", "Animal", "Horse"], ["Eukaryote", "Chordate", "Horse"], ["Eukaryote", "DNA", "Horse"], ["Eukaryote", "Scientific_classification", "Horse"], ["Eukaryote", "Evolution", "Horse"], ["Eukaryote", "Human", "Horse"]]

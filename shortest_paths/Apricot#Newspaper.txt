@@ -1,0 +1,1 @@
+[["Apricot", "Europe", "Newspaper"], ["Apricot", "United_States", "Newspaper"]]

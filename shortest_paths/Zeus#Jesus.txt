@@ -1,0 +1,1 @@
+[["Zeus", "Apollo", "Jesus"], ["Zeus", "Behistun_Inscription", "Jesus"], ["Zeus", "Europe", "Jesus"], ["Zeus", "Jew", "Jesus"], ["Zeus", "Odysseus", "Jesus"], ["Zeus", "Domestic_goat", "Jesus"], ["Zeus", "Egypt", "Jesus"], ["Zeus", "Religion", "Jesus"], ["Zeus", "Zoroaster", "Jesus"]]

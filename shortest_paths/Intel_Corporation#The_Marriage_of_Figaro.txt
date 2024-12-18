@@ -1,0 +1,1 @@
+[["Intel_Corporation", "Budapest", "Vienna", "The_Marriage_of_Figaro"], ["Intel_Corporation", "Industry", "Vienna", "The_Marriage_of_Figaro"], ["Intel_Corporation", "Israel", "Vienna", "The_Marriage_of_Figaro"], ["Intel_Corporation", "Japan", "Vienna", "The_Marriage_of_Figaro"], ["Intel_Corporation", "Japan", "Actor", "The_Marriage_of_Figaro"]]

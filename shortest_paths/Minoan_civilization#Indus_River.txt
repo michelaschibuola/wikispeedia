@@ -1,0 +1,1 @@
+[["Minoan_civilization", "Bird", "Indus_River"], ["Minoan_civilization", "Clay", "Indus_River"], ["Minoan_civilization", "Wheat", "Indus_River"]]

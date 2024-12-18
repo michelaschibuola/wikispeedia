@@ -1,0 +1,1 @@
+[["Tufted_Duck", "Canada", "Hurricane_Katrina"], ["Tufted_Duck", "North_America", "Hurricane_Katrina"], ["Tufted_Duck", "United_States", "Hurricane_Katrina"]]

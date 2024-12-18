@@ -1,0 +1,1 @@
+[["13th_century", "Buddhism", "Manchester"], ["13th_century", "China", "Manchester"], ["13th_century", "Europe", "Manchester"], ["13th_century", "19th_century", "Manchester"], ["13th_century", "Coal", "Manchester"], ["13th_century", "Netherlands", "Manchester"], ["13th_century", "Tehran", "Manchester"]]

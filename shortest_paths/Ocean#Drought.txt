@@ -1,0 +1,1 @@
+[["Ocean", "Climate_change", "Drought"], ["Ocean", "Earth", "Drought"], ["Ocean", "Global_warming", "Drought"], ["Ocean", "Minnesota", "Drought"], ["Ocean", "Natural_disaster", "Drought"], ["Ocean", "Aral_Sea", "Drought"], ["Ocean", "Great_Salt_Lake", "Drought"], ["Ocean", "Tropical_cyclone", "Drought"], ["Ocean", "Rain", "Drought"], ["Ocean", "Water", "Drought"]]

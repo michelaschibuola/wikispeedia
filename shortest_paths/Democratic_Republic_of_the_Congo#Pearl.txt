@@ -1,0 +1,1 @@
+[["Democratic_Republic_of_the_Congo", "Indian_Ocean", "Pearl"], ["Democratic_Republic_of_the_Congo", "Mineral", "Pearl"], ["Democratic_Republic_of_the_Congo", "Fishing", "Pearl"]]

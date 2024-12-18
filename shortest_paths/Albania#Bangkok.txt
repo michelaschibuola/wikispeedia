@@ -1,0 +1,1 @@
+[["Albania", "Asia", "Bangkok"], ["Albania", "Bahrain", "Bangkok"], ["Albania", "English_language", "Bangkok"], ["Albania", "Finland", "Bangkok"], ["Albania", "Islam", "Bangkok"], ["Albania", "Malaysia", "Bangkok"], ["Albania", "People%27s_Republic_of_China", "Bangkok"], ["Albania", "Russia", "Bangkok"], ["Albania", "Thailand", "Bangkok"], ["Albania", "United_States", "Bangkok"]]

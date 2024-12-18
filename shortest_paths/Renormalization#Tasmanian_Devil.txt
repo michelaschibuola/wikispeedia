@@ -1,0 +1,1 @@
+[["Renormalization", "19th_century", "Australia", "Tasmanian_Devil"], ["Renormalization", "20th_century", "Binomial_nomenclature", "Tasmanian_Devil"], ["Renormalization", "20th_century", "Mammal", "Tasmanian_Devil"]]

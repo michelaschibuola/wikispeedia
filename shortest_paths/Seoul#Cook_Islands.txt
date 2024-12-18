@@ -1,0 +1,1 @@
+[["Seoul", "Government", "Cook_Islands"], ["Seoul", "New_Zealand", "Cook_Islands"], ["Seoul", "United_Kingdom", "Cook_Islands"], ["Seoul", "United_States", "Cook_Islands"]]

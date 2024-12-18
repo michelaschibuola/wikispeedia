@@ -1,0 +1,1 @@
+[["Cosmic_inflation", "Astronomy", "Winter", "Vole"], ["Cosmic_inflation", "Soviet_Union", "Africa", "Vole"], ["Cosmic_inflation", "Soviet_Union", "Europe", "Vole"], ["Cosmic_inflation", "Soviet_Union", "Asia", "Vole"], ["Cosmic_inflation", "Soviet_Union", "Star_Trek__Deep_Space_Nine", "Vole"]]

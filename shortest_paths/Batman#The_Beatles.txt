@@ -1,0 +1,1 @@
+[["Batman", "Buckingham_Palace", "The_Beatles"], ["Batman", "Captain_Marvel_%28DC_Comics%29", "The_Beatles"]]

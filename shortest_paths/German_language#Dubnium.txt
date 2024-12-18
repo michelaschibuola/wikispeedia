@@ -1,0 +1,1 @@
+[["German_language", "Germany", "Dubnium"], ["German_language", "Russia", "Dubnium"], ["German_language", "Soviet_Union", "Dubnium"], ["German_language", "United_States", "Dubnium"]]

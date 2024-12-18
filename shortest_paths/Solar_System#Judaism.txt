@@ -1,0 +1,1 @@
+[["Solar_System", "Big_Bang", "Judaism"], ["Solar_System", "Soviet_Union", "Judaism"], ["Solar_System", "Water", "Judaism"], ["Solar_System", "Superman", "Judaism"]]

@@ -1,0 +1,1 @@
+[["Celine_Dion", "George_W._Bush", "Bill_Clinton"], ["Celine_Dion", "Hurricane_Katrina", "Bill_Clinton"], ["Celine_Dion", "Montreal", "Bill_Clinton"], ["Celine_Dion", "New_York_City", "Bill_Clinton"], ["Celine_Dion", "President_of_the_United_States", "Bill_Clinton"], ["Celine_Dion", "United_States", "Bill_Clinton"], ["Celine_Dion", "Tiger_Woods", "Bill_Clinton"]]

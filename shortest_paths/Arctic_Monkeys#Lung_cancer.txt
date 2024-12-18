@@ -1,0 +1,1 @@
+[["Arctic_Monkeys", "New_Zealand", "Lung_cancer"], ["Arctic_Monkeys", "Scotland", "Lung_cancer"], ["Arctic_Monkeys", "United_Kingdom", "Lung_cancer"], ["Arctic_Monkeys", "United_States", "Lung_cancer"]]

@@ -1,0 +1,1 @@
+[["Argentina", "Canada", "Beaver"], ["Argentina", "Dam", "Beaver"], ["Argentina", "France", "Beaver"], ["Argentina", "Poland", "Beaver"], ["Argentina", "Roman_Catholic_Church", "Beaver"], ["Argentina", "Venezuela", "Beaver"], ["Argentina", "Wales", "Beaver"], ["Argentina", "Miocene", "Beaver"], ["Argentina", "River", "Beaver"]]

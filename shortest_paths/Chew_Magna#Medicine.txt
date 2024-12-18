@@ -1,0 +1,1 @@
+[["Chew_Magna", "England", "Medicine"], ["Chew_Magna", "Middle_Ages", "Medicine"], ["Chew_Magna", "United_Kingdom", "Medicine"], ["Chew_Magna", "John_Locke", "Medicine"]]

@@ -1,0 +1,1 @@
+[["Eyelid", "Eye", "Bird", "Herring_Gull"], ["Eyelid", "Vertebrate", "Bird", "Herring_Gull"], ["Eyelid", "Vertebrate", "Animal", "Herring_Gull"], ["Eyelid", "Vertebrate", "Chordate", "Herring_Gull"], ["Eyelid", "Vertebrate", "Scientific_classification", "Herring_Gull"]]

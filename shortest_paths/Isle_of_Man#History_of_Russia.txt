@@ -1,0 +1,1 @@
+[["Isle_of_Man", "Europe", "History_of_Russia"], ["Isle_of_Man", "England", "History_of_Russia"], ["Isle_of_Man", "Latin", "History_of_Russia"], ["Isle_of_Man", "Viking", "History_of_Russia"], ["Isle_of_Man", "United_States", "History_of_Russia"]]

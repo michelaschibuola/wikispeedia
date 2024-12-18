@@ -1,0 +1,1 @@
+[["Anemia", "Almond", "Asia"], ["Anemia", "American_English", "Asia"], ["Anemia", "British_English", "Asia"], ["Anemia", "Culture", "Asia"], ["Anemia", "Crohn%27s_disease", "Asia"], ["Anemia", "Gaza_Strip", "Asia"]]

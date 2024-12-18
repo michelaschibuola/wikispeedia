@@ -1,0 +1,1 @@
+[["Tennis", "Russia", "Exploration_of_Mars"], ["Tennis", "United_Kingdom", "Exploration_of_Mars"], ["Tennis", "United_States", "Exploration_of_Mars"]]

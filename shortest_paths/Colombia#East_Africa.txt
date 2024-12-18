@@ -1,0 +1,1 @@
+[["Colombia", "19th_century", "East_Africa"], ["Colombia", "Europe", "East_Africa"], ["Colombia", "France", "East_Africa"], ["Colombia", "Portugal", "East_Africa"], ["Colombia", "El_Ni%C3%B1o-Southern_Oscillation", "East_Africa"], ["Colombia", "Ethiopia", "East_Africa"], ["Colombia", "Mozambique", "East_Africa"], ["Colombia", "Slavery", "East_Africa"]]

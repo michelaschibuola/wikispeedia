@@ -1,0 +1,1 @@
+[["Pennine_Way", "England", "Chernobyl_disaster"], ["Pennine_Way", "Scotland", "Chernobyl_disaster"], ["Pennine_Way", "United_Kingdom", "Chernobyl_disaster"], ["Pennine_Way", "United_States", "Chernobyl_disaster"]]

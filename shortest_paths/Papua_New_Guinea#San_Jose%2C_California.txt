@@ -1,0 +1,1 @@
+[["Papua_New_Guinea", "California", "San_Jose%2C_California"], ["Papua_New_Guinea", "Earthquake", "San_Jose%2C_California"], ["Papua_New_Guinea", "Europe", "San_Jose%2C_California"], ["Papua_New_Guinea", "Gold", "San_Jose%2C_California"], ["Papua_New_Guinea", "Time_zone", "San_Jose%2C_California"]]

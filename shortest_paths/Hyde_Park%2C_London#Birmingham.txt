@@ -1,0 +1,1 @@
+[["Hyde_Park%2C_London", "Eric_Clapton", "Birmingham"], ["Hyde_Park%2C_London", "London", "Birmingham"], ["Hyde_Park%2C_London", "The_Great_Exhibition", "Birmingham"], ["Hyde_Park%2C_London", "United_Kingdom", "Birmingham"]]

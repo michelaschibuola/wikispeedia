@@ -1,0 +1,1 @@
+[["Abstract_art", "20th_century", "Internet", "Emacs"], ["Abstract_art", "Art", "Language", "Emacs"], ["Abstract_art", "Magdalena_Abakanowicz", "Boston%2C_Massachusetts", "Emacs"], ["Abstract_art", "Nazi_Germany", "English_language", "Emacs"], ["Abstract_art", "Taj_Mahal", "English_language", "Emacs"]]

@@ -1,0 +1,1 @@
+[["People%27s_Republic_of_China", "Aluminium", "Talc"], ["People%27s_Republic_of_China", "Australia", "Talc"], ["People%27s_Republic_of_China", "Himalayas", "Talc"], ["People%27s_Republic_of_China", "United_States", "Talc"], ["People%27s_Republic_of_China", "Turkey", "Talc"]]

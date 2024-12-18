@@ -1,0 +1,1 @@
+[["Ukraine", "China", "Buddhist_art"], ["Ukraine", "Roman_Empire", "Buddhist_art"]]

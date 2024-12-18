@@ -1,0 +1,1 @@
+[["Quantum_mechanics", "20th_century", "Fascism"], ["Quantum_mechanics", "Edward_Teller", "Fascism"], ["Quantum_mechanics", "Robert_Oppenheimer", "Fascism"]]

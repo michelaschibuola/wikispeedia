@@ -1,0 +1,1 @@
+[["Cheers", "Netherlands", "Coffee"], ["Cheers", "Seattle%2C_Washington", "Coffee"], ["Cheers", "United_States_dollar", "Coffee"]]

@@ -1,0 +1,1 @@
+[["Mosque", "China", "Toy"], ["Mosque", "Football_%28soccer%29", "Toy"], ["Mosque", "Iran", "Toy"], ["Mosque", "United_States", "Toy"]]

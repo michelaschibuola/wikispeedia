@@ -1,0 +1,1 @@
+[["Puerto_Rico", "United_States", "Binoculars"], ["Puerto_Rico", "World_War_II", "Binoculars"]]

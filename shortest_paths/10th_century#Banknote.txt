@@ -1,0 +1,1 @@
+[["10th_century", "Scotland", "Banknote"], ["10th_century", "17th_century", "Banknote"], ["10th_century", "British_monarchy", "Banknote"]]

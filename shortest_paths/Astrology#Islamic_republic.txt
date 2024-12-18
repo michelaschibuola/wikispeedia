@@ -1,0 +1,1 @@
+[["Astrology", "Africa", "Islamic_republic"], ["Astrology", "Middle_East", "Islamic_republic"]]

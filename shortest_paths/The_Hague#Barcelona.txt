@@ -1,0 +1,1 @@
+[["The_Hague", "European_Union", "Barcelona"], ["The_Hague", "Global_city", "Barcelona"], ["The_Hague", "Antwerp", "Barcelona"], ["The_Hague", "Europe", "Barcelona"], ["The_Hague", "Football_%28soccer%29", "Barcelona"], ["The_Hague", "France", "Barcelona"], ["The_Hague", "War_of_the_Spanish_Succession", "Barcelona"]]

@@ -1,0 +1,1 @@
+[["Giganotosaurus", "Reptile", "Sun", "Scattered_disc"]]

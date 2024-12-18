@@ -1,0 +1,1 @@
+[["Pottery", "Islam", "Belize"], ["Pottery", "Korea", "Belize"], ["Pottery", "Maya_civilization", "Belize"], ["Pottery", "18th_century", "Belize"]]

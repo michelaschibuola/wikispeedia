@@ -1,0 +1,1 @@
+[["Switzerland", "Albert_Einstein", "Motion_%28physics%29"], ["Switzerland", "Isaac_Newton", "Motion_%28physics%29"], ["Switzerland", "Physical_science", "Motion_%28physics%29"], ["Switzerland", "Energy", "Motion_%28physics%29"]]

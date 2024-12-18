@@ -1,0 +1,1 @@
+[["Kuiper_belt", "Hubble_Space_Telescope", "Europe", "Catholic_social_teaching"], ["Kuiper_belt", "Hubble_Space_Telescope", "World_War_II", "Catholic_social_teaching"], ["Kuiper_belt", "Sun", "Creationism", "Catholic_social_teaching"]]

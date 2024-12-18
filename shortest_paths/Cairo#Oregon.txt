@@ -1,0 +1,1 @@
+[["Cairo", "Capital", "Oregon"], ["Cairo", "Christianity", "Oregon"], ["Cairo", "Tourism", "Oregon"], ["Cairo", "United_States", "Oregon"]]

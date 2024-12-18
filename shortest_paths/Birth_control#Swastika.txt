@@ -1,0 +1,1 @@
+[["Birth_control", "20th_century", "Swastika"], ["Birth_control", "Asia", "Swastika"], ["Birth_control", "Europe", "Swastika"], ["Birth_control", "Germany", "Swastika"], ["Birth_control", "Hinduism", "Swastika"], ["Birth_control", "Islam", "Swastika"], ["Birth_control", "Judaism", "Swastika"], ["Birth_control", "Evolution", "Swastika"], ["Birth_control", "Jew", "Swastika"]]

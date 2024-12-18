@@ -1,0 +1,1 @@
+[["Haemophilia", "Biotechnology", "Europe", "Vole"], ["Haemophilia", "Jew", "Europe", "Vole"], ["Haemophilia", "HIV", "Africa", "Vole"], ["Haemophilia", "HIV", "Asia", "Vole"], ["Haemophilia", "Jew", "Asia", "Vole"]]

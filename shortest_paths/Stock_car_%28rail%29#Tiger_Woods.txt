@@ -1,0 +1,1 @@
+[["Stock_car_%28rail%29", "Pacific_Ocean", "Tiger_Woods"], ["Stock_car_%28rail%29", "United_States", "Tiger_Woods"]]

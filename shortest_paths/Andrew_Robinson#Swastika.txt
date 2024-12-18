@@ -1,0 +1,1 @@
+[["Andrew_Robinson", "New_York_City", "Swastika"], ["Andrew_Robinson", "United_States", "Swastika"], ["Andrew_Robinson", "World_War_II", "Swastika"]]

@@ -1,0 +1,1 @@
+[["Greek_mythology", "Europe", "Ice_sheet"], ["Greek_mythology", "Wind", "Ice_sheet"]]

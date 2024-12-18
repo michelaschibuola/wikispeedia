@@ -1,0 +1,1 @@
+[["Mexico", "Aztec", "John_Dee"], ["Mexico", "England", "John_Dee"], ["Mexico", "Europe", "John_Dee"], ["Mexico", "North_America", "John_Dee"], ["Mexico", "Poland", "John_Dee"], ["Mexico", "Religion", "John_Dee"], ["Mexico", "Paris", "John_Dee"]]

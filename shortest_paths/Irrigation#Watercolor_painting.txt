@@ -1,0 +1,1 @@
+[["Irrigation", "20th_century", "Watercolor_painting"], ["Irrigation", "China", "Watercolor_painting"], ["Irrigation", "India", "Watercolor_painting"]]

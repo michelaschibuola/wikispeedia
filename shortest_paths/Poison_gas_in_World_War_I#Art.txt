@@ -1,0 +1,1 @@
+[["Poison_gas_in_World_War_I", "Australia", "Art"], ["Poison_gas_in_World_War_I", "China", "Art"], ["Poison_gas_in_World_War_I", "France", "Art"], ["Poison_gas_in_World_War_I", "Horse", "Art"]]

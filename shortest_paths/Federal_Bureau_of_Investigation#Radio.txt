@@ -1,0 +1,1 @@
+[["Federal_Bureau_of_Investigation", "Detroit%2C_Michigan", "Radio"], ["Federal_Bureau_of_Investigation", "John_F._Kennedy_assassination", "Radio"], ["Federal_Bureau_of_Investigation", "Nikola_Tesla", "Radio"], ["Federal_Bureau_of_Investigation", "Police", "Radio"], ["Federal_Bureau_of_Investigation", "San_Jose%2C_California", "Radio"]]

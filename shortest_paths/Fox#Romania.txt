@@ -1,0 +1,1 @@
+[["Fox", "Europe", "Romania"], ["Fox", "German_language", "Romania"], ["Fox", "Turkey", "Romania"], ["Fox", "Rabies", "Romania"], ["Fox", "Slovenia", "Romania"]]

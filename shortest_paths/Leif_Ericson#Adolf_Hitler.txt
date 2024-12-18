@@ -1,0 +1,1 @@
+[["Leif_Ericson", "Germany", "Adolf_Hitler"], ["Leif_Ericson", "Norway", "Adolf_Hitler"], ["Leif_Ericson", "United_States", "Adolf_Hitler"]]

@@ -1,0 +1,1 @@
+[["Tsunami", "Japan", "Santa_Claus"], ["Tsunami", "Canada", "Santa_Claus"], ["Tsunami", "Chile", "Santa_Claus"], ["Tsunami", "France", "Santa_Claus"], ["Tsunami", "Italy", "Santa_Claus"], ["Tsunami", "Norway", "Santa_Claus"], ["Tsunami", "Russia", "Santa_Claus"], ["Tsunami", "United_States", "Santa_Claus"]]

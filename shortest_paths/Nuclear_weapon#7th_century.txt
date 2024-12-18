@@ -1,0 +1,1 @@
+[["Nuclear_weapon", "20th_century", "7th_century"], ["Nuclear_weapon", "China", "7th_century"], ["Nuclear_weapon", "India", "7th_century"], ["Nuclear_weapon", "Iran", "7th_century"], ["Nuclear_weapon", "Japan", "7th_century"], ["Nuclear_weapon", "Libya", "7th_century"]]

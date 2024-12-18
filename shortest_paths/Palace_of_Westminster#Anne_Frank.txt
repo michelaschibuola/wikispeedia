@@ -1,0 +1,1 @@
+[["Palace_of_Westminster", "Germany", "Anne_Frank"], ["Palace_of_Westminster", "World_War_II", "Anne_Frank"], ["Palace_of_Westminster", "United_Kingdom", "Anne_Frank"]]

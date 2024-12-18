@@ -1,0 +1,1 @@
+[["Cosmic_microwave_background_radiation", "Princeton_University", "Grover_Cleveland", "Chester_A._Arthur"], ["Cosmic_microwave_background_radiation", "Princeton_University", "New_York_City", "Chester_A._Arthur"], ["Cosmic_microwave_background_radiation", "Soviet_Union", "President_of_the_United_States", "Chester_A._Arthur"]]

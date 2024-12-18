@@ -1,0 +1,1 @@
+[["Seychelles", "France", "Calvin_Coolidge"], ["Seychelles", "United_Kingdom", "Calvin_Coolidge"]]

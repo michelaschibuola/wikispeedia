@@ -1,0 +1,1 @@
+[["Luftwaffe", "Blitzkrieg", "Trench_warfare"], ["Luftwaffe", "Germany", "Trench_warfare"], ["Luftwaffe", "NATO", "Trench_warfare"], ["Luftwaffe", "Napoleonic_Wars", "Trench_warfare"], ["Luftwaffe", "United_Kingdom", "Trench_warfare"], ["Luftwaffe", "United_States", "Trench_warfare"], ["Luftwaffe", "World_War_I", "Trench_warfare"], ["Luftwaffe", "World_War_II", "Trench_warfare"]]

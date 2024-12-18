@@ -1,0 +1,1 @@
+[["Amsterdam", "Indonesia", "Women%27s_rights"], ["Amsterdam", "United_Kingdom", "Women%27s_rights"], ["Amsterdam", "History_of_the_Netherlands", "Women%27s_rights"], ["Amsterdam", "Multiculturalism", "Women%27s_rights"]]

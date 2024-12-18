@@ -1,0 +1,1 @@
+[["Dwight_D._Eisenhower", "Japan", "History_of_democracy"], ["Dwight_D._Eisenhower", "Korea", "History_of_democracy"]]

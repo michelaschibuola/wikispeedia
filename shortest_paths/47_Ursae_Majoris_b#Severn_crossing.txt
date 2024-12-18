@@ -1,0 +1,1 @@
+[["47_Ursae_Majoris_b", "Gravitation", "England", "Severn_crossing"], ["47_Ursae_Majoris_b", "Sun", "England", "Severn_crossing"], ["47_Ursae_Majoris_b", "Water", "London", "Severn_crossing"]]

@@ -1,0 +1,1 @@
+[["Ethanol", "Agriculture", "Scotland"], ["Ethanol", "Canada", "Scotland"], ["Ethanol", "Carbon_dioxide", "Scotland"], ["Ethanol", "Petroleum", "Scotland"], ["Ethanol", "United_Kingdom", "Scotland"], ["Ethanol", "Tobacco_smoking", "Scotland"]]

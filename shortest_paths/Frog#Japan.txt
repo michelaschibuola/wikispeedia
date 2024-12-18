@@ -1,0 +1,1 @@
+[["Frog", "Fishing", "Japan"], ["Frog", "Australia", "Japan"], ["Frog", "Chile", "Japan"], ["Frog", "China", "Japan"], ["Frog", "France", "Japan"], ["Frog", "Jurassic", "Japan"], ["Frog", "Madagascar", "Japan"], ["Frog", "Pond", "Japan"], ["Frog", "United_Kingdom", "Japan"], ["Frog", "Kigo", "Japan"]]

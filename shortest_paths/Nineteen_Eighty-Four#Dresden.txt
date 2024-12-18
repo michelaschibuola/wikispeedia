@@ -1,0 +1,1 @@
+[["Nineteen_Eighty-Four", "China", "Dresden"], ["Nineteen_Eighty-Four", "Communism", "Dresden"], ["Nineteen_Eighty-Four", "Russia", "Dresden"], ["Nineteen_Eighty-Four", "United_Kingdom", "Dresden"], ["Nineteen_Eighty-Four", "United_States", "Dresden"], ["Nineteen_Eighty-Four", "World_War_II", "Dresden"]]

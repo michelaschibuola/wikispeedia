@@ -1,0 +1,1 @@
+[["Arctic_Monkeys", "Scotland", "Napoleon_I_of_France"], ["Arctic_Monkeys", "United_Kingdom", "Napoleon_I_of_France"], ["Arctic_Monkeys", "United_States", "Napoleon_I_of_France"]]

@@ -1,0 +1,1 @@
+[["Sahara", "Economy_of_Africa", "Salt"], ["Sahara", "Edible_salt", "Salt"], ["Sahara", "Egypt", "Salt"], ["Sahara", "Irrigation", "Salt"], ["Sahara", "Mali", "Salt"], ["Sahara", "Ancient_Rome", "Salt"], ["Sahara", "Desert", "Salt"], ["Sahara", "Metal", "Salt"], ["Sahara", "Timbuktu", "Salt"]]

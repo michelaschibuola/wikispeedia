@@ -1,0 +1,1 @@
+[["Ammosaurus", "Earth", "Shoshone_National_Forest"], ["Ammosaurus", "United_States", "Shoshone_National_Forest"]]

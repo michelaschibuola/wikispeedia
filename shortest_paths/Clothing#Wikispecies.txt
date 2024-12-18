@@ -1,0 +1,1 @@
+[["Clothing", "India", "Jimmy_Wales", "Wikispecies"], ["Clothing", "Japan", "Wikipedia", "Wikispecies"]]

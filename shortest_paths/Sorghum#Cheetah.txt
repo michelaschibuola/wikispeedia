@@ -1,0 +1,1 @@
+[["Sorghum", "Africa", "Cheetah"], ["Sorghum", "Agriculture", "Cheetah"], ["Sorghum", "Ethiopia", "Cheetah"], ["Sorghum", "India", "Cheetah"], ["Sorghum", "Scientific_classification", "Cheetah"], ["Sorghum", "South_Africa", "Cheetah"], ["Sorghum", "United_States", "Cheetah"]]

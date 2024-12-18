@@ -1,0 +1,1 @@
+[["Common_cold", "Germany", "Istanbul"], ["Common_cold", "Tobacco", "Istanbul"], ["Common_cold", "United_States", "Istanbul"]]

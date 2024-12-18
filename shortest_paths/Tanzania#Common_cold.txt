@@ -1,0 +1,1 @@
+[["Tanzania", "Germany", "Common_cold"], ["Tanzania", "United_Kingdom", "Common_cold"], ["Tanzania", "United_States", "Common_cold"]]

@@ -1,0 +1,1 @@
+[["Gold", "Africa", "Mancala"], ["Gold", "Egypt", "Mancala"], ["Gold", "India", "Mancala"], ["Gold", "United_States", "Mancala"]]

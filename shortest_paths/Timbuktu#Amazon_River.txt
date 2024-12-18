@@ -1,0 +1,1 @@
+[["Timbuktu", "Africa", "Amazon_River"], ["Timbuktu", "16th_century", "Amazon_River"], ["Timbuktu", "Asia", "Amazon_River"], ["Timbuktu", "Gold", "Amazon_River"], ["Timbuktu", "Portugal", "Amazon_River"]]

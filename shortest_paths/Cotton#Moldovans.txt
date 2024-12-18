@@ -1,0 +1,1 @@
+[["Cotton", "United_States", "Moldovans"], ["Cotton", "Kyrgyzstan", "Moldovans"], ["Cotton", "Tajikistan", "Moldovans"]]

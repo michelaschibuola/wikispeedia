@@ -1,0 +1,1 @@
+[["Norway", "Alternating_current", "Ozone"], ["Norway", "World_Health_Organization", "Ozone"]]

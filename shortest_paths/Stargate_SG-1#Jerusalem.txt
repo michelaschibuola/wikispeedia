@@ -1,0 +1,1 @@
+[["Stargate_SG-1", "Ancient_Egypt", "Jerusalem"], ["Stargate_SG-1", "Israel", "Jerusalem"], ["Stargate_SG-1", "Spain", "Jerusalem"], ["Stargate_SG-1", "Sweden", "Jerusalem"]]

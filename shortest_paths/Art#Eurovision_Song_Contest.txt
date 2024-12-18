@@ -1,0 +1,1 @@
+[["Art", "Australia", "Eurovision_Song_Contest"], ["Art", "Europe", "Eurovision_Song_Contest"], ["Art", "Belarus", "Eurovision_Song_Contest"], ["Art", "Culture", "Eurovision_Song_Contest"], ["Art", "Geography", "Eurovision_Song_Contest"], ["Art", "Lebanon", "Eurovision_Song_Contest"]]

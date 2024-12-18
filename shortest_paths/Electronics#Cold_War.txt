@@ -1,0 +1,1 @@
+[["Electronics", "1973_oil_crisis", "Cold_War"], ["Electronics", "20th_century", "Cold_War"], ["Electronics", "Iran", "Cold_War"], ["Electronics", "Israel", "Cold_War"], ["Electronics", "Japan", "Cold_War"], ["Electronics", "Space_Race", "Cold_War"], ["Electronics", "United_States", "Cold_War"]]

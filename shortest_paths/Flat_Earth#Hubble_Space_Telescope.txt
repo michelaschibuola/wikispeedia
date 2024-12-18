@@ -1,0 +1,1 @@
+[["Flat_Earth", "Earth", "Hubble_Space_Telescope"], ["Flat_Earth", "Astronomy", "Hubble_Space_Telescope"], ["Flat_Earth", "Europe", "Hubble_Space_Telescope"]]

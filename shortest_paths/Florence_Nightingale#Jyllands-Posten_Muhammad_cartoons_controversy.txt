@@ -1,0 +1,1 @@
+[["Florence_Nightingale", "BBC", "Jyllands-Posten_Muhammad_cartoons_controversy"], ["Florence_Nightingale", "Germany", "Jyllands-Posten_Muhammad_cartoons_controversy"], ["Florence_Nightingale", "India", "Jyllands-Posten_Muhammad_cartoons_controversy"]]

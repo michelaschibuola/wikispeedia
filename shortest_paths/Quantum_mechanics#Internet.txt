@@ -1,0 +1,1 @@
+[["Quantum_mechanics", "20th_century", "Internet"], ["Quantum_mechanics", "Computer", "Internet"], ["Quantum_mechanics", "German_language", "Internet"], ["Quantum_mechanics", "Information", "Internet"], ["Quantum_mechanics", "Time", "Internet"]]

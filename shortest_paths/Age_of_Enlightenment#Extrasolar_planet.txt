@@ -1,0 +1,1 @@
+[["Age_of_Enlightenment", "Poland", "Extrasolar_planet"], ["Age_of_Enlightenment", "Extraterrestrial_life", "Extrasolar_planet"]]

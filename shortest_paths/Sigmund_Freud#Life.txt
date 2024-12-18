@@ -1,0 +1,1 @@
+[["Sigmund_Freud", "Friedrich_Nietzsche", "Life"], ["Sigmund_Freud", "Human", "Life"], ["Sigmund_Freud", "Religion", "Life"]]

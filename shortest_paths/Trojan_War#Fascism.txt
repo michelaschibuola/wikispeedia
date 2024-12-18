@@ -1,0 +1,1 @@
+[["Trojan_War", "Ancient_Rome", "Fascism"], ["Trojan_War", "Italy", "Fascism"]]

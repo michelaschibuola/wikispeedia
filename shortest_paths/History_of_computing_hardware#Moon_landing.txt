@@ -1,0 +1,1 @@
+[["History_of_computing_hardware", "Moon", "Moon_landing"], ["History_of_computing_hardware", "Soviet_Union", "Moon_landing"]]

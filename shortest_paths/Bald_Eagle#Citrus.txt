@@ -1,0 +1,1 @@
+[["Bald_Eagle", "Carolus_Linnaeus", "Citrus"], ["Bald_Eagle", "Scientific_classification", "Citrus"], ["Bald_Eagle", "United_States", "Citrus"]]

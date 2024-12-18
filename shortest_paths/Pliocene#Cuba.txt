@@ -1,0 +1,1 @@
+[["Pliocene", "Europe", "Cuba"], ["Pliocene", "North_America", "Cuba"]]

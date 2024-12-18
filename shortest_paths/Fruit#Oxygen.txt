@@ -1,0 +1,1 @@
+[["Fruit", "Botany", "Oxygen"], ["Fruit", "Carbon", "Oxygen"], ["Fruit", "Coconut_crab", "Oxygen"], ["Fruit", "Color", "Oxygen"], ["Fruit", "Ethanol", "Oxygen"], ["Fruit", "Animal", "Oxygen"], ["Fruit", "Morphine", "Oxygen"], ["Fruit", "Plant", "Oxygen"], ["Fruit", "Ozone", "Oxygen"], ["Fruit", "Sulfur", "Oxygen"]]

@@ -1,0 +1,1 @@
+[["Cancer", "China", "Football"], ["Cancer", "Finland", "Football"], ["Cancer", "Japan", "Football"], ["Cancer", "Latin", "Football"], ["Cancer", "London", "Football"], ["Cancer", "United_States", "Football"], ["Cancer", "World_War_II", "Football"]]

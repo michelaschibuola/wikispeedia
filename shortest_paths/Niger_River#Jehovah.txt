@@ -1,0 +1,1 @@
+[["Niger_River", "Benin", "God", "Jehovah"], ["Niger_River", "Latin", "God", "Jehovah"], ["Niger_River", "List_of_rivers_by_length", "Switzerland", "Jehovah"], ["Niger_River", "Niger", "Switzerland", "Jehovah"], ["Niger_River", "Latin", "Switzerland", "Jehovah"], ["Niger_River", "Portuguese_language", "Switzerland", "Jehovah"]]

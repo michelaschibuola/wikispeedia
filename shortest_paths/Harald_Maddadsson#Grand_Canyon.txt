@@ -1,0 +1,1 @@
+[["Harald_Maddadsson", "Isle_of_Man", "Europe", "Grand_Canyon"], ["Harald_Maddadsson", "Norway", "Europe", "Grand_Canyon"], ["Harald_Maddadsson", "Shetland", "Europe", "Grand_Canyon"], ["Harald_Maddadsson", "Isle_of_Man", "Beach", "Grand_Canyon"], ["Harald_Maddadsson", "Isle_of_Man", "United_States", "Grand_Canyon"], ["Harald_Maddadsson", "Pope", "Spain", "Grand_Canyon"]]

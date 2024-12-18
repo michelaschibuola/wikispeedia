@@ -1,0 +1,1 @@
+[["Muhammad_Iqbal", "Allah", "Jesus"], ["Muhammad_Iqbal", "British_Empire", "Jesus"], ["Muhammad_Iqbal", "Christianity", "Jesus"], ["Muhammad_Iqbal", "Egypt", "Jesus"], ["Muhammad_Iqbal", "Europe", "Jesus"], ["Muhammad_Iqbal", "Hinduism", "Jesus"], ["Muhammad_Iqbal", "History", "Jesus"], ["Muhammad_Iqbal", "Islam", "Jesus"], ["Muhammad_Iqbal", "Kashmir_region", "Jesus"]]

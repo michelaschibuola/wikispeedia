@@ -1,0 +1,1 @@
+[["Jurassic", "France", "Photography", "Chromatic_aberration"], ["Jurassic", "United_States", "Photography", "Chromatic_aberration"], ["Jurassic", "Germany", "Glass", "Chromatic_aberration"], ["Jurassic", "Mediterranean_Sea", "Glass", "Chromatic_aberration"], ["Jurassic", "Plant", "Light", "Chromatic_aberration"]]

@@ -1,0 +1,1 @@
+[["Nobel_Peace_Prize", "Irish_people", "The_Cantos"], ["Nobel_Peace_Prize", "Benito_Mussolini", "The_Cantos"], ["Nobel_Peace_Prize", "France", "The_Cantos"], ["Nobel_Peace_Prize", "Physics", "The_Cantos"], ["Nobel_Peace_Prize", "World_War_I", "The_Cantos"], ["Nobel_Peace_Prize", "World_War_II", "The_Cantos"]]

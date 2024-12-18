@@ -1,0 +1,1 @@
+[["Malta", "Germany", "Medicine"], ["Malta", "Law", "Medicine"], ["Malta", "Byzantine_Empire", "Medicine"], ["Malta", "India", "Medicine"], ["Malta", "Tobacco", "Medicine"], ["Malta", "United_Kingdom", "Medicine"]]

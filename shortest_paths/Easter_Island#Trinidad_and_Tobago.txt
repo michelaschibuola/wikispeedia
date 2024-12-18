@@ -1,0 +1,1 @@
+[["Easter_Island", "Spanish_language", "Trinidad_and_Tobago"], ["Easter_Island", "Time_zone", "Trinidad_and_Tobago"], ["Easter_Island", "South_America", "Trinidad_and_Tobago"]]

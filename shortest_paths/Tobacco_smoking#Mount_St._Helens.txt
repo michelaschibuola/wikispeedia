@@ -1,0 +1,1 @@
+[["Tobacco_smoking", "United_States", "Mount_St._Helens"]]

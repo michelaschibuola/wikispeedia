@@ -1,0 +1,1 @@
+[["Redwood_National_and_State_Parks", "Spain", "Computer_and_video_games"], ["Redwood_National_and_State_Parks", "Star_Wars", "Computer_and_video_games"], ["Redwood_National_and_State_Parks", "United_States", "Computer_and_video_games"]]

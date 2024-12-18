@@ -1,0 +1,1 @@
+[["Bacteria", "Genetics", "Climate"], ["Bacteria", "Biodiversity", "Climate"], ["Bacteria", "Biology", "Climate"], ["Bacteria", "Devonian", "Climate"], ["Bacteria", "Ecology", "Climate"], ["Bacteria", "Organism", "Climate"], ["Bacteria", "Water", "Climate"]]

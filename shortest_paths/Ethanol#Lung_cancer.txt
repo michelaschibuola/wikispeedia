@@ -1,0 +1,1 @@
+[["Ethanol", "Cancer", "Lung_cancer"], ["Ethanol", "Pneumonia", "Lung_cancer"], ["Ethanol", "United_Kingdom", "Lung_cancer"], ["Ethanol", "Virus", "Lung_cancer"], ["Ethanol", "Plutonium", "Lung_cancer"], ["Ethanol", "Tobacco_smoking", "Lung_cancer"]]

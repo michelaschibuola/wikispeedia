@@ -1,0 +1,1 @@
+[["History_of_Arizona", "Christianity", "Propaganda"], ["History_of_Arizona", "United_States", "Propaganda"], ["History_of_Arizona", "World_War_I", "Propaganda"], ["History_of_Arizona", "World_War_II", "Propaganda"]]

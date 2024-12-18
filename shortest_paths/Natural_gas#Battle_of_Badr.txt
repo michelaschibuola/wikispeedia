@@ -1,0 +1,1 @@
+[["Natural_gas", "Saudi_Arabia", "Battle_of_Badr"], ["Natural_gas", "Oman", "Battle_of_Badr"], ["Natural_gas", "Yemen", "Battle_of_Badr"]]

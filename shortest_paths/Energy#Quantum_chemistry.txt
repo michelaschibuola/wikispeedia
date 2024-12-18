@@ -1,0 +1,1 @@
+[["Energy", "Chemistry", "Quantum_chemistry"], ["Energy", "Computational_chemistry", "Quantum_chemistry"], ["Energy", "Electron", "Quantum_chemistry"], ["Energy", "Physics", "Quantum_chemistry"], ["Energy", "Quantum_mechanics", "Quantum_chemistry"], ["Energy", "Physical_science", "Quantum_chemistry"], ["Energy", "Schr%C3%B6dinger_equation", "Quantum_chemistry"]]

@@ -1,0 +1,1 @@
+[["Kuwait", "Japan", "Nuclear_fission"], ["Kuwait", "United_States", "Nuclear_fission"]]

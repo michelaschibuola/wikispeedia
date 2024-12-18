@@ -1,0 +1,1 @@
+[["Hawk-Eye", "Computer", "Evolution", "Paleontology"], ["Hawk-Eye", "Davis_Cup", "Philippines", "Paleontology"], ["Hawk-Eye", "Perth%2C_Western_Australia", "Earth", "Paleontology"], ["Hawk-Eye", "Television", "Quatermass_and_the_Pit", "Paleontology"], ["Hawk-Eye", "Television", "Stephen_Jay_Gould", "Paleontology"], ["Hawk-Eye", "Television", "Tyrannosaurus", "Paleontology"]]

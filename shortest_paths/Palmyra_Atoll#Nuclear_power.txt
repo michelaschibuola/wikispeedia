@@ -1,0 +1,1 @@
+[["Palmyra_Atoll", "United_Kingdom", "Nuclear_power"], ["Palmyra_Atoll", "United_States", "Nuclear_power"]]

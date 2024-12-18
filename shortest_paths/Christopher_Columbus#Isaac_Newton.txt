@@ -1,0 +1,1 @@
+[["Christopher_Columbus", "London", "Isaac_Newton"], ["Christopher_Columbus", "History_of_science", "Isaac_Newton"]]

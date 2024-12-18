@@ -1,0 +1,1 @@
+[["Mestizo", "Japan", "Pac-Man"], ["Mestizo", "United_States", "Pac-Man"], ["Mestizo", "North_America", "Pac-Man"]]

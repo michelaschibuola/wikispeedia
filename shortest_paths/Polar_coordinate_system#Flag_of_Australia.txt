@@ -1,0 +1,1 @@
+[["Polar_coordinate_system", "Aircraft", "United_Kingdom", "Flag_of_Australia"], ["Polar_coordinate_system", "Engineering", "Melbourne", "Flag_of_Australia"], ["Polar_coordinate_system", "Mathematics", "Australia", "Flag_of_Australia"], ["Polar_coordinate_system", "Symmetry", "Australia", "Flag_of_Australia"]]

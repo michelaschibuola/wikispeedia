@@ -1,0 +1,1 @@
+[["African_Wild_Dog", "Animal", "Aphid"], ["African_Wild_Dog", "Scientific_classification", "Aphid"]]

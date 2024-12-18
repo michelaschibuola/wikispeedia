@@ -1,0 +1,1 @@
+[["Haemophilia", "Biotechnology", "Agriculture", "Fertilizer"], ["Haemophilia", "Biotechnology", "Nitrogen_fixation", "Fertilizer"], ["Haemophilia", "Biotechnology", "Norman_Borlaug", "Fertilizer"], ["Haemophilia", "12th_century", "Sulfur", "Fertilizer"], ["Haemophilia", "Jew", "Kiev", "Fertilizer"], ["Haemophilia", "Jew", "Nutrition", "Fertilizer"]]

@@ -1,0 +1,1 @@
+[["Ethiopian_Wolf", "Animal", "Frog"], ["Ethiopian_Wolf", "Chordate", "Frog"], ["Ethiopian_Wolf", "Mammal", "Frog"], ["Ethiopian_Wolf", "Scientific_classification", "Frog"]]

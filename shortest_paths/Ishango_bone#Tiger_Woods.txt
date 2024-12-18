@@ -1,0 +1,1 @@
+[["Ishango_bone", "Africa", "United_States", "Tiger_Woods"], ["Ishango_bone", "Brussels", "United_States", "Tiger_Woods"], ["Ishango_bone", "Uganda", "United_States", "Tiger_Woods"], ["Ishango_bone", "Africa", "Pacific_Ocean", "Tiger_Woods"], ["Ishango_bone", "Democratic_Republic_of_the_Congo", "Vietnam", "Tiger_Woods"], ["Ishango_bone", "Uganda", "Thailand", "Tiger_Woods"]]

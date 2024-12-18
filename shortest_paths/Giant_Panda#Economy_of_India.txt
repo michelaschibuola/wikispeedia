@@ -1,0 +1,1 @@
+[["Giant_Panda", "China", "Economy_of_India"], ["Giant_Panda", "Germany", "Economy_of_India"], ["Giant_Panda", "Hong_Kong", "Economy_of_India"], ["Giant_Panda", "Japan", "Economy_of_India"], ["Giant_Panda", "People%27s_Republic_of_China", "Economy_of_India"], ["Giant_Panda", "United_States", "Economy_of_India"], ["Giant_Panda", "United_States_dollar", "Economy_of_India"]]

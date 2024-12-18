@@ -1,0 +1,1 @@
+[["Mechanical_work", "Energy", "Food"], ["Mechanical_work", "Heat", "Food"]]

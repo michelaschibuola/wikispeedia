@@ -1,0 +1,1 @@
+[["Evolutionarily_stable_strategy", "Biology", "Africa", "Mount_Kilimanjaro"], ["Evolutionarily_stable_strategy", "Charles_Darwin", "Germany", "Mount_Kilimanjaro"], ["Evolutionarily_stable_strategy", "Charles_Darwin", "Rainforest", "Mount_Kilimanjaro"]]

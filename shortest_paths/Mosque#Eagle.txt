@@ -1,0 +1,1 @@
+[["Mosque", "American_football", "Eagle"], ["Mosque", "Bible", "Eagle"], ["Mosque", "Byzantine_Empire", "Eagle"], ["Mosque", "Egypt", "Eagle"], ["Mosque", "Football_%28soccer%29", "Eagle"], ["Mosque", "United_States", "Eagle"]]

@@ -1,0 +1,1 @@
+[["French_Revolution", "France", "Vietnam_War"], ["French_Revolution", "Famine", "Vietnam_War"], ["French_Revolution", "Military_history_of_France", "Vietnam_War"], ["French_Revolution", "Trench_warfare", "Vietnam_War"]]

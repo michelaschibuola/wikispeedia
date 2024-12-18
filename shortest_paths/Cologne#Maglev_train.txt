@@ -1,0 +1,1 @@
+[["Cologne", "Germany", "Maglev_train"], ["Cologne", "Japan", "Maglev_train"], ["Cologne", "Munich", "Maglev_train"], ["Cologne", "United_Kingdom", "Maglev_train"], ["Cologne", "TGV", "Maglev_train"]]

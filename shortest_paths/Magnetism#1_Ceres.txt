@@ -1,0 +1,1 @@
+[["Magnetism", "Carl_Friedrich_Gauss", "1_Ceres"], ["Magnetism", "Cerium", "1_Ceres"], ["Magnetism", "Star", "1_Ceres"], ["Magnetism", "Palladium", "1_Ceres"]]

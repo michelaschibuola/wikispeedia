@@ -1,0 +1,1 @@
+[["Al_Jazeera", "Cuba", "William_Howard_Taft"], ["Al_Jazeera", "Spain", "William_Howard_Taft"], ["Al_Jazeera", "United_Kingdom", "William_Howard_Taft"]]

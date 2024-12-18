@@ -1,0 +1,1 @@
+[["California", "Agriculture", "History_of_Earth"], ["California", "Computer", "History_of_Earth"], ["California", "Volcano", "History_of_Earth"], ["California", "Democracy", "History_of_Earth"]]

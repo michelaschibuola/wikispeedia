@@ -1,0 +1,1 @@
+[["Charlie_Chaplin", "France", "Moon"], ["Charlie_Chaplin", "Soviet_Union", "Moon"], ["Charlie_Chaplin", "United_States", "Moon"]]

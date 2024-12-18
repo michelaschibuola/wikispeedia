@@ -1,0 +1,1 @@
+[["Bolivia", "Brazil", "Flemish_people"], ["Bolivia", "Ecuador", "Flemish_people"], ["Bolivia", "English_language", "Flemish_people"], ["Bolivia", "Jew", "Flemish_people"], ["Bolivia", "Spain", "Flemish_people"], ["Bolivia", "United_States", "Flemish_people"], ["Bolivia", "Latin_America", "Flemish_people"]]

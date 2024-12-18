@@ -1,0 +1,1 @@
+[["Adam_Smith", "Aristotle", "Plant"], ["Adam_Smith", "Glasgow", "Plant"], ["Adam_Smith", "Scotland", "Plant"]]

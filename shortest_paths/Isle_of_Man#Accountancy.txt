@@ -1,0 +1,1 @@
+[["Isle_of_Man", "English_language", "Accountancy"], ["Isle_of_Man", "Europe", "Accountancy"], ["Isle_of_Man", "Agriculture", "Accountancy"], ["Isle_of_Man", "Economics", "Accountancy"]]

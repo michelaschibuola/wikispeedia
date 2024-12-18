@@ -1,0 +1,1 @@
+[["Pythagorean_theorem", "Mathematics", "Prime_number"], ["Pythagorean_theorem", "Pi", "Prime_number"], ["Pythagorean_theorem", "Euclid", "Prime_number"]]

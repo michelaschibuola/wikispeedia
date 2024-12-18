@@ -1,0 +1,1 @@
+[["Roman_law", "Germany", "Nazism"], ["Roman_law", "Europe", "Nazism"], ["Roman_law", "Holy_Roman_Empire", "Nazism"]]

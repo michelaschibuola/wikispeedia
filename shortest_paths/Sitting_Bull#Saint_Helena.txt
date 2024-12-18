@@ -1,0 +1,1 @@
+[["Sitting_Bull", "English_language", "Saint_Helena"], ["Sitting_Bull", "United_States", "Saint_Helena"]]

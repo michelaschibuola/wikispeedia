@@ -1,0 +1,1 @@
+[["Cyprus", "Athens", "Beach"], ["Cyprus", "Canada", "Beach"], ["Cyprus", "United_Kingdom", "Beach"], ["Cyprus", "New_Zealand", "Beach"]]

@@ -1,0 +1,1 @@
+[["Soil_structure", "Fertilizer", "Plant", "Herbivore"], ["Soil_structure", "Soil", "Plant", "Herbivore"], ["Soil_structure", "Garden", "Plant", "Herbivore"], ["Soil_structure", "Fertilizer", "Seed", "Herbivore"], ["Soil_structure", "Soil", "Seed", "Herbivore"], ["Soil_structure", "Soil", "Marginated_Tortoise", "Herbivore"], ["Soil_structure", "Garden", "Insect", "Herbivore"]]

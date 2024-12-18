@@ -1,0 +1,1 @@
+[["2005_Atlantic_hurricane_season", "Caribbean_Sea", "William_McKinley"], ["2005_Atlantic_hurricane_season", "Cuba", "William_McKinley"], ["2005_Atlantic_hurricane_season", "Spain", "William_McKinley"]]

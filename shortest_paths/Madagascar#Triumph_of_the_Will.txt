@@ -1,0 +1,1 @@
+[["Madagascar", "France", "Triumph_of_the_Will"], ["Madagascar", "Paris", "Triumph_of_the_Will"], ["Madagascar", "United_States", "Triumph_of_the_Will"], ["Madagascar", "World_War_II", "Triumph_of_the_Will"]]

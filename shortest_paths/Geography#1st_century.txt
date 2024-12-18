@@ -1,0 +1,1 @@
+[["Geography", "China", "1st_century"], ["Geography", "16th_century", "1st_century"], ["Geography", "17th_century", "1st_century"], ["Geography", "18th_century", "1st_century"], ["Geography", "19th_century", "1st_century"], ["Geography", "20th_century", "1st_century"], ["Geography", "Roman_Empire", "1st_century"], ["Geography", "History_of_painting", "1st_century"]]

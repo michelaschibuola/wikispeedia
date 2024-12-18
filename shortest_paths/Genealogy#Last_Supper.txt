@@ -1,0 +1,1 @@
+[["Genealogy", "God", "Last_Supper"], ["Genealogy", "War", "Last_Supper"]]

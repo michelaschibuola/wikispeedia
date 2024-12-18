@@ -1,0 +1,1 @@
+[["Basel", "Ancient_Rome", "Greek_mythology"], ["Basel", "France", "Greek_mythology"], ["Basel", "Germany", "Greek_mythology"], ["Basel", "Roman_Empire", "Greek_mythology"], ["Basel", "Carl_Jung", "Greek_mythology"]]

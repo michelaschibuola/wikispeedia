@@ -1,0 +1,1 @@
+[["Malawi", "Canada", "Baseball"], ["Malawi", "Japan", "Baseball"], ["Malawi", "Republic_of_China", "Baseball"], ["Malawi", "Sweden", "Baseball"], ["Malawi", "United_States", "Baseball"], ["Malawi", "Mexico", "Baseball"], ["Malawi", "Norman_Borlaug", "Baseball"]]

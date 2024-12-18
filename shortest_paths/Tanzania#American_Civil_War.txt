@@ -1,0 +1,1 @@
+[["Tanzania", "Henry_Morton_Stanley", "American_Civil_War"], ["Tanzania", "Kansas_City%2C_Missouri", "American_Civil_War"], ["Tanzania", "Scramble_for_Africa", "American_Civil_War"], ["Tanzania", "Algeria", "American_Civil_War"], ["Tanzania", "France", "American_Civil_War"], ["Tanzania", "United_States", "American_Civil_War"]]

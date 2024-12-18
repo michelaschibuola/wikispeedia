@@ -1,0 +1,1 @@
+[["Sikhism", "Hong_Kong", "Boeing_747"], ["Sikhism", "Australia", "Boeing_747"], ["Sikhism", "United_States", "Boeing_747"]]

@@ -1,0 +1,1 @@
+[["Mount_Kilimanjaro", "Austria", "Jew", "Thomas_Samuel_Kuhn"], ["Mount_Kilimanjaro", "Germany", "Jew", "Thomas_Samuel_Kuhn"], ["Mount_Kilimanjaro", "Ernest_Hemingway", "Princeton_University", "Thomas_Samuel_Kuhn"], ["Mount_Kilimanjaro", "Germany", "Renaissance", "Thomas_Samuel_Kuhn"], ["Mount_Kilimanjaro", "Nairobi", "Science", "Thomas_Samuel_Kuhn"]]

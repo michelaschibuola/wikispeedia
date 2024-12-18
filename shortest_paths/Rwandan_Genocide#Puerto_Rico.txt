@@ -1,0 +1,1 @@
+[["Rwandan_Genocide", "20th_century", "Puerto_Rico"], ["Rwandan_Genocide", "Europe", "Puerto_Rico"], ["Rwandan_Genocide", "France", "Puerto_Rico"], ["Rwandan_Genocide", "Roman_Catholic_Church", "Puerto_Rico"], ["Rwandan_Genocide", "United_Nations", "Puerto_Rico"], ["Rwandan_Genocide", "United_States", "Puerto_Rico"], ["Rwandan_Genocide", "World_War_I", "Puerto_Rico"]]

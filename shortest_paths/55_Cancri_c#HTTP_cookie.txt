@@ -1,0 +1,1 @@
+[["55_Cancri_c", "Day", "English_language", "HTTP_cookie"], ["55_Cancri_c", "Day", "United_States", "HTTP_cookie"], ["55_Cancri_c", "Hubble_Space_Telescope", "United_States", "HTTP_cookie"], ["55_Cancri_c", "Sun", "United_States", "HTTP_cookie"]]

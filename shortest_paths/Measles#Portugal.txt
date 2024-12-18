@@ -1,0 +1,1 @@
+[["Measles", "Latin_America", "Portugal"], ["Measles", "Brazil", "Portugal"], ["Measles", "Colombia", "Portugal"], ["Measles", "India", "Portugal"], ["Measles", "Second_Boer_War", "Portugal"], ["Measles", "South_America", "Portugal"]]

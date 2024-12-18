@@ -1,0 +1,1 @@
+[["Roman_Empire", "China", "Sulfur"], ["Roman_Empire", "Glass", "Sulfur"], ["Roman_Empire", "Homer", "Sulfur"], ["Roman_Empire", "Italy", "Sulfur"], ["Roman_Empire", "Latin", "Sulfur"], ["Roman_Empire", "Mercury_%28element%29", "Sulfur"], ["Roman_Empire", "United_States", "Sulfur"], ["Roman_Empire", "Ukraine", "Sulfur"]]

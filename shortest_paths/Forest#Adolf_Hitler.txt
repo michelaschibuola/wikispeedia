@@ -1,0 +1,1 @@
+[["Forest", "Colditz_Castle", "Adolf_Hitler"], ["Forest", "United_States", "Adolf_Hitler"], ["Forest", "Soviet_Union", "Adolf_Hitler"], ["Forest", "Sweden", "Adolf_Hitler"]]

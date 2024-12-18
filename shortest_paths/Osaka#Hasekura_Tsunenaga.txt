@@ -1,0 +1,1 @@
+[["Osaka", "Japan", "Hasekura_Tsunenaga"], ["Osaka", "China", "Hasekura_Tsunenaga"], ["Osaka", "Italy", "Hasekura_Tsunenaga"], ["Osaka", "Manila", "Hasekura_Tsunenaga"], ["Osaka", "Philippines", "Hasekura_Tsunenaga"], ["Osaka", "Tokyo", "Hasekura_Tsunenaga"]]

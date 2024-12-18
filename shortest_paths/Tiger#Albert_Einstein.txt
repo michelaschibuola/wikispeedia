@@ -1,0 +1,1 @@
+[["Tiger", "Nazi_Germany", "Albert_Einstein"], ["Tiger", "Princeton_University", "Albert_Einstein"], ["Tiger", "India", "Albert_Einstein"], ["Tiger", "Soviet_Union", "Albert_Einstein"]]

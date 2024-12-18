@@ -1,0 +1,1 @@
+[["Kansas_City%2C_Missouri", "Japan", "Qin_Shi_Huang"], ["Kansas_City%2C_Missouri", "Republic_of_China", "Qin_Shi_Huang"], ["Kansas_City%2C_Missouri", "World_War_II", "Qin_Shi_Huang"]]

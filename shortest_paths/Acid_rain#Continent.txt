@@ -1,0 +1,1 @@
+[["Acid_rain", "Glacier", "Continent"], ["Acid_rain", "Ocean", "Continent"], ["Acid_rain", "People%27s_Republic_of_China", "Continent"], ["Acid_rain", "Russia", "Continent"], ["Acid_rain", "Volcano", "Continent"], ["Acid_rain", "Earth", "Continent"], ["Acid_rain", "Granite", "Continent"]]

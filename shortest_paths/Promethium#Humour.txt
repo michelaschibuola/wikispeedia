@@ -1,0 +1,1 @@
+[["Promethium", "Color", "Aesthetics", "Humour"], ["Promethium", "Color", "Aristotle", "Humour"], ["Promethium", "Greek_mythology", "Isaac_Asimov", "Humour"], ["Promethium", "Plutonium", "Isaac_Asimov", "Humour"], ["Promethium", "World_War_II", "Isaac_Asimov", "Humour"], ["Promethium", "World_War_II", "Comics", "Humour"], ["Promethium", "World_War_II", "Newspaper", "Humour"]]

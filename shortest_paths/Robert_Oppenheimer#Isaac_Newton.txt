@@ -1,0 +1,1 @@
+[["Robert_Oppenheimer", "Black_hole", "Isaac_Newton"], ["Robert_Oppenheimer", "Richard_Feynman", "Isaac_Newton"], ["Robert_Oppenheimer", "Cambridge", "Isaac_Newton"], ["Robert_Oppenheimer", "Physics", "Isaac_Newton"], ["Robert_Oppenheimer", "Quantum_mechanics", "Isaac_Newton"], ["Robert_Oppenheimer", "Switzerland", "Isaac_Newton"]]

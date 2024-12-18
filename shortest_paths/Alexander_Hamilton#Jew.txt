@@ -1,0 +1,1 @@
+[["Alexander_Hamilton", "France", "Jew"], ["Alexander_Hamilton", "Mexico", "Jew"], ["Alexander_Hamilton", "Slavery", "Jew"], ["Alexander_Hamilton", "Spain", "Jew"], ["Alexander_Hamilton", "United_States", "Jew"], ["Alexander_Hamilton", "Washington%2C_D.C.", "Jew"], ["Alexander_Hamilton", "The_Cantos", "Jew"], ["Alexander_Hamilton", "Warren_G._Harding", "Jew"]]

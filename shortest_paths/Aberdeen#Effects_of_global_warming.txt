@@ -1,0 +1,1 @@
+[["Aberdeen", "Netherlands", "Effects_of_global_warming"], ["Aberdeen", "United_Kingdom", "Effects_of_global_warming"]]

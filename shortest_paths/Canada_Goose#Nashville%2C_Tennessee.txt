@@ -1,0 +1,1 @@
+[["Canada_Goose", "Canada", "Nashville%2C_Tennessee"], ["Canada_Goose", "China", "Nashville%2C_Tennessee"], ["Canada_Goose", "Japan", "Nashville%2C_Tennessee"], ["Canada_Goose", "United_States", "Nashville%2C_Tennessee"]]

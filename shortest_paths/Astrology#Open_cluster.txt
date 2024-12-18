@@ -1,0 +1,1 @@
+[["Astrology", "Astronomy", "Open_cluster"], ["Astrology", "Earth", "Open_cluster"], ["Astrology", "Gravitation", "Open_cluster"], ["Astrology", "Star", "Open_cluster"], ["Astrology", "Sun", "Open_cluster"], ["Astrology", "Pleiades_%28star_cluster%29", "Open_cluster"]]

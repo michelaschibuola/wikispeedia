@@ -1,0 +1,1 @@
+[["Bacteria", "Hydrogen", "Moon"], ["Bacteria", "Oxygen", "Moon"], ["Bacteria", "Sulfur", "Moon"], ["Bacteria", "Extraterrestrial_life", "Moon"], ["Bacteria", "History_of_Earth", "Moon"], ["Bacteria", "Silicon", "Moon"], ["Bacteria", "Uranium", "Moon"]]

@@ -1,0 +1,1 @@
+[["Rosa_Parks", "Sweden", "Triumph_of_the_Will"], ["Rosa_Parks", "United_States", "Triumph_of_the_Will"]]

@@ -1,0 +1,1 @@
+[["Salt_Lake_City%2C_Utah", "21st_century", "Linux", "GNU_Project"], ["Salt_Lake_City%2C_Utah", "21st_century", "Richard_Stallman", "GNU_Project"], ["Salt_Lake_City%2C_Utah", "Spanish_language", "Richard_Stallman", "GNU_Project"]]

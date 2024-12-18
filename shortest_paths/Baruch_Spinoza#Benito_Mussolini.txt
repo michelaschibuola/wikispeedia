@@ -1,0 +1,1 @@
+[["Baruch_Spinoza", "Atheism", "Benito_Mussolini"], ["Baruch_Spinoza", "France", "Benito_Mussolini"], ["Baruch_Spinoza", "Roman_Catholic_Church", "Benito_Mussolini"]]

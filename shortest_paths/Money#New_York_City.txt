@@ -1,0 +1,1 @@
+[["Money", "Andy_Warhol", "New_York_City"], ["Money", "Business", "New_York_City"], ["Money", "Finance", "New_York_City"], ["Money", "Human", "New_York_City"], ["Money", "Bob_Dylan", "New_York_City"], ["Money", "China", "New_York_City"], ["Money", "Diamond", "New_York_City"], ["Money", "Monopoly_%28game%29", "New_York_City"]]

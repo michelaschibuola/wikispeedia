@@ -1,0 +1,1 @@
+[["Vietnam", "Mount_Pinatubo", "Earthquake"], ["Vietnam", "Philippines", "Earthquake"], ["Vietnam", "Sydney", "Earthquake"], ["Vietnam", "Soviet_Union", "Earthquake"], ["Vietnam", "Tokyo", "Earthquake"]]

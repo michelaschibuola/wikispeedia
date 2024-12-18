@@ -1,0 +1,1 @@
+[["Bill_Gates", "Japan", "Fugu"], ["Bill_Gates", "Tokyo", "Fugu"], ["Bill_Gates", "United_States", "Fugu"]]

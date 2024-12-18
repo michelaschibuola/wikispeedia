@@ -1,0 +1,1 @@
+[["Writing", "Civilization", "World_War_I"], ["Writing", "History_of_Earth", "World_War_I"], ["Writing", "History_of_South_Africa", "World_War_I"], ["Writing", "History_of_the_world", "World_War_I"], ["Writing", "Iraq", "World_War_I"], ["Writing", "Sociocultural_evolution", "World_War_I"], ["Writing", "China", "World_War_I"]]

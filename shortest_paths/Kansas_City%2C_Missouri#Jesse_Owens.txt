@@ -1,0 +1,1 @@
+[["Kansas_City%2C_Missouri", "Gerald_Ford", "Jesse_Owens"], ["Kansas_City%2C_Missouri", "Germany", "Jesse_Owens"]]

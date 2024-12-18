@@ -1,0 +1,1 @@
+[["Bette_Davis", "Europe", "Beet"], ["Bette_Davis", "Stroke", "Beet"], ["Bette_Davis", "United_States", "Beet"]]

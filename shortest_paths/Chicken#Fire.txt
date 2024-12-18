@@ -1,0 +1,1 @@
+[["Chicken", "Animal", "Fire"], ["Chicken", "Hinduism", "Fire"], ["Chicken", "United_States", "Fire"]]

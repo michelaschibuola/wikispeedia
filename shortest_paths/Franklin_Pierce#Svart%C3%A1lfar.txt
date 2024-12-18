@@ -1,0 +1,1 @@
+[["Franklin_Pierce", "Chicago", "German_language", "Svart%C3%A1lfar"], ["Franklin_Pierce", "Mexico_City", "German_language", "Svart%C3%A1lfar"], ["Franklin_Pierce", "Spain", "German_language", "Svart%C3%A1lfar"], ["Franklin_Pierce", "United_Kingdom", "German_language", "Svart%C3%A1lfar"]]

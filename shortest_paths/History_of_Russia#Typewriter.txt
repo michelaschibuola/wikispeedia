@@ -1,0 +1,1 @@
+[["History_of_Russia", "Denmark", "Typewriter"], ["History_of_Russia", "Soviet_Union", "Typewriter"]]

@@ -1,0 +1,1 @@
+[["Jackal", "Europe", "Attack_on_Pearl_Harbor"], ["Jackal", "Asia", "Attack_on_Pearl_Harbor"]]

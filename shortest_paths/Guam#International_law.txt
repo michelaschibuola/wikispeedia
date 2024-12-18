@@ -1,0 +1,1 @@
+[["Guam", "Earth", "International_law"], ["Guam", "World_War_II", "International_law"]]

@@ -1,0 +1,1 @@
+[["Cheese", "Ancient_Greece", "Religion"], ["Cheese", "Ancient_Egypt", "Religion"], ["Cheese", "Ancient_Rome", "Religion"], ["Cheese", "Cattle", "Religion"], ["Cheese", "Food", "Religion"], ["Cheese", "Homer", "Religion"], ["Cheese", "Islam", "Religion"], ["Cheese", "Judaism", "Religion"], ["Cheese", "Latin", "Religion"], ["Cheese", "People%27s_Republic_of_China", "Religion"]]

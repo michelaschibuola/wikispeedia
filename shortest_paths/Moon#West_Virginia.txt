@@ -1,0 +1,1 @@
+[["Moon", "George_W._Bush", "West_Virginia"], ["Moon", "John_F._Kennedy", "West_Virginia"], ["Moon", "Canada", "West_Virginia"], ["Moon", "English_language", "West_Virginia"], ["Moon", "United_States", "West_Virginia"]]

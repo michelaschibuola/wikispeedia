@@ -1,0 +1,1 @@
+[["Sunlight", "Fire", "Shroud_of_Turin"], ["Sunlight", "Pigment", "Shroud_of_Turin"]]

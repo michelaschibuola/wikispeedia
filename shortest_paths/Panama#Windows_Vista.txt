@@ -1,0 +1,1 @@
+[["Panama", "United_States_dollar", "Windows_Vista"]]

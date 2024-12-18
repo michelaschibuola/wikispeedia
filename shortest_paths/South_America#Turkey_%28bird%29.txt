@@ -1,0 +1,1 @@
+[["South_America", "India", "Turkey_%28bird%29"], ["South_America", "Miocene", "Turkey_%28bird%29"], ["South_America", "North_America", "Turkey_%28bird%29"], ["South_America", "Africa", "Turkey_%28bird%29"], ["South_America", "United_States", "Turkey_%28bird%29"]]

@@ -1,0 +1,1 @@
+[["Liquid_crystal", "DNA", "Carolus_Linnaeus", "Whipworm"], ["Liquid_crystal", "DNA", "Animal", "Whipworm"], ["Liquid_crystal", "Protein", "Anemia", "Whipworm"]]

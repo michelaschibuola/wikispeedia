@@ -1,0 +1,1 @@
+[["Marxism", "Existentialism", "Bible"], ["Marxism", "God", "Bible"], ["Marxism", "19th_century", "Bible"], ["Marxism", "Immanuel_Kant", "Bible"], ["Marxism", "Jew", "Bible"], ["Marxism", "Politics", "Bible"], ["Marxism", "Religion", "Bible"]]

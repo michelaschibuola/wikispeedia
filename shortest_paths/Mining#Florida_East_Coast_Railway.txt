@@ -1,0 +1,1 @@
+[["Mining", "Cuba", "Florida_East_Coast_Railway"], ["Mining", "Coal", "Florida_East_Coast_Railway"], ["Mining", "United_States", "Florida_East_Coast_Railway"], ["Mining", "West_Virginia", "Florida_East_Coast_Railway"]]

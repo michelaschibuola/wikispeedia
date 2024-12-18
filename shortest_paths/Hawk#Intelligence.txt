@@ -1,0 +1,1 @@
+[["Hawk", "Europe", "North_Korea", "Intelligence"], ["Hawk", "Animal", "Psychology", "Intelligence"], ["Hawk", "Canada", "September_11%2C_2001_attacks", "Intelligence"], ["Hawk", "Owl", "Harry_Potter", "Intelligence"]]

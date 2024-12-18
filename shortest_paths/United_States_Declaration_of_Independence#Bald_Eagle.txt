@@ -1,0 +1,1 @@
+[["United_States_Declaration_of_Independence", "American_Revolutionary_War", "Bald_Eagle"], ["United_States_Declaration_of_Independence", "Benjamin_Franklin", "Bald_Eagle"], ["United_States_Declaration_of_Independence", "United_States", "Bald_Eagle"]]

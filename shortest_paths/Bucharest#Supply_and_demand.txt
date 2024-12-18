@@ -1,0 +1,1 @@
+[["Bucharest", "Summer", "Supply_and_demand"], ["Bucharest", "Europe", "Supply_and_demand"]]

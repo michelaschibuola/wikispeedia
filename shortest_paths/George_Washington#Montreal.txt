@@ -1,0 +1,1 @@
+[["George_Washington", "Bill_Clinton", "Montreal"], ["George_Washington", "France", "Montreal"], ["George_Washington", "Great_Lakes", "Montreal"], ["George_Washington", "New_York_City", "Montreal"], ["George_Washington", "United_States", "Montreal"]]

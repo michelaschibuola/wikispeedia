@@ -1,0 +1,1 @@
+[["Wrestling", "South_Korea", "Nintendo"], ["Wrestling", "Asia", "Nintendo"], ["Wrestling", "Canada", "Nintendo"], ["Wrestling", "China", "Nintendo"], ["Wrestling", "Europe", "Nintendo"], ["Wrestling", "Japan", "Nintendo"], ["Wrestling", "United_States", "Nintendo"]]

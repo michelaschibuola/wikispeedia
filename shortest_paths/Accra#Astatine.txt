@@ -1,0 +1,1 @@
+[["Accra", "Clothing", "Metal", "Astatine"], ["Accra", "France", "Bismuth", "Astatine"], ["Accra", "France", "Francium", "Astatine"]]

@@ -1,0 +1,1 @@
+[["Kargil_War", "India", "Adolf_Hitler"], ["Kargil_War", "Soviet_Union", "Adolf_Hitler"], ["Kargil_War", "United_States", "Adolf_Hitler"], ["Kargil_War", "War", "Adolf_Hitler"]]

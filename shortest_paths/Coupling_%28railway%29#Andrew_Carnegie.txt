@@ -1,0 +1,1 @@
+[["Coupling_%28railway%29", "Australia", "Andrew_Carnegie"], ["Coupling_%28railway%29", "New_Zealand", "Andrew_Carnegie"], ["Coupling_%28railway%29", "United_Kingdom", "Andrew_Carnegie"]]

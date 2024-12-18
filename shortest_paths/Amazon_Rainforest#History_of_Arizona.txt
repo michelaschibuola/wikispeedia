@@ -1,0 +1,1 @@
+[["Amazon_Rainforest", "Forest", "History_of_Arizona"], ["Amazon_Rainforest", "Mammal", "History_of_Arizona"], ["Amazon_Rainforest", "Vegetation", "History_of_Arizona"]]

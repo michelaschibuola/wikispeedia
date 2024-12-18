@@ -1,0 +1,1 @@
+[["North_America", "19th_century", "Paul_C%C3%A9zanne"], ["North_America", "France", "Paul_C%C3%A9zanne"], ["North_America", "Moscow", "Paul_C%C3%A9zanne"], ["North_America", "Pneumonia", "Paul_C%C3%A9zanne"]]

@@ -1,0 +1,1 @@
+[["Neoclassicism", "20th_century", "Giant_Panda"], ["Neoclassicism", "Berlin", "Giant_Panda"], ["Neoclassicism", "France", "Giant_Panda"], ["Neoclassicism", "Washington_Metro", "Giant_Panda"]]

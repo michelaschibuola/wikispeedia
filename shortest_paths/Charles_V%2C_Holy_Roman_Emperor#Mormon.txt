@@ -1,0 +1,1 @@
+[["Charles_V%2C_Holy_Roman_Emperor", "Christianity", "Mormon"], ["Charles_V%2C_Holy_Roman_Emperor", "French_language", "Mormon"], ["Charles_V%2C_Holy_Roman_Emperor", "Spanish_language", "Mormon"]]

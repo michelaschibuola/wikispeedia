@@ -1,0 +1,1 @@
+[["Oleg_of_Novgorod", "Hebrew_language", "Formula_One", "Monaco_Grand_Prix"], ["Oleg_of_Novgorod", "Hebrew_language", "Brazil", "Monaco_Grand_Prix"], ["Oleg_of_Novgorod", "Jew", "Brazil", "Monaco_Grand_Prix"], ["Oleg_of_Novgorod", "Hebrew_language", "France", "Monaco_Grand_Prix"], ["Oleg_of_Novgorod", "Jew", "France", "Monaco_Grand_Prix"]]

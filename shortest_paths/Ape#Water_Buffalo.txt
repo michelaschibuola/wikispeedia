@@ -1,0 +1,1 @@
+[["Ape", "Animal", "Water_Buffalo"], ["Ape", "Asia", "Water_Buffalo"], ["Ape", "Chordate", "Water_Buffalo"], ["Ape", "Mammal", "Water_Buffalo"], ["Ape", "Scientific_classification", "Water_Buffalo"]]

@@ -1,0 +1,1 @@
+[["Talc", "List_of_minerals", "Tin"], ["Talc", "Mineral", "Tin"], ["Talc", "Mohs_scale_of_mineral_hardness", "Tin"], ["Talc", "Aluminium", "Tin"], ["Talc", "Crystal", "Tin"], ["Talc", "Hydrogen", "Tin"], ["Talc", "Oxygen", "Tin"], ["Talc", "Silicon", "Tin"]]

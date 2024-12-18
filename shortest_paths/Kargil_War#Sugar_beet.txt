@@ -1,0 +1,1 @@
+[["Kargil_War", "European_Union", "Sugar_beet"], ["Kargil_War", "Temperate", "Sugar_beet"], ["Kargil_War", "United_States", "Sugar_beet"]]

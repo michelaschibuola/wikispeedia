@@ -1,0 +1,1 @@
+[["Grand_Canyon", "16th_century", "Ship"], ["Grand_Canyon", "Europe", "Ship"]]

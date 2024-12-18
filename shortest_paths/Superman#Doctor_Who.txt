@@ -1,0 +1,1 @@
+[["Superman", "Canada", "Doctor_Who"], ["Superman", "Germany", "Doctor_Who"], ["Superman", "Nazism", "Doctor_Who"], ["Superman", "United_States", "Doctor_Who"]]

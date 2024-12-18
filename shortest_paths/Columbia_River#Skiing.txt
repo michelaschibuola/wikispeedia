@@ -1,0 +1,1 @@
+[["Columbia_River", "Canada", "Skiing"], ["Columbia_River", "North_America", "Skiing"], ["Columbia_River", "Russia", "Skiing"], ["Columbia_River", "United_States", "Skiing"], ["Columbia_River", "Mount_St._Helens", "Skiing"], ["Columbia_River", "Rocky_Mountains", "Skiing"]]

@@ -1,0 +1,1 @@
+[["Sydney", "Asia", "Northwest_Africa"], ["Sydney", "Europe", "Northwest_Africa"], ["Sydney", "Pacific_Ocean", "Northwest_Africa"]]

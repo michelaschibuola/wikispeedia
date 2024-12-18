@@ -1,0 +1,1 @@
+[["Hello_Garci_scandal", "Philippines", "List_of_sovereign_states", "Flag_of_India"], ["Hello_Garci_scandal", "Philippines", "India", "Flag_of_India"], ["Hello_Garci_scandal", "Philippines", "United_Nations", "Flag_of_India"], ["Hello_Garci_scandal", "Philippines", "United_States", "Flag_of_India"], ["Hello_Garci_scandal", "Philippines", "World_War_II", "Flag_of_India"]]

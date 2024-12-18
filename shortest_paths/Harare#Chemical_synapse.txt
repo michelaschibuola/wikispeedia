@@ -1,0 +1,1 @@
+[["Harare", "Fruit", "Morphine", "Chemical_synapse"], ["Harare", "United_Kingdom", "Morphine", "Chemical_synapse"], ["Harare", "United_States", "Morphine", "Chemical_synapse"], ["Harare", "Gold", "Computer", "Chemical_synapse"], ["Harare", "United_Kingdom", "Computer", "Chemical_synapse"], ["Harare", "United_States", "Computer", "Chemical_synapse"]]

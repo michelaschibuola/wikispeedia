@@ -1,0 +1,1 @@
+[["Colorado_River", "Mining", "Shoshone_National_Forest"], ["Colorado_River", "Rocky_Mountains", "Shoshone_National_Forest"], ["Colorado_River", "United_States", "Shoshone_National_Forest"]]

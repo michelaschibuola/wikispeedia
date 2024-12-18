@@ -1,0 +1,1 @@
+[["Trinity_College%2C_Cambridge", "17th_century", "Slavery"], ["Trinity_College%2C_Cambridge", "France", "Slavery"], ["Trinity_College%2C_Cambridge", "United_Kingdom", "Slavery"], ["Trinity_College%2C_Cambridge", "United_States", "Slavery"]]

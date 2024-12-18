@@ -1,0 +1,1 @@
+[["Amish", "German_language", "Adolf_Hitler"], ["Amish", "Germany", "Adolf_Hitler"], ["Amish", "Roman_Catholic_Church", "Adolf_Hitler"], ["Amish", "United_States", "Adolf_Hitler"]]

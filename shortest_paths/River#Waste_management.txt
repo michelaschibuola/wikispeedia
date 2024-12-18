@@ -1,0 +1,1 @@
+[["River", "France", "Waste_management"], ["River", "Germany", "Waste_management"], ["River", "Oregon", "Waste_management"], ["River", "Australia", "Waste_management"], ["River", "Canada", "Waste_management"], ["River", "Israel", "Waste_management"], ["River", "Japan", "Waste_management"], ["River", "Soil", "Waste_management"], ["River", "United_States", "Waste_management"]]

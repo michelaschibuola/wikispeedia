@@ -1,0 +1,1 @@
+[["Bedbug", "Animal", "Vole"], ["Bedbug", "North_America", "Vole"], ["Bedbug", "Scientific_classification", "Vole"]]

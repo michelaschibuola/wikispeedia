@@ -1,0 +1,1 @@
+[["Iraq", "Germany", "Florence_Nightingale"], ["Iraq", "Mathematics", "Florence_Nightingale"], ["Iraq", "Turkey", "Florence_Nightingale"]]

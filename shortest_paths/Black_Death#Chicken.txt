@@ -1,0 +1,1 @@
+[["Black_Death", "Asia", "Chicken"], ["Black_Death", "China", "Chicken"], ["Black_Death", "France", "Chicken"], ["Black_Death", "Jerusalem", "Chicken"]]

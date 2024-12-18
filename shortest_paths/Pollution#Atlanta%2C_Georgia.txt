@@ -1,0 +1,1 @@
+[["Pollution", "Australia", "Atlanta%2C_Georgia"], ["Pollution", "Greece", "Atlanta%2C_Georgia"], ["Pollution", "Japan", "Atlanta%2C_Georgia"], ["Pollution", "United_Kingdom", "Atlanta%2C_Georgia"], ["Pollution", "United_States", "Atlanta%2C_Georgia"]]

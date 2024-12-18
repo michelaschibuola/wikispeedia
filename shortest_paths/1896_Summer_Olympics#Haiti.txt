@@ -1,0 +1,1 @@
+[["1896_Summer_Olympics", "Europe", "Haiti"], ["1896_Summer_Olympics", "France", "Haiti"], ["1896_Summer_Olympics", "Germany", "Haiti"], ["1896_Summer_Olympics", "Serbia", "Haiti"], ["1896_Summer_Olympics", "United_States", "Haiti"]]

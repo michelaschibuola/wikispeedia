@@ -1,0 +1,1 @@
+[["Israel", "Culture", "Civil_society"], ["Israel", "Germany", "Civil_society"], ["Israel", "German_language", "Civil_society"], ["Israel", "Liberal_democracy", "Civil_society"], ["Israel", "Russia", "Civil_society"], ["Israel", "Law", "Civil_society"]]

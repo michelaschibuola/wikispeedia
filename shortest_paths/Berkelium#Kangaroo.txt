@@ -1,0 +1,1 @@
+[["Berkelium", "Color", "Bird", "Kangaroo"], ["Berkelium", "Day", "English_language", "Kangaroo"], ["Berkelium", "Day", "Europe", "Kangaroo"], ["Berkelium", "Day", "United_States", "Kangaroo"], ["Berkelium", "Helium", "United_States", "Kangaroo"], ["Berkelium", "Radon", "United_States", "Kangaroo"]]

@@ -1,0 +1,1 @@
+[["Anne_Frank", "Judaism", "Ireland"], ["Anne_Frank", "Roman_Catholic_Church", "Ireland"], ["Anne_Frank", "United_Kingdom", "Ireland"], ["Anne_Frank", "World_War_II", "Ireland"], ["Anne_Frank", "Ronald_Reagan", "Ireland"]]

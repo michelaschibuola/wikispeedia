@@ -1,0 +1,1 @@
+[["Kansas_City%2C_Missouri", "Asia", "Moldova"], ["Kansas_City%2C_Missouri", "Germany", "Moldova"], ["Kansas_City%2C_Missouri", "Time_zone", "Moldova"], ["Kansas_City%2C_Missouri", "World_War_II", "Moldova"]]

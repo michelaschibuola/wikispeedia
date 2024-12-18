@@ -1,0 +1,1 @@
+[["Guyana", "Africa", "Lord%27s_Resistance_Army"], ["Guyana", "Interpol", "Lord%27s_Resistance_Army"], ["Guyana", "Sudan", "Lord%27s_Resistance_Army"], ["Guyana", "Uganda", "Lord%27s_Resistance_Army"]]

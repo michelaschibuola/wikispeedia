@@ -1,0 +1,1 @@
+[["Adolf_Hitler", "South_America", "Ant"]]

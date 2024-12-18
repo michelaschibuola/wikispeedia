@@ -1,0 +1,1 @@
+[["Space_Race", "Electronics", "Economy_of_the_Republic_of_Ireland"], ["Space_Race", "People%27s_Republic_of_China", "Economy_of_the_Republic_of_Ireland"], ["Space_Race", "Propaganda", "Economy_of_the_Republic_of_Ireland"], ["Space_Race", "United_States", "Economy_of_the_Republic_of_Ireland"], ["Space_Race", "United_States_dollar", "Economy_of_the_Republic_of_Ireland"]]

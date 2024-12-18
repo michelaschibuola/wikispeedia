@@ -1,0 +1,1 @@
+[["Desert_locust", "Africa", "Sundew"], ["Desert_locust", "Agriculture", "Sundew"], ["Desert_locust", "Flower", "Sundew"], ["Desert_locust", "Scientific_classification", "Sundew"], ["Desert_locust", "Spain", "Sundew"]]

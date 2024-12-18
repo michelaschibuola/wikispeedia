@@ -1,0 +1,1 @@
+[["Heat", "House", "Kerala"], ["Heat", "Reptile", "Kerala"]]

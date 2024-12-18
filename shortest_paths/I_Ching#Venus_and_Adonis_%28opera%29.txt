@@ -1,0 +1,1 @@
+[["I_Ching", "Gottfried_Leibniz", "London", "Venus_and_Adonis_%28opera%29"], ["I_Ching", "Gottfried_Leibniz", "Louis_XIV_of_France", "Venus_and_Adonis_%28opera%29"], ["I_Ching", "Virgil", "Dido_and_Aeneas", "Venus_and_Adonis_%28opera%29"]]

@@ -1,0 +1,1 @@
+[["Biofuel", "European_Union", "Ireland"], ["Biofuel", "Natural_gas", "Ireland"], ["Biofuel", "Wheat", "Ireland"]]

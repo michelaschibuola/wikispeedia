@@ -1,0 +1,1 @@
+[["Algeria", "Roman_Catholic_Church", "John_Dee"], ["Algeria", "British_Empire", "John_Dee"], ["Algeria", "Paris", "John_Dee"]]

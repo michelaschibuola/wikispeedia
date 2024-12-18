@@ -1,0 +1,1 @@
+[["Saint-Pierre_and_Miquelon", "Armenia", "Industry"], ["Saint-Pierre_and_Miquelon", "Djibouti", "Industry"], ["Saint-Pierre_and_Miquelon", "Lebanon", "Industry"], ["Saint-Pierre_and_Miquelon", "North_America", "Industry"], ["Saint-Pierre_and_Miquelon", "Serbia", "Industry"]]

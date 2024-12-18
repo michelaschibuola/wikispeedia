@@ -1,0 +1,1 @@
+[["Tornado", "City", "Finance"], ["Tornado", "Nashville%2C_Tennessee", "Finance"], ["Tornado", "United_States", "Finance"]]

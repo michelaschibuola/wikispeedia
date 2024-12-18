@@ -1,0 +1,1 @@
+[["Clock", "China", "Tehran"], ["Clock", "17th_century", "Tehran"]]

@@ -1,0 +1,1 @@
+[["Superman", "Communism", "Mongolia"], ["Superman", "Germany", "Mongolia"], ["Superman", "Soviet_Union", "Mongolia"], ["Superman", "United_States", "Mongolia"]]

@@ -1,0 +1,1 @@
+[["African_clawed_frog", "Animal", "Earth", "Upsilon_Andromedae"], ["African_clawed_frog", "South_Africa", "Earth", "Upsilon_Andromedae"], ["African_clawed_frog", "South_Africa", "Iron", "Upsilon_Andromedae"]]

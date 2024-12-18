@@ -1,0 +1,1 @@
+[["Cretaceous", "Africa", "Suriname"], ["Cretaceous", "Atlantic_Ocean", "Suriname"], ["Cretaceous", "China", "Suriname"], ["Cretaceous", "Europe", "Suriname"], ["Cretaceous", "India", "Suriname"], ["Cretaceous", "Latin", "Suriname"], ["Cretaceous", "South_America", "Suriname"]]

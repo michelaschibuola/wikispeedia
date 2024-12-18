@@ -1,0 +1,1 @@
+[["Telephone", "19th_century", "Tobacco"], ["Telephone", "Argentina", "Tobacco"], ["Telephone", "Monaco", "Tobacco"], ["Telephone", "Richmond%2C_Virginia", "Tobacco"], ["Telephone", "New_York_City", "Tobacco"], ["Telephone", "United_States", "Tobacco"]]

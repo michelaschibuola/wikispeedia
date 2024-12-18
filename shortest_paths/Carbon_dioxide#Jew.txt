@@ -1,0 +1,1 @@
+[["Carbon_dioxide", "Bread", "Jew"], ["Carbon_dioxide", "Cactus", "Jew"], ["Carbon_dioxide", "United_States", "Jew"], ["Carbon_dioxide", "Extraterrestrial_life", "Jew"], ["Carbon_dioxide", "Germany", "Jew"], ["Carbon_dioxide", "Wine", "Jew"]]

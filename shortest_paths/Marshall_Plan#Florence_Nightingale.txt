@@ -1,0 +1,1 @@
+[["Marshall_Plan", "Germany", "Florence_Nightingale"], ["Marshall_Plan", "BBC", "Florence_Nightingale"], ["Marshall_Plan", "Italy", "Florence_Nightingale"], ["Marshall_Plan", "London", "Florence_Nightingale"], ["Marshall_Plan", "Turkey", "Florence_Nightingale"]]

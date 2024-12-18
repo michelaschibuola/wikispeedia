@@ -1,0 +1,1 @@
+[["Television", "ITunes", "Luxembourg"], ["Television", "Mass_media", "Luxembourg"], ["Television", "France", "Luxembourg"], ["Television", "Germany", "Luxembourg"]]

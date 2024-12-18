@@ -1,0 +1,1 @@
+[["Panama", "Hebrew_language", "Isaac"], ["Panama", "Judaism", "Isaac"]]

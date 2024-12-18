@@ -1,0 +1,1 @@
+[["Monarchies_in_the_European_Union", "Australia", "Butter"], ["Monarchies_in_the_European_Union", "France", "Butter"], ["Monarchies_in_the_European_Union", "New_Zealand", "Butter"], ["Monarchies_in_the_European_Union", "Sweden", "Butter"], ["Monarchies_in_the_European_Union", "United_Kingdom", "Butter"]]

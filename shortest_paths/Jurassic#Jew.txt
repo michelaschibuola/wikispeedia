@@ -1,0 +1,1 @@
+[["Jurassic", "Canada", "Jew"], ["Jurassic", "Europe", "Jew"], ["Jurassic", "France", "Jew"], ["Jurassic", "Germany", "Jew"], ["Jurassic", "Hip_hop_music", "Jew"], ["Jurassic", "India", "Jew"], ["Jurassic", "Russia", "Jew"], ["Jurassic", "South_America", "Jew"], ["Jurassic", "United_Kingdom", "Jew"], ["Jurassic", "United_States", "Jew"]]

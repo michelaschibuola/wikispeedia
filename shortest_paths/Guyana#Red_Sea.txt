@@ -1,0 +1,1 @@
+[["Guyana", "Djibouti", "Red_Sea"], ["Guyana", "Africa", "Red_Sea"], ["Guyana", "Climate", "Red_Sea"], ["Guyana", "Europe", "Red_Sea"], ["Guyana", "Slavery", "Red_Sea"], ["Guyana", "Saudi_Arabia", "Red_Sea"], ["Guyana", "Somalia", "Red_Sea"], ["Guyana", "Sudan", "Red_Sea"], ["Guyana", "Yemen", "Red_Sea"]]

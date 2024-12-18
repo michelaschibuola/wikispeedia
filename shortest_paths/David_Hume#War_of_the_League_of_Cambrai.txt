@@ -1,0 +1,1 @@
+[["David_Hume", "France", "War_of_the_League_of_Cambrai"], ["David_Hume", "Scotland", "War_of_the_League_of_Cambrai"], ["David_Hume", "Switzerland", "War_of_the_League_of_Cambrai"]]

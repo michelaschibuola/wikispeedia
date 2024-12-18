@@ -1,0 +1,1 @@
+[["17th_century", "France", "Niccol%C3%B2_Machiavelli"], ["17th_century", "Holy_Roman_Empire", "Niccol%C3%B2_Machiavelli"], ["17th_century", "Italy", "Niccol%C3%B2_Machiavelli"], ["17th_century", "Spain", "Niccol%C3%B2_Machiavelli"], ["17th_century", "Renaissance", "Niccol%C3%B2_Machiavelli"]]

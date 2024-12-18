@@ -1,0 +1,1 @@
+[["Edward_VI_of_England", "France", "Rice"], ["Edward_VI_of_England", "French_language", "Rice"], ["Edward_VI_of_England", "Latin", "Rice"], ["Edward_VI_of_England", "United_States", "Rice"]]

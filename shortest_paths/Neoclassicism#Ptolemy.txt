@@ -1,0 +1,1 @@
+[["Neoclassicism", "England", "Ptolemy"], ["Neoclassicism", "France", "Ptolemy"], ["Neoclassicism", "Ireland", "Ptolemy"], ["Neoclassicism", "Persian_Empire", "Ptolemy"]]

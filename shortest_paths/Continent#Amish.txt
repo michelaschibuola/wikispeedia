@@ -1,0 +1,1 @@
+[["Continent", "English_language", "Amish"], ["Continent", "Europe", "Amish"], ["Continent", "United_States", "Amish"]]

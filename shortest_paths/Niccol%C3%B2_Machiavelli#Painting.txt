@@ -1,0 +1,1 @@
+[["Niccol%C3%B2_Machiavelli", "Leonardo_da_Vinci", "Painting"], ["Niccol%C3%B2_Machiavelli", "France", "Painting"], ["Niccol%C3%B2_Machiavelli", "Politics", "Painting"], ["Niccol%C3%B2_Machiavelli", "Spain", "Painting"], ["Niccol%C3%B2_Machiavelli", "Renaissance", "Painting"]]

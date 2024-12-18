@@ -1,0 +1,1 @@
+[["Literature", "China", "Giant_Panda"], ["Literature", "Japan", "Giant_Panda"]]

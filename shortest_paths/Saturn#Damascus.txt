@@ -1,0 +1,1 @@
+[["Saturn", "Arabic_language", "Damascus"], ["Saturn", "Hebrew_language", "Damascus"]]

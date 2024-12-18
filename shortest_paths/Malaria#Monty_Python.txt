@@ -1,0 +1,1 @@
+[["Malaria", "Cancer", "Monty_Python"], ["Malaria", "Madagascar", "Monty_Python"], ["Malaria", "Middle_Ages", "Monty_Python"], ["Malaria", "United_States", "Monty_Python"], ["Malaria", "World_War_II", "Monty_Python"], ["Malaria", "Oliver_Cromwell", "Monty_Python"]]

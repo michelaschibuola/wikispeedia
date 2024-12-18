@@ -1,0 +1,1 @@
+[["Quartz", "Carbon_dioxide", "European_Union"], ["Quartz", "Trabancos_River", "European_Union"]]

@@ -1,0 +1,1 @@
+[["Henry_David_Thoreau", "New_York_City", "Henry_H._Rogers"], ["Henry_David_Thoreau", "United_States", "Henry_H._Rogers"]]

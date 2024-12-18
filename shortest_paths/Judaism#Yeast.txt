@@ -1,0 +1,1 @@
+[["Judaism", "Bread", "Yeast"], ["Judaism", "Cheese", "Yeast"], ["Judaism", "South_Africa", "Yeast"], ["Judaism", "United_Kingdom", "Yeast"], ["Judaism", "World_War_II", "Yeast"], ["Judaism", "Meat", "Yeast"], ["Judaism", "Republic_of_Ireland", "Yeast"], ["Judaism", "Wine", "Yeast"]]

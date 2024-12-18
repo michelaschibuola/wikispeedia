@@ -1,0 +1,1 @@
+[["Rugby_World_Cup", "Ireland", "John_F._Kennedy"], ["Rugby_World_Cup", "Japan", "John_F._Kennedy"], ["Rugby_World_Cup", "London", "John_F._Kennedy"]]

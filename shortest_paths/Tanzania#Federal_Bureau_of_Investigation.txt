@@ -1,0 +1,1 @@
+[["Tanzania", "Malcolm_X", "Federal_Bureau_of_Investigation"], ["Tanzania", "Osama_bin_Laden", "Federal_Bureau_of_Investigation"], ["Tanzania", "United_States", "Federal_Bureau_of_Investigation"]]

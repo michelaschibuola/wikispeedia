@@ -1,0 +1,1 @@
+[["Accra", "Denmark", "Arctic"], ["Accra", "Sweden", "Arctic"], ["Accra", "Atlantic_Ocean", "Arctic"]]

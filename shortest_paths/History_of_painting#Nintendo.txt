@@ -1,0 +1,1 @@
+[["History_of_painting", "Australia", "Nintendo"], ["History_of_painting", "China", "Nintendo"], ["History_of_painting", "France", "Nintendo"], ["History_of_painting", "United_States", "Nintendo"]]

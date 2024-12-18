@@ -1,0 +1,1 @@
+[["The_Smiths", "Elizabeth_II_of_the_United_Kingdom", "George_W._Bush"], ["The_Smiths", "England", "George_W._Bush"], ["The_Smiths", "United_Kingdom", "George_W._Bush"]]

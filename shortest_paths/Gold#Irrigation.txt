@@ -1,0 +1,1 @@
+[["Gold", "Africa", "Irrigation"], ["Gold", "Economy_of_Pakistan", "Irrigation"], ["Gold", "20th_century", "Irrigation"], ["Gold", "Egypt", "Irrigation"], ["Gold", "Human", "Irrigation"], ["Gold", "India", "Irrigation"], ["Gold", "Peru", "Irrigation"], ["Gold", "Mesopotamia", "Irrigation"], ["Gold", "Sahara", "Irrigation"]]

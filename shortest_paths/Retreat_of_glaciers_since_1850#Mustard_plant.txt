@@ -1,0 +1,1 @@
+[["Retreat_of_glaciers_since_1850", "Himalayas", "Mustard_plant"], ["Retreat_of_glaciers_since_1850", "Argentina", "Mustard_plant"], ["Retreat_of_glaciers_since_1850", "Canada", "Mustard_plant"], ["Retreat_of_glaciers_since_1850", "Chile", "Mustard_plant"]]

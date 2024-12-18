@@ -1,0 +1,1 @@
+[["12th_century", "England", "Edinburgh"], ["12th_century", "France", "Edinburgh"], ["12th_century", "Sweden", "Edinburgh"], ["12th_century", "Irish_people", "Edinburgh"], ["12th_century", "Netherlands", "Edinburgh"], ["12th_century", "Scotland_in_the_High_Middle_Ages", "Edinburgh"]]

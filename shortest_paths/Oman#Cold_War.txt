@@ -1,0 +1,1 @@
+[["Oman", "Driving_on_the_left_or_right", "Cold_War"], ["Oman", "Iran", "Cold_War"], ["Oman", "Israel", "Cold_War"], ["Oman", "Liechtenstein", "Cold_War"], ["Oman", "Afghanistan", "Cold_War"], ["Oman", "India", "Cold_War"], ["Oman", "Persian_Empire", "Cold_War"], ["Oman", "United_Kingdom", "Cold_War"]]

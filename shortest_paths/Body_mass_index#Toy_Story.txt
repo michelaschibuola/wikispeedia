@@ -1,0 +1,1 @@
+[["Body_mass_index", "Belgium", "United_Kingdom", "Toy_Story"], ["Body_mass_index", "Rugby_football", "United_Kingdom", "Toy_Story"], ["Body_mass_index", "Rugby_football", "Australia", "Toy_Story"], ["Body_mass_index", "World_Health_Organization", "United_States", "Toy_Story"], ["Body_mass_index", "Myocardial_infarction", "United_States", "Toy_Story"]]

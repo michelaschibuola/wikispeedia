@@ -1,0 +1,1 @@
+[["Elementary_algebra", "Calculus", "John_von_Neumann", "Plutonium"], ["Elementary_algebra", "Mathematics", "John_von_Neumann", "Plutonium"], ["Elementary_algebra", "Linear_algebra", "Japan", "Plutonium"], ["Elementary_algebra", "Linear_algebra", "United_States", "Plutonium"], ["Elementary_algebra", "Mathematics", "University_of_Cambridge", "Plutonium"]]

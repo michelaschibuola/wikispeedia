@@ -1,0 +1,1 @@
+[["San_Francisco%2C_California", "New_York_City", "Andrew_Carnegie"], ["San_Francisco%2C_California", "Spain", "Andrew_Carnegie"], ["San_Francisco%2C_California", "U.S._state", "Andrew_Carnegie"], ["San_Francisco%2C_California", "United_States", "Andrew_Carnegie"], ["San_Francisco%2C_California", "Theodore_Roosevelt", "Andrew_Carnegie"]]

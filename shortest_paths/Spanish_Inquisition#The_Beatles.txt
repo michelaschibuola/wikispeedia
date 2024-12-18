@@ -1,0 +1,1 @@
+[["Spanish_Inquisition", "Spain", "The_Beatles"], ["Spanish_Inquisition", "Christianity", "The_Beatles"], ["Spanish_Inquisition", "England", "The_Beatles"], ["Spanish_Inquisition", "Germany", "The_Beatles"], ["Spanish_Inquisition", "Italy", "The_Beatles"], ["Spanish_Inquisition", "Monty_Python", "The_Beatles"]]

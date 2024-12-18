@@ -1,0 +1,1 @@
+[["Summer", "Montreal", "Tower_of_London"], ["Summer", "United_States", "Tower_of_London"], ["Summer", "William_Shakespeare", "Tower_of_London"]]

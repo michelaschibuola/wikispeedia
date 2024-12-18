@@ -1,0 +1,1 @@
+[["Pontiac%27s_Rebellion", "Canada", "Italo_disco"], ["Pontiac%27s_Rebellion", "Europe", "Italo_disco"], ["Pontiac%27s_Rebellion", "North_America", "Italo_disco"]]

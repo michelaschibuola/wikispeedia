@@ -1,0 +1,1 @@
+[["China", "Islam", "Babur"], ["China", "River", "Babur"], ["China", "Genghis_Khan", "Babur"], ["China", "Mongol_Empire", "Babur"], ["China", "Taj_Mahal", "Babur"], ["China", "Timur", "Babur"]]

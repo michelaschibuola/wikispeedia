@@ -1,0 +1,1 @@
+[["Zimbabwe", "AIDS", "Pope_Benedict_XVI"], ["Zimbabwe", "Desmond_Tutu", "Pope_Benedict_XVI"], ["Zimbabwe", "English_language", "Pope_Benedict_XVI"], ["Zimbabwe", "God", "Pope_Benedict_XVI"], ["Zimbabwe", "Munich", "Pope_Benedict_XVI"], ["Zimbabwe", "Australia", "Pope_Benedict_XVI"], ["Zimbabwe", "China", "Pope_Benedict_XVI"], ["Zimbabwe", "Europe", "Pope_Benedict_XVI"]]

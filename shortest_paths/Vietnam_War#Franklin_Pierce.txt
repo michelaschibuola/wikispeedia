@@ -1,0 +1,1 @@
+[["Vietnam_War", "Bill_Clinton", "Franklin_Pierce"], ["Vietnam_War", "Gerald_Ford", "Franklin_Pierce"], ["Vietnam_War", "Cuba", "Franklin_Pierce"]]

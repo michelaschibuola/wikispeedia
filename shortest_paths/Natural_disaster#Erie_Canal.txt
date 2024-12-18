@@ -1,0 +1,1 @@
+[["Natural_disaster", "Atlantic_Ocean", "Erie_Canal"], ["Natural_disaster", "Ice_age", "Erie_Canal"], ["Natural_disaster", "United_States", "Erie_Canal"]]

@@ -1,0 +1,1 @@
+[["Glastonbury_Festival", "England", "Gravitation", "Gliese_876_c"], ["Glastonbury_Festival", "England", "Sun", "Gliese_876_c"], ["Glastonbury_Festival", "Stonehenge", "Sun", "Gliese_876_c"], ["Glastonbury_Festival", "Flood", "Tide", "Gliese_876_c"], ["Glastonbury_Festival", "Mendip_Hills", "Cloud", "Gliese_876_c"]]

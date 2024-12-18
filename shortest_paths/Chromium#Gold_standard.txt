@@ -1,0 +1,1 @@
+[["Chromium", "India", "Gold_standard"], ["Chromium", "Metal", "Gold_standard"], ["Chromium", "Russia", "Gold_standard"], ["Chromium", "South_Africa", "Gold_standard"], ["Chromium", "United_States_dollar", "Gold_standard"], ["Chromium", "Corrosion", "Gold_standard"]]

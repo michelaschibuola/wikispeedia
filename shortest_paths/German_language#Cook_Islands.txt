@@ -1,0 +1,1 @@
+[["German_language", "Coconut_crab", "Cook_Islands"], ["German_language", "English_language", "Cook_Islands"], ["German_language", "Spain", "Cook_Islands"], ["German_language", "United_Kingdom", "Cook_Islands"], ["German_language", "United_States", "Cook_Islands"]]

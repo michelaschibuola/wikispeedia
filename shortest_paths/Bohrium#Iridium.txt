@@ -1,0 +1,1 @@
+[["Bohrium", "Chemical_element", "Iridium"], ["Bohrium", "Color", "Iridium"], ["Bohrium", "Electron", "Iridium"], ["Bohrium", "List_of_elements_by_name", "Iridium"], ["Bohrium", "Periodic_table", "Iridium"], ["Bohrium", "Phase_%28matter%29", "Iridium"], ["Bohrium", "Rhenium", "Iridium"], ["Bohrium", "Periodic_table_%28large_version%29", "Iridium"]]

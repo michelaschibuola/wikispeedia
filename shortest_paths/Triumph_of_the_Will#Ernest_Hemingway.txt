@@ -1,0 +1,1 @@
+[["Triumph_of_the_Will", "Paris", "Ernest_Hemingway"], ["Triumph_of_the_Will", "United_States", "Ernest_Hemingway"], ["Triumph_of_the_Will", "World_War_I", "Ernest_Hemingway"], ["Triumph_of_the_Will", "World_War_II", "Ernest_Hemingway"]]

@@ -1,0 +1,1 @@
+[["Copenhagen", "Fishing", "Ancient_Egypt"], ["Copenhagen", "Library", "Ancient_Egypt"]]

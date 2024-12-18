@@ -1,0 +1,1 @@
+[["Pope_Pius_XII", "Europe", "Earth"], ["Pope_Pius_XII", "Evolution", "Earth"], ["Pope_Pius_XII", "French_language", "Earth"], ["Pope_Pius_XII", "German_language", "Earth"], ["Pope_Pius_XII", "United_States", "Earth"]]

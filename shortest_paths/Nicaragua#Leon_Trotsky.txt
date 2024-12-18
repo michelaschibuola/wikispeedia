@@ -1,0 +1,1 @@
+[["Nicaragua", "Karl_Marx", "Leon_Trotsky"], ["Nicaragua", "Marxism", "Leon_Trotsky"], ["Nicaragua", "Spain", "Leon_Trotsky"], ["Nicaragua", "United_Kingdom", "Leon_Trotsky"], ["Nicaragua", "United_States", "Leon_Trotsky"]]

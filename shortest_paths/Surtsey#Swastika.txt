@@ -1,0 +1,1 @@
+[["Surtsey", "France", "Swastika"], ["Surtsey", "Norse_mythology", "Swastika"]]

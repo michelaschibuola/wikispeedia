@@ -1,0 +1,1 @@
+[["Nauru", "English_language", "Bristol"], ["Nauru", "BBC", "Bristol"], ["Nauru", "Christianity", "Bristol"], ["Nauru", "Cricket", "Bristol"], ["Nauru", "Football_%28soccer%29", "Bristol"], ["Nauru", "United_Kingdom", "Bristol"], ["Nauru", "World_War_I", "Bristol"], ["Nauru", "World_War_II", "Bristol"]]

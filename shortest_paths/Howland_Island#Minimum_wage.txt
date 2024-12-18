@@ -1,0 +1,1 @@
+[["Howland_Island", "Australia", "Minimum_wage"], ["Howland_Island", "United_States", "Minimum_wage"]]

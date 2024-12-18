@@ -1,0 +1,1 @@
+[["GNU_Project", "Emacs", "Internet", "BBC"], ["GNU_Project", "GNU", "Internet", "BBC"], ["GNU_Project", "Unix", "Internet", "BBC"], ["GNU_Project", "Linux", "Internet", "BBC"], ["GNU_Project", "GNU", "AT%26T", "BBC"], ["GNU_Project", "Unix", "AT%26T", "BBC"], ["GNU_Project", "Unix", "Acorn_Computers", "BBC"]]

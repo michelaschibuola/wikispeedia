@@ -1,0 +1,1 @@
+[["Politics", "Middle_East", "Natural_gas"], ["Politics", "Italy", "Natural_gas"], ["Politics", "United_States", "Natural_gas"]]

@@ -1,0 +1,1 @@
+[["Tobacco_smoking", "Chicago", "American_English"], ["Tobacco_smoking", "Norway", "American_English"], ["Tobacco_smoking", "United_States", "American_English"]]

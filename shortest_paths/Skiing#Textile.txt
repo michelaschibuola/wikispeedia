@@ -1,0 +1,1 @@
+[["Skiing", "Clothing", "Textile"], ["Skiing", "Asia", "Textile"]]

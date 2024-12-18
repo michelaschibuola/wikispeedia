@@ -1,0 +1,1 @@
+[["Liberalism", "European_Union", "Botswana"], ["Liberalism", "Government", "Botswana"], ["Liberalism", "English_language", "Botswana"], ["Liberalism", "United_Kingdom", "Botswana"], ["Liberalism", "United_Nations", "Botswana"], ["Liberalism", "United_States", "Botswana"]]

@@ -1,0 +1,1 @@
+[["Vitamin_C", "Food", "Health"], ["Vitamin_C", "Nutrition", "Health"], ["Vitamin_C", "Scurvy", "Health"], ["Vitamin_C", "Cancer", "Health"]]

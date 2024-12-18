@@ -1,0 +1,1 @@
+[["Dallas%2C_Texas", "Canada", "Waste_management"], ["Dallas%2C_Texas", "Transport", "Waste_management"], ["Dallas%2C_Texas", "United_States", "Waste_management"]]

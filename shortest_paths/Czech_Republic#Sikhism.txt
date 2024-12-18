@@ -1,0 +1,1 @@
+[["Czech_Republic", "European_Union", "Sikhism"], ["Czech_Republic", "Middle_East", "Sikhism"], ["Czech_Republic", "Europe", "Sikhism"], ["Czech_Republic", "Water", "Sikhism"]]

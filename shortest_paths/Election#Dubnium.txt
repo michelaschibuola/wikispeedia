@@ -1,0 +1,1 @@
+[["Election", "Germany", "Dubnium"], ["Election", "Russia", "Dubnium"], ["Election", "United_States", "Dubnium"]]

@@ -1,0 +1,1 @@
+[["Silicon", "Chemical_element", "Marie_Curie"]]

@@ -1,0 +1,1 @@
+[["Giant_Panda", "20th_century", "The_Beatles"], ["Giant_Panda", "Austria", "The_Beatles"], ["Giant_Panda", "Germany", "The_Beatles"], ["Giant_Panda", "Hong_Kong", "The_Beatles"], ["Giant_Panda", "United_States", "The_Beatles"]]

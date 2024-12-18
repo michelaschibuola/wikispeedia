@@ -1,0 +1,1 @@
+[["Painting", "China", "Milk"], ["Painting", "Australia", "Milk"], ["Painting", "France", "Milk"], ["Painting", "Glass", "Milk"], ["Painting", "India", "Milk"], ["Painting", "Peru", "Milk"]]

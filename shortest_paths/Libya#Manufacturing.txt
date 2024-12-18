@@ -1,0 +1,1 @@
+[["Libya", "Iran", "Manufacturing"], ["Libya", "Industry", "Manufacturing"], ["Libya", "Pakistan", "Manufacturing"], ["Libya", "Petroleum", "Manufacturing"], ["Libya", "Steel", "Manufacturing"], ["Libya", "Tripoli", "Manufacturing"], ["Libya", "United_Kingdom", "Manufacturing"], ["Libya", "United_States", "Manufacturing"]]

@@ -1,0 +1,1 @@
+[["Iron", "Burkina_Faso", "Drought"], ["Iron", "Earth", "Drought"], ["Iron", "Agriculture", "Drought"], ["Iron", "Water", "Drought"], ["Iron", "Minnesota", "Drought"], ["Iron", "Moringa_oleifera", "Drought"], ["Iron", "Niger", "Drought"]]

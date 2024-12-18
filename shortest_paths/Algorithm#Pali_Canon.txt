@@ -1,0 +1,1 @@
+[["Algorithm", "English_language", "Sri_Lanka", "Pali_Canon"], ["Algorithm", "Islam", "Sri_Lanka", "Pali_Canon"], ["Algorithm", "Islam", "Buddhism", "Pali_Canon"], ["Algorithm", "Islam", "History_of_Buddhism", "Pali_Canon"], ["Algorithm", "Islam", "Ordination_of_women", "Pali_Canon"]]

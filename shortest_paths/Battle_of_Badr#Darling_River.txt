@@ -1,0 +1,1 @@
+[["Battle_of_Badr", "Islam", "19th_century", "Darling_River"], ["Battle_of_Badr", "Religion", "19th_century", "Darling_River"], ["Battle_of_Badr", "Yemen", "19th_century", "Darling_River"], ["Battle_of_Badr", "Saudi_Arabia", "Australia", "Darling_River"], ["Battle_of_Badr", "Yemen", "Australia", "Darling_River"], ["Battle_of_Badr", "Yemen", "Drought", "Darling_River"]]

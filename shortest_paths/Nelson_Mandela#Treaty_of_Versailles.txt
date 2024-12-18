@@ -1,0 +1,1 @@
+[["Nelson_Mandela", "History_of_South_Africa_in_the_apartheid_era", "Treaty_of_Versailles"], ["Nelson_Mandela", "World_War_II", "Treaty_of_Versailles"]]

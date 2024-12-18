@@ -1,0 +1,1 @@
+[["Panama_Canal", "Colombia", "BP"], ["Panama_Canal", "World_War_II", "BP"], ["Panama_Canal", "United_States_dollar", "BP"]]

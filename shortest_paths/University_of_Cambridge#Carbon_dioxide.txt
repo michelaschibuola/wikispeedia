@@ -1,0 +1,1 @@
+[["University_of_Cambridge", "Bicycle", "Carbon_dioxide"], ["University_of_Cambridge", "Stephen_Hawking", "Carbon_dioxide"], ["University_of_Cambridge", "United_States", "Carbon_dioxide"]]

@@ -1,0 +1,1 @@
+[["Guatemala", "19th_century", "Qing_Dynasty"], ["Guatemala", "People%27s_Republic_of_China", "Qing_Dynasty"], ["Guatemala", "Taipei", "Qing_Dynasty"]]

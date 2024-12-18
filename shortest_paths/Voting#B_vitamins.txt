@@ -1,0 +1,1 @@
+[["Voting", "History_of_science", "Vitamin_C", "B_vitamins"], ["Voting", "Argentina", "Avocado", "B_vitamins"], ["Voting", "Australia", "Avocado", "B_vitamins"], ["Voting", "Brazil", "Avocado", "B_vitamins"], ["Voting", "Australia", "Folic_acid", "B_vitamins"], ["Voting", "Australia", "Vitamin_D", "B_vitamins"]]

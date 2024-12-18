@@ -1,0 +1,1 @@
+[["Crimean_War", "France", "Automobile"], ["Crimean_War", "Saint_Petersburg", "Automobile"], ["Crimean_War", "Vienna", "Automobile"], ["Crimean_War", "Russia", "Automobile"]]

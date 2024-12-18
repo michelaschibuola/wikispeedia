@@ -1,0 +1,1 @@
+[["Wolverine", "Europe", "FIFA_World_Cup"], ["Wolverine", "North_America", "FIFA_World_Cup"], ["Wolverine", "South_America", "FIFA_World_Cup"], ["Wolverine", "United_States", "FIFA_World_Cup"]]

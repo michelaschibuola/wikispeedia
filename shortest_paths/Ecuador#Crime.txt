@@ -1,0 +1,1 @@
+[["Ecuador", "Argentina", "Crime"], ["Ecuador", "Culture", "Crime"], ["Ecuador", "Government", "Crime"], ["Ecuador", "United_States", "Crime"]]

@@ -1,0 +1,1 @@
+[["Stephen_Harper", "Canada", "Cystic_fibrosis"], ["Stephen_Harper", "Toronto", "Cystic_fibrosis"]]

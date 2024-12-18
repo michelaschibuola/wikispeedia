@@ -1,0 +1,1 @@
+[["Bertrand_Russell", "Scotland", "Shetland"], ["Bertrand_Russell", "World_War_II", "Shetland"]]

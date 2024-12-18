@@ -1,0 +1,1 @@
+[["Cheese", "Cyclops", "Elephant"], ["Cheese", "English_language", "Elephant"], ["Cheese", "Homer", "Elephant"], ["Cheese", "Mammal", "Elephant"], ["Cheese", "Odyssey", "Elephant"], ["Cheese", "United_Kingdom", "Elephant"]]

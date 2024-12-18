@@ -1,0 +1,1 @@
+[["Baltic_Sea", "Bird_migration", "Eurasian_Collared_Dove"], ["Baltic_Sea", "Europe", "Eurasian_Collared_Dove"]]

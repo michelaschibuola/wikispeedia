@@ -1,0 +1,1 @@
+[["Dublin", "New_Zealand", "Mir"], ["Dublin", "Russia", "Mir"], ["Dublin", "United_States", "Mir"]]

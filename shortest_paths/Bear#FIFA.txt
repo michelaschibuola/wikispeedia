@@ -1,0 +1,1 @@
+[["Bear", "Switzerland", "FIFA"], ["Bear", "United_States", "FIFA"], ["Bear", "Olympic_Games", "FIFA"]]

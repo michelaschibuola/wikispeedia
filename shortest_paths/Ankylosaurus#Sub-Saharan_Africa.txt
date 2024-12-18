@@ -1,0 +1,1 @@
+[["Ankylosaurus", "North_America", "Sub-Saharan_Africa"]]

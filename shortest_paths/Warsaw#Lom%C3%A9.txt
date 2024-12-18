@@ -1,0 +1,1 @@
+[["Warsaw", "European_Union", "Lom%C3%A9"], ["Warsaw", "Taipei", "Lom%C3%A9"], ["Warsaw", "Capital", "Lom%C3%A9"], ["Warsaw", "Germany", "Lom%C3%A9"], ["Warsaw", "United_Kingdom", "Lom%C3%A9"], ["Warsaw", "United_States", "Lom%C3%A9"], ["Warsaw", "World_War_I", "Lom%C3%A9"]]

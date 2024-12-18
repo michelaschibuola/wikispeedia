@@ -1,0 +1,1 @@
+[["Middle_Ages", "Africa", "Zambezi"], ["Middle_Ages", "Agriculture", "Zambezi"], ["Middle_Ages", "Germany", "Zambezi"], ["Middle_Ages", "Pollution", "Zambezi"]]

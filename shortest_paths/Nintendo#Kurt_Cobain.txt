@@ -1,0 +1,1 @@
+[["Nintendo", "Germany", "Kurt_Cobain"], ["Nintendo", "Seattle%2C_Washington", "Kurt_Cobain"], ["Nintendo", "United_States", "Kurt_Cobain"]]

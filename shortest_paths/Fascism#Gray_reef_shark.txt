@@ -1,0 +1,1 @@
+[["Fascism", "20th_century", "Binomial_nomenclature", "Gray_reef_shark"], ["Fascism", "Anno_Domini", "Easter_Island", "Gray_reef_shark"], ["Fascism", "France", "Red_Sea", "Gray_reef_shark"], ["Fascism", "Scramble_for_Africa", "Red_Sea", "Gray_reef_shark"]]

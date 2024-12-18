@@ -1,0 +1,1 @@
+[["Oceania", "Human", "Weapon"], ["Oceania", "Papua_New_Guinea", "Weapon"], ["Oceania", "United_States", "Weapon"]]

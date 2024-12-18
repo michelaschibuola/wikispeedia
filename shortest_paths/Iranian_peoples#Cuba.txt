@@ -1,0 +1,1 @@
+[["Iranian_peoples", "Iran", "Cuba"], ["Iranian_peoples", "Atheism", "Cuba"], ["Iranian_peoples", "Israel", "Cuba"], ["Iranian_peoples", "Jew", "Cuba"], ["Iranian_peoples", "Middle_East", "Cuba"], ["Iranian_peoples", "Russia", "Cuba"], ["Iranian_peoples", "Soviet_Union", "Cuba"]]

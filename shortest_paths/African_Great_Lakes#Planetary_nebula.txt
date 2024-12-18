@@ -1,0 +1,1 @@
+[["African_Great_Lakes", "Africa", "Carbon", "Planetary_nebula"], ["African_Great_Lakes", "Fresh_water", "Earth%27s_atmosphere", "Planetary_nebula"], ["African_Great_Lakes", "Nile", "Sun", "Planetary_nebula"]]

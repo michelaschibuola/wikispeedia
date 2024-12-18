@@ -1,0 +1,1 @@
+[["Prion", "Cat", "Oliver_Twist", "Graphic_novel"], ["Prion", "Cattle", "Iran", "Graphic_novel"], ["Prion", "Human", "Literature", "Graphic_novel"], ["Prion", "Human", "World_War_II", "Graphic_novel"], ["Prion", "Protein", "World_War_II", "Graphic_novel"], ["Prion", "Ultraviolet", "Radio", "Graphic_novel"]]

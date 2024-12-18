@@ -1,0 +1,1 @@
+[["Tennis", "Moscow", "Vincent_van_Gogh"], ["Tennis", "Paris", "Vincent_van_Gogh"], ["Tennis", "Belgium", "Vincent_van_Gogh"], ["Tennis", "Birmingham", "Vincent_van_Gogh"], ["Tennis", "France", "Vincent_van_Gogh"], ["Tennis", "London", "Vincent_van_Gogh"]]

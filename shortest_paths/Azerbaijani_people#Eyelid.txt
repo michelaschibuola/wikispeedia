@@ -1,0 +1,1 @@
+[["Azerbaijani_people", "Germany", "Contact_lens", "Eyelid"], ["Azerbaijani_people", "United_States", "Contact_lens", "Eyelid"]]

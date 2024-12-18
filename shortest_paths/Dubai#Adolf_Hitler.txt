@@ -1,0 +1,1 @@
+[["Dubai", "German_language", "Adolf_Hitler"], ["Dubai", "Gold", "Adolf_Hitler"], ["Dubai", "India", "Adolf_Hitler"], ["Dubai", "Jew", "Adolf_Hitler"], ["Dubai", "Roman_Catholic_Church", "Adolf_Hitler"], ["Dubai", "United_Kingdom", "Adolf_Hitler"]]

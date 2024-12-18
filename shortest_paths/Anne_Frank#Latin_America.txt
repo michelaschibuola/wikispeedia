@@ -1,0 +1,1 @@
+[["Anne_Frank", "Dutch_language", "Latin_America"], ["Anne_Frank", "India", "Latin_America"], ["Anne_Frank", "Jew", "Latin_America"], ["Anne_Frank", "Netherlands", "Latin_America"], ["Anne_Frank", "Philadelphia", "Latin_America"], ["Anne_Frank", "Slavery", "Latin_America"], ["Anne_Frank", "United_States", "Latin_America"]]

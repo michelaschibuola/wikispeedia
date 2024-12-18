@@ -1,0 +1,1 @@
+[["India", "Genghis_Khan", "Organization"], ["India", "Human", "Organization"], ["India", "United_Nations", "Organization"], ["India", "Max_Weber", "Organization"], ["India", "University", "Organization"]]

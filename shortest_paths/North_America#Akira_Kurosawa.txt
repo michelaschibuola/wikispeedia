@@ -1,0 +1,1 @@
+[["North_America", "Communism", "Akira_Kurosawa"], ["North_America", "Japan", "Akira_Kurosawa"], ["North_America", "United_States", "Akira_Kurosawa"]]

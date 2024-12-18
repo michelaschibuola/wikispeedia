@@ -1,0 +1,1 @@
+[["I_Ching", "Archaeology", "Genetics", "Sequoia"], ["I_Ching", "Ethics", "Genetics", "Sequoia"], ["I_Ching", "Archaeology", "Plant", "Sequoia"], ["I_Ching", "Archaeology", "United_States", "Sequoia"], ["I_Ching", "Philosophy", "United_States", "Sequoia"], ["I_Ching", "Virgil", "United_States", "Sequoia"]]

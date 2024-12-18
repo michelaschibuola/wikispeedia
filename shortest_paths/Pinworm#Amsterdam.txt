@@ -1,0 +1,1 @@
+[["Pinworm", "Animal", "Rock_Pigeon", "Amsterdam"], ["Pinworm", "Scientific_classification", "Rock_Pigeon", "Amsterdam"]]

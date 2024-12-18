@@ -1,0 +1,1 @@
+[["Galah", "Animal", "Anteater"], ["Galah", "Chordate", "Anteater"], ["Galah", "Scientific_classification", "Anteater"]]

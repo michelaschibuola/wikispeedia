@@ -1,0 +1,1 @@
+[["River_Thames", "Post-glacial_rebound", "Finland"], ["River_Thames", "19th_century", "Finland"], ["River_Thames", "Greece", "Finland"], ["River_Thames", "Roman_Catholic_Church", "Finland"], ["River_Thames", "United_Kingdom", "Finland"], ["River_Thames", "Tower_of_London", "Finland"]]

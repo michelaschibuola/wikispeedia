@@ -1,0 +1,1 @@
+[["Weapon", "Birmingham", "Rail_transport"], ["Weapon", "Iran", "Rail_transport"], ["Weapon", "Aircraft", "Rail_transport"], ["Weapon", "Roman_Empire", "Rail_transport"], ["Weapon", "United_States", "Rail_transport"], ["Weapon", "World_War_II", "Rail_transport"]]

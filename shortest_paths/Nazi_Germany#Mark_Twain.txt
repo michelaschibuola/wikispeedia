@@ -1,0 +1,1 @@
+[["Nazi_Germany", "United_States", "Mark_Twain"], ["Nazi_Germany", "Samantha_Smith", "Mark_Twain"], ["Nazi_Germany", "The_Adventures_of_Tintin", "Mark_Twain"]]

@@ -1,0 +1,1 @@
+[["Moscow", "Beijing", "Marco_Polo"], ["Moscow", "Byzantine_Empire", "Marco_Polo"], ["Moscow", "Mongol_Empire", "Marco_Polo"], ["Moscow", "Ireland", "Marco_Polo"], ["Moscow", "Japan", "Marco_Polo"]]

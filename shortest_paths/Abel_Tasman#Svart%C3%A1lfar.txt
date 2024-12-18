@@ -1,0 +1,1 @@
+[["Abel_Tasman", "Australia", "German_language", "Svart%C3%A1lfar"], ["Abel_Tasman", "Netherlands", "German_language", "Svart%C3%A1lfar"], ["Abel_Tasman", "South_America", "German_language", "Svart%C3%A1lfar"]]

@@ -1,0 +1,1 @@
+[["Puerto_Rico", "Dominican_Republic", "Che_Guevara"], ["Puerto_Rico", "Latin_America", "Che_Guevara"], ["Puerto_Rico", "Mestizo", "Che_Guevara"], ["Puerto_Rico", "Cuba", "Che_Guevara"], ["Puerto_Rico", "New_York_City", "Che_Guevara"], ["Puerto_Rico", "Spain", "Che_Guevara"], ["Puerto_Rico", "United_Nations", "Che_Guevara"]]

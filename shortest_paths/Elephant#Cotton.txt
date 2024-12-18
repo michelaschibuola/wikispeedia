@@ -1,0 +1,1 @@
+[["Elephant", "Africa", "Cotton"], ["Elephant", "Economy_of_Africa", "Cotton"], ["Elephant", "India", "Cotton"]]

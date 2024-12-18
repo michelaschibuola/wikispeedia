@@ -1,0 +1,1 @@
+[["16th_century", "Georgia_%28country%29", "South_Ossetia"], ["16th_century", "Islam", "South_Ossetia"], ["16th_century", "Middle_Ages", "South_Ossetia"], ["16th_century", "Moscow", "South_Ossetia"], ["16th_century", "Vienna", "South_Ossetia"]]

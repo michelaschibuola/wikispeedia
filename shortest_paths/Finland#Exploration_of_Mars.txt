@@ -1,0 +1,1 @@
+[["Finland", "Europe", "Exploration_of_Mars"], ["Finland", "European_Space_Agency", "Exploration_of_Mars"], ["Finland", "Russia", "Exploration_of_Mars"], ["Finland", "Soviet_Union", "Exploration_of_Mars"], ["Finland", "United_Kingdom", "Exploration_of_Mars"], ["Finland", "United_States", "Exploration_of_Mars"], ["Finland", "Water", "Exploration_of_Mars"]]

@@ -1,0 +1,1 @@
+[["Indian_Ocean", "Civilization", "Money"], ["Indian_Ocean", "Mesopotamia", "Money"], ["Indian_Ocean", "Petroleum", "Money"]]

@@ -1,0 +1,1 @@
+[["New_Zealand", "Bird_migration", "White-tailed_Eagle"], ["New_Zealand", "Asia", "White-tailed_Eagle"], ["New_Zealand", "Bird_of_prey", "White-tailed_Eagle"], ["New_Zealand", "Europe", "White-tailed_Eagle"], ["New_Zealand", "Netherlands", "White-tailed_Eagle"], ["New_Zealand", "Scotland", "White-tailed_Eagle"]]

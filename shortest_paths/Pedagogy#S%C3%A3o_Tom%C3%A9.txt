@@ -1,0 +1,1 @@
+[["Pedagogy", "20th_century", "Africa", "S%C3%A3o_Tom%C3%A9"], ["Pedagogy", "20th_century", "Netherlands", "S%C3%A3o_Tom%C3%A9"], ["Pedagogy", "20th_century", "S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe", "S%C3%A3o_Tom%C3%A9"], ["Pedagogy", "Science", "Chennai", "S%C3%A3o_Tom%C3%A9"]]

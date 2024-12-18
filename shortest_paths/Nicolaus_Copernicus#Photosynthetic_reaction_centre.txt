@@ -1,0 +1,1 @@
+[["Nicolaus_Copernicus", "Copper", "Photosynthetic_reaction_centre"], ["Nicolaus_Copernicus", "Light", "Photosynthetic_reaction_centre"]]

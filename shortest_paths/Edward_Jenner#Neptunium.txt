@@ -1,0 +1,1 @@
+[["Edward_Jenner", "England", "Barium", "Neptunium"], ["Edward_Jenner", "England", "Francium", "Neptunium"], ["Edward_Jenner", "England", "Neutron", "Neptunium"], ["Edward_Jenner", "England", "Pluto", "Neptunium"], ["Edward_Jenner", "England", "Uranium", "Neptunium"], ["Edward_Jenner", "Louis_Pasteur", "Oxygen", "Neptunium"]]

@@ -1,0 +1,1 @@
+[["House", "India", "AIDS"], ["House", "Natural_disaster", "AIDS"], ["House", "United_Kingdom", "AIDS"], ["House", "United_States", "AIDS"]]

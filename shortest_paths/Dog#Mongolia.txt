@@ -1,0 +1,1 @@
+[["Dog", "Germany", "Mongolia"], ["Dog", "Peru", "Mongolia"], ["Dog", "Russia", "Mongolia"], ["Dog", "Global_spread_of_H5N1", "Mongolia"]]

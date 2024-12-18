@@ -1,0 +1,1 @@
+[["Mercury_%28element%29", "India", "Calgary"], ["Mercury_%28element%29", "Mexico", "Calgary"], ["Mercury_%28element%29", "United_States", "Calgary"]]

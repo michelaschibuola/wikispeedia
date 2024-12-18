@@ -1,0 +1,1 @@
+[["Xanadu_House", "Computer", "Gold"], ["Xanadu_House", "Electricity", "Gold"], ["Xanadu_House", "Electronics", "Gold"], ["Xanadu_House", "United_States", "Gold"]]

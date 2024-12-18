@@ -1,0 +1,1 @@
+[["Beetle", "Carolus_Linnaeus", "Soybean"], ["Beetle", "Plant", "Soybean"], ["Beetle", "Scientific_classification", "Soybean"]]

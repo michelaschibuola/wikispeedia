@@ -1,0 +1,1 @@
+[["Pelycosaur", "Dinosaur", "Theropoda"], ["Pelycosaur", "Animal", "Theropoda"], ["Pelycosaur", "Chordate", "Theropoda"], ["Pelycosaur", "Fossil", "Theropoda"], ["Pelycosaur", "North_America", "Theropoda"], ["Pelycosaur", "Scientific_classification", "Theropoda"]]

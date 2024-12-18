@@ -1,0 +1,1 @@
+[["Islam", "8th_century", "Roman_law"], ["Islam", "Brazil", "Roman_law"], ["Islam", "Byzantine_Empire", "Roman_law"], ["Islam", "Europe", "Roman_law"], ["Islam", "European_Union", "Roman_law"], ["Islam", "9th_century", "Roman_law"], ["Islam", "Holy_Roman_Empire", "Roman_law"], ["Islam", "Law", "Roman_law"], ["Islam", "Rome", "Roman_law"], ["Islam", "Scotland", "Roman_law"]]

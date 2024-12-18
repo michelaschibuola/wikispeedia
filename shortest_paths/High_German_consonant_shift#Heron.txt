@@ -1,0 +1,1 @@
+[["High_German_consonant_shift", "Dutch_language", "Canada", "Heron"], ["High_German_consonant_shift", "German_language", "Canada", "Heron"], ["High_German_consonant_shift", "Switzerland", "George_Byron%2C_6th_Baron_Byron", "Heron"]]

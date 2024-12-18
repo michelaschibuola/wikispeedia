@@ -1,0 +1,1 @@
+[["Superman", "Communism", "Dresden"], ["Superman", "Germany", "Dresden"], ["Superman", "Prague", "Dresden"], ["Superman", "United_States", "Dresden"], ["Superman", "World_War_II", "Dresden"]]

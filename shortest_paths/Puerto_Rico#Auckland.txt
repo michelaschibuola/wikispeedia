@@ -1,0 +1,1 @@
+[["Puerto_Rico", "Los_Angeles%2C_California", "Auckland"], ["Puerto_Rico", "Europe", "Auckland"], ["Puerto_Rico", "Judaism", "Auckland"], ["Puerto_Rico", "Pacific_Ocean", "Auckland"]]

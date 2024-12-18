@@ -1,0 +1,1 @@
+[["Cattle", "Canada", "Moon"], ["Cattle", "France", "Moon"], ["Cattle", "Craters_of_the_Moon_National_Monument_and_Preserve", "Moon"], ["Cattle", "English_language", "Moon"], ["Cattle", "Polish-Lithuanian_Commonwealth", "Moon"]]

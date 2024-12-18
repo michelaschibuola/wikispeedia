@@ -1,0 +1,1 @@
+[["Natural_gas", "Ireland", "Poor_Law"], ["Natural_gas", "United_Kingdom", "Poor_Law"]]

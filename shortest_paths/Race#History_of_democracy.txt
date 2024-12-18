@@ -1,0 +1,1 @@
+[["Race", "Oligarchy", "History_of_democracy"], ["Race", "Mediterranean_Sea", "History_of_democracy"], ["Race", "Monarchy", "History_of_democracy"], ["Race", "Tribe", "History_of_democracy"]]

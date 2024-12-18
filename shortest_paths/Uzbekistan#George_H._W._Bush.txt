@@ -1,0 +1,1 @@
+[["Uzbekistan", "Mikhail_Gorbachev", "George_H._W._Bush"], ["Uzbekistan", "Saudi_Arabia", "George_H._W._Bush"], ["Uzbekistan", "Iran", "George_H._W._Bush"], ["Uzbekistan", "United_States", "George_H._W._Bush"]]

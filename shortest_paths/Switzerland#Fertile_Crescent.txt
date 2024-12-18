@@ -1,0 +1,1 @@
+[["Switzerland", "Bronze_Age", "Fertile_Crescent"], ["Switzerland", "Lebanon", "Fertile_Crescent"], ["Switzerland", "Climate", "Fertile_Crescent"], ["Switzerland", "Currency", "Fertile_Crescent"], ["Switzerland", "Turkey", "Fertile_Crescent"]]

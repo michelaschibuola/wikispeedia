@@ -1,0 +1,1 @@
+[["Sweden", "10th_century", "Merseburg_Incantations"], ["Sweden", "Odin", "Merseburg_Incantations"], ["Sweden", "German_language", "Merseburg_Incantations"], ["Sweden", "Middle_Ages", "Merseburg_Incantations"]]

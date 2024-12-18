@@ -1,0 +1,1 @@
+[["God", "Marxism", "Prime_Minister_of_the_United_Kingdom"], ["God", "Roman_Catholic_Church", "Prime_Minister_of_the_United_Kingdom"], ["God", "Yes_Minister", "Prime_Minister_of_the_United_Kingdom"]]

@@ -1,0 +1,1 @@
+[["Timbuktu", "Asia", "Lake_Baikal"], ["Timbuktu", "World_Heritage_Site", "Lake_Baikal"]]

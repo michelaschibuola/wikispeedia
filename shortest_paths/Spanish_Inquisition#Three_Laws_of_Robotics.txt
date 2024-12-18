@@ -1,0 +1,1 @@
+[["Spanish_Inquisition", "Religion", "Three_Laws_of_Robotics"], ["Spanish_Inquisition", "Voltaire", "Three_Laws_of_Robotics"]]

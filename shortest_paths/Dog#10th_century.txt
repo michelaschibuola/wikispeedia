@@ -1,0 +1,1 @@
+[["Dog", "Germany", "10th_century"], ["Dog", "Vietnam", "10th_century"]]

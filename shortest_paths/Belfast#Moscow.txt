@@ -1,0 +1,1 @@
+[["Belfast", "Football_%28soccer%29", "Moscow"], ["Belfast", "Ireland", "Moscow"], ["Belfast", "People%27s_Republic_of_China", "Moscow"], ["Belfast", "United_Kingdom", "Moscow"], ["Belfast", "World_War_II", "Moscow"], ["Belfast", "Samuel_Beckett", "Moscow"]]

@@ -1,0 +1,1 @@
+[["Plato", "Aristotle", "Thermodynamics"], ["Plato", "Gottfried_Leibniz", "Thermodynamics"], ["Plato", "19th_century", "Thermodynamics"], ["Plato", "Albert_Einstein", "Thermodynamics"]]

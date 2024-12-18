@@ -1,0 +1,1 @@
+[["Jerusalem", "Alexander_the_Great", "Pyramid"], ["Jerusalem", "Ancient_Egypt", "Pyramid"], ["Jerusalem", "Egypt", "Pyramid"]]

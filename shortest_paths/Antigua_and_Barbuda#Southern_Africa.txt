@@ -1,0 +1,1 @@
+[["Antigua_and_Barbuda", "Atlantic_Ocean", "Southern_Africa"], ["Antigua_and_Barbuda", "Christianity", "Southern_Africa"], ["Antigua_and_Barbuda", "North_America", "Southern_Africa"]]

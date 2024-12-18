@@ -1,0 +1,1 @@
+[["Mineral", "Cadmium", "Medicine"], ["Mineral", "Linus_Pauling", "Medicine"], ["Mineral", "Mercury_%28element%29", "Medicine"], ["Mineral", "Antimony", "Medicine"], ["Mineral", "Biology", "Medicine"], ["Mineral", "Chlorine", "Medicine"], ["Mineral", "Oxygen", "Medicine"], ["Mineral", "Moringa_oleifera", "Medicine"], ["Mineral", "Saffron", "Medicine"]]

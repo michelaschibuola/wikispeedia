@@ -1,0 +1,1 @@
+[["Dolphin", "Animal", "Plains_Zebra"], ["Dolphin", "Chordate", "Plains_Zebra"], ["Dolphin", "Mammal", "Plains_Zebra"], ["Dolphin", "Scientific_classification", "Plains_Zebra"]]

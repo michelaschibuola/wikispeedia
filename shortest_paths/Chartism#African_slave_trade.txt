@@ -1,0 +1,1 @@
+[["Chartism", "Gold", "African_slave_trade"], ["Chartism", "Mining", "African_slave_trade"], ["Chartism", "Scotland", "African_slave_trade"], ["Chartism", "United_Kingdom", "African_slave_trade"]]

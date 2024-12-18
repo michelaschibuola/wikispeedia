@@ -1,0 +1,1 @@
+[["Programming_language", "Bill_Gates", "United_States_dollar"]]

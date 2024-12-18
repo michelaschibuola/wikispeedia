@@ -1,0 +1,1 @@
+[["League_of_Nations", "South_America", "Barbara_McClintock"], ["League_of_Nations", "Sweden", "Barbara_McClintock"], ["League_of_Nations", "United_States", "Barbara_McClintock"]]

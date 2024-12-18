@@ -1,0 +1,1 @@
+[["Gas_metal_arc_welding", "Europe", "Britney_Spears"], ["Gas_metal_arc_welding", "North_America", "Britney_Spears"]]

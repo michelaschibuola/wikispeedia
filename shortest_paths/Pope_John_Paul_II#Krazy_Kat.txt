@@ -1,0 +1,1 @@
+[["Pope_John_Paul_II", "Czech_Republic", "Krazy_Kat"], ["Pope_John_Paul_II", "English_language", "Krazy_Kat"], ["Pope_John_Paul_II", "France", "Krazy_Kat"], ["Pope_John_Paul_II", "French_language", "Krazy_Kat"], ["Pope_John_Paul_II", "Italy", "Krazy_Kat"], ["Pope_John_Paul_II", "Prague", "Krazy_Kat"], ["Pope_John_Paul_II", "Spanish_language", "Krazy_Kat"]]

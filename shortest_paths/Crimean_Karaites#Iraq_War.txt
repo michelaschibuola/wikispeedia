@@ -1,0 +1,1 @@
+[["Crimean_Karaites", "Lithuania", "Iraq_War"], ["Crimean_Karaites", "Middle_East", "Iraq_War"], ["Crimean_Karaites", "Poland", "Iraq_War"], ["Crimean_Karaites", "Ukraine", "Iraq_War"], ["Crimean_Karaites", "United_States", "Iraq_War"]]

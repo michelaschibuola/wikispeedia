@@ -1,0 +1,1 @@
+[["Strait_of_Malacca", "Pacific_Ocean", "Water"], ["Strait_of_Malacca", "Asia", "Water"], ["Strait_of_Malacca", "China", "Water"], ["Strait_of_Malacca", "India", "Water"], ["Strait_of_Malacca", "Middle_East", "Water"], ["Strait_of_Malacca", "Singapore", "Water"]]

@@ -1,0 +1,1 @@
+[["Nintendo_Entertainment_System", "Soviet_Union", "Adolf_Hitler"], ["Nintendo_Entertainment_System", "United_States", "Adolf_Hitler"], ["Nintendo_Entertainment_System", "The_Lion_King", "Adolf_Hitler"]]

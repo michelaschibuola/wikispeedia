@@ -1,0 +1,1 @@
+[["Adolf_Hitler", "Dam", "Suriname"], ["Adolf_Hitler", "France", "Suriname"], ["Adolf_Hitler", "Gold", "Suriname"], ["Adolf_Hitler", "India", "Suriname"], ["Adolf_Hitler", "Jew", "Suriname"], ["Adolf_Hitler", "Netherlands", "Suriname"], ["Adolf_Hitler", "South_America", "Suriname"], ["Adolf_Hitler", "United_States", "Suriname"]]

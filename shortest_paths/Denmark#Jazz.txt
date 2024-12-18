@@ -1,0 +1,1 @@
+[["Denmark", "Argentina", "Jazz"], ["Denmark", "Armenia", "Jazz"], ["Denmark", "Atlantic_slave_trade", "Jazz"], ["Denmark", "Copenhagen", "Jazz"], ["Denmark", "Europe", "Jazz"], ["Denmark", "France", "Jazz"], ["Denmark", "United_Kingdom", "Jazz"], ["Denmark", "United_States", "Jazz"], ["Denmark", "Warsaw", "Jazz"]]

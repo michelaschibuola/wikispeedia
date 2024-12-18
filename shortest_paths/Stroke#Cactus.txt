@@ -1,0 +1,1 @@
+[["Stroke", "Carolus_Linnaeus", "Cactus"], ["Stroke", "United_States", "Cactus"]]

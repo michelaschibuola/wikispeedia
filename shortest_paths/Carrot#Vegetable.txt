@@ -1,0 +1,1 @@
+[["Carrot", "Bread", "Vegetable"], ["Carrot", "Plant", "Vegetable"], ["Carrot", "Soup", "Vegetable"], ["Carrot", "Vitamin_C", "Vegetable"], ["Carrot", "Fruit", "Vegetable"], ["Carrot", "List_of_vegetable_oils", "Vegetable"]]

@@ -1,0 +1,1 @@
+[["Alcohol", "Agriculture", "Indonesia"], ["Alcohol", "Copper", "Indonesia"], ["Alcohol", "Europe", "Indonesia"], ["Alcohol", "Islam", "Indonesia"], ["Alcohol", "Sulfur", "Indonesia"], ["Alcohol", "United_States", "Indonesia"], ["Alcohol", "Vanilla", "Indonesia"], ["Alcohol", "Biodiesel", "Indonesia"], ["Alcohol", "Cocoa", "Indonesia"], ["Alcohol", "Turkey", "Indonesia"]]

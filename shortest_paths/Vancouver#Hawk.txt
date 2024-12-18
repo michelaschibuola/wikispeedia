@@ -1,0 +1,1 @@
+[["Vancouver", "Canada", "Hawk"], ["Vancouver", "North_America", "Hawk"]]

@@ -1,0 +1,1 @@
+[["Italy", "Berlin", "Hutu"], ["Italy", "CS_gas", "Hutu"], ["Italy", "Democratic_Republic_of_the_Congo", "Hutu"], ["Italy", "Ethiopia", "Hutu"], ["Italy", "Roman_Catholic_Church", "Hutu"], ["Italy", "United_States", "Hutu"], ["Italy", "United_Nations", "Hutu"]]

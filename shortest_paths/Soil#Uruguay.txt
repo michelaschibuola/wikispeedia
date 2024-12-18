@@ -1,0 +1,1 @@
+[["Soil", "Agriculture", "Uruguay"], ["Soil", "Avocado", "Uruguay"], ["Soil", "19th_century", "Uruguay"]]

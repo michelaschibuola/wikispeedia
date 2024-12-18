@@ -1,0 +1,1 @@
+[["Lawrencium", "Copper", "Wales", "Acorn_Computers"], ["Lawrencium", "Electron", "United_Kingdom", "Acorn_Computers"], ["Lawrencium", "Russia", "United_Kingdom", "Acorn_Computers"], ["Lawrencium", "Geneva", "World_Wide_Web", "Acorn_Computers"], ["Lawrencium", "Metal", "Birmingham", "Acorn_Computers"], ["Lawrencium", "Periodic_table", "Industry", "Acorn_Computers"]]

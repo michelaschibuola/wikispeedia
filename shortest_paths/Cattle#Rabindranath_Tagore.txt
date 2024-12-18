@@ -1,0 +1,1 @@
+[["Cattle", "Argentina", "Rabindranath_Tagore"], ["Cattle", "India", "Rabindranath_Tagore"], ["Cattle", "Iran", "Rabindranath_Tagore"], ["Cattle", "Latin_America", "Rabindranath_Tagore"], ["Cattle", "Spain", "Rabindranath_Tagore"]]

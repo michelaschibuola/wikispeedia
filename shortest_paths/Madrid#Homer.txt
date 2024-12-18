@@ -1,0 +1,1 @@
+[["Madrid", "Athens", "Homer"], ["Madrid", "Europe", "Homer"], ["Madrid", "Asia", "Homer"], ["Madrid", "Roman_Empire", "Homer"]]

@@ -1,0 +1,1 @@
+[["Manchester", "British_House_of_Commons", "Invasion_of_Grenada"], ["Manchester", "Jamaica", "Invasion_of_Grenada"], ["Manchester", "Barbados", "Invasion_of_Grenada"], ["Manchester", "United_Kingdom", "Invasion_of_Grenada"], ["Manchester", "United_States", "Invasion_of_Grenada"]]

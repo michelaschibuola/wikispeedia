@@ -1,0 +1,1 @@
+[["20th_century", "Italy", "Palazzo_Pitti"], ["20th_century", "Paris", "Palazzo_Pitti"], ["20th_century", "World_War_II", "Palazzo_Pitti"], ["20th_century", "Ancient_Rome", "Palazzo_Pitti"], ["20th_century", "Dresden", "Palazzo_Pitti"], ["20th_century", "Pope", "Palazzo_Pitti"]]

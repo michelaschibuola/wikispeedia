@@ -1,0 +1,1 @@
+[["War_and_Peace", "Jimmy_Carter", "Pakistan"], ["War_and_Peace", "Country", "Pakistan"], ["War_and_Peace", "Russia", "Pakistan"]]

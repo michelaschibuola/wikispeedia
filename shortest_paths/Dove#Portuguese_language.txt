@@ -1,0 +1,1 @@
+[["Dove", "Dodo", "Portuguese_language"], ["Dove", "Asia", "Portuguese_language"], ["Dove", "France", "Portuguese_language"], ["Dove", "United_States", "Portuguese_language"]]

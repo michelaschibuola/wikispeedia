@@ -1,0 +1,1 @@
+[["Computer_and_video_games", "France", "Election"], ["Computer_and_video_games", "Germany", "Election"], ["Computer_and_video_games", "Switzerland", "Election"], ["Computer_and_video_games", "United_Kingdom", "Election"], ["Computer_and_video_games", "United_States", "Election"]]

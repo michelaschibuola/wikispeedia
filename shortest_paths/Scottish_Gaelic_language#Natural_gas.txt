@@ -1,0 +1,1 @@
+[["Scottish_Gaelic_language", "Rockall", "Natural_gas"], ["Scottish_Gaelic_language", "Ireland", "Natural_gas"], ["Scottish_Gaelic_language", "River", "Natural_gas"], ["Scottish_Gaelic_language", "Shetland", "Natural_gas"], ["Scottish_Gaelic_language", "United_Kingdom", "Natural_gas"]]

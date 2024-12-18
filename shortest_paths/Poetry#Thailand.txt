@@ -1,0 +1,1 @@
+[["Poetry", "English_language", "Thailand"], ["Poetry", "Peru", "Thailand"], ["Poetry", "Globalization", "Thailand"], ["Poetry", "Ramayana", "Thailand"]]

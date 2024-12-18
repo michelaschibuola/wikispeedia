@@ -1,0 +1,1 @@
+[["Oregon", "North_America", "Tamil_people"], ["Oregon", "Christianity", "Tamil_people"], ["Oregon", "United_Kingdom", "Tamil_people"], ["Oregon", "United_States", "Tamil_people"]]

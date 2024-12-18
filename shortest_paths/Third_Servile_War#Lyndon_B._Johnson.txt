@@ -1,0 +1,1 @@
+[["Third_Servile_War", "History_of_slavery", "Abraham_Lincoln", "Lyndon_B._Johnson"], ["Third_Servile_War", "History_of_slavery", "Civil_rights", "Lyndon_B._Johnson"], ["Third_Servile_War", "Ancient_Rome", "Civil_rights", "Lyndon_B._Johnson"], ["Third_Servile_War", "Roman_Empire", "Turkey", "Lyndon_B._Johnson"], ["Third_Servile_War", "Rome", "Mona_Lisa", "Lyndon_B._Johnson"]]

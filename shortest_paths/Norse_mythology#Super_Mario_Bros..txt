@@ -1,0 +1,1 @@
+[["Norse_mythology", "Europe", "Super_Mario_Bros."], ["Norse_mythology", "United_States", "Super_Mario_Bros."], ["Norse_mythology", "The_Legend_of_Zelda_series", "Super_Mario_Bros."]]

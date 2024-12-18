@@ -1,0 +1,1 @@
+[["Comet", "Algol", "Arabic_language"], ["Comet", "Earth", "Arabic_language"], ["Comet", "English_language", "Arabic_language"], ["Comet", "France", "Arabic_language"], ["Comet", "Germany", "Arabic_language"], ["Comet", "Latin", "Arabic_language"], ["Comet", "Saturn", "Arabic_language"]]

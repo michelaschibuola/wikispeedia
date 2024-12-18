@@ -1,0 +1,1 @@
+[["Wolverine", "Beaver", "Meat"], ["Wolverine", "Animal", "Meat"], ["Wolverine", "Carnivore", "Meat"], ["Wolverine", "Mammal", "Meat"], ["Wolverine", "United_States", "Meat"]]

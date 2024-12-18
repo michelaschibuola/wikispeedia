@@ -1,0 +1,1 @@
+[["T-34", "Afghanistan", "History_of_Buddhism"], ["T-34", "Laos", "History_of_Buddhism"], ["T-34", "Vietnam", "History_of_Buddhism"]]

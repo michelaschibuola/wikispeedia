@@ -1,0 +1,1 @@
+[["Bedbug", "North_America", "Washington%2C_D.C.", "John_Seigenthaler%2C_Sr."], ["Bedbug", "South_America", "Martin_Luther_King%2C_Jr.", "John_Seigenthaler%2C_Sr."]]

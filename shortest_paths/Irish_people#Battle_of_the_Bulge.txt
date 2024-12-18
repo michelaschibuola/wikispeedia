@@ -1,0 +1,1 @@
+[["Irish_people", "Benito_Mussolini", "Battle_of_the_Bulge"], ["Irish_people", "Chicago", "Battle_of_the_Bulge"], ["Irish_people", "English_language", "Battle_of_the_Bulge"], ["Irish_people", "United_Kingdom", "Battle_of_the_Bulge"], ["Irish_people", "United_States", "Battle_of_the_Bulge"]]

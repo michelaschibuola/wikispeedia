@@ -1,0 +1,1 @@
+[["Alternative_rock", "Australia", "Milk"], ["Alternative_rock", "Canada", "Milk"], ["Alternative_rock", "Europe", "Milk"], ["Alternative_rock", "Japan", "Milk"], ["Alternative_rock", "New_Zealand", "Milk"], ["Alternative_rock", "Scotland", "Milk"], ["Alternative_rock", "United_Kingdom", "Milk"], ["Alternative_rock", "United_States", "Milk"]]

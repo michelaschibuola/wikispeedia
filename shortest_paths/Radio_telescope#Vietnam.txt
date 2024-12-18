@@ -1,0 +1,1 @@
+[["Radio_telescope", "India", "Vietnam"], ["Radio_telescope", "World_War_II", "Vietnam"]]

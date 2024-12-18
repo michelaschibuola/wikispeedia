@@ -1,0 +1,1 @@
+[["Integrated_circuit", "Internet", "Mini"], ["Integrated_circuit", "Welding", "Mini"]]

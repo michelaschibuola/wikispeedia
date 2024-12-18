@@ -1,0 +1,1 @@
+[["Life", "Evolution", "Death_Valley_National_Park"], ["Life", "Human", "Death_Valley_National_Park"], ["Life", "Animal", "Death_Valley_National_Park"], ["Life", "Plant", "Death_Valley_National_Park"], ["Life", "Soil", "Death_Valley_National_Park"]]

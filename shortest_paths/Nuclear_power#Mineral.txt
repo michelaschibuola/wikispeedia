@@ -1,0 +1,1 @@
+[["Nuclear_power", "1973_oil_crisis", "Mineral"], ["Nuclear_power", "Boron", "Mineral"], ["Nuclear_power", "Fluorine", "Mineral"], ["Nuclear_power", "Coal", "Mineral"], ["Nuclear_power", "Lead", "Mineral"], ["Nuclear_power", "Sodium", "Mineral"], ["Nuclear_power", "Uranium", "Mineral"]]

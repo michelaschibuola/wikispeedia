@@ -1,0 +1,1 @@
+[["Sugar_beet", "Carbon_dioxide", "Climate_change"], ["Sugar_beet", "Europe", "Climate_change"], ["Sugar_beet", "United_States", "Climate_change"]]

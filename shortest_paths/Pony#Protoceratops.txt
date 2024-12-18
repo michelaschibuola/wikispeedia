@@ -1,0 +1,1 @@
+[["Pony", "Horse", "Animal", "Protoceratops"], ["Pony", "Horse", "Chordate", "Protoceratops"], ["Pony", "Horse", "Dinosaur", "Protoceratops"], ["Pony", "Horse", "Herbivore", "Protoceratops"], ["Pony", "Horse", "Mongolia", "Protoceratops"], ["Pony", "Horse", "Scientific_classification", "Protoceratops"], ["Pony", "Ireland", "China", "Protoceratops"]]

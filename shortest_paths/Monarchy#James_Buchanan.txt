@@ -1,0 +1,1 @@
+[["Monarchy", "England", "James_Buchanan"], ["Monarchy", "Scotland", "James_Buchanan"], ["Monarchy", "United_Kingdom", "James_Buchanan"], ["Monarchy", "President_of_the_United_States", "James_Buchanan"], ["Monarchy", "Slavery", "James_Buchanan"]]

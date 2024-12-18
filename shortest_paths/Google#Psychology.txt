@@ -1,0 +1,1 @@
+[["Google", "Advertising", "Psychology"], ["Google", "Germany", "Psychology"], ["Google", "United_States", "Psychology"]]

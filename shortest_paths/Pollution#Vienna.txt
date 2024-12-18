@@ -1,0 +1,1 @@
+[["Pollution", "Industry", "Vienna"], ["Pollution", "Japan", "Vienna"], ["Pollution", "Middle_Ages", "Vienna"]]

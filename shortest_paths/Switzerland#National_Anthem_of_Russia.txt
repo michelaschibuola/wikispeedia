@@ -1,0 +1,1 @@
+[["Switzerland", "France", "National_Anthem_of_Russia"], ["Switzerland", "Russia", "National_Anthem_of_Russia"], ["Switzerland", "Vladimir_Lenin", "National_Anthem_of_Russia"]]

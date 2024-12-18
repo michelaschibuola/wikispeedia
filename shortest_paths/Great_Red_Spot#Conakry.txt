@@ -1,0 +1,1 @@
+[["Great_Red_Spot", "Earth", "Africa", "Conakry"], ["Great_Red_Spot", "Earth", "Atlantic_Ocean", "Conakry"], ["Great_Red_Spot", "Telescope", "France", "Conakry"], ["Great_Red_Spot", "Neptune", "France", "Conakry"]]

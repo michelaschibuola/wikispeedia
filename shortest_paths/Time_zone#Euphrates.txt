@@ -1,0 +1,1 @@
+[["Time_zone", "Egypt", "Euphrates"], ["Time_zone", "Iran", "Euphrates"], ["Time_zone", "Iraq", "Euphrates"], ["Time_zone", "Jordan", "Euphrates"], ["Time_zone", "Kuwait", "Euphrates"], ["Time_zone", "Saudi_Arabia", "Euphrates"], ["Time_zone", "Syria", "Euphrates"], ["Time_zone", "Turkey", "Euphrates"]]

@@ -1,0 +1,1 @@
+[["Marie_Curie", "France", "Adolf_Hitler"], ["Marie_Curie", "Jew", "Adolf_Hitler"], ["Marie_Curie", "Paris", "Adolf_Hitler"], ["Marie_Curie", "Poland", "Adolf_Hitler"], ["Marie_Curie", "United_States", "Adolf_Hitler"], ["Marie_Curie", "Warsaw", "Adolf_Hitler"], ["Marie_Curie", "World_War_I", "Adolf_Hitler"]]

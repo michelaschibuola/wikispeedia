@@ -1,0 +1,1 @@
+[["Music", "Australia", "Eurovision_Song_Contest"], ["Music", "Belarus", "Eurovision_Song_Contest"], ["Music", "Folk_music", "Eurovision_Song_Contest"], ["Music", "Internet", "Eurovision_Song_Contest"], ["Music", "Israel", "Eurovision_Song_Contest"], ["Music", "Culture", "Eurovision_Song_Contest"], ["Music", "India", "Eurovision_Song_Contest"]]

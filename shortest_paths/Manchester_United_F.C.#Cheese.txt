@@ -1,0 +1,1 @@
+[["Manchester_United_F.C.", "Europe", "Cheese"], ["Manchester_United_F.C.", "Germany", "Cheese"], ["Manchester_United_F.C.", "Sweden", "Cheese"], ["Manchester_United_F.C.", "United_States", "Cheese"], ["Manchester_United_F.C.", "World_War_II", "Cheese"], ["Manchester_United_F.C.", "United_Kingdom", "Cheese"]]

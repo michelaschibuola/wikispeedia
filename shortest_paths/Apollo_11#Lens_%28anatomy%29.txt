@@ -1,0 +1,1 @@
+[["Apollo_11", "Australia", "Shark", "Lens_%28anatomy%29"], ["Apollo_11", "California", "Light", "Lens_%28anatomy%29"], ["Apollo_11", "Moon", "Light", "Lens_%28anatomy%29"], ["Apollo_11", "Radio_telescope", "Light", "Lens_%28anatomy%29"], ["Apollo_11", "United_States", "Contact_lens", "Lens_%28anatomy%29"], ["Apollo_11", "United_States", "Glasses", "Lens_%28anatomy%29"]]

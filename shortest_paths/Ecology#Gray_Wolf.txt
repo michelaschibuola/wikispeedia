@@ -1,0 +1,1 @@
+[["Ecology", "Carolus_Linnaeus", "Gray_Wolf"], ["Ecology", "Bear", "Gray_Wolf"], ["Ecology", "Forest", "Gray_Wolf"], ["Ecology", "Mammal", "Gray_Wolf"]]

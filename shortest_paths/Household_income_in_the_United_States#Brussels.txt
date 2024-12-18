@@ -1,0 +1,1 @@
+[["Household_income_in_the_United_States", "European_Union", "Brussels"], ["Household_income_in_the_United_States", "Germany", "Brussels"], ["Household_income_in_the_United_States", "United_Kingdom", "Brussels"], ["Household_income_in_the_United_States", "United_States", "Brussels"]]

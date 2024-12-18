@@ -1,0 +1,1 @@
+[["Sport", "London", "Christopher_Columbus"], ["Sport", "Popular_culture", "Christopher_Columbus"], ["Sport", "China", "Christopher_Columbus"], ["Sport", "United_States", "Christopher_Columbus"]]

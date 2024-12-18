@@ -1,0 +1,1 @@
+[["Aleksandr_Vasilevsky", "Soviet_Union", "Albert_Einstein"], ["Aleksandr_Vasilevsky", "World_War_I", "Albert_Einstein"], ["Aleksandr_Vasilevsky", "World_War_II", "Albert_Einstein"]]

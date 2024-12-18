@@ -1,0 +1,1 @@
+[["Gravitation", "Aristotle", "Political_philosophy"], ["Gravitation", "Earth", "Political_philosophy"], ["Gravitation", "History_of_science", "Political_philosophy"], ["Gravitation", "Religion", "Political_philosophy"]]

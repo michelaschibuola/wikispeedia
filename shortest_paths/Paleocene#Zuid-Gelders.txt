@@ -1,0 +1,1 @@
+[["Paleocene", "Australia", "Dutch_language", "Zuid-Gelders"], ["Paleocene", "Europe", "Dutch_language", "Zuid-Gelders"], ["Paleocene", "South_America", "Dutch_language", "Zuid-Gelders"], ["Paleocene", "Penguin", "Dutch_language", "Zuid-Gelders"]]

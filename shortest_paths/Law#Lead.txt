@@ -1,0 +1,1 @@
+[["Law", "Ancient_Rome", "Lead"], ["Law", "Dice", "Lead"], ["Law", "Economy_of_the_Republic_of_Ireland", "Lead"], ["Law", "Gottfried_Leibniz", "Lead"], ["Law", "Latin", "Lead"], ["Law", "Roman_Empire", "Lead"]]

@@ -1,0 +1,1 @@
+[["Computer", "20th_century", "Fashion"], ["Computer", "Architecture", "Fashion"], ["Computer", "Game", "Fashion"], ["Computer", "Mass_media", "Fashion"], ["Computer", "Technology", "Fashion"]]

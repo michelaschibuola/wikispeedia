@@ -1,0 +1,1 @@
+[["University", "Shanghai", "Mahjong"], ["University", "China", "Mahjong"]]

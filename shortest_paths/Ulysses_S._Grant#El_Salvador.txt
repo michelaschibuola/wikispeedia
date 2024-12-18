@@ -1,0 +1,1 @@
+[["Ulysses_S._Grant", "19th_century", "El_Salvador"], ["Ulysses_S._Grant", "Dominican_Republic", "El_Salvador"], ["Ulysses_S._Grant", "North_America", "El_Salvador"], ["Ulysses_S._Grant", "United_States", "El_Salvador"], ["Ulysses_S._Grant", "United_States_dollar", "El_Salvador"]]

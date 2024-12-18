@@ -1,0 +1,1 @@
+[["Church_of_England", "Europe", "Amish"], ["Church_of_England", "Roman_Catholic_Church", "Amish"]]

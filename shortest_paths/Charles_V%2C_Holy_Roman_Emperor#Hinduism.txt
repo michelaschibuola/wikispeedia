@@ -1,0 +1,1 @@
+[["Charles_V%2C_Holy_Roman_Emperor", "Christianity", "Hinduism"], ["Charles_V%2C_Holy_Roman_Emperor", "England", "Hinduism"], ["Charles_V%2C_Holy_Roman_Emperor", "Islam", "Hinduism"]]

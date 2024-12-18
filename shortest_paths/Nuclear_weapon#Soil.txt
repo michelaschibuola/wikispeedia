@@ -1,0 +1,1 @@
+[["Nuclear_weapon", "20th_century", "Soil"], ["Nuclear_weapon", "Arsenic", "Soil"], ["Nuclear_weapon", "Chlorine", "Soil"], ["Nuclear_weapon", "Engineering", "Soil"], ["Nuclear_weapon", "China", "Soil"], ["Nuclear_weapon", "Uranium", "Soil"]]

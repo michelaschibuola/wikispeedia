@@ -1,0 +1,1 @@
+[["Snowdonia", "Agriculture", "Paraguay"], ["Snowdonia", "English_language", "Paraguay"]]

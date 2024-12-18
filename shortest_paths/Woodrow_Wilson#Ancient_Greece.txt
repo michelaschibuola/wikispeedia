@@ -1,0 +1,1 @@
+[["Woodrow_Wilson", "Azerbaijani_people", "Ancient_Greece"], ["Woodrow_Wilson", "Princeton_University", "Ancient_Greece"], ["Woodrow_Wilson", "Swastika", "Ancient_Greece"], ["Woodrow_Wilson", "Great_Britain", "Ancient_Greece"]]

@@ -1,0 +1,1 @@
+[["Ottawa", "Canada", "Monopoly_%28game%29"], ["Ottawa", "Double-decker_bus", "Monopoly_%28game%29"], ["Ottawa", "World_War_II", "Monopoly_%28game%29"]]

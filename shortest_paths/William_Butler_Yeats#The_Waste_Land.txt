@@ -1,0 +1,1 @@
+[["William_Butler_Yeats", "Irish_poetry", "The_Waste_Land"], ["William_Butler_Yeats", "James_Joyce", "The_Waste_Land"], ["William_Butler_Yeats", "T._S._Eliot", "The_Waste_Land"], ["William_Butler_Yeats", "English_language", "The_Waste_Land"], ["William_Butler_Yeats", "Ezra_Pound", "The_Waste_Land"], ["William_Butler_Yeats", "London", "The_Waste_Land"]]

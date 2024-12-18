@@ -1,0 +1,1 @@
+[["Bandicoot", "Animal", "Shark"], ["Bandicoot", "Australia", "Shark"], ["Bandicoot", "Chordate", "Shark"], ["Bandicoot", "Mammal", "Shark"], ["Bandicoot", "Scientific_classification", "Shark"], ["Bandicoot", "Fauna_of_Australia", "Shark"]]

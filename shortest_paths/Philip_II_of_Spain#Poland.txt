@@ -1,0 +1,1 @@
+[["Philip_II_of_Spain", "Lille", "Poland"], ["Philip_II_of_Spain", "Madrid", "Poland"], ["Philip_II_of_Spain", "Netherlands", "Poland"], ["Philip_II_of_Spain", "Ottoman_Empire", "Poland"], ["Philip_II_of_Spain", "Paris", "Poland"], ["Philip_II_of_Spain", "Spanish_Inquisition", "Poland"]]

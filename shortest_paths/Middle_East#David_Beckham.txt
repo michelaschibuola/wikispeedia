@@ -1,0 +1,1 @@
+[["Middle_East", "England", "David_Beckham"], ["Middle_East", "Israel", "David_Beckham"], ["Middle_East", "Jew", "David_Beckham"], ["Middle_East", "Malaysia", "David_Beckham"], ["Middle_East", "France", "David_Beckham"], ["Middle_East", "Hebrew_language", "David_Beckham"]]

@@ -1,0 +1,1 @@
+[["Coccinellidae", "Aphid", "Bacteria", "Optical_microscope"], ["Coccinellidae", "Animal", "Bacteria", "Optical_microscope"], ["Coccinellidae", "Scientific_classification", "Bacteria", "Optical_microscope"]]

@@ -1,0 +1,1 @@
+[["Long_pepper", "Black_pepper", "England", "Acorn_Computers"], ["Long_pepper", "Indonesia", "England", "Acorn_Computers"], ["Long_pepper", "India", "United_Kingdom", "Acorn_Computers"], ["Long_pepper", "Malaysia", "United_Kingdom", "Acorn_Computers"], ["Long_pepper", "India", "Pound_sterling", "Acorn_Computers"]]

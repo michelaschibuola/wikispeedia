@@ -1,0 +1,1 @@
+[["Advertising", "Africa", "Stonehenge"], ["Advertising", "Japan", "Stonehenge"], ["Advertising", "United_States", "Stonehenge"]]

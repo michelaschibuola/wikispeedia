@@ -1,0 +1,1 @@
+[["Tiger", "Asia", "Coconut"], ["Tiger", "Binomial_nomenclature", "Coconut"], ["Tiger", "Carolus_Linnaeus", "Coconut"], ["Tiger", "India", "Coconut"], ["Tiger", "Indonesia", "Coconut"], ["Tiger", "Pakistan", "Coconut"], ["Tiger", "Scientific_classification", "Coconut"], ["Tiger", "Thailand", "Coconut"]]

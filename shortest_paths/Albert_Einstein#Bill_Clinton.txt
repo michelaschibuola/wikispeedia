@@ -1,0 +1,1 @@
+[["Albert_Einstein", "Communism", "Bill_Clinton"], ["Albert_Einstein", "Federal_Bureau_of_Investigation", "Bill_Clinton"], ["Albert_Einstein", "Franklin_D._Roosevelt", "Bill_Clinton"], ["Albert_Einstein", "New_York_City", "Bill_Clinton"], ["Albert_Einstein", "United_States", "Bill_Clinton"]]

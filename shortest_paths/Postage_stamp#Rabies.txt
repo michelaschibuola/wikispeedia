@@ -1,0 +1,1 @@
+[["Postage_stamp", "Beaver", "Rabies"], ["Postage_stamp", "Dog", "Rabies"], ["Postage_stamp", "Mauritius", "Rabies"], ["Postage_stamp", "China", "Rabies"], ["Postage_stamp", "United_States", "Rabies"]]

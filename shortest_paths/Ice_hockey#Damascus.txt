@@ -1,0 +1,1 @@
+[["Ice_hockey", "Football", "Damascus"], ["Ice_hockey", "Basketball", "Damascus"], ["Ice_hockey", "Egypt", "Damascus"], ["Ice_hockey", "Russia", "Damascus"], ["Ice_hockey", "World_War_II", "Damascus"], ["Ice_hockey", "Manchester", "Damascus"]]

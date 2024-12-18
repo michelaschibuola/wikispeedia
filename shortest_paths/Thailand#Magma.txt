@@ -1,0 +1,1 @@
+[["Thailand", "Diamond", "Magma"], ["Thailand", "Tsunami", "Magma"]]

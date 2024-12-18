@@ -1,0 +1,1 @@
+[["Algol", "Earth", "Star_Wars"], ["Algol", "Binary_star", "Star_Wars"]]

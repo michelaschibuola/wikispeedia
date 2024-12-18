@@ -1,0 +1,1 @@
+[["Physics", "Sociology", "Ultimatum_game"]]

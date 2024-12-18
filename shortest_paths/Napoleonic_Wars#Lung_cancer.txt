@@ -1,0 +1,1 @@
+[["Napoleonic_Wars", "Europe", "Lung_cancer"], ["Napoleonic_Wars", "United_States", "Lung_cancer"], ["Napoleonic_Wars", "Norway", "Lung_cancer"]]

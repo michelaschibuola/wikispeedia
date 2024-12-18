@@ -1,0 +1,1 @@
+[["William_III_of_England", "Constitutional_monarchy", "Iran"], ["William_III_of_England", "France", "Iran"], ["William_III_of_England", "Italy", "Iran"], ["William_III_of_England", "Spain", "Iran"], ["William_III_of_England", "Sweden", "Iran"]]

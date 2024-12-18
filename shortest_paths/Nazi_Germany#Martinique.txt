@@ -1,0 +1,1 @@
+[["Nazi_Germany", "Georgia_%28country%29", "Martinique"], ["Nazi_Germany", "Military_history_of_France", "Martinique"], ["Nazi_Germany", "France", "Martinique"], ["Nazi_Germany", "Slovenia", "Martinique"], ["Nazi_Germany", "United_States", "Martinique"], ["Nazi_Germany", "World_War_II", "Martinique"], ["Nazi_Germany", "Netherlands", "Martinique"]]

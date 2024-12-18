@@ -1,0 +1,1 @@
+[["Mestizo", "Canada", "Sarajevo"], ["Mestizo", "Europe", "Sarajevo"], ["Mestizo", "Football_%28soccer%29", "Sarajevo"], ["Mestizo", "People%27s_Republic_of_China", "Sarajevo"], ["Mestizo", "Spain", "Sarajevo"]]

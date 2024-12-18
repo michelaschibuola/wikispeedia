@@ -1,0 +1,1 @@
+[["Poverty", "Law", "James_Bond"], ["Poverty", "World_War_II", "James_Bond"], ["Poverty", "South_Africa", "James_Bond"]]

@@ -1,0 +1,1 @@
+[["Frankfurt", "Germany", "Paul_McCartney"], ["Frankfurt", "Hamburg", "Paul_McCartney"], ["Frankfurt", "London", "Paul_McCartney"], ["Frankfurt", "New_York_City", "Paul_McCartney"], ["Frankfurt", "Prague", "Paul_McCartney"], ["Frankfurt", "United_Kingdom", "Paul_McCartney"], ["Frankfurt", "United_States", "Paul_McCartney"]]

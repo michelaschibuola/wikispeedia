@@ -1,0 +1,1 @@
+[["Church_of_England", "England", "Arctic_Monkeys"], ["Church_of_England", "Scotland", "Arctic_Monkeys"], ["Church_of_England", "Liverpool", "Arctic_Monkeys"], ["Church_of_England", "United_Kingdom", "Arctic_Monkeys"]]

@@ -1,0 +1,1 @@
+[["Friedrich_Nietzsche", "Adolf_Hitler", "Dr._Seuss"], ["Friedrich_Nietzsche", "Fascism", "Dr._Seuss"], ["Friedrich_Nietzsche", "Poetry", "Dr._Seuss"]]

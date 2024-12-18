@@ -1,0 +1,1 @@
+[["Whale", "Ocean", "Galveston_Hurricane_of_1900"], ["Whale", "Human", "Galveston_Hurricane_of_1900"], ["Whale", "United_States", "Galveston_Hurricane_of_1900"]]

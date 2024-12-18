@@ -1,0 +1,1 @@
+[["Potato", "Finland", "Fern"], ["Potato", "Plant", "Fern"], ["Potato", "Scientific_classification", "Fern"], ["Potato", "Seed", "Fern"]]

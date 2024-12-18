@@ -1,0 +1,1 @@
+[["1896_Summer_Olympics", "France", "Leonardo_da_Vinci"], ["1896_Summer_Olympics", "London", "Leonardo_da_Vinci"], ["1896_Summer_Olympics", "Paris", "Leonardo_da_Vinci"], ["1896_Summer_Olympics", "Roman_Catholic_Church", "Leonardo_da_Vinci"]]

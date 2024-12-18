@@ -1,0 +1,1 @@
+[["Isaac_Newton", "Planet", "16_Cygni_Bb"], ["Isaac_Newton", "Star", "16_Cygni_Bb"], ["Isaac_Newton", "Solar_System", "16_Cygni_Bb"], ["Isaac_Newton", "Sun", "16_Cygni_Bb"]]

@@ -1,0 +1,1 @@
+[["War_of_the_Spanish_Succession", "Spain", "Airbus_A380"], ["War_of_the_Spanish_Succession", "Austria", "Airbus_A380"], ["War_of_the_Spanish_Succession", "France", "Airbus_A380"], ["War_of_the_Spanish_Succession", "North_America", "Airbus_A380"]]

@@ -1,0 +1,1 @@
+[["Mount_Everest", "China", "Economy_of_India"], ["Mount_Everest", "Nepal", "Economy_of_India"], ["Mount_Everest", "People%27s_Republic_of_China", "Economy_of_India"], ["Mount_Everest", "United_Kingdom", "Economy_of_India"], ["Mount_Everest", "United_States", "Economy_of_India"]]

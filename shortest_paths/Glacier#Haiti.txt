@@ -1,0 +1,1 @@
+[["Glacier", "Africa", "Haiti"], ["Glacier", "Florida", "Haiti"], ["Glacier", "Georgia_%28country%29", "Haiti"], ["Glacier", "Europe", "Haiti"], ["Glacier", "French_language", "Haiti"], ["Glacier", "North_America", "Haiti"], ["Glacier", "South_America", "Haiti"]]

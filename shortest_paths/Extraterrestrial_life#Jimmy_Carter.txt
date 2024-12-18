@@ -1,0 +1,1 @@
+[["Extraterrestrial_life", "Aristotle", "Jimmy_Carter"], ["Extraterrestrial_life", "Christianity", "Jimmy_Carter"], ["Extraterrestrial_life", "Egypt", "Jimmy_Carter"], ["Extraterrestrial_life", "Venus", "Jimmy_Carter"]]

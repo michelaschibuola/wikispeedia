@@ -1,0 +1,1 @@
+[["Crust_%28geology%29", "Geology", "Aristotle"], ["Crust_%28geology%29", "Moon", "Aristotle"], ["Crust_%28geology%29", "Gravitation", "Aristotle"], ["Crust_%28geology%29", "Nature", "Aristotle"]]

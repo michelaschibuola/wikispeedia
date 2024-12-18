@@ -1,0 +1,1 @@
+[["Nelson_Mandela", "Elvis_Presley", "Chicago"], ["Nelson_Mandela", "History_of_Miami%2C_Florida", "Chicago"], ["Nelson_Mandela", "George_W._Bush", "Chicago"], ["Nelson_Mandela", "Malcolm_X", "Chicago"], ["Nelson_Mandela", "Toronto", "Chicago"], ["Nelson_Mandela", "World_War_II", "Chicago"]]

@@ -1,0 +1,1 @@
+[["Climate_change", "United_States", "John_Adams"], ["Climate_change", "Netherlands", "John_Adams"]]

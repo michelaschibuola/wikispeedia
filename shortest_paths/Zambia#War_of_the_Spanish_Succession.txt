@@ -1,0 +1,1 @@
+[["Zambia", "Europe", "War_of_the_Spanish_Succession"], ["Zambia", "France", "War_of_the_Spanish_Succession"], ["Zambia", "Portugal", "War_of_the_Spanish_Succession"], ["Zambia", "Spain", "War_of_the_Spanish_Succession"]]

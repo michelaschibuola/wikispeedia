@@ -1,0 +1,1 @@
+[["Greek_mythology", "France", "Woodrow_Wilson"], ["Greek_mythology", "Germany", "Woodrow_Wilson"], ["Greek_mythology", "Sigmund_Freud", "Woodrow_Wilson"]]

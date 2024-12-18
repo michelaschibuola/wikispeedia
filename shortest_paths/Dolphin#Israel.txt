@@ -1,0 +1,1 @@
+[["Dolphin", "Argentina", "Israel"], ["Dolphin", "Australia", "Israel"], ["Dolphin", "Japan", "Israel"], ["Dolphin", "United_Nations", "Israel"], ["Dolphin", "United_States", "Israel"], ["Dolphin", "Europe", "Israel"], ["Dolphin", "Technology", "Israel"], ["Dolphin", "Water", "Israel"]]

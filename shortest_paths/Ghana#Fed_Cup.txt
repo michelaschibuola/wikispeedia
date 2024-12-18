@@ -1,0 +1,1 @@
+[["Ghana", "United_States", "Fed_Cup"], ["Ghana", "Greece", "Fed_Cup"], ["Ghana", "South_Africa", "Fed_Cup"]]

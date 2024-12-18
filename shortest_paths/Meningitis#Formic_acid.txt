@@ -1,0 +1,1 @@
+[["Meningitis", "Ethanol", "Formic_acid"], ["Meningitis", "Bacteria", "Formic_acid"]]

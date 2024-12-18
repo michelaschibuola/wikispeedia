@@ -1,0 +1,1 @@
+[["Creationism", "Charles_Darwin", "Henry_David_Thoreau"], ["Creationism", "Evolution", "Henry_David_Thoreau"], ["Creationism", "United_States", "Henry_David_Thoreau"]]

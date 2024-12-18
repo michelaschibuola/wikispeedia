@@ -1,0 +1,1 @@
+[["Silver", "Aluminium", "Gas_metal_arc_welding"], ["Silver", "Copper", "Gas_metal_arc_welding"], ["Silver", "Oxygen", "Gas_metal_arc_welding"], ["Silver", "Ozone", "Gas_metal_arc_welding"], ["Silver", "Ultraviolet", "Gas_metal_arc_welding"], ["Silver", "Steel", "Gas_metal_arc_welding"], ["Silver", "Volt", "Gas_metal_arc_welding"]]

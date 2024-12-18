@@ -1,0 +1,1 @@
+[["Earl_of_Shaftesbury", "Aesthetics", "Igor_Stravinsky", "Atonality"], ["Earl_of_Shaftesbury", "Aesthetics", "Music", "Atonality"], ["Earl_of_Shaftesbury", "Aesthetics", "Richard_Wagner", "Atonality"], ["Earl_of_Shaftesbury", "Charles_II_of_England", "17th_century", "Atonality"], ["Earl_of_Shaftesbury", "James_II_of_England", "17th_century", "Atonality"]]

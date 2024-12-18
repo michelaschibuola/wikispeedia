@@ -1,0 +1,1 @@
+[["Triumph_of_the_Will", "Cloud", "Arctic"], ["Triumph_of_the_Will", "Sweden", "Arctic"], ["Triumph_of_the_Will", "United_States", "Arctic"]]

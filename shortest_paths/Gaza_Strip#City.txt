@@ -1,0 +1,1 @@
+[["Gaza_Strip", "Asia", "City"], ["Gaza_Strip", "Egypt", "City"], ["Gaza_Strip", "Jerusalem", "City"], ["Gaza_Strip", "Mediterranean_Sea", "City"]]

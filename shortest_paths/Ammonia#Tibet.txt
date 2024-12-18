@@ -1,0 +1,1 @@
+[["Ammonia", "India", "Tibet"], ["Ammonia", "Mercury_%28element%29", "Tibet"], ["Ammonia", "People%27s_Republic_of_China", "Tibet"], ["Ammonia", "Russia", "Tibet"], ["Ammonia", "World_War_I", "Tibet"]]

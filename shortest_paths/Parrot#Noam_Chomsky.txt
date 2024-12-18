@@ -1,0 +1,1 @@
+[["Parrot", "Nazism", "Noam_Chomsky"], ["Parrot", "United_States", "Noam_Chomsky"]]

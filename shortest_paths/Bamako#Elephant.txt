@@ -1,0 +1,1 @@
+[["Bamako", "Africa", "Elephant"], ["Bamako", "Sub-Saharan_Africa", "Elephant"]]

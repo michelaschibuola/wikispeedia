@@ -1,0 +1,1 @@
+[["Euclid", "Bertrand_Russell", "Newspaper"]]

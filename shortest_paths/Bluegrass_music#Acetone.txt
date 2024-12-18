@@ -1,0 +1,1 @@
+[["Bluegrass_music", "Folk_music", "Israel", "Acetone"], ["Bluegrass_music", "World_War_II", "Israel", "Acetone"], ["Bluegrass_music", "Music", "Israel", "Acetone"], ["Bluegrass_music", "World_War_II", "World_War_I", "Acetone"], ["Bluegrass_music", "Southern_United_States", "World_War_I", "Acetone"]]

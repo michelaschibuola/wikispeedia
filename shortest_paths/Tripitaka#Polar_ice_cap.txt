@@ -1,0 +1,1 @@
+[["Tripitaka", "Sanskrit", "Earth", "Polar_ice_cap"], ["Tripitaka", "Sanskrit", "Mars", "Polar_ice_cap"]]

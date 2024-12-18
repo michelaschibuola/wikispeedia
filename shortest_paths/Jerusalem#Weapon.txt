@@ -1,0 +1,1 @@
+[["Jerusalem", "Roman_Empire", "Weapon"], ["Jerusalem", "Middle_Ages", "Weapon"], ["Jerusalem", "World_War_I", "Weapon"]]

@@ -1,0 +1,1 @@
+[["Karl_Popper", "Communism", "Slavery"], ["Karl_Popper", "Jew", "Slavery"], ["Karl_Popper", "Liberal_democracy", "Slavery"], ["Karl_Popper", "London", "Slavery"], ["Karl_Popper", "New_Zealand", "Slavery"], ["Karl_Popper", "Plato", "Slavery"], ["Karl_Popper", "United_Kingdom", "Slavery"]]

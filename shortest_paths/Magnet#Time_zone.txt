@@ -1,0 +1,1 @@
+[["Magnet", "Earth", "Time_zone"]]

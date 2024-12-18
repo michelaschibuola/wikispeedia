@@ -1,0 +1,1 @@
+[["War", "20th_century", "AIDS"], ["War", "21st_century", "AIDS"], ["War", "Modern_history", "AIDS"], ["War", "Poverty", "AIDS"], ["War", "Sweden", "AIDS"], ["War", "United_States", "AIDS"], ["War", "Famine", "AIDS"]]

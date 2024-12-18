@@ -1,0 +1,1 @@
+[["Cameroon", "Agriculture", "Biofuel"], ["Cameroon", "Germany", "Biofuel"], ["Cameroon", "Petroleum", "Biofuel"], ["Cameroon", "Carbon_dioxide", "Biofuel"], ["Cameroon", "United_States", "Biofuel"]]

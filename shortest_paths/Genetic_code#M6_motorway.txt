@@ -1,0 +1,1 @@
+[["Genetic_code", "DNA", "United_Kingdom", "M6_motorway"], ["Genetic_code", "Francis_Crick", "United_Kingdom", "M6_motorway"], ["Genetic_code", "Yeast", "United_Kingdom", "M6_motorway"], ["Genetic_code", "Genetics", "United_Kingdom", "M6_motorway"], ["Genetic_code", "Francis_Crick", "England", "M6_motorway"], ["Genetic_code", "Yeast", "Republic_of_Ireland", "M6_motorway"]]

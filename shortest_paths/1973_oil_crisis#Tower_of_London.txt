@@ -1,0 +1,1 @@
+[["1973_oil_crisis", "Canada", "Tower_of_London"], ["1973_oil_crisis", "Netherlands", "Tower_of_London"], ["1973_oil_crisis", "United_States", "Tower_of_London"], ["1973_oil_crisis", "World_War_II", "Tower_of_London"]]

@@ -1,0 +1,1 @@
+[["Lovage", "Fennel", "Canada", "Yes_Minister"], ["Lovage", "Fennel", "Hindi", "Yes_Minister"], ["Lovage", "Fennel", "India", "Yes_Minister"], ["Lovage", "Binomial_nomenclature", "Sweden", "Yes_Minister"], ["Lovage", "Carolus_Linnaeus", "Sweden", "Yes_Minister"], ["Lovage", "Olive_oil", "Islam", "Yes_Minister"], ["Lovage", "Olive_oil", "Portugal", "Yes_Minister"]]

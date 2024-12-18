@@ -1,0 +1,1 @@
+[["Glasgow", "France", "Luxembourg_%28city%29"], ["Glasgow", "United_Kingdom", "Luxembourg_%28city%29"]]

@@ -1,0 +1,1 @@
+[["Meteor_shower", "Archaeoastronomy", "Machu_Picchu", "Nepal"], ["Meteor_shower", "Comet", "Germany", "Nepal"], ["Meteor_shower", "Mars_Exploration_Rover", "Germany", "Nepal"], ["Meteor_shower", "Sun", "Asia", "Nepal"], ["Meteor_shower", "Sun", "Hong_Kong", "Nepal"], ["Meteor_shower", "Sun", "Japan", "Nepal"], ["Meteor_shower", "Sun", "United_States", "Nepal"]]

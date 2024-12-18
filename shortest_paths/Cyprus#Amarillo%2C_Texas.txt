@@ -1,0 +1,1 @@
+[["Cyprus", "English_language", "Amarillo%2C_Texas"], ["Cyprus", "Time_zone", "Amarillo%2C_Texas"], ["Cyprus", "United_States", "Amarillo%2C_Texas"], ["Cyprus", "World_War_II", "Amarillo%2C_Texas"]]

@@ -1,0 +1,1 @@
+[["Vienna", "Charles_V%2C_Holy_Roman_Emperor", "List_of_popes"], ["Vienna", "Holy_Roman_Empire", "List_of_popes"], ["Vienna", "Italy", "List_of_popes"], ["Vienna", "Napoleon_I_of_France", "List_of_popes"], ["Vienna", "Pope_Pius_XII", "List_of_popes"], ["Vienna", "Croatia", "List_of_popes"], ["Vienna", "Germany", "List_of_popes"], ["Vienna", "Poland", "List_of_popes"]]

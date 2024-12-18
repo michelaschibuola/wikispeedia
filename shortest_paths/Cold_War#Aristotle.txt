@@ -1,0 +1,1 @@
+[["Cold_War", "Jimmy_Carter", "Aristotle"], ["Cold_War", "Democracy", "Aristotle"], ["Cold_War", "History_of_the_world", "Aristotle"]]

@@ -1,0 +1,1 @@
+[["Slovakia", "Austria", "Pete_Sampras"], ["Slovakia", "Davis_Cup", "Pete_Sampras"], ["Slovakia", "Germany", "Pete_Sampras"], ["Slovakia", "France", "Pete_Sampras"], ["Slovakia", "United_States", "Pete_Sampras"], ["Slovakia", "Vienna", "Pete_Sampras"]]

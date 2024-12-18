@@ -1,0 +1,1 @@
+[["Voltaire", "1755_Lisbon_earthquake", "Portugal"], ["Voltaire", "Flat_Earth", "Portugal"], ["Voltaire", "Lisbon", "Portugal"], ["Voltaire", "Louis_XIV_of_France", "Portugal"], ["Voltaire", "Sanssouci", "Portugal"], ["Voltaire", "Spanish_Inquisition", "Portugal"], ["Voltaire", "Victor_Hugo", "Portugal"], ["Voltaire", "France", "Portugal"], ["Voltaire", "Paris", "Portugal"]]

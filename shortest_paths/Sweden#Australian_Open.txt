@@ -1,0 +1,1 @@
+[["Sweden", "Bj%C3%B6rn_Borg", "Australian_Open"], ["Sweden", "Boris_Becker", "Australian_Open"], ["Sweden", "John_McEnroe", "Australian_Open"], ["Sweden", "Pat_Cash", "Australian_Open"], ["Sweden", "Stefan_Edberg", "Australian_Open"], ["Sweden", "Tennis", "Australian_Open"], ["Sweden", "Tim_Henman", "Australian_Open"]]

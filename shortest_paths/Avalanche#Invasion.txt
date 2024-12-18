@@ -1,0 +1,1 @@
+[["Avalanche", "Europe", "Invasion"], ["Avalanche", "France", "Invasion"], ["Avalanche", "Italy", "Invasion"], ["Avalanche", "United_States", "Invasion"]]

@@ -1,0 +1,1 @@
+[["Great_Lakes", "19th_century", "El_Salvador"], ["Great_Lakes", "Canada", "El_Salvador"], ["Great_Lakes", "Atlantic_Ocean", "El_Salvador"], ["Great_Lakes", "North_America", "El_Salvador"], ["Great_Lakes", "United_States", "El_Salvador"]]

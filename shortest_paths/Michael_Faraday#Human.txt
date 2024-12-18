@@ -1,0 +1,1 @@
+[["Michael_Faraday", "History_of_science", "Human"], ["Michael_Faraday", "Chlorine", "Human"], ["Michael_Faraday", "Physics", "Human"]]

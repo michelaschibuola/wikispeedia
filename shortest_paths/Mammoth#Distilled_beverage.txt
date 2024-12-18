@@ -1,0 +1,1 @@
+[["Mammoth", "France", "Distilled_beverage"], ["Mammoth", "United_States", "Distilled_beverage"]]

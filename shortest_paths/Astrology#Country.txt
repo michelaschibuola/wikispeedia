@@ -1,0 +1,1 @@
+[["Astrology", "Earth", "Country"], ["Astrology", "English_language", "Country"], ["Astrology", "Iceland", "Country"], ["Astrology", "Israel", "Country"], ["Astrology", "Ptolemy", "Country"]]

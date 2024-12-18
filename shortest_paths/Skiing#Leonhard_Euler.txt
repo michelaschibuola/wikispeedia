@@ -1,0 +1,1 @@
+[["Skiing", "Russia", "Leonhard_Euler"]]

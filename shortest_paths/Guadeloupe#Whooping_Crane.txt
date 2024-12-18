@@ -1,0 +1,1 @@
+[["Guadeloupe", "Canada", "Whooping_Crane"], ["Guadeloupe", "North_America", "Whooping_Crane"]]

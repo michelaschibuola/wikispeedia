@@ -1,0 +1,1 @@
+[["Chernobyl_disaster", "France", "Vincent_van_Gogh"], ["Chernobyl_disaster", "London", "Vincent_van_Gogh"]]

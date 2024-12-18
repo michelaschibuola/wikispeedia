@@ -1,0 +1,1 @@
+[["Luftwaffe", "Germany", "Faroe_Islands"], ["Luftwaffe", "Ireland", "Faroe_Islands"], ["Luftwaffe", "England", "Faroe_Islands"], ["Luftwaffe", "Europe", "Faroe_Islands"], ["Luftwaffe", "NATO", "Faroe_Islands"], ["Luftwaffe", "United_Kingdom", "Faroe_Islands"], ["Luftwaffe", "Nazi_Germany", "Faroe_Islands"]]

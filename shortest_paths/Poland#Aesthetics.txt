@@ -1,0 +1,1 @@
+[["Poland", "Age_of_Enlightenment", "Aesthetics"], ["Poland", "German_language", "Aesthetics"], ["Poland", "Germany", "Aesthetics"], ["Poland", "Modern_history", "Aesthetics"], ["Poland", "Novel", "Aesthetics"], ["Poland", "Art", "Aesthetics"], ["Poland", "Renaissance", "Aesthetics"], ["Poland", "Supermarine_Spitfire", "Aesthetics"]]

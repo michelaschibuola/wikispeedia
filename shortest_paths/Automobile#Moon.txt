@@ -1,0 +1,1 @@
+[["Automobile", "Alberto_Santos-Dumont", "Moon"], ["Automobile", "Aluminium", "Moon"], ["Automobile", "Canada", "Moon"], ["Automobile", "France", "Moon"], ["Automobile", "Hydrogen", "Moon"], ["Automobile", "Japan", "Moon"], ["Automobile", "Oxygen", "Moon"], ["Automobile", "Russia", "Moon"], ["Automobile", "United_States", "Moon"], ["Automobile", "Iron", "Moon"]]

@@ -1,0 +1,1 @@
+[["Baseball", "Jackie_Robinson", "Tiger_Woods"], ["Baseball", "United_States", "Tiger_Woods"], ["Baseball", "Louisville%2C_Kentucky", "Tiger_Woods"], ["Baseball", "Michael_Jordan", "Tiger_Woods"], ["Baseball", "Sweden", "Tiger_Woods"], ["Baseball", "Vietnam", "Tiger_Woods"]]

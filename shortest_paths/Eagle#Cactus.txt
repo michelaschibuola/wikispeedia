@@ -1,0 +1,1 @@
+[["Eagle", "Aztec", "Cactus"], ["Eagle", "Bird", "Cactus"], ["Eagle", "Bird_migration", "Cactus"], ["Eagle", "Australia", "Cactus"], ["Eagle", "Mexico", "Cactus"], ["Eagle", "North_America", "Cactus"], ["Eagle", "Scientific_classification", "Cactus"], ["Eagle", "South_America", "Cactus"], ["Eagle", "United_States", "Cactus"], ["Eagle", "Flag_of_Mexico", "Cactus"]]

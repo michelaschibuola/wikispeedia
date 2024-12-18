@@ -1,0 +1,1 @@
+[["Dog", "Cancer", "Minnesota"], ["Dog", "Gray_Wolf", "Minnesota"], ["Dog", "Middle_East", "Minnesota"], ["Dog", "Milk", "Minnesota"], ["Dog", "North_America", "Minnesota"]]

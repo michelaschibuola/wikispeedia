@@ -1,0 +1,1 @@
+[["Faroe_Islands", "Europe", "Nintendo"], ["Faroe_Islands", "Germany", "Nintendo"]]

@@ -1,0 +1,1 @@
+[["William_McKinley", "Spain", "Marshall_Islands"], ["William_McKinley", "Wake_Island", "Marshall_Islands"]]

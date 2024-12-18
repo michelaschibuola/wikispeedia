@@ -1,0 +1,1 @@
+[["Costa_Rica", "Jew", "Barack_Obama"], ["Costa_Rica", "United_Nations", "Barack_Obama"], ["Costa_Rica", "United_States_dollar", "Barack_Obama"]]

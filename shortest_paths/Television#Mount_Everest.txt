@@ -1,0 +1,1 @@
+[["Television", "Nepal", "Mount_Everest"], ["Television", "Sanskrit", "Mount_Everest"], ["Television", "New_Zealand", "Mount_Everest"], ["Television", "United_Kingdom", "Mount_Everest"], ["Television", "United_States", "Mount_Everest"]]

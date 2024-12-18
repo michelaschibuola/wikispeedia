@@ -1,0 +1,1 @@
+[["Winter", "Cape_Town", "Buenos_Aires"], ["Winter", "England", "Buenos_Aires"], ["Winter", "Melbourne", "Buenos_Aires"], ["Winter", "S%C3%A3o_Paulo", "Buenos_Aires"], ["Winter", "Germany", "Buenos_Aires"], ["Winter", "Ireland", "Buenos_Aires"], ["Winter", "Water", "Buenos_Aires"]]

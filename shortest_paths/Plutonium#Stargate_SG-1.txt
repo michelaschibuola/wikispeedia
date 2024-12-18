@@ -1,0 +1,1 @@
+[["Plutonium", "Japan", "Stargate_SG-1"], ["Plutonium", "United_States", "Stargate_SG-1"]]

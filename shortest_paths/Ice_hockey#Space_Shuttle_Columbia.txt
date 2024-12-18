@@ -1,0 +1,1 @@
+[["Ice_hockey", "Boston%2C_Massachusetts", "Space_Shuttle_Columbia"], ["Ice_hockey", "Florida", "Space_Shuttle_Columbia"], ["Ice_hockey", "Soviet_Union", "Space_Shuttle_Columbia"], ["Ice_hockey", "United_States", "Space_Shuttle_Columbia"]]

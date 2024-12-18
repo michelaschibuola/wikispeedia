@@ -1,0 +1,1 @@
+[["Great_Rift_Valley", "Burundi", "Bulgaria"], ["Great_Rift_Valley", "Democratic_Republic_of_the_Congo", "Bulgaria"], ["Great_Rift_Valley", "Lebanon", "Bulgaria"], ["Great_Rift_Valley", "Mozambique", "Bulgaria"], ["Great_Rift_Valley", "Rwanda", "Bulgaria"]]

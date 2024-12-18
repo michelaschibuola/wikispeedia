@@ -1,0 +1,1 @@
+[["Muscat%2C_Oman", "English_language", "Aberdeen"], ["Muscat%2C_Oman", "Islam", "Aberdeen"], ["Muscat%2C_Oman", "London", "Aberdeen"], ["Muscat%2C_Oman", "United_Kingdom", "Aberdeen"]]

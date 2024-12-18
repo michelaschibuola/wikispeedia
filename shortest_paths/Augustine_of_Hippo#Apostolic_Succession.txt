@@ -1,0 +1,1 @@
+[["Augustine_of_Hippo", "Jesus", "Apostolic_Succession"], ["Augustine_of_Hippo", "Roman_Catholic_Church", "Apostolic_Succession"], ["Augustine_of_Hippo", "Church_of_England", "Apostolic_Succession"], ["Augustine_of_Hippo", "Eastern_Orthodox_Church", "Apostolic_Succession"], ["Augustine_of_Hippo", "Paul_of_Tarsus", "Apostolic_Succession"]]

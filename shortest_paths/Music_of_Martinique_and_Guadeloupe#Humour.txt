@@ -1,0 +1,1 @@
+[["Music_of_Martinique_and_Guadeloupe", "France", "Cattle", "Humour"], ["Music_of_Martinique_and_Guadeloupe", "France", "Newspaper", "Humour"], ["Music_of_Martinique_and_Guadeloupe", "World_War_II", "Newspaper", "Humour"], ["Music_of_Martinique_and_Guadeloupe", "World_War_II", "Comics", "Humour"], ["Music_of_Martinique_and_Guadeloupe", "World_War_II", "Isaac_Asimov", "Humour"]]

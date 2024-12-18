@@ -1,0 +1,1 @@
+[["Football", "Ancient_Rome", "Corporation"], ["Football", "Australia", "Corporation"], ["Football", "Canada", "Corporation"], ["Football", "Sweden", "Corporation"], ["Football", "Switzerland", "Corporation"], ["Football", "United_States", "Corporation"]]

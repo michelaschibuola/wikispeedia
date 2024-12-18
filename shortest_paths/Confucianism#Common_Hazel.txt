@@ -1,0 +1,1 @@
+[["Confucianism", "Asia", "Common_Hazel"], ["Confucianism", "China", "Common_Hazel"]]

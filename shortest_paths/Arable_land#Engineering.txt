@@ -1,0 +1,1 @@
+[["Arable_land", "Israel", "Engineering"], ["Arable_land", "Latin", "Engineering"], ["Arable_land", "Economy_of_Pakistan", "Engineering"], ["Arable_land", "First_Transcontinental_Railroad", "Engineering"]]

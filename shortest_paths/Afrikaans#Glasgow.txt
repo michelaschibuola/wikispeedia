@@ -1,0 +1,1 @@
+[["Afrikaans", "France", "Glasgow"], ["Afrikaans", "Germany", "Glasgow"], ["Afrikaans", "Scotland", "Glasgow"], ["Afrikaans", "United_Kingdom", "Glasgow"], ["Afrikaans", "United_States", "Glasgow"]]

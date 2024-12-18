@@ -1,0 +1,1 @@
+[["Politics", "Painting", "Glass"], ["Politics", "Roman_Empire", "Glass"]]

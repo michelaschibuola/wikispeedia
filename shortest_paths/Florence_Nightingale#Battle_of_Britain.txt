@@ -1,0 +1,1 @@
+[["Florence_Nightingale", "Australia", "Battle_of_Britain"], ["Florence_Nightingale", "England", "Battle_of_Britain"], ["Florence_Nightingale", "Italy", "Battle_of_Britain"], ["Florence_Nightingale", "London", "Battle_of_Britain"], ["Florence_Nightingale", "The_Blitz", "Battle_of_Britain"]]

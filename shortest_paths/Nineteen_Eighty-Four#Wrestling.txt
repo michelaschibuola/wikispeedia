@@ -1,0 +1,1 @@
+[["Nineteen_Eighty-Four", "Asia", "Wrestling"], ["Nineteen_Eighty-Four", "China", "Wrestling"], ["Nineteen_Eighty-Four", "Europe", "Wrestling"], ["Nineteen_Eighty-Four", "India", "Wrestling"], ["Nineteen_Eighty-Four", "Japan", "Wrestling"], ["Nineteen_Eighty-Four", "Middle_East", "Wrestling"], ["Nineteen_Eighty-Four", "United_States", "Wrestling"]]

@@ -1,0 +1,1 @@
+[["Kenya", "Cricket", "Kerala"], ["Kenya", "Elephant", "Kerala"], ["Kenya", "Indian_Ocean", "Kerala"], ["Kenya", "India", "Kerala"], ["Kenya", "Malaysia", "Kerala"], ["Kenya", "Maldives", "Kerala"], ["Kenya", "Time_zone", "Kerala"], ["Kenya", "Vasco_da_Gama", "Kerala"]]

@@ -1,0 +1,1 @@
+[["Pythagoras", "Aristotle", "Speed_of_light"], ["Pythagoras", "Philosophy", "Speed_of_light"]]

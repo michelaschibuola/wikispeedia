@@ -1,0 +1,1 @@
+[["Computer_and_video_games", "France", "Rome"], ["Computer_and_video_games", "Italy", "Rome"], ["Computer_and_video_games", "Japan", "Rome"], ["Computer_and_video_games", "People%27s_Republic_of_China", "Rome"], ["Computer_and_video_games", "South_Korea", "Rome"], ["Computer_and_video_games", "United_Kingdom", "Rome"]]

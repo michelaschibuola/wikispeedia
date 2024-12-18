@@ -1,0 +1,1 @@
+[["Right_whale", "Binomial_nomenclature", "Drosera_anglica"], ["Right_whale", "California", "Drosera_anglica"], ["Right_whale", "Japan", "Drosera_anglica"], ["Right_whale", "Scientific_classification", "Drosera_anglica"]]

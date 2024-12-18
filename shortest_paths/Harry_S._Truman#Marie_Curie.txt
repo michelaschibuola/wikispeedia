@@ -1,0 +1,1 @@
+[["Harry_S._Truman", "France", "Marie_Curie"], ["Harry_S._Truman", "United_States", "Marie_Curie"], ["Harry_S._Truman", "World_War_I", "Marie_Curie"]]

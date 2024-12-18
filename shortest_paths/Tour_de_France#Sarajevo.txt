@@ -1,0 +1,1 @@
+[["Tour_de_France", "England", "Sarajevo"], ["Tour_de_France", "Europe", "Sarajevo"], ["Tour_de_France", "Football_%28soccer%29", "Sarajevo"], ["Tour_de_France", "France", "Sarajevo"], ["Tour_de_France", "Germany", "Sarajevo"], ["Tour_de_France", "Italy", "Sarajevo"], ["Tour_de_France", "Spain", "Sarajevo"]]

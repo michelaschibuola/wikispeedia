@@ -1,0 +1,1 @@
+[["Turkey", "Europe", "Avalanche"], ["Turkey", "France", "Avalanche"], ["Turkey", "Italy", "Avalanche"], ["Turkey", "United_States", "Avalanche"], ["Turkey", "World_War_I", "Avalanche"]]

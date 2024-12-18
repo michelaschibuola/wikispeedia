@@ -1,0 +1,1 @@
+[["Aristotle", "Jew", "Music_of_the_United_States"], ["Aristotle", "Art", "Music_of_the_United_States"], ["Aristotle", "Gender", "Music_of_the_United_States"], ["Aristotle", "Renaissance", "Music_of_the_United_States"]]

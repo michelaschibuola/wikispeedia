@@ -1,0 +1,1 @@
+[["Gypsum", "Calcium", "Snowball_Earth"], ["Gypsum", "Volcano", "Snowball_Earth"]]

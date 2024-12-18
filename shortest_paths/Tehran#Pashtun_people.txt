@@ -1,0 +1,1 @@
+[["Tehran", "Iran", "Pashtun_people"], ["Tehran", "Middle_East", "Pashtun_people"], ["Tehran", "Football_%28soccer%29", "Pashtun_people"], ["Tehran", "Turkey", "Pashtun_people"], ["Tehran", "United_Kingdom", "Pashtun_people"], ["Tehran", "United_Nations", "Pashtun_people"]]

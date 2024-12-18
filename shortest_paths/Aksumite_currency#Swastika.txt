@@ -1,0 +1,1 @@
+[["Aksumite_currency", "Africa", "Swastika"], ["Aksumite_currency", "Ancient_Greece", "Swastika"], ["Aksumite_currency", "India", "Swastika"], ["Aksumite_currency", "Roman_Empire", "Swastika"]]

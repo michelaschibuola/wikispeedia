@@ -1,0 +1,1 @@
+[["Russia", "Europe", "Robert_Baden-Powell%2C_1st_Baron_Baden-Powell"], ["Russia", "London", "Robert_Baden-Powell%2C_1st_Baron_Baden-Powell"], ["Russia", "Mediterranean_Sea", "Robert_Baden-Powell%2C_1st_Baron_Baden-Powell"], ["Russia", "World_War_I", "Robert_Baden-Powell%2C_1st_Baron_Baden-Powell"], ["Russia", "Scouting", "Robert_Baden-Powell%2C_1st_Baron_Baden-Powell"]]

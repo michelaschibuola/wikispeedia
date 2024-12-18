@@ -1,0 +1,1 @@
+[["Mother_Teresa", "Africa", "Algiers"], ["Mother_Teresa", "Ottoman_Empire", "Algiers"], ["Mother_Teresa", "Rome", "Algiers"], ["Mother_Teresa", "United_States", "Algiers"]]

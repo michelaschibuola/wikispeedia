@@ -1,0 +1,1 @@
+[["Pope", "Italy", "Bob_Dylan"], ["Pope", "Bible", "Bob_Dylan"], ["Pope", "Pope_John_Paul_II", "Bob_Dylan"], ["Pope", "Ukraine", "Bob_Dylan"]]

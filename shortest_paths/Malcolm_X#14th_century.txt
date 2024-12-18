@@ -1,0 +1,1 @@
+[["Malcolm_X", "France", "14th_century"], ["Malcolm_X", "Islam", "14th_century"]]

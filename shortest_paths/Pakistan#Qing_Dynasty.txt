@@ -1,0 +1,1 @@
+[["Pakistan", "Beijing", "Qing_Dynasty"], ["Pakistan", "India", "Qing_Dynasty"], ["Pakistan", "France", "Qing_Dynasty"], ["Pakistan", "People%27s_Republic_of_China", "Qing_Dynasty"], ["Pakistan", "Russia", "Qing_Dynasty"], ["Pakistan", "Shanghai", "Qing_Dynasty"], ["Pakistan", "Tea", "Qing_Dynasty"]]

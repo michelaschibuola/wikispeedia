@@ -1,0 +1,1 @@
+[["Gold_standard", "Corrosion", "Acetic_acid"], ["Gold_standard", "Europe", "Acetic_acid"], ["Gold_standard", "Germany", "Acetic_acid"], ["Gold_standard", "Greece", "Acetic_acid"], ["Gold_standard", "Japan", "Acetic_acid"], ["Gold_standard", "Metal", "Acetic_acid"], ["Gold_standard", "Renaissance", "Acetic_acid"], ["Gold_standard", "United_States", "Acetic_acid"]]

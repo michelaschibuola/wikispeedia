@@ -1,0 +1,1 @@
+[["Egyptian_pyramids", "Ancient_history", "Latin", "Perl"], ["Egyptian_pyramids", "Egypt", "Latin", "Perl"], ["Egyptian_pyramids", "Archaeology", "Latin", "Perl"], ["Egyptian_pyramids", "Granite", "Latin", "Perl"]]

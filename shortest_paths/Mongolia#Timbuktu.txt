@@ -1,0 +1,1 @@
+[["Mongolia", "Asia", "Timbuktu"], ["Mongolia", "China", "Timbuktu"], ["Mongolia", "10th_century", "Timbuktu"], ["Mongolia", "Gold", "Timbuktu"], ["Mongolia", "World_Heritage_Site", "Timbuktu"], ["Mongolia", "Turkey", "Timbuktu"]]

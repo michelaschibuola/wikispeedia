@@ -1,0 +1,1 @@
+[["Irish_poetry", "Ireland", "Robert_Boyle", "Absolute_zero"], ["Irish_poetry", "Ireland", "William_Thomson%2C_1st_Baron_Kelvin", "Absolute_zero"], ["Irish_poetry", "Princeton_University", "Albert_Einstein", "Absolute_zero"], ["Irish_poetry", "Religion", "Big_Bang", "Absolute_zero"], ["Irish_poetry", "Religion", "Symmetry", "Absolute_zero"]]

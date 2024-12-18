@@ -1,0 +1,1 @@
+[["Industry", "Chicago", "Sociology"], ["Industry", "Crime", "Sociology"], ["Industry", "Industrial_Revolution", "Sociology"], ["Industry", "Economics", "Sociology"], ["Industry", "Lebanon", "Sociology"], ["Industry", "Property", "Sociology"], ["Industry", "Society", "Sociology"], ["Industry", "Sociocultural_evolution", "Sociology"]]

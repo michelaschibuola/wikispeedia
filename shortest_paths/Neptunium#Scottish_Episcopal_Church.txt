@@ -1,0 +1,1 @@
+[["Neptunium", "Francium", "England", "Scottish_Episcopal_Church"], ["Neptunium", "Barium", "England", "Scottish_Episcopal_Church"], ["Neptunium", "Neutron", "England", "Scottish_Episcopal_Church"], ["Neptunium", "Uranium", "England", "Scottish_Episcopal_Church"], ["Neptunium", "Pluto", "England", "Scottish_Episcopal_Church"]]

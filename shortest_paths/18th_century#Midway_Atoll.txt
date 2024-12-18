@@ -1,0 +1,1 @@
+[["18th_century", "Australia", "Midway_Atoll"], ["18th_century", "China", "Midway_Atoll"], ["18th_century", "North_America", "Midway_Atoll"], ["18th_century", "Pacific_Ocean", "Midway_Atoll"], ["18th_century", "United_States", "Midway_Atoll"], ["18th_century", "Tokyo", "Midway_Atoll"]]

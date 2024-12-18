@@ -1,0 +1,1 @@
+[["Warsaw", "Capital", "La_Paz"]]

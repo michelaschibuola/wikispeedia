@@ -1,0 +1,1 @@
+[["Capitalism", "Age_of_Enlightenment", "Biology"], ["Capitalism", "19th_century", "Biology"], ["Capitalism", "Renaissance", "Biology"]]

@@ -1,0 +1,1 @@
+[["Arctic", "Denmark", "Bill_Gates"], ["Arctic", "Sweden", "Bill_Gates"], ["Arctic", "United_States", "Bill_Gates"]]

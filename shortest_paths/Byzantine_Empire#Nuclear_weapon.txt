@@ -1,0 +1,1 @@
+[["Byzantine_Empire", "Russia", "Nuclear_weapon"], ["Byzantine_Empire", "Ukraine", "Nuclear_weapon"], ["Byzantine_Empire", "History_of_the_world", "Nuclear_weapon"], ["Byzantine_Empire", "Israel", "Nuclear_weapon"], ["Byzantine_Empire", "Libya", "Nuclear_weapon"]]

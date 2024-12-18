@@ -1,0 +1,1 @@
+[["Mass_media", "21st_century", "Asteroid"], ["Mass_media", "Film", "Asteroid"], ["Mass_media", "Samantha_Smith", "Asteroid"]]

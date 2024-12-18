@@ -1,0 +1,1 @@
+[["Eritrea", "Africa", "Kigali"], ["Eritrea", "Burundi", "Kigali"], ["Eritrea", "Kenya", "Kigali"], ["Eritrea", "Rwanda", "Kigali"], ["Eritrea", "Tanzania", "Kigali"], ["Eritrea", "Time_zone", "Kigali"], ["Eritrea", "Uganda", "Kigali"]]

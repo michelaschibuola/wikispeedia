@@ -1,0 +1,1 @@
+[["War", "20th_century", "Berlin"], ["War", "John_F._Kennedy", "Berlin"], ["War", "Mountain_Gorilla", "Berlin"], ["War", "United_Nations", "Berlin"], ["War", "United_States", "Berlin"], ["War", "Adolf_Hitler", "Berlin"], ["War", "World_War_I", "Berlin"], ["War", "World_War_II", "Berlin"]]

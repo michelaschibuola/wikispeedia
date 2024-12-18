@@ -1,0 +1,1 @@
+[["Vodafone", "Australia", "Gliding"], ["Vodafone", "Austria", "Gliding"], ["Vodafone", "Germany", "Gliding"], ["Vodafone", "Switzerland", "Gliding"], ["Vodafone", "United_States", "Gliding"]]

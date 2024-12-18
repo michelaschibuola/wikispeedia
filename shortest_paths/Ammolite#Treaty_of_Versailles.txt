@@ -1,0 +1,1 @@
+[["Ammolite", "Austria", "Treaty_of_Versailles"], ["Ammolite", "United_States", "Treaty_of_Versailles"]]

@@ -1,0 +1,1 @@
+[["Mickey_Mantle", "United_States", "Common_cold"], ["Mickey_Mantle", "Zinc", "Common_cold"]]

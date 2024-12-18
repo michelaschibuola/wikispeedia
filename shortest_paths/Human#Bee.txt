@@ -1,0 +1,1 @@
+[["Human", "Animal", "Bee"], ["Human", "Agriculture", "Bee"], ["Human", "Antarctica", "Bee"], ["Human", "Brain", "Bee"], ["Human", "Scientific_classification", "Bee"], ["Human", "Ultraviolet", "Bee"], ["Human", "Insect", "Bee"], ["Human", "Protein", "Bee"]]

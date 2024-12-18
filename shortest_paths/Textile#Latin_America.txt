@@ -1,0 +1,1 @@
+[["Textile", "Asia", "Latin_America"], ["Textile", "Lima", "Latin_America"], ["Textile", "Peru", "Latin_America"], ["Textile", "Portugal", "Latin_America"], ["Textile", "Slavery", "Latin_America"]]

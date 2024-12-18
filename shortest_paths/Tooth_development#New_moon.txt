@@ -1,0 +1,1 @@
+[["Tooth_development", "Calcium", "Coconut_crab", "New_moon"], ["Tooth_development", "Pig", "Coconut_crab", "New_moon"], ["Tooth_development", "Calcium", "Moon", "New_moon"], ["Tooth_development", "Vitamin_D", "Sun", "New_moon"]]

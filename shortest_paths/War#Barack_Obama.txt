@@ -1,0 +1,1 @@
+[["War", "Jordan", "Barack_Obama"], ["War", "Terrorism", "Barack_Obama"], ["War", "United_Nations", "Barack_Obama"], ["War", "Margaret_Thatcher", "Barack_Obama"], ["War", "Religion", "Barack_Obama"], ["War", "World_War_II", "Barack_Obama"]]

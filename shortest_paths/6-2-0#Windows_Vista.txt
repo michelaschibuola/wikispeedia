@@ -1,0 +1,1 @@
+[["6-2-0", "England", "Calligraphy", "Windows_Vista"], ["6-2-0", "United_States", "Bill_Gates", "Windows_Vista"], ["6-2-0", "United_States", "European_Union", "Windows_Vista"], ["6-2-0", "United_States", "Microsoft", "Windows_Vista"], ["6-2-0", "United_States", "Phishing", "Windows_Vista"], ["6-2-0", "United_States", "United_States_dollar", "Windows_Vista"]]

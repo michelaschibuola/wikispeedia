@@ -1,0 +1,1 @@
+[["Columba", "Anglicanism", "United_States", "Bromine"], ["Columba", "Dark_Ages", "United_States", "Bromine"], ["Columba", "Dove", "United_States", "Bromine"], ["Columba", "Scotland", "United_States", "Bromine"], ["Columba", "Irish_people", "United_States", "Bromine"], ["Columba", "Christian_monasticism", "Israel", "Bromine"], ["Columba", "Scotland", "Agriculture", "Bromine"]]

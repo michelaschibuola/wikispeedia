@@ -1,0 +1,1 @@
+[["Hurricane_Gloria", "Iceland", "Genetics", "Drosophila_melanogaster"], ["Hurricane_Gloria", "Ronald_Reagan", "Alzheimer%27s_disease", "Drosophila_melanogaster"]]

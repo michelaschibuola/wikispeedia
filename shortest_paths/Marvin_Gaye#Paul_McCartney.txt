@@ -1,0 +1,1 @@
+[["Marvin_Gaye", "Musical_instrument", "Paul_McCartney"], ["Marvin_Gaye", "Piano", "Paul_McCartney"], ["Marvin_Gaye", "September_11%2C_2001_attacks", "Paul_McCartney"], ["Marvin_Gaye", "Synthesizer", "Paul_McCartney"], ["Marvin_Gaye", "United_Kingdom", "Paul_McCartney"], ["Marvin_Gaye", "United_States", "Paul_McCartney"]]

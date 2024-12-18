@@ -1,0 +1,1 @@
+[["Jakarta", "Asia", "Amazon_River"], ["Jakarta", "Denmark", "Amazon_River"], ["Jakarta", "Portugal", "Amazon_River"]]

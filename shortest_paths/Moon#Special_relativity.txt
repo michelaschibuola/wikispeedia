@@ -1,0 +1,1 @@
+[["Moon", "Gravitation", "Special_relativity"], ["Moon", "Hawking_radiation", "Special_relativity"], ["Moon", "History_of_science", "Special_relativity"], ["Moon", "Light", "Special_relativity"], ["Moon", "Hydrogen", "Special_relativity"], ["Moon", "Physics", "Special_relativity"], ["Moon", "Speed_of_light", "Special_relativity"]]

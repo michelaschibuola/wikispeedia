@@ -1,0 +1,1 @@
+[["Scheme_programming_language", "Functional_programming", "Algorithm", "Voynich_manuscript"], ["Scheme_programming_language", "Programming_language", "Algorithm", "Voynich_manuscript"], ["Scheme_programming_language", "Programming_language", "Language", "Voynich_manuscript"]]

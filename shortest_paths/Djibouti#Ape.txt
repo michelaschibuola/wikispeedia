@@ -1,0 +1,1 @@
+[["Djibouti", "Africa", "Ape"], ["Djibouti", "Christianity", "Ape"]]

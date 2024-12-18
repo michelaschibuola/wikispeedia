@@ -1,0 +1,1 @@
+[["Battle_of_Stalingrad", "Hungary", "Santa_Claus"], ["Battle_of_Stalingrad", "Italy", "Santa_Claus"], ["Battle_of_Stalingrad", "Japan", "Santa_Claus"], ["Battle_of_Stalingrad", "Romania", "Santa_Claus"], ["Battle_of_Stalingrad", "United_States", "Santa_Claus"], ["Battle_of_Stalingrad", "Germany", "Santa_Claus"], ["Battle_of_Stalingrad", "Russia", "Santa_Claus"]]

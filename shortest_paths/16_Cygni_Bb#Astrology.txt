@@ -1,0 +1,1 @@
+[["16_Cygni_Bb", "Earth", "Astrology"], ["16_Cygni_Bb", "Jupiter", "Astrology"], ["16_Cygni_Bb", "Planet", "Astrology"], ["16_Cygni_Bb", "Solar_System", "Astrology"], ["16_Cygni_Bb", "Star", "Astrology"], ["16_Cygni_Bb", "Sun", "Astrology"]]

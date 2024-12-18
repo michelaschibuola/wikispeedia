@@ -1,0 +1,1 @@
+[["Insect", "Dog", "Middle_East"], ["Insect", "Honey", "Middle_East"], ["Insect", "Mongoose", "Middle_East"], ["Insect", "Owl", "Middle_East"], ["Insect", "Rice", "Middle_East"]]

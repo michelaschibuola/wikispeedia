@@ -1,0 +1,1 @@
+[["Heat", "Albert_Einstein", "Jew"], ["Heat", "Latin", "Jew"]]

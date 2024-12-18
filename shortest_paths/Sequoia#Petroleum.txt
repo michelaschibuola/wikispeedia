@@ -1,0 +1,1 @@
+[["Sequoia", "California", "Petroleum"], ["Sequoia", "Plant", "Petroleum"], ["Sequoia", "Sunlight", "Petroleum"], ["Sequoia", "United_States", "Petroleum"]]

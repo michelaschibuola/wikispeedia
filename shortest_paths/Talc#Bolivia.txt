@@ -1,0 +1,1 @@
+[["Talc", "Mineral", "Bolivia"], ["Talc", "Brazil", "Bolivia"], ["Talc", "Magnesium", "Bolivia"], ["Talc", "Middle_East", "Bolivia"], ["Talc", "United_States", "Bolivia"], ["Talc", "Water", "Bolivia"]]

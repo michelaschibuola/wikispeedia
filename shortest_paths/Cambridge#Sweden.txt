@@ -1,0 +1,1 @@
+[["Cambridge", "Apple", "Sweden"], ["Cambridge", "Doctor_Who", "Sweden"], ["Cambridge", "Football", "Sweden"], ["Cambridge", "Germany", "Sweden"], ["Cambridge", "Viking", "Sweden"]]

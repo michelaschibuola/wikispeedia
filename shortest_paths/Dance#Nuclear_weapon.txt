@@ -1,0 +1,1 @@
+[["Dance", "20th_century", "Nuclear_weapon"], ["Dance", "India", "Nuclear_weapon"], ["Dance", "North_Korea", "Nuclear_weapon"], ["Dance", "South_Africa", "Nuclear_weapon"]]

@@ -1,0 +1,1 @@
+[["Portugal", "China", "Writing"], ["Portugal", "History_of_South_Africa", "Writing"], ["Portugal", "History_of_the_world", "Writing"], ["Portugal", "Civilization", "Writing"], ["Portugal", "Iraq", "Writing"]]

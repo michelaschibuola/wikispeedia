@@ -1,0 +1,1 @@
+[["Supermarine_Spitfire", "Australia", "Johannesburg"], ["Supermarine_Spitfire", "Birmingham", "Johannesburg"], ["Supermarine_Spitfire", "South_Africa", "Johannesburg"], ["Supermarine_Spitfire", "United_Kingdom", "Johannesburg"], ["Supermarine_Spitfire", "United_States", "Johannesburg"]]

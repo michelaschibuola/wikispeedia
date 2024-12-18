@@ -1,0 +1,1 @@
+[["Soil_science", "Geology", "Paleontology"], ["Soil_science", "History_of_science", "Paleontology"], ["Soil_science", "Earth", "Paleontology"]]

@@ -1,0 +1,1 @@
+[["Jump_rope", "Canada", "Mexico"], ["Jump_rope", "Germany", "Mexico"], ["Jump_rope", "Japan", "Mexico"], ["Jump_rope", "United_States", "Mexico"]]

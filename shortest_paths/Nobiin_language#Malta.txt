@@ -1,0 +1,1 @@
+[["Nobiin_language", "Egypt", "Malta"], ["Nobiin_language", "English_language", "Malta"], ["Nobiin_language", "Latin_alphabet", "Malta"], ["Nobiin_language", "Ottoman_Empire", "Malta"], ["Nobiin_language", "Sudan", "Malta"]]

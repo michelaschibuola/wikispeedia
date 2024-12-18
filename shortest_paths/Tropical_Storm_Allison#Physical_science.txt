@@ -1,0 +1,1 @@
+[["Tropical_Storm_Allison", "Tornado", "Physical_science"], ["Tropical_Storm_Allison", "United_States", "Physical_science"]]

@@ -1,0 +1,1 @@
+[["Boeing_747", "Germany", "Tashkent"], ["Boeing_747", "Seattle%2C_Washington", "Tashkent"], ["Boeing_747", "Soviet_Union", "Tashkent"]]

@@ -1,0 +1,1 @@
+[["Painting", "China", "Madrid"], ["Painting", "Moscow", "Madrid"], ["Painting", "Caravaggio", "Madrid"], ["Painting", "France", "Madrid"], ["Painting", "Pablo_Picasso", "Madrid"], ["Painting", "Peter_Paul_Rubens", "Madrid"], ["Painting", "Portugal", "Madrid"], ["Painting", "Raphael", "Madrid"], ["Painting", "Salvador_Dal%C3%AD", "Madrid"], ["Painting", "Spain", "Madrid"]]

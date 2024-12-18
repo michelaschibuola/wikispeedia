@@ -1,0 +1,1 @@
+[["Golden_Eagle", "Kazakhstan", "Russian_language"], ["Golden_Eagle", "Kyrgyzstan", "Russian_language"], ["Golden_Eagle", "Mongolia", "Russian_language"], ["Golden_Eagle", "North_America", "Russian_language"], ["Golden_Eagle", "Turkey", "Russian_language"]]

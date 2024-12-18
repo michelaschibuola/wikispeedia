@@ -1,0 +1,1 @@
+[["Tour_de_France", "Paris", "Library"], ["Tour_de_France", "England", "Library"], ["Tour_de_France", "Europe", "Library"], ["Tour_de_France", "Spain", "Library"]]

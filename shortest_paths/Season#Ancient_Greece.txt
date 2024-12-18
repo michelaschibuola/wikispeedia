@@ -1,0 +1,1 @@
+[["Season", "Maya_civilization", "Ancient_Greece"], ["Season", "Sun", "Ancient_Greece"], ["Season", "Water", "Ancient_Greece"]]

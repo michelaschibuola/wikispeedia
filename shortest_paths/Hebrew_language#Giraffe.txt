@@ -1,0 +1,1 @@
+[["Hebrew_language", "Ethiopia", "Giraffe"], ["Hebrew_language", "Sudan", "Giraffe"]]

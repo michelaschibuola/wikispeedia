@@ -1,0 +1,1 @@
+[["J._K._Rowling", "England", "History_of_Russia"], ["J._K._Rowling", "Moscow", "History_of_Russia"], ["J._K._Rowling", "People%27s_Republic_of_China", "History_of_Russia"]]

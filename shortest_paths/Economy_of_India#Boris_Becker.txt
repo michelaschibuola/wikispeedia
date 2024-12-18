@@ -1,0 +1,1 @@
+[["Economy_of_India", "Australia", "Boris_Becker"], ["Economy_of_India", "Belgium", "Boris_Becker"], ["Economy_of_India", "Germany", "Boris_Becker"], ["Economy_of_India", "Japan", "Boris_Becker"], ["Economy_of_India", "United_Kingdom", "Boris_Becker"], ["Economy_of_India", "United_States", "Boris_Becker"]]

@@ -1,0 +1,1 @@
+[["Bristol", "England", "United_States_Constitution"], ["Bristol", "Slavery", "United_States_Constitution"], ["Bristol", "John_Locke", "United_States_Constitution"]]

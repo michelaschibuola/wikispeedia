@@ -1,0 +1,1 @@
+[["Canal", "Amsterdam", "Vincent_van_Gogh"], ["Canal", "Birmingham", "Vincent_van_Gogh"], ["Canal", "France", "Vincent_van_Gogh"]]

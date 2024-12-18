@@ -1,0 +1,1 @@
+[["Moscow", "City", "Sunlight"], ["Moscow", "Diamond_simulant", "Sunlight"]]

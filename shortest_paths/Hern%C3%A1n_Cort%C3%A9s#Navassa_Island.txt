@@ -1,0 +1,1 @@
+[["Hern%C3%A1n_Cort%C3%A9s", "Christopher_Columbus", "Navassa_Island"], ["Hern%C3%A1n_Cort%C3%A9s", "Cuba", "Navassa_Island"], ["Hern%C3%A1n_Cort%C3%A9s", "North_America", "Navassa_Island"]]

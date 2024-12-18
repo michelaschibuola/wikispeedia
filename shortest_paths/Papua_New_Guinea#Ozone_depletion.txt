@@ -1,0 +1,1 @@
+[["Papua_New_Guinea", "Australia", "Ozone_depletion"], ["Papua_New_Guinea", "New_Zealand", "Ozone_depletion"], ["Papua_New_Guinea", "Rice", "Ozone_depletion"]]

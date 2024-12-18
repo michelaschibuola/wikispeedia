@@ -1,0 +1,1 @@
+[["Nintendo", "Alchemy", "Renaissance"], ["Nintendo", "Europe", "Renaissance"], ["Nintendo", "France", "Renaissance"], ["Nintendo", "Germany", "Renaissance"]]

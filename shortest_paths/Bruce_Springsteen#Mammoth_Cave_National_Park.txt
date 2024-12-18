@@ -1,0 +1,1 @@
+[["Bruce_Springsteen", "Switzerland", "Mammoth_Cave_National_Park"], ["Bruce_Springsteen", "United_States", "Mammoth_Cave_National_Park"]]

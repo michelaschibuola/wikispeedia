@@ -1,0 +1,1 @@
+[["Seoul", "Athens", "Olive_oil"], ["Seoul", "France", "Olive_oil"], ["Seoul", "Greece", "Olive_oil"], ["Seoul", "Italy", "Olive_oil"], ["Seoul", "Turkey", "Olive_oil"], ["Seoul", "United_States", "Olive_oil"]]

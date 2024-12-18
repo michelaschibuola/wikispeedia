@@ -1,0 +1,1 @@
+[["NATO", "Canada", "Coin"], ["NATO", "Australia", "Coin"], ["NATO", "China", "Coin"], ["NATO", "India", "Coin"], ["NATO", "Japan", "Coin"], ["NATO", "Ronald_Reagan", "Coin"], ["NATO", "Turkey", "Coin"], ["NATO", "United_Kingdom", "Coin"], ["NATO", "United_States", "Coin"]]

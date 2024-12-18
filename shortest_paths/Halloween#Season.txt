@@ -1,0 +1,1 @@
+[["Halloween", "Autumn", "Season"], ["Halloween", "Australia", "Season"], ["Halloween", "Canada", "Season"], ["Halloween", "England", "Season"], ["Halloween", "Ireland", "Season"], ["Halloween", "United_Kingdom", "Season"], ["Halloween", "United_States", "Season"], ["Halloween", "Water", "Season"], ["Halloween", "Kigo", "Season"]]

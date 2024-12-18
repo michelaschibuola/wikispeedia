@@ -1,0 +1,1 @@
+[["Tree", "Apple", "Celtic_mythology"], ["Tree", "British_Isles", "Celtic_mythology"], ["Tree", "Mythology", "Celtic_mythology"], ["Tree", "Water", "Celtic_mythology"]]

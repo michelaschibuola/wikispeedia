@@ -1,0 +1,1 @@
+[["Comet", "England", "Elizabeth_II_of_the_United_Kingdom"], ["Comet", "France", "Elizabeth_II_of_the_United_Kingdom"], ["Comet", "Germany", "Elizabeth_II_of_the_United_Kingdom"], ["Comet", "Italy", "Elizabeth_II_of_the_United_Kingdom"]]

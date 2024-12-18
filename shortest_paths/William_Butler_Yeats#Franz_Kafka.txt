@@ -1,0 +1,1 @@
+[["William_Butler_Yeats", "Friedrich_Nietzsche", "Franz_Kafka"], ["William_Butler_Yeats", "James_Joyce", "Franz_Kafka"], ["William_Butler_Yeats", "Mysticism", "Franz_Kafka"], ["William_Butler_Yeats", "Philosophy", "Franz_Kafka"]]

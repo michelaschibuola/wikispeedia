@@ -1,0 +1,1 @@
+[["Babylonia", "Iraq", "Ottoman_Empire"], ["Babylonia", "Mesopotamia", "Ottoman_Empire"], ["Babylonia", "Hebrew_language", "Ottoman_Empire"], ["Babylonia", "History_of_saffron", "Ottoman_Empire"], ["Babylonia", "Iranian_peoples", "Ottoman_Empire"], ["Babylonia", "Israel", "Ottoman_Empire"], ["Babylonia", "Jerusalem", "Ottoman_Empire"], ["Babylonia", "Slavery", "Ottoman_Empire"]]

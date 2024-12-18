@@ -1,0 +1,1 @@
+[["Mesopotamia", "Indian_Ocean", "Richard_Nixon"], ["Mesopotamia", "Egypt", "Richard_Nixon"], ["Mesopotamia", "Syria", "Richard_Nixon"], ["Mesopotamia", "Middle_East", "Richard_Nixon"]]

@@ -1,0 +1,1 @@
+[["Avocado", "Australia", "Newcastle_upon_Tyne"], ["Avocado", "Israel", "Newcastle_upon_Tyne"], ["Avocado", "South_Africa", "Newcastle_upon_Tyne"], ["Avocado", "United_States", "Newcastle_upon_Tyne"]]

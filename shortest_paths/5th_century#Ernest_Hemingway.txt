@@ -1,0 +1,1 @@
+[["5th_century", "20th_century", "Ernest_Hemingway"], ["5th_century", "Africa", "Ernest_Hemingway"], ["5th_century", "England", "Ernest_Hemingway"]]

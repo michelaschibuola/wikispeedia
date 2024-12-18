@@ -1,0 +1,1 @@
+[["World_War_II", "Albert_Einstein", "Photon"], ["World_War_II", "Chemistry", "Photon"], ["World_War_II", "Fire", "Photon"], ["World_War_II", "Hubble_Space_Telescope", "Photon"], ["World_War_II", "Niels_Bohr", "Photon"], ["World_War_II", "Nuclear_fission", "Photon"], ["World_War_II", "Paul_Dirac", "Photon"], ["World_War_II", "Physics", "Photon"]]

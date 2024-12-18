@@ -1,0 +1,1 @@
+[["Agriculture", "Japan", "Exploration_of_Mars"], ["Agriculture", "Russia", "Exploration_of_Mars"], ["Agriculture", "United_States", "Exploration_of_Mars"], ["Agriculture", "Water", "Exploration_of_Mars"]]

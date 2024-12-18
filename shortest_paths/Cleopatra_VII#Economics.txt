@@ -1,0 +1,1 @@
+[["Cleopatra_VII", "Ancient_Rome", "Economics"], ["Cleopatra_VII", "Nile", "Economics"], ["Cleopatra_VII", "The_Cantos", "Economics"]]

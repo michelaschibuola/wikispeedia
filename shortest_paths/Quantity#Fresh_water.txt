@@ -1,0 +1,1 @@
+[["Quantity", "Heat", "Earth%27s_atmosphere", "Fresh_water"], ["Quantity", "Heat", "Water", "Fresh_water"], ["Quantity", "Energy", "Water", "Fresh_water"], ["Quantity", "Energy", "Earth", "Fresh_water"], ["Quantity", "Energy", "Rain", "Fresh_water"]]

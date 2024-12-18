@@ -1,0 +1,1 @@
+[["Abu_Dhabi", "Egypt", "Jamaica"], ["Abu_Dhabi", "English_language", "Jamaica"], ["Abu_Dhabi", "India", "Jamaica"], ["Abu_Dhabi", "Saudi_Arabia", "Jamaica"], ["Abu_Dhabi", "United_Kingdom", "Jamaica"], ["Abu_Dhabi", "Manchester", "Jamaica"]]

@@ -1,0 +1,1 @@
+[["Ecuador", "Democracy", "Age_of_Enlightenment"], ["Ecuador", "Government", "Age_of_Enlightenment"], ["Ecuador", "Jew", "Age_of_Enlightenment"], ["Ecuador", "Roman_Catholic_Church", "Age_of_Enlightenment"], ["Ecuador", "World_War_II", "Age_of_Enlightenment"], ["Ecuador", "Liberalism", "Age_of_Enlightenment"]]

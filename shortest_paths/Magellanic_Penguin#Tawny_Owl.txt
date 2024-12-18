@@ -1,0 +1,1 @@
+[["Magellanic_Penguin", "Animal", "Tawny_Owl"], ["Magellanic_Penguin", "Binomial_nomenclature", "Tawny_Owl"], ["Magellanic_Penguin", "Bird", "Tawny_Owl"], ["Magellanic_Penguin", "Chordate", "Tawny_Owl"], ["Magellanic_Penguin", "Scientific_classification", "Tawny_Owl"]]

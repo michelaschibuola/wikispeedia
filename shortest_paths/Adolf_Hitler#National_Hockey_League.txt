@@ -1,0 +1,1 @@
+[["Adolf_Hitler", "United_States", "National_Hockey_League"], ["Adolf_Hitler", "World_War_II", "National_Hockey_League"]]

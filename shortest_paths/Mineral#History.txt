@@ -1,0 +1,1 @@
+[["Mineral", "Fossil", "History"], ["Mineral", "Fossil_record", "History"]]

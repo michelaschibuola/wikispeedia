@@ -1,0 +1,1 @@
+[["Temperate", "Gaza_Strip", "Dune"], ["Temperate", "Scotland", "Dune"], ["Temperate", "Geography", "Dune"], ["Temperate", "United_Kingdom", "Dune"]]

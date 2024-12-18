@@ -1,0 +1,1 @@
+[["Palau", "Pacific_Ocean", "Shoshone_National_Forest"], ["Palau", "Fishing", "Shoshone_National_Forest"], ["Palau", "United_States", "Shoshone_National_Forest"]]

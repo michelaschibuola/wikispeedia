@@ -1,0 +1,1 @@
+[["Fossil_fuel", "Carbon", "Neutron"], ["Fossil_fuel", "Uranium", "Neutron"], ["Fossil_fuel", "Mercury_%28element%29", "Neutron"], ["Fossil_fuel", "Nuclear_power", "Neutron"], ["Fossil_fuel", "Sulfur", "Neutron"]]

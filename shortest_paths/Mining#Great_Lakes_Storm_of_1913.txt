@@ -1,0 +1,1 @@
+[["Mining", "Lake_Superior", "Great_Lakes_Storm_of_1913"], ["Mining", "Coal", "Great_Lakes_Storm_of_1913"], ["Mining", "North_America", "Great_Lakes_Storm_of_1913"], ["Mining", "United_States", "Great_Lakes_Storm_of_1913"], ["Mining", "Rocky_Mountains", "Great_Lakes_Storm_of_1913"]]

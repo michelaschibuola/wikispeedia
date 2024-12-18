@@ -1,0 +1,1 @@
+[["Sparrow", "Africa", "Lebanon"], ["Sparrow", "Asia", "Lebanon"], ["Sparrow", "Australia", "Lebanon"], ["Sparrow", "Europe", "Lebanon"], ["Sparrow", "North_America", "Lebanon"], ["Sparrow", "South_America", "Lebanon"]]

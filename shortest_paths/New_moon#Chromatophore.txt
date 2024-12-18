@@ -1,0 +1,1 @@
+[["New_moon", "Coconut_crab", "Animal", "Chromatophore"], ["New_moon", "Coconut_crab", "Crustacean", "Chromatophore"], ["New_moon", "Sun", "Reptile", "Chromatophore"]]

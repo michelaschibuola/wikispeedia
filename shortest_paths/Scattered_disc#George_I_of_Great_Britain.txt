@@ -1,0 +1,1 @@
+[["Scattered_disc", "Neptune", "France", "George_I_of_Great_Britain"], ["Scattered_disc", "Solar_System", "Gottfried_Leibniz", "George_I_of_Great_Britain"], ["Scattered_disc", "Sun", "England", "George_I_of_Great_Britain"]]

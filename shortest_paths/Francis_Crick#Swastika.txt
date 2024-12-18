@@ -1,0 +1,1 @@
+[["Francis_Crick", "Evolution", "Swastika"], ["Francis_Crick", "California", "Swastika"], ["Francis_Crick", "England", "Swastika"], ["Francis_Crick", "World_War_II", "Swastika"], ["Francis_Crick", "United_Kingdom", "Swastika"]]

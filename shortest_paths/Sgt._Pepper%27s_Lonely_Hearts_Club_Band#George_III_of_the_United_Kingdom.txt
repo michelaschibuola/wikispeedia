@@ -1,0 +1,1 @@
+[["Sgt._Pepper%27s_Lonely_Hearts_Club_Band", "London", "George_III_of_the_United_Kingdom"], ["Sgt._Pepper%27s_Lonely_Hearts_Club_Band", "United_Kingdom", "George_III_of_the_United_Kingdom"], ["Sgt._Pepper%27s_Lonely_Hearts_Club_Band", "United_States", "George_III_of_the_United_Kingdom"]]

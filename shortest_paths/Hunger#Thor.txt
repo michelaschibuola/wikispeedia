@@ -1,0 +1,1 @@
+[["Hunger", "Black_Death", "Germany", "Thor"], ["Hunger", "Animal", "Domestic_goat", "Thor"], ["Hunger", "Poverty", "Domestic_goat", "Thor"], ["Hunger", "Animal", "Earth", "Thor"], ["Hunger", "Animal", "Hawk", "Thor"], ["Hunger", "Famine", "God", "Thor"], ["Hunger", "Poverty", "God", "Thor"], ["Hunger", "Poverty", "Iron", "Thor"]]

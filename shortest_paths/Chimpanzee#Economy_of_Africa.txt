@@ -1,0 +1,1 @@
+[["Chimpanzee", "Angola", "Economy_of_Africa"], ["Chimpanzee", "Congo_River", "Economy_of_Africa"], ["Chimpanzee", "Democratic_Republic_of_the_Congo", "Economy_of_Africa"], ["Chimpanzee", "Portugal", "Economy_of_Africa"], ["Chimpanzee", "HIV", "Economy_of_Africa"]]

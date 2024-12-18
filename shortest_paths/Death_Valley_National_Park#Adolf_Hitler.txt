@@ -1,0 +1,1 @@
+[["Death_Valley_National_Park", "Gold", "Adolf_Hitler"], ["Death_Valley_National_Park", "United_States", "Adolf_Hitler"], ["Death_Valley_National_Park", "Star_Wars", "Adolf_Hitler"]]

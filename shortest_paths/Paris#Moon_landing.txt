@@ -1,0 +1,1 @@
+[["Paris", "20th_century", "Moon_landing"], ["Paris", "Apollo_8", "Moon_landing"], ["Paris", "Dwight_D._Eisenhower", "Moon_landing"], ["Paris", "Nostradamus", "Moon_landing"], ["Paris", "United_States", "Moon_landing"]]

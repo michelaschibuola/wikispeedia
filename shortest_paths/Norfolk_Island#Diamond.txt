@@ -1,0 +1,1 @@
+[["Norfolk_Island", "Australia", "Diamond"], ["Norfolk_Island", "Christianity", "Diamond"], ["Norfolk_Island", "Volcano", "Diamond"]]

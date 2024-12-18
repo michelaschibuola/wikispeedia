@@ -1,0 +1,1 @@
+[["Margaret_Sanger", "Atheism", "Romania"], ["Margaret_Sanger", "Europe", "Romania"], ["Margaret_Sanger", "United_States", "Romania"]]

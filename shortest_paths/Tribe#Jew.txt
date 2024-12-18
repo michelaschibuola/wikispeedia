@@ -1,0 +1,1 @@
+[["Tribe", "Dead_Sea", "Jew"], ["Tribe", "Democracy", "Jew"], ["Tribe", "Ethnic_group", "Jew"], ["Tribe", "Isaac", "Jew"], ["Tribe", "Muhammad", "Jew"], ["Tribe", "Race", "Jew"], ["Tribe", "Russia", "Jew"], ["Tribe", "India", "Jew"], ["Tribe", "United_States", "Jew"]]

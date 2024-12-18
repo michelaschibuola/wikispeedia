@@ -1,0 +1,1 @@
+[["Sierra_Leone", "Carbon", "Arctic"], ["Sierra_Leone", "Atlantic_Ocean", "Arctic"], ["Sierra_Leone", "Finland", "Arctic"], ["Sierra_Leone", "Sub-Saharan_Africa", "Arctic"], ["Sierra_Leone", "United_States", "Arctic"]]

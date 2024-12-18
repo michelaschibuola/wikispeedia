@@ -1,0 +1,1 @@
+[["Beetle", "Desert_locust", "Burkina_Faso", "Senufo_languages"], ["Beetle", "Desert_locust", "Chad", "Senufo_languages"], ["Beetle", "Desert_locust", "Mali", "Senufo_languages"], ["Beetle", "Desert_locust", "Sudan", "Senufo_languages"], ["Beetle", "Tobacco", "Malawi", "Senufo_languages"]]

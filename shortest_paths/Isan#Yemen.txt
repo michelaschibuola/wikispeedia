@@ -1,0 +1,1 @@
+[["Isan", "Cambodia", "Yemen"], ["Isan", "19th_century", "Yemen"], ["Isan", "Art", "Yemen"], ["Isan", "Drought", "Yemen"], ["Isan", "English_language", "Yemen"], ["Isan", "France", "Yemen"], ["Isan", "Laos", "Yemen"], ["Isan", "Thailand", "Yemen"], ["Isan", "United_States", "Yemen"]]

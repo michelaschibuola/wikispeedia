@@ -1,0 +1,1 @@
+[["Property", "People%27s_Republic_of_China", "Beijing"], ["Property", "Automobile", "Beijing"], ["Property", "Europe", "Beijing"], ["Property", "Paris", "Beijing"], ["Property", "United_States", "Beijing"]]

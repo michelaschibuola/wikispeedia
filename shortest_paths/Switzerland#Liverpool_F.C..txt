@@ -1,0 +1,1 @@
+[["Switzerland", "Europe", "Liverpool_F.C."], ["Switzerland", "FIFA_World_Cup", "Liverpool_F.C."], ["Switzerland", "World_War_II", "Liverpool_F.C."]]

@@ -1,0 +1,1 @@
+[["Extinction", "Ammonite", "Germany"], ["Extinction", "Coconut_crab", "Germany"], ["Extinction", "Eagle", "Germany"], ["Extinction", "Australia", "Germany"], ["Extinction", "Government", "Germany"], ["Extinction", "Madagascar", "Germany"], ["Extinction", "New_Zealand", "Germany"], ["Extinction", "Water", "Germany"], ["Extinction", "India", "Germany"]]

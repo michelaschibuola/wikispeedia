@@ -1,0 +1,1 @@
+[["Nature", "Earth", "Spacecraft_propulsion"], ["Nature", "Earth%27s_atmosphere", "Spacecraft_propulsion"], ["Nature", "Sun", "Spacecraft_propulsion"]]

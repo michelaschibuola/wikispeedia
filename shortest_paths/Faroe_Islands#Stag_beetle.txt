@@ -1,0 +1,1 @@
+[["Faroe_Islands", "Europe", "Stag_beetle"], ["Faroe_Islands", "England", "Stag_beetle"]]

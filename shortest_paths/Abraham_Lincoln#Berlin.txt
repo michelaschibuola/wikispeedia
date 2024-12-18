@@ -1,0 +1,1 @@
+[["Abraham_Lincoln", "London", "Berlin"], ["Abraham_Lincoln", "Mexico", "Berlin"], ["Abraham_Lincoln", "United_Kingdom", "Berlin"], ["Abraham_Lincoln", "John_F._Kennedy", "Berlin"], ["Abraham_Lincoln", "United_States", "Berlin"]]

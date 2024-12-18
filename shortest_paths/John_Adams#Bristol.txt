@@ -1,0 +1,1 @@
+[["John_Adams", "Edmund_Burke", "Bristol"], ["John_Adams", "France", "Bristol"]]

@@ -1,0 +1,1 @@
+[["Protein", "History_of_Earth", "Global_warming"], ["Protein", "Malaria", "Global_warming"]]

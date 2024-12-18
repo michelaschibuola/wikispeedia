@@ -1,0 +1,1 @@
+[["Cotton", "Burkina_Faso", "AK-47"], ["Cotton", "Egypt", "AK-47"], ["Cotton", "India", "AK-47"], ["Cotton", "Mexico", "AK-47"]]

@@ -1,0 +1,1 @@
+[["Libya", "21st_century", "Stargate_SG-1"], ["Libya", "Israel", "Stargate_SG-1"], ["Libya", "Italy", "Stargate_SG-1"], ["Libya", "France", "Stargate_SG-1"], ["Libya", "United_Kingdom", "Stargate_SG-1"], ["Libya", "United_States", "Stargate_SG-1"], ["Libya", "Slovenia", "Stargate_SG-1"]]

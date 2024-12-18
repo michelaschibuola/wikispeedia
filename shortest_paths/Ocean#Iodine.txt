@@ -1,0 +1,1 @@
+[["Ocean", "Aluminium", "Iodine"], ["Ocean", "Chlorine", "Iodine"], ["Ocean", "Organism", "Iodine"], ["Ocean", "Seawater", "Iodine"], ["Ocean", "Solar_System", "Iodine"], ["Ocean", "P%C3%B3voa_de_Varzim", "Iodine"], ["Ocean", "Potassium", "Iodine"]]

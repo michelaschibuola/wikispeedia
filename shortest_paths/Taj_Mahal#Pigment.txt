@@ -1,0 +1,1 @@
+[["Taj_Mahal", "Copper", "Pigment"], ["Taj_Mahal", "United_Kingdom", "Pigment"]]

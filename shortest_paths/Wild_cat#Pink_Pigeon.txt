@@ -1,0 +1,1 @@
+[["Wild_cat", "Animal", "Pink_Pigeon"], ["Wild_cat", "Binomial_nomenclature", "Pink_Pigeon"], ["Wild_cat", "Chordate", "Pink_Pigeon"], ["Wild_cat", "Scientific_classification", "Pink_Pigeon"]]

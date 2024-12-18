@@ -1,0 +1,1 @@
+[["Desert_locust", "Egypt", "Salt"], ["Desert_locust", "Mali", "Salt"], ["Desert_locust", "Economy_of_Africa", "Salt"]]

@@ -1,0 +1,1 @@
+[["Trapdoor_spider", "China", "Copper", "Copper%28I%29_chloride"], ["Trapdoor_spider", "Mexico", "Copper", "Copper%28I%29_chloride"], ["Trapdoor_spider", "United_States", "Copper", "Copper%28I%29_chloride"], ["Trapdoor_spider", "United_States", "Ammonia", "Copper%28I%29_chloride"], ["Trapdoor_spider", "United_States", "Sulfuric_acid", "Copper%28I%29_chloride"]]

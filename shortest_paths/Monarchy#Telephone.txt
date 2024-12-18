@@ -1,0 +1,1 @@
+[["Monarchy", "Chennai", "Telephone"], ["Monarchy", "Communication", "Telephone"], ["Monarchy", "Japan", "Telephone"], ["Monarchy", "Monaco", "Telephone"], ["Monarchy", "Sweden", "Telephone"], ["Monarchy", "Papal_conclave", "Telephone"]]

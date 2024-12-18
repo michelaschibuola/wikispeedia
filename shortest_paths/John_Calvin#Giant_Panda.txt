@@ -1,0 +1,1 @@
+[["John_Calvin", "Egg_%28food%29", "Giant_Panda"], ["John_Calvin", "France", "Giant_Panda"], ["John_Calvin", "Paris", "Giant_Panda"]]

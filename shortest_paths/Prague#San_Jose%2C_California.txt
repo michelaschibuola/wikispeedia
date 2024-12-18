@@ -1,0 +1,1 @@
+[["Prague", "Europe", "San_Jose%2C_California"], ["Prague", "Chicago", "San_Jose%2C_California"], ["Prague", "Japan", "San_Jose%2C_California"], ["Prague", "Jew", "San_Jose%2C_California"], ["Prague", "Nazism", "San_Jose%2C_California"], ["Prague", "University", "San_Jose%2C_California"], ["Prague", "World_War_II", "San_Jose%2C_California"]]

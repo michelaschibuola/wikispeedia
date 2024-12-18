@@ -1,0 +1,1 @@
+[["Isan", "13th_century", "Coal"], ["Isan", "Bronze_Age", "Coal"], ["Isan", "United_States", "Coal"]]

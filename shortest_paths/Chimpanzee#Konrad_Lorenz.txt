@@ -1,0 +1,1 @@
+[["Chimpanzee", "Animal", "Konrad_Lorenz"], ["Chimpanzee", "Evolution", "Konrad_Lorenz"], ["Chimpanzee", "War", "Konrad_Lorenz"]]

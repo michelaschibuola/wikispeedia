@@ -1,0 +1,1 @@
+[["Marshall_Plan", "Denmark", "Nuclear_fission"], ["Marshall_Plan", "Japan", "Nuclear_fission"], ["Marshall_Plan", "Sweden", "Nuclear_fission"], ["Marshall_Plan", "United_States", "Nuclear_fission"], ["Marshall_Plan", "Washington%2C_D.C.", "Nuclear_fission"], ["Marshall_Plan", "World_War_II", "Nuclear_fission"]]

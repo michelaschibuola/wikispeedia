@@ -1,0 +1,1 @@
+[["Dubai", "Arabic_language", "Plato"], ["Dubai", "Iran", "Plato"]]

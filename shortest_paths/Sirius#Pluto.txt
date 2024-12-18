@@ -1,0 +1,1 @@
+[["Sirius", "Mercury_%28planet%29", "Pluto"], ["Sirius", "Astrology", "Pluto"], ["Sirius", "Chinese_language", "Pluto"], ["Sirius", "Earth", "Pluto"], ["Sirius", "Hubble_Space_Telescope", "Pluto"], ["Sirius", "Jupiter", "Pluto"], ["Sirius", "Saturn", "Pluto"], ["Sirius", "Sun", "Pluto"]]

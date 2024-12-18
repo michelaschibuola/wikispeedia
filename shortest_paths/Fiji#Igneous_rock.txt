@@ -1,0 +1,1 @@
+[["Fiji", "Mineral", "Igneous_rock"], ["Fiji", "Pacific_Ocean", "Igneous_rock"]]

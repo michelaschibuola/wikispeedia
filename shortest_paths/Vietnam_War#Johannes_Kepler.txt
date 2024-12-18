@@ -1,0 +1,1 @@
+[["Vietnam_War", "Carl_Sagan", "Johannes_Kepler"], ["Vietnam_War", "Sweden", "Johannes_Kepler"]]

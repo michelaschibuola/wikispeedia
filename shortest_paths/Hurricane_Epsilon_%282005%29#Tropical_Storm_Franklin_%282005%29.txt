@@ -1,0 +1,1 @@
+[["Hurricane_Epsilon_%282005%29", "2005_Atlantic_hurricane_season", "Tropical_Storm_Franklin_%282005%29"], ["Hurricane_Epsilon_%282005%29", "Atlantic_Ocean", "Tropical_Storm_Franklin_%282005%29"], ["Hurricane_Epsilon_%282005%29", "Bermuda", "Tropical_Storm_Franklin_%282005%29"], ["Hurricane_Epsilon_%282005%29", "Tropical_cyclone", "Tropical_Storm_Franklin_%282005%29"]]

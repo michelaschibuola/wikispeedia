@@ -1,0 +1,1 @@
+[["Red_dwarf", "Extrasolar_planet", "Poland", "Flag_of_Belarus"], ["Red_dwarf", "Helium", "Poland", "Flag_of_Belarus"], ["Red_dwarf", "Earth", "Continent", "Flag_of_Belarus"], ["Red_dwarf", "Helium", "World_War_II", "Flag_of_Belarus"]]

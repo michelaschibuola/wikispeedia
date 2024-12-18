@@ -1,0 +1,1 @@
+[["Persian_Gulf", "Egypt", "Distilled_beverage"], ["Persian_Gulf", "Middle_East", "Distilled_beverage"]]

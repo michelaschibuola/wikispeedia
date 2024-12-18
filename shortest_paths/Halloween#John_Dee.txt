@@ -1,0 +1,1 @@
+[["Halloween", "England", "John_Dee"], ["Halloween", "Europe", "John_Dee"], ["Halloween", "North_America", "John_Dee"], ["Halloween", "Roman_Catholic_Church", "John_Dee"], ["Halloween", "United_Kingdom", "John_Dee"], ["Halloween", "Wales", "John_Dee"]]

@@ -1,0 +1,1 @@
+[["Caratacus", "Ancient_Rome", "Copper", "Photosynthetic_reaction_centre"], ["Caratacus", "Wales", "Copper", "Photosynthetic_reaction_centre"], ["Caratacus", "Ancient_Rome", "Calcium", "Photosynthetic_reaction_centre"]]

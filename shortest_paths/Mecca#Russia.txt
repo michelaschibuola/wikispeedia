@@ -1,0 +1,1 @@
+[["Mecca", "Black_Death", "Russia"], ["Mecca", "City", "Russia"], ["Mecca", "Damascus", "Russia"], ["Mecca", "Islam", "Russia"], ["Mecca", "Saudi_Arabia", "Russia"], ["Mecca", "Qur%27an", "Russia"], ["Mecca", "September_11%2C_2001_attacks", "Russia"]]

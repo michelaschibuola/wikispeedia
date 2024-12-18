@@ -1,0 +1,1 @@
+[["Pneumonia", "Ariel_Sharon", "Logistics"]]

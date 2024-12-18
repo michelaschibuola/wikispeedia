@@ -1,0 +1,1 @@
+[["Amsterdam", "Train", "Amtrak"], ["Amsterdam", "World_War_II", "Amtrak"], ["Amsterdam", "Montreal", "Amtrak"], ["Amsterdam", "Newark%2C_New_Jersey", "Amtrak"]]

@@ -1,0 +1,1 @@
+[["International_Court_of_Justice", "Iran", "Tiger"], ["International_Court_of_Justice", "Japan", "Tiger"], ["International_Court_of_Justice", "Russia", "Tiger"], ["International_Court_of_Justice", "Myanmar", "Tiger"]]

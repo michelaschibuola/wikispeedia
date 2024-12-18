@@ -1,0 +1,1 @@
+[["Lithuania", "Europe", "Guangzhou"], ["Lithuania", "Germany", "Guangzhou"], ["Lithuania", "Russia", "Guangzhou"], ["Lithuania", "Sweden", "Guangzhou"], ["Lithuania", "Time_zone", "Guangzhou"], ["Lithuania", "United_States", "Guangzhou"], ["Lithuania", "Los_Angeles%2C_California", "Guangzhou"]]

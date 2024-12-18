@@ -1,0 +1,1 @@
+[["Rainhill_Trials", "Manchester", "United_States", "Buckminster_Fuller"], ["Rainhill_Trials", "BBC", "United_States", "Buckminster_Fuller"], ["Rainhill_Trials", "Wales", "Continent", "Buckminster_Fuller"]]

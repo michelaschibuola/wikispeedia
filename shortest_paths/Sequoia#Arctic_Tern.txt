@@ -1,0 +1,1 @@
+[["Sequoia", "Binomial_nomenclature", "Arctic_Tern"], ["Sequoia", "Europe", "Arctic_Tern"], ["Sequoia", "Insect", "Arctic_Tern"], ["Sequoia", "Scientific_classification", "Arctic_Tern"]]

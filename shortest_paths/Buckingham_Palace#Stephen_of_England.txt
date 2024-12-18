@@ -1,0 +1,1 @@
+[["Buckingham_Palace", "British_monarchy", "Stephen_of_England"], ["Buckingham_Palace", "France", "Stephen_of_England"], ["Buckingham_Palace", "London", "Stephen_of_England"], ["Buckingham_Palace", "England", "Stephen_of_England"]]

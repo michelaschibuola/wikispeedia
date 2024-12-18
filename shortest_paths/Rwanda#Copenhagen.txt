@@ -1,0 +1,1 @@
+[["Rwanda", "English_language", "Copenhagen"], ["Rwanda", "European_Union", "Copenhagen"], ["Rwanda", "Time_zone", "Copenhagen"], ["Rwanda", "United_Nations", "Copenhagen"], ["Rwanda", "World_War_II", "Copenhagen"]]

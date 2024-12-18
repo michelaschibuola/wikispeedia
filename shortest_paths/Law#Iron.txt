@@ -1,0 +1,1 @@
+[["Law", "Automobile", "Iron"], ["Law", "Economy_of_Scotland", "Iron"], ["Law", "History_of_South_Africa", "Iron"], ["Law", "Sweden", "Iron"], ["Law", "Poverty", "Iron"], ["Law", "Russia", "Iron"], ["Law", "Ship", "Iron"]]

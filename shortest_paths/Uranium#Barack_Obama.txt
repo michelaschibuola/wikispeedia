@@ -1,0 +1,1 @@
+[["Uranium", "Coal", "Barack_Obama"], ["Uranium", "Democratic_Republic_of_the_Congo", "Barack_Obama"], ["Uranium", "World_War_II", "Barack_Obama"]]

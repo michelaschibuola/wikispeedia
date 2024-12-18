@@ -1,0 +1,1 @@
+[["Lyme_disease", "Bacteria", "Uranium"], ["Lyme_disease", "England", "Uranium"], ["Lyme_disease", "Salt", "Uranium"]]

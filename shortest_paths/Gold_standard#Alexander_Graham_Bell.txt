@@ -1,0 +1,1 @@
+[["Gold_standard", "England", "Alexander_Graham_Bell"], ["Gold_standard", "United_States", "Alexander_Graham_Bell"]]

@@ -1,0 +1,1 @@
+[["ITunes", "IPod", "Cornell_University"], ["ITunes", "Canada", "Cornell_University"], ["ITunes", "Japan", "Cornell_University"], ["ITunes", "Spyware", "Cornell_University"], ["ITunes", "United_Kingdom", "Cornell_University"], ["ITunes", "United_States", "Cornell_University"]]

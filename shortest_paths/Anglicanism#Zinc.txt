@@ -1,0 +1,1 @@
+[["Anglicanism", "Ireland", "Zinc"], ["Anglicanism", "Solomon_Islands", "Zinc"], ["Anglicanism", "Europe", "Zinc"], ["Anglicanism", "Republic_of_Ireland", "Zinc"]]

@@ -1,0 +1,1 @@
+[["Cape_Town", "Electricity", "Battle_of_Normandy"], ["Cape_Town", "France", "Battle_of_Normandy"], ["Cape_Town", "Netherlands", "Battle_of_Normandy"]]

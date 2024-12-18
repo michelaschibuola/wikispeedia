@@ -1,0 +1,1 @@
+[["Desert", "India", "Tobacco"], ["Desert", "United_States", "Tobacco"], ["Desert", "People%27s_Republic_of_China", "Tobacco"], ["Desert", "Zion_National_Park", "Tobacco"]]

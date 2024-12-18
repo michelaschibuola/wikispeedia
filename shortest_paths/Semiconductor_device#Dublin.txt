@@ -1,0 +1,1 @@
+[["Semiconductor_device", "Europe", "Dublin"], ["Semiconductor_device", "Japan", "Dublin"], ["Semiconductor_device", "United_States", "Dublin"]]

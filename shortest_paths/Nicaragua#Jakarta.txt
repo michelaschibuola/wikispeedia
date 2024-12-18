@@ -1,0 +1,1 @@
+[["Nicaragua", "Los_Angeles%2C_California", "Jakarta"], ["Nicaragua", "Monarchy", "Jakarta"], ["Nicaragua", "Europe", "Jakarta"], ["Nicaragua", "Japan", "Jakarta"], ["Nicaragua", "Taiwan", "Jakarta"], ["Nicaragua", "United_Kingdom", "Jakarta"], ["Nicaragua", "United_States", "Jakarta"]]

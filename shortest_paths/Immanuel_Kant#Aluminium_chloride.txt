@@ -1,0 +1,1 @@
+[["Immanuel_Kant", "Germany", "Sodium_hydroxide", "Aluminium_chloride"], ["Immanuel_Kant", "Human", "Chlorine", "Aluminium_chloride"], ["Immanuel_Kant", "Russia", "Aluminium", "Aluminium_chloride"]]

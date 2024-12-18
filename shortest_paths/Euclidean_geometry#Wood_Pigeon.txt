@@ -1,0 +1,1 @@
+[["Euclidean_geometry", "19th_century", "Europe", "Wood_Pigeon"], ["Euclidean_geometry", "19th_century", "Bird", "Wood_Pigeon"], ["Euclidean_geometry", "Mathematics", "Asia", "Wood_Pigeon"]]

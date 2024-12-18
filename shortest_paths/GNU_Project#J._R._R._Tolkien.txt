@@ -1,0 +1,1 @@
+[["GNU_Project", "Emacs", "Language", "J._R._R._Tolkien"], ["GNU_Project", "GNU", "Anarchism", "J._R._R._Tolkien"], ["GNU_Project", "Linux", "Anarchism", "J._R._R._Tolkien"], ["GNU_Project", "Richard_Stallman", "Automobile", "J._R._R._Tolkien"], ["GNU_Project", "Unix", "Latin", "J._R._R._Tolkien"]]

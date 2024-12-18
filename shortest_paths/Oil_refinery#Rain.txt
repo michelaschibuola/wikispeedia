@@ -1,0 +1,1 @@
+[["Oil_refinery", "Earth%27s_atmosphere", "Rain"], ["Oil_refinery", "United_States", "Rain"], ["Oil_refinery", "Syria", "Rain"]]

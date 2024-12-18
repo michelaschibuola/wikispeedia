@@ -1,0 +1,1 @@
+[["Human", "Mexico_City", "Smog"], ["Human", "Pollution", "Smog"], ["Human", "Philippines", "Smog"]]

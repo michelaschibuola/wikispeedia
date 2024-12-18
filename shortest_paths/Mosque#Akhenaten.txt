@@ -1,0 +1,1 @@
+[["Mosque", "Cairo", "Akhenaten"], ["Mosque", "Egypt", "Akhenaten"], ["Mosque", "God", "Akhenaten"], ["Mosque", "Jerusalem", "Akhenaten"]]

@@ -1,0 +1,1 @@
+[["Kigali", "Germany", "Nepal"], ["Kigali", "Time_zone", "Nepal"]]

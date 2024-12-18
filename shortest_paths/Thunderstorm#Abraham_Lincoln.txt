@@ -1,0 +1,1 @@
+[["Thunderstorm", "Baltimore%2C_Maryland", "Abraham_Lincoln"], ["Thunderstorm", "Chicago", "Abraham_Lincoln"], ["Thunderstorm", "History_of_South_Carolina", "Abraham_Lincoln"], ["Thunderstorm", "United_States", "Abraham_Lincoln"]]

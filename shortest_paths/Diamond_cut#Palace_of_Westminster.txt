@@ -1,0 +1,1 @@
+[["Diamond_cut", "Germany", "Palace_of_Westminster"], ["Diamond_cut", "London", "Palace_of_Westminster"], ["Diamond_cut", "Middle_Ages", "Palace_of_Westminster"]]

@@ -1,0 +1,1 @@
+[["Herbivore", "Europe", "Parrot"], ["Herbivore", "Animal", "Parrot"], ["Herbivore", "United_States", "Parrot"], ["Herbivore", "Kakapo", "Parrot"], ["Herbivore", "Monoclonius", "Parrot"], ["Herbivore", "Psittacosaurus", "Parrot"]]

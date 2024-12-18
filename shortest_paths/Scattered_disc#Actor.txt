@@ -1,0 +1,1 @@
+[["Scattered_disc", "Planet", "Japan", "Actor"], ["Scattered_disc", "Sun", "Japan", "Actor"], ["Scattered_disc", "Solar_System", "Latin", "Actor"], ["Scattered_disc", "Sun", "Latin", "Actor"], ["Scattered_disc", "Sun", "Humanities", "Actor"]]

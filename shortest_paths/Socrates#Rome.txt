@@ -1,0 +1,1 @@
+[["Socrates", "Ancient_Greece", "Rome"], ["Socrates", "Aristotle", "Rome"], ["Socrates", "Athens", "Rome"], ["Socrates", "Jacques-Louis_David", "Rome"]]

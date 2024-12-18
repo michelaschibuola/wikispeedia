@@ -1,0 +1,1 @@
+[["Contact_lens", "Cornea", "Gas_metal_arc_welding"], ["Contact_lens", "Japan", "Gas_metal_arc_welding"], ["Contact_lens", "Oxygen", "Gas_metal_arc_welding"], ["Contact_lens", "Retina", "Gas_metal_arc_welding"]]

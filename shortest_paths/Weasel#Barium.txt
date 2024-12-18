@@ -1,0 +1,1 @@
+[["Weasel", "Animal", "Oxygen", "Barium"], ["Weasel", "Poultry", "Oxygen", "Barium"], ["Weasel", "Animal", "Calcium", "Barium"], ["Weasel", "Europe", "Alcohol", "Barium"], ["Weasel", "Europe", "England", "Barium"], ["Weasel", "Winter", "England", "Barium"], ["Weasel", "Europe", "Europium", "Barium"], ["Weasel", "Rabbit", "Gas", "Barium"], ["Weasel", "Winter", "Light", "Barium"]]

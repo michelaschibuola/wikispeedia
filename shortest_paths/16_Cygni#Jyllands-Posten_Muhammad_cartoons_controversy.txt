@@ -1,0 +1,1 @@
+[["16_Cygni", "Binary_star", "Arabic_language", "Jyllands-Posten_Muhammad_cartoons_controversy"], ["16_Cygni", "Day", "English_language", "Jyllands-Posten_Muhammad_cartoons_controversy"], ["16_Cygni", "Day", "Europe", "Jyllands-Posten_Muhammad_cartoons_controversy"], ["16_Cygni", "Sun", "Religion", "Jyllands-Posten_Muhammad_cartoons_controversy"]]

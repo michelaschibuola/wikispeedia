@@ -1,0 +1,1 @@
+[["21st_century", "Afghanistan", "Dog"], ["21st_century", "Africa", "Dog"], ["21st_century", "Germany", "Dog"], ["21st_century", "Russia", "Dog"]]

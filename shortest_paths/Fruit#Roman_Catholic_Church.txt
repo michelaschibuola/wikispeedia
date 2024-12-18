@@ -1,0 +1,1 @@
+[["Fruit", "Algeria", "Roman_Catholic_Church"], ["Fruit", "Cuba", "Roman_Catholic_Church"], ["Fruit", "Florida", "Roman_Catholic_Church"], ["Fruit", "Halloween", "Roman_Catholic_Church"], ["Fruit", "Wine", "Roman_Catholic_Church"], ["Fruit", "Hong_Kong", "Roman_Catholic_Church"], ["Fruit", "Polish-Lithuanian_Commonwealth", "Roman_Catholic_Church"]]

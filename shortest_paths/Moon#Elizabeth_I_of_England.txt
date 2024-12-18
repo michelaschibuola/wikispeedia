@@ -1,0 +1,1 @@
+[["Moon", "Earth", "Elizabeth_I_of_England"], ["Moon", "English_language", "Elizabeth_I_of_England"], ["Moon", "France", "Elizabeth_I_of_England"], ["Moon", "Ireland", "Elizabeth_I_of_England"], ["Moon", "United_States", "Elizabeth_I_of_England"]]

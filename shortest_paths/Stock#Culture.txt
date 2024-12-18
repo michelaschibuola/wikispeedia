@@ -1,0 +1,1 @@
+[["Stock", "Capitalism", "Culture"], ["Stock", "Europe", "Culture"], ["Stock", "United_States", "Culture"]]

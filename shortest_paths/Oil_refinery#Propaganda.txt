@@ -1,0 +1,1 @@
+[["Oil_refinery", "United_States", "Propaganda"], ["Oil_refinery", "World_War_II", "Propaganda"]]

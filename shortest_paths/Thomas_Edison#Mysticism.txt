@@ -1,0 +1,1 @@
+[["Thomas_Edison", "Shinto", "Mysticism"], ["Thomas_Edison", "20th_century", "Mysticism"]]

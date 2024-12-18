@@ -1,0 +1,1 @@
+[["Cairo", "Africa", "Carbon"], ["Cairo", "Ancient_Egypt", "Carbon"], ["Cairo", "United_States", "Carbon"]]

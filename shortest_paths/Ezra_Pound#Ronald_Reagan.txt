@@ -1,0 +1,1 @@
+[["Ezra_Pound", "Ernest_Hemingway", "Ronald_Reagan"], ["Ezra_Pound", "20th_century", "Ronald_Reagan"], ["Ezra_Pound", "Economics", "Ronald_Reagan"], ["Ezra_Pound", "Europe", "Ronald_Reagan"], ["Ezra_Pound", "Japan", "Ronald_Reagan"], ["Ezra_Pound", "United_States", "Ronald_Reagan"], ["Ezra_Pound", "Poetry_of_the_United_States", "Ronald_Reagan"]]

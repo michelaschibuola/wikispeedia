@@ -1,0 +1,1 @@
+[["Tourism", "Florida", "Labor_Day_Hurricane_of_1935"], ["Tourism", "Greenland", "Labor_Day_Hurricane_of_1935"], ["Tourism", "The_Bahamas", "Labor_Day_Hurricane_of_1935"], ["Tourism", "United_States", "Labor_Day_Hurricane_of_1935"]]

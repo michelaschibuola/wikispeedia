@@ -1,0 +1,1 @@
+[["Psychology", "Germany", "Playing_card"], ["Psychology", "Russia", "Playing_card"], ["Psychology", "United_States", "Playing_card"]]

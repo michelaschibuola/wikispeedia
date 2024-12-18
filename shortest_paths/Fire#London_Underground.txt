@@ -1,0 +1,1 @@
+[["Fire", "Electricity", "London_Underground"], ["Fire", "Tobacco_smoking", "London_Underground"], ["Fire", "World_War_II", "London_Underground"], ["Fire", "Washington_Metro", "London_Underground"]]

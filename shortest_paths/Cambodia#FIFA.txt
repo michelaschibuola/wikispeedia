@@ -1,0 +1,1 @@
+[["Cambodia", "Asia", "FIFA"], ["Cambodia", "Football_%28soccer%29", "FIFA"], ["Cambodia", "French_language", "FIFA"], ["Cambodia", "Paris", "FIFA"], ["Cambodia", "United_Nations", "FIFA"], ["Cambodia", "United_States", "FIFA"], ["Cambodia", "Interpol", "FIFA"], ["Cambodia", "Olympic_Games", "FIFA"], ["Cambodia", "Saudi_Arabia", "FIFA"]]

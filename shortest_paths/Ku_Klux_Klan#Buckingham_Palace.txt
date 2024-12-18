@@ -1,0 +1,1 @@
+[["Ku_Klux_Klan", "Nazism", "Buckingham_Palace"], ["Ku_Klux_Klan", "World_War_II", "Buckingham_Palace"]]

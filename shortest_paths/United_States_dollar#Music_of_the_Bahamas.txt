@@ -1,0 +1,1 @@
+[["United_States_dollar", "Bermuda", "Music_of_the_Bahamas"], ["United_States_dollar", "Cuba", "Music_of_the_Bahamas"], ["United_States_dollar", "United_Kingdom", "Music_of_the_Bahamas"], ["United_States_dollar", "United_States", "Music_of_the_Bahamas"]]

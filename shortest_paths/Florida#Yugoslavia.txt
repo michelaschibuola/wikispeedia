@@ -1,0 +1,1 @@
+[["Florida", "France", "Yugoslavia"], ["Florida", "George_H._W._Bush", "Yugoslavia"], ["Florida", "Germany", "Yugoslavia"], ["Florida", "Greece", "Yugoslavia"], ["Florida", "United_States", "Yugoslavia"], ["Florida", "World_War_II", "Yugoslavia"], ["Florida", "Ronald_Reagan", "Yugoslavia"], ["Florida", "Supermarine_Spitfire", "Yugoslavia"]]

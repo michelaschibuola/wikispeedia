@@ -1,0 +1,1 @@
+[["Bob_Dylan", "Australia", "1973_oil_crisis"], ["Bob_Dylan", "BBC", "1973_oil_crisis"], ["Bob_Dylan", "North_America", "1973_oil_crisis"], ["Bob_Dylan", "Russia", "1973_oil_crisis"], ["Bob_Dylan", "United_States", "1973_oil_crisis"]]

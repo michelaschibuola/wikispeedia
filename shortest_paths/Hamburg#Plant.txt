@@ -1,0 +1,1 @@
+[["Hamburg", "Aquarium", "Plant"], ["Hamburg", "Beer", "Plant"], ["Hamburg", "Sugar", "Plant"], ["Hamburg", "Phosphorus", "Plant"]]

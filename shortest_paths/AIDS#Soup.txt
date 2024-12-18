@@ -1,0 +1,1 @@
+[["AIDS", "Belgium", "Soup"], ["AIDS", "France", "Soup"], ["AIDS", "Italy", "Soup"], ["AIDS", "Netherlands", "Soup"], ["AIDS", "Norway", "Soup"], ["AIDS", "United_States", "Soup"], ["AIDS", "Beet", "Soup"]]

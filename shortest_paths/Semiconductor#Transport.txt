@@ -1,0 +1,1 @@
+[["Semiconductor", "Integrated_circuit", "Transport"], ["Semiconductor", "Energy", "Transport"], ["Semiconductor", "Sulfur", "Transport"]]

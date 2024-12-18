@@ -1,0 +1,1 @@
+[["Gregor_Mendel", "19th_century", "Chinese_language"], ["Gregor_Mendel", "20th_century", "Chinese_language"], ["Gregor_Mendel", "History_of_science", "Chinese_language"]]

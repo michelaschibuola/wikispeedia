@@ -1,0 +1,1 @@
+[["Samuel_Beckett", "English_language", "Gal%C3%A1pagos_Islands"], ["Samuel_Beckett", "United_States", "Gal%C3%A1pagos_Islands"], ["Samuel_Beckett", "World_War_II", "Gal%C3%A1pagos_Islands"]]

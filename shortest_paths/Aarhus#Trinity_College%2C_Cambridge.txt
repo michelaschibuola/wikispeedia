@@ -1,0 +1,1 @@
+[["Aarhus", "England", "Trinity_College%2C_Cambridge"], ["Aarhus", "Football_%28soccer%29", "Trinity_College%2C_Cambridge"], ["Aarhus", "France", "Trinity_College%2C_Cambridge"], ["Aarhus", "Germany", "Trinity_College%2C_Cambridge"], ["Aarhus", "United_Kingdom", "Trinity_College%2C_Cambridge"]]

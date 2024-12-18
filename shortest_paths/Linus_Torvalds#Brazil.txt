@@ -1,0 +1,1 @@
+[["Linus_Torvalds", "21st_century", "Brazil"], ["Linus_Torvalds", "Communism", "Brazil"]]

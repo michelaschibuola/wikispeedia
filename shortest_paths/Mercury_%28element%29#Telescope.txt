@@ -1,0 +1,1 @@
+[["Mercury_%28element%29", "Aluminium", "Telescope"], ["Mercury_%28element%29", "Mercury_%28planet%29", "Telescope"], ["Mercury_%28element%29", "Spain", "Telescope"], ["Mercury_%28element%29", "San_Jose%2C_California", "Telescope"], ["Mercury_%28element%29", "Tycho_Brahe", "Telescope"], ["Mercury_%28element%29", "Ultraviolet", "Telescope"]]

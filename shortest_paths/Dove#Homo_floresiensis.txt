@@ -1,0 +1,1 @@
+[["Dove", "Animal", "Homo_floresiensis"], ["Dove", "Asia", "Homo_floresiensis"], ["Dove", "Australia", "Homo_floresiensis"], ["Dove", "Chordate", "Homo_floresiensis"], ["Dove", "Scientific_classification", "Homo_floresiensis"], ["Dove", "Human", "Homo_floresiensis"]]

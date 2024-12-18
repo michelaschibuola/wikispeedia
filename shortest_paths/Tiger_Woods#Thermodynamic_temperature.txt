@@ -1,0 +1,1 @@
+[["Tiger_Woods", "Helium", "Thermodynamic_temperature"], ["Tiger_Woods", "Nitrogen", "Thermodynamic_temperature"], ["Tiger_Woods", "United_States", "Thermodynamic_temperature"]]

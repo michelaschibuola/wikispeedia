@@ -1,0 +1,1 @@
+[["Thomas_Samuel_Kuhn", "Science", "19th_century", "Darling_River"], ["Thomas_Samuel_Kuhn", "Physics", "19th_century", "Darling_River"], ["Thomas_Samuel_Kuhn", "Science", "Pollution", "Darling_River"], ["Thomas_Samuel_Kuhn", "Cancer", "Pollution", "Darling_River"], ["Thomas_Samuel_Kuhn", "Jew", "Australia", "Darling_River"]]

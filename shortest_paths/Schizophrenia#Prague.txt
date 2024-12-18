@@ -1,0 +1,1 @@
+[["Schizophrenia", "Albert_Einstein", "Prague"], ["Schizophrenia", "Czech_Republic", "Prague"], ["Schizophrenia", "Europe", "Prague"], ["Schizophrenia", "Japan", "Prague"], ["Schizophrenia", "Nazi_Germany", "Prague"], ["Schizophrenia", "Soviet_Union", "Prague"]]

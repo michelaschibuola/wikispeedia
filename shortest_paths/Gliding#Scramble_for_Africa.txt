@@ -1,0 +1,1 @@
+[["Gliding", "Berlin", "Scramble_for_Africa"], ["Gliding", "Europe", "Scramble_for_Africa"], ["Gliding", "Germany", "Scramble_for_Africa"], ["Gliding", "United_States", "Scramble_for_Africa"], ["Gliding", "World_War_I", "Scramble_for_Africa"], ["Gliding", "World_War_II", "Scramble_for_Africa"]]

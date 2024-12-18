@@ -1,0 +1,1 @@
+[["Newcastle_upon_Tyne", "Atlantic_Ocean", "Pond"], ["Newcastle_upon_Tyne", "English_language", "Pond"], ["Newcastle_upon_Tyne", "Europe", "Pond"], ["Newcastle_upon_Tyne", "Scotland", "Pond"], ["Newcastle_upon_Tyne", "United_States", "Pond"]]

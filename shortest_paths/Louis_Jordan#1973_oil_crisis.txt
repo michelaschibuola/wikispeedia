@@ -1,0 +1,1 @@
+[["Louis_Jordan", "United_States", "1973_oil_crisis"], ["Louis_Jordan", "World_War_II", "1973_oil_crisis"]]

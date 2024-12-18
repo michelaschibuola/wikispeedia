@@ -1,0 +1,1 @@
+[["Sugar_beet", "Sugar", "Brazil"], ["Sugar_beet", "Europe", "Brazil"], ["Sugar_beet", "France", "Brazil"], ["Sugar_beet", "Germany", "Brazil"], ["Sugar_beet", "Italy", "Brazil"], ["Sugar_beet", "Napoleon_I_of_France", "Brazil"], ["Sugar_beet", "Sugarcane", "Brazil"], ["Sugar_beet", "United_Kingdom", "Brazil"], ["Sugar_beet", "United_States", "Brazil"]]

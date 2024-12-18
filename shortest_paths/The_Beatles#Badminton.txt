@@ -1,0 +1,1 @@
+[["The_Beatles", "England", "Badminton"], ["The_Beatles", "Denmark", "Badminton"], ["The_Beatles", "Europe", "Badminton"], ["The_Beatles", "Hong_Kong", "Badminton"], ["The_Beatles", "Malaysia", "Badminton"], ["The_Beatles", "Philippines", "Badminton"], ["The_Beatles", "Switzerland", "Badminton"]]

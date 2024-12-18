@@ -1,0 +1,1 @@
+[["Cheese", "Bread", "Jesus"], ["Cheese", "Domestic_goat", "Jesus"], ["Cheese", "Egypt", "Jesus"], ["Cheese", "English_language", "Jesus"], ["Cheese", "Europe", "Jesus"], ["Cheese", "Islam", "Jesus"], ["Cheese", "Judaism", "Jesus"], ["Cheese", "Kitsch", "Jesus"], ["Cheese", "Roman_Empire", "Jesus"]]

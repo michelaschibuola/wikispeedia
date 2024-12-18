@@ -1,0 +1,1 @@
+[["Andorra", "France", "Italian_War_of_1521"], ["Andorra", "Italy", "Italian_War_of_1521"], ["Andorra", "Spain", "Italian_War_of_1521"]]

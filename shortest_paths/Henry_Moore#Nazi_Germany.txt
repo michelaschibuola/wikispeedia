@@ -1,0 +1,1 @@
+[["Henry_Moore", "Abstract_art", "Nazi_Germany"], ["Henry_Moore", "United_Kingdom", "Nazi_Germany"]]

@@ -1,0 +1,1 @@
+[["Economy_of_the_Republic_of_Ireland", "Copper", "Flute"], ["Economy_of_the_Republic_of_Ireland", "Electronics", "Flute"], ["Economy_of_the_Republic_of_Ireland", "Gold", "Flute"], ["Economy_of_the_Republic_of_Ireland", "Silver", "Flute"], ["Economy_of_the_Republic_of_Ireland", "Zinc", "Flute"]]

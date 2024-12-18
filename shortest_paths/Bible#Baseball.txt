@@ -1,0 +1,1 @@
+[["Bible", "Israel", "Baseball"], ["Bible", "Sweden", "Baseball"], ["Bible", "Nashville%2C_Tennessee", "Baseball"]]

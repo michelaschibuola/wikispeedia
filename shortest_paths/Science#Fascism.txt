@@ -1,0 +1,1 @@
+[["Science", "Modernist_poetry_in_English", "Fascism"], ["Science", "Political_philosophy", "Fascism"], ["Science", "Age_of_Enlightenment", "Fascism"], ["Science", "Italy", "Fascism"]]

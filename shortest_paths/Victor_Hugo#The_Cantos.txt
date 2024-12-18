@@ -1,0 +1,1 @@
+[["Victor_Hugo", "Christianity", "The_Cantos"], ["Victor_Hugo", "France", "The_Cantos"], ["Victor_Hugo", "Italy", "The_Cantos"], ["Victor_Hugo", "Paris", "The_Cantos"], ["Victor_Hugo", "Voltaire", "The_Cantos"], ["Victor_Hugo", "William_Shakespeare", "The_Cantos"]]

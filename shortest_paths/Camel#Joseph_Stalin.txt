@@ -1,0 +1,1 @@
+[["Camel", "Asia", "Joseph_Stalin"], ["Camel", "Kazakhstan", "Joseph_Stalin"]]

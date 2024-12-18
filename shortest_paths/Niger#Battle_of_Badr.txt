@@ -1,0 +1,1 @@
+[["Niger", "Islam", "Battle_of_Badr"], ["Niger", "Saudi_Arabia", "Battle_of_Badr"], ["Niger", "Yemen", "Battle_of_Badr"]]

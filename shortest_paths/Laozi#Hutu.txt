@@ -1,0 +1,1 @@
+[["Laozi", "Atheism", "United_States", "Hutu"], ["Laozi", "Chinese_language", "United_States", "Hutu"], ["Laozi", "Philosophy", "United_States", "Hutu"], ["Laozi", "Chinese_language", "Africa", "Hutu"], ["Laozi", "Philosophy", "Africa", "Hutu"], ["Laozi", "Chinese_language", "United_Nations", "Hutu"], ["Laozi", "Confucianism", "United_Nations", "Hutu"]]

@@ -1,0 +1,1 @@
+[["Jakarta", "Australia", "Symmetry"], ["Jakarta", "Buddhism", "Symmetry"], ["Jakarta", "Islam", "Symmetry"], ["Jakarta", "Religion", "Symmetry"], ["Jakarta", "United_States", "Symmetry"]]

@@ -1,0 +1,1 @@
+[["Clothing", "Banana", "Plant"], ["Clothing", "Cotton", "Plant"], ["Clothing", "Wood", "Plant"], ["Clothing", "Pandanus", "Plant"], ["Clothing", "Soybean", "Plant"]]

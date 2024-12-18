@@ -1,0 +1,1 @@
+[["H.D.", "Europe", "Tamil_people"], ["H.D.", "Film", "Tamil_people"], ["H.D.", "Music", "Tamil_people"], ["H.D.", "United_States", "Tamil_people"]]

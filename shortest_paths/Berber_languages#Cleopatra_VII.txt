@@ -1,0 +1,1 @@
+[["Berber_languages", "Ancient_Egypt", "Cleopatra_VII"], ["Berber_languages", "Egypt", "Cleopatra_VII"], ["Berber_languages", "France", "Cleopatra_VII"], ["Berber_languages", "Libya", "Cleopatra_VII"]]

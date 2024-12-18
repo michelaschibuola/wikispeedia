@@ -1,0 +1,1 @@
+[["The_Hitchhiker%27s_Guide_to_the_Galaxy", "Europe", "War_of_the_Spanish_Succession"], ["The_Hitchhiker%27s_Guide_to_the_Galaxy", "Pound_sterling", "War_of_the_Spanish_Succession"]]

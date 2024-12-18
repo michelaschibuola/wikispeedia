@@ -1,0 +1,1 @@
+[["Coin", "Australia", "Sculpture"], ["Coin", "Japan", "Sculpture"], ["Coin", "Greco-Buddhism", "Sculpture"]]

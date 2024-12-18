@@ -1,0 +1,1 @@
+[["Atlantis", "Africa", "Eritrea"], ["Atlantis", "Ancient_Egypt", "Eritrea"], ["Atlantis", "Egypt", "Eritrea"], ["Atlantis", "Israel", "Eritrea"], ["Atlantis", "Portugal", "Eritrea"], ["Atlantis", "Equatorial_Guinea", "Eritrea"]]

@@ -1,0 +1,1 @@
+[["Newspaper", "United_Kingdom", "Martin_Van_Buren"], ["Newspaper", "Theodore_Roosevelt", "Martin_Van_Buren"]]

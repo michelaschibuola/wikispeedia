@@ -1,0 +1,1 @@
+[["Liberia", "Soviet_Union", "Reza_Shah"], ["Liberia", "United_Kingdom", "Reza_Shah"], ["Liberia", "World_War_II", "Reza_Shah"]]

@@ -1,0 +1,1 @@
+[["Scandium", "Color", "Ptolemy"], ["Scandium", "Earth", "Ptolemy"], ["Scandium", "Latin", "Ptolemy"], ["Scandium", "Star", "Ptolemy"]]

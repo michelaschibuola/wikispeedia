@@ -1,0 +1,1 @@
+[["Joan_of_Arc", "France", "Panama_Canal"], ["Joan_of_Arc", "World_War_II", "Panama_Canal"]]

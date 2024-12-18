@@ -1,0 +1,1 @@
+[["Socrates", "Ancient_Greece", "Sport"]]

@@ -1,0 +1,1 @@
+[["Bay_of_Bengal", "India", "Plate_tectonics"], ["Bay_of_Bengal", "Geography_of_India", "Plate_tectonics"], ["Bay_of_Bengal", "Himalayas", "Plate_tectonics"], ["Bay_of_Bengal", "List_of_rivers_by_length", "Plate_tectonics"]]

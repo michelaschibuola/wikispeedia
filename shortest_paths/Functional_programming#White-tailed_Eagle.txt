@@ -1,0 +1,1 @@
+[["Functional_programming", "Calculus", "Europe", "White-tailed_Eagle"], ["Functional_programming", "Python_%28programming_language%29", "Netherlands", "White-tailed_Eagle"]]

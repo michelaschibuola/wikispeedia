@@ -1,0 +1,1 @@
+[["Barbados", "Canada", "Westminster_System"], ["Barbados", "Constitutional_monarchy", "Westminster_System"], ["Barbados", "Trinidad_and_Tobago", "Westminster_System"], ["Barbados", "United_Kingdom", "Westminster_System"], ["Barbados", "Monarchy", "Westminster_System"], ["Barbados", "Parliamentary_system", "Westminster_System"]]

@@ -1,0 +1,1 @@
+[["Literacy", "Israel", "Kyrgyzstan"], ["Literacy", "Lebanon", "Kyrgyzstan"], ["Literacy", "China", "Kyrgyzstan"], ["Literacy", "United_Nations", "Kyrgyzstan"], ["Literacy", "Nationalism", "Kyrgyzstan"], ["Literacy", "Somalia", "Kyrgyzstan"]]

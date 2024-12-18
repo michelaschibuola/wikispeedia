@@ -1,0 +1,1 @@
+[["Lithium", "Earth%27s_atmosphere", "Season"], ["Lithium", "Plant", "Season"], ["Lithium", "United_States", "Season"], ["Lithium", "Water", "Season"]]

@@ -1,0 +1,1 @@
+[["Thomas_Jefferson", "American_English", "Medicine"], ["Thomas_Jefferson", "Government", "Medicine"], ["Thomas_Jefferson", "John_Locke", "Medicine"], ["Thomas_Jefferson", "Louisville%2C_Kentucky", "Medicine"], ["Thomas_Jefferson", "France", "Medicine"], ["Thomas_Jefferson", "Tribe", "Medicine"], ["Thomas_Jefferson", "United_States", "Medicine"]]

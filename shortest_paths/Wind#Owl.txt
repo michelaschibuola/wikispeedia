@@ -1,0 +1,1 @@
+[["Wind", "Antarctica", "Owl"], ["Wind", "Greek_mythology", "Owl"], ["Wind", "Greenland", "Owl"]]

@@ -1,0 +1,1 @@
+[["Thomas_Jefferson", "19th_century", "Venezuela"], ["Thomas_Jefferson", "Cryptography", "Venezuela"], ["Thomas_Jefferson", "Jesus", "Venezuela"], ["Thomas_Jefferson", "Europe", "Venezuela"], ["Thomas_Jefferson", "World_Heritage_Site", "Venezuela"], ["Thomas_Jefferson", "United_States", "Venezuela"]]

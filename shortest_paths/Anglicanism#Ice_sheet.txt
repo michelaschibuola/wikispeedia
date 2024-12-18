@@ -1,0 +1,1 @@
+[["Anglicanism", "Europe", "Ice_sheet"], ["Anglicanism", "Northern_Ireland", "Ice_sheet"]]

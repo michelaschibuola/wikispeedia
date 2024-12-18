@@ -1,0 +1,1 @@
+[["Slavery", "Canada", "Season"], ["Slavery", "Indian_Ocean", "Season"], ["Slavery", "Maya_civilization", "Season"], ["Slavery", "United_Kingdom", "Season"], ["Slavery", "United_States", "Season"]]

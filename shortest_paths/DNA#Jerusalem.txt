@@ -1,0 +1,1 @@
+[["DNA", "Arecaceae", "Jerusalem"], ["DNA", "Christopher_Columbus", "Jerusalem"]]

@@ -1,0 +1,1 @@
+[["Tokyo", "London", "Claude_Monet"], ["Tokyo", "Moscow", "Claude_Monet"], ["Tokyo", "Paris", "Claude_Monet"], ["Tokyo", "Algeria", "Claude_Monet"], ["Tokyo", "England", "Claude_Monet"], ["Tokyo", "France", "Claude_Monet"]]

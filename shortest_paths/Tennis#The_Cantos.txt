@@ -1,0 +1,1 @@
+[["Tennis", "England", "The_Cantos"], ["Tennis", "Ernest_Hemingway", "The_Cantos"], ["Tennis", "Paris", "The_Cantos"], ["Tennis", "Rome", "The_Cantos"], ["Tennis", "Australia", "The_Cantos"], ["Tennis", "France", "The_Cantos"], ["Tennis", "United_States", "The_Cantos"], ["Tennis", "Washington%2C_D.C.", "The_Cantos"]]

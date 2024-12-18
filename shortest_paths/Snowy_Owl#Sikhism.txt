@@ -1,0 +1,1 @@
+[["Snowy_Owl", "Canada", "Sikhism"], ["Snowy_Owl", "China", "Sikhism"], ["Snowy_Owl", "United_Kingdom", "Sikhism"]]

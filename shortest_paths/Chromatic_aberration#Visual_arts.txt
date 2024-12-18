@@ -1,0 +1,1 @@
+[["Chromatic_aberration", "Glass", "Visual_arts"], ["Chromatic_aberration", "Light", "Visual_arts"], ["Chromatic_aberration", "Photography", "Visual_arts"]]

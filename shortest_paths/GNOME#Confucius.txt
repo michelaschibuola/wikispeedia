@@ -1,0 +1,1 @@
+[["GNOME", "Computer", "Asia", "Confucius"], ["GNOME", "Computer", "Mahjong", "Confucius"], ["GNOME", "Compact_Disc", "Guqin", "Confucius"]]

@@ -1,0 +1,1 @@
+[["Spherical_aberration", "Hubble_Space_Telescope", "United_States", "Gypsum"], ["Spherical_aberration", "Optical_microscope", "Mineral", "Gypsum"], ["Spherical_aberration", "Star", "Sulfur", "Gypsum"], ["Spherical_aberration", "Telescope", "Ireland", "Gypsum"]]

@@ -1,0 +1,1 @@
+[["Libertarianism", "Government", "Human"], ["Libertarianism", "Communism", "Human"], ["Libertarianism", "Life", "Human"], ["Libertarianism", "Money", "Human"], ["Libertarianism", "Religion", "Human"], ["Libertarianism", "United_Nations", "Human"], ["Libertarianism", "Politics", "Human"]]

@@ -1,0 +1,1 @@
+[["Hamburg", "Atlantic_Ocean", "Burkina_Faso"], ["Hamburg", "Africa", "Burkina_Faso"], ["Hamburg", "Berber_languages", "Burkina_Faso"], ["Hamburg", "France", "Burkina_Faso"], ["Hamburg", "List_of_countries", "Burkina_Faso"], ["Hamburg", "World_War_I", "Burkina_Faso"]]

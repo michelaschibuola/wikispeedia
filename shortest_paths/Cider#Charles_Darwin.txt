@@ -1,0 +1,1 @@
+[["Cider", "19th_century", "Charles_Darwin"], ["Cider", "20th_century", "Charles_Darwin"], ["Cider", "Argentina", "Charles_Darwin"], ["Cider", "Australia", "Charles_Darwin"], ["Cider", "England", "Charles_Darwin"], ["Cider", "Germany", "Charles_Darwin"], ["Cider", "United_Kingdom", "Charles_Darwin"], ["Cider", "Wales", "Charles_Darwin"]]

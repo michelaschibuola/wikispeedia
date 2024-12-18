@@ -1,0 +1,1 @@
+[["Ice_hockey", "Bucharest", "Glass"], ["Ice_hockey", "Egypt", "Glass"], ["Ice_hockey", "Fiberglass", "Glass"], ["Ice_hockey", "Germany", "Glass"], ["Ice_hockey", "Water", "Glass"]]

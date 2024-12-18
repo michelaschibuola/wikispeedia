@@ -1,0 +1,1 @@
+[["Seoul", "Rome", "Coventry"], ["Seoul", "Australia", "Coventry"], ["Seoul", "Canada", "Coventry"], ["Seoul", "France", "Coventry"], ["Seoul", "Italy", "Coventry"], ["Seoul", "London", "Coventry"], ["Seoul", "Poland", "Coventry"], ["Seoul", "Russia", "Coventry"], ["Seoul", "United_States", "Coventry"], ["Seoul", "Warsaw", "Coventry"]]

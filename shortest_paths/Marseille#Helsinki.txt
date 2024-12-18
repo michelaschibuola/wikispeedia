@@ -1,0 +1,1 @@
+[["Marseille", "Global_city", "Helsinki"], ["Marseille", "Capital", "Helsinki"], ["Marseille", "European_Union", "Helsinki"], ["Marseille", "Football_%28soccer%29", "Helsinki"], ["Marseille", "World_War_II", "Helsinki"], ["Marseille", "Shanghai", "Helsinki"]]

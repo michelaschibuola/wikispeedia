@@ -1,0 +1,1 @@
+[["Adolf_Hitler", "Architecture", "Science"], ["Adolf_Hitler", "Art", "Science"], ["Adolf_Hitler", "United_States", "Science"], ["Adolf_Hitler", "Bertrand_Russell", "Science"], ["Adolf_Hitler", "Italy", "Science"], ["Adolf_Hitler", "James_D._Watson", "Science"]]

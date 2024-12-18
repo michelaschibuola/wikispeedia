@@ -1,0 +1,1 @@
+[["Batman", "Bat", "Animal", "Dingo"], ["Batman", "Bat", "Chordate", "Dingo"], ["Batman", "Bat", "Mammal", "Dingo"], ["Batman", "Bat", "Scientific_classification", "Dingo"], ["Batman", "Bat", "Fauna_of_Australia", "Dingo"], ["Batman", "Earthquake", "Sydney", "Dingo"], ["Batman", "Sesame_Street", "Australia", "Dingo"]]

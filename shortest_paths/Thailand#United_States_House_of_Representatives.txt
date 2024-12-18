@@ -1,0 +1,1 @@
+[["Thailand", "California", "United_States_House_of_Representatives"], ["Thailand", "Democracy", "United_States_House_of_Representatives"], ["Thailand", "United_States", "United_States_House_of_Representatives"], ["Thailand", "Washington%2C_D.C.", "United_States_House_of_Representatives"]]

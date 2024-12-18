@@ -1,0 +1,1 @@
+[["Mount_Nyiragongo", "Africa", "France", "William_II_of_England"], ["Mount_Nyiragongo", "Cameroon", "France", "William_II_of_England"], ["Mount_Nyiragongo", "Democratic_Republic_of_the_Congo", "France", "William_II_of_England"], ["Mount_Nyiragongo", "Rwanda", "France", "William_II_of_England"], ["Mount_Nyiragongo", "Carbon_dioxide", "Scotland", "William_II_of_England"]]

@@ -1,0 +1,1 @@
+[["Super_Mario_Bros.", "Japan", "Ankylosaurus"], ["Super_Mario_Bros.", "North_America", "Ankylosaurus"], ["Super_Mario_Bros.", "United_States", "Ankylosaurus"]]

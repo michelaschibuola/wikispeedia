@@ -1,0 +1,1 @@
+[["Anschluss", "France", "Moon"], ["Anschluss", "Soviet_Union", "Moon"], ["Anschluss", "United_States", "Moon"]]

@@ -1,0 +1,1 @@
+[["Buckingham_Palace", "British_monarchy", "Encyclop%C3%A6dia_Britannica"], ["Buckingham_Palace", "France", "Encyclop%C3%A6dia_Britannica"], ["Buckingham_Palace", "Pound_sterling", "Encyclop%C3%A6dia_Britannica"], ["Buckingham_Palace", "England", "Encyclop%C3%A6dia_Britannica"], ["Buckingham_Palace", "United_Kingdom", "Encyclop%C3%A6dia_Britannica"]]

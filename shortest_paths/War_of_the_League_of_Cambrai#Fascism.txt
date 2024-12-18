@@ -1,0 +1,1 @@
+[["War_of_the_League_of_Cambrai", "France", "Fascism"], ["War_of_the_League_of_Cambrai", "Italy", "Fascism"], ["War_of_the_League_of_Cambrai", "Spain", "Fascism"]]

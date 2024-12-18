@@ -1,0 +1,1 @@
+[["Laika", "Soviet_Union", "Luftwaffe"], ["Laika", "Spain", "Luftwaffe"], ["Laika", "United_Kingdom", "Luftwaffe"], ["Laika", "United_States", "Luftwaffe"]]

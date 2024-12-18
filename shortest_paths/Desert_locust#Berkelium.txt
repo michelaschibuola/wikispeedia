@@ -1,0 +1,1 @@
+[["Desert_locust", "Algeria", "Helium", "Berkelium"], ["Desert_locust", "India", "Helium", "Berkelium"], ["Desert_locust", "Russia", "Helium", "Berkelium"], ["Desert_locust", "Banana", "Color", "Berkelium"], ["Desert_locust", "Fruit", "Color", "Berkelium"], ["Desert_locust", "Russia", "Periodic_table", "Berkelium"]]

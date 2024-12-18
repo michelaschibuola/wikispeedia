@@ -1,0 +1,1 @@
+[["Meteor_shower", "Archaeoastronomy", "British_Isles", "Almond"], ["Meteor_shower", "Comet", "Italy", "Almond"], ["Meteor_shower", "Sun", "Asia", "Almond"], ["Meteor_shower", "Sun", "Cancer", "Almond"], ["Meteor_shower", "Sun", "Seed", "Almond"], ["Meteor_shower", "Sun", "United_States", "Almond"]]

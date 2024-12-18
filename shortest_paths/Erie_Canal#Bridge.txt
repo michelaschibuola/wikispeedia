@@ -1,0 +1,1 @@
+[["Erie_Canal", "19th_century", "Bridge"], ["Erie_Canal", "New_York_City", "Bridge"], ["Erie_Canal", "United_States", "Bridge"]]

@@ -1,0 +1,1 @@
+[["Plymouth", "Egypt", "Judaism"], ["Plymouth", "Europe", "Judaism"], ["Plymouth", "France", "Judaism"], ["Plymouth", "Middle_East", "Judaism"], ["Plymouth", "Roman_Empire", "Judaism"], ["Plymouth", "Russia", "Judaism"], ["Plymouth", "Spain", "Judaism"], ["Plymouth", "United_States", "Judaism"], ["Plymouth", "World_War_II", "Judaism"], ["Plymouth", "United_Kingdom", "Judaism"]]

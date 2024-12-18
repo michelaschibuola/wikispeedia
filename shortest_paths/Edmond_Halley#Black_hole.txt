@@ -1,0 +1,1 @@
+[["Edmond_Halley", "Gravitation", "Black_hole"], ["Edmond_Halley", "Isaac_Newton", "Black_hole"], ["Edmond_Halley", "Globular_cluster", "Black_hole"], ["Edmond_Halley", "Star", "Black_hole"]]

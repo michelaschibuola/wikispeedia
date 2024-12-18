@@ -1,0 +1,1 @@
+[["Corporation", "Germany", "Penguin"], ["Corporation", "Sweden", "Penguin"], ["Corporation", "New_York_City", "Penguin"]]

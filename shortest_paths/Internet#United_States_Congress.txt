@@ -1,0 +1,1 @@
+[["Internet", "20th_century", "United_States_Congress"], ["Internet", "Cornell_University", "United_States_Congress"], ["Internet", "Hubble_Space_Telescope", "United_States_Congress"], ["Internet", "United_States", "United_States_Congress"], ["Internet", "Mass_media", "United_States_Congress"], ["Internet", "Seattle%2C_Washington", "United_States_Congress"]]

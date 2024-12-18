@@ -1,0 +1,1 @@
+[["International_Red_Cross_and_Red_Crescent_Movement", "London", "Paul_Dirac"], ["International_Red_Cross_and_Red_Crescent_Movement", "Soviet_Union", "Paul_Dirac"], ["International_Red_Cross_and_Red_Crescent_Movement", "Switzerland", "Paul_Dirac"], ["International_Red_Cross_and_Red_Crescent_Movement", "World_War_II", "Paul_Dirac"]]

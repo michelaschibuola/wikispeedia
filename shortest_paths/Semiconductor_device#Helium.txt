@@ -1,0 +1,1 @@
+[["Semiconductor_device", "Boron", "Helium"], ["Semiconductor_device", "Electron", "Helium"], ["Semiconductor_device", "Germanium", "Helium"], ["Semiconductor_device", "Phosphorus", "Helium"], ["Semiconductor_device", "Quantum_mechanics", "Helium"], ["Semiconductor_device", "Silicon", "Helium"], ["Semiconductor_device", "United_States", "Helium"]]

@@ -1,0 +1,1 @@
+[["Black_Death", "England", "Battle_of_Hastings"], ["Black_Death", "France", "Battle_of_Hastings"], ["Black_Death", "Hundred_Years%27_War", "Battle_of_Hastings"], ["Black_Death", "London", "Battle_of_Hastings"], ["Black_Death", "Norman_conquest_of_England", "Battle_of_Hastings"], ["Black_Death", "Norway", "Battle_of_Hastings"]]

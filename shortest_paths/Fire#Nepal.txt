@@ -1,0 +1,1 @@
+[["Fire", "Hinduism", "Nepal"], ["Fire", "United_States", "Nepal"]]

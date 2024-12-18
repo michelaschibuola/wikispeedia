@@ -1,0 +1,1 @@
+[["Gliese_876_d", "Star", "H_II_region"], ["Gliese_876_d", "Sun", "H_II_region"], ["Gliese_876_d", "Ultraviolet", "H_II_region"]]

@@ -1,0 +1,1 @@
+[["Plate_tectonics", "Glacier", "Niagara_Falls"], ["Plate_tectonics", "Ice_age", "Niagara_Falls"], ["Plate_tectonics", "North_America", "Niagara_Falls"], ["Plate_tectonics", "Fossil", "Niagara_Falls"], ["Plate_tectonics", "United_States", "Niagara_Falls"]]

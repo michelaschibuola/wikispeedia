@@ -1,0 +1,1 @@
+[["Egypt", "Beijing", "Canal"], ["Egypt", "Cleveland%2C_Ohio", "Canal"], ["Egypt", "Dune", "Canal"], ["Egypt", "Suez_Canal", "Canal"], ["Egypt", "United_States", "Canal"], ["Egypt", "Ice_hockey", "Canal"], ["Egypt", "Irrigation", "Canal"], ["Egypt", "Mesopotamia", "Canal"], ["Egypt", "River", "Canal"]]

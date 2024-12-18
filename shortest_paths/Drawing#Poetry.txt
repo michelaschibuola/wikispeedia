@@ -1,0 +1,1 @@
+[["Drawing", "Art", "Poetry"], ["Drawing", "Johann_Wolfgang_Goethe", "Poetry"], ["Drawing", "Literature", "Poetry"], ["Drawing", "Painting", "Poetry"]]

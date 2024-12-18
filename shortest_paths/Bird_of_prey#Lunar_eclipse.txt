@@ -1,0 +1,1 @@
+[["Bird_of_prey", "Bald_Eagle", "Benjamin_Franklin", "Lunar_eclipse"], ["Bird_of_prey", "Bald_Eagle", "Earth", "Lunar_eclipse"], ["Bird_of_prey", "Animal", "Earth", "Lunar_eclipse"], ["Bird_of_prey", "Animal", "Sunlight", "Lunar_eclipse"], ["Bird_of_prey", "New_Zealand", "History_of_Greece", "Lunar_eclipse"]]

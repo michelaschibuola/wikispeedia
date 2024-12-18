@@ -1,0 +1,1 @@
+[["Republic_of_Macedonia", "Netherlands", "Indonesian_language"], ["Republic_of_Macedonia", "Art", "Indonesian_language"], ["Republic_of_Macedonia", "English_language", "Indonesian_language"]]

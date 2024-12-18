@@ -1,0 +1,1 @@
+[["Conflict", "History_of_the_world", "Global_warming", "Mauna_Loa"], ["Conflict", "History_of_the_world", "Greenhouse_effect", "Mauna_Loa"], ["Conflict", "History_of_the_world", "Sun", "Mauna_Loa"]]

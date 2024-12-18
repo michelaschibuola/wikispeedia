@@ -1,0 +1,1 @@
+[["Industrial_Revolution", "British_East_India_Company", "Kolkata"], ["Industrial_Revolution", "Communism", "Kolkata"], ["Industrial_Revolution", "India", "Kolkata"], ["Industrial_Revolution", "Trade_union", "Kolkata"], ["Industrial_Revolution", "Victoria_of_the_United_Kingdom", "Kolkata"]]

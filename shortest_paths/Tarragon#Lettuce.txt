@@ -1,0 +1,1 @@
+[["Tarragon", "Asia", "Lettuce"], ["Tarragon", "Binomial_nomenclature", "Lettuce"], ["Tarragon", "Carolus_Linnaeus", "Lettuce"], ["Tarragon", "Europe", "Lettuce"], ["Tarragon", "Plant", "Lettuce"], ["Tarragon", "Scientific_classification", "Lettuce"]]

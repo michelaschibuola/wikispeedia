@@ -1,0 +1,1 @@
+[["Architecture", "Europe", "Osama_bin_Laden"], ["Architecture", "India", "Osama_bin_Laden"], ["Architecture", "Pakistan", "Osama_bin_Laden"]]

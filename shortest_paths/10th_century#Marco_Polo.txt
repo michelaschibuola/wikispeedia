@@ -1,0 +1,1 @@
+[["10th_century", "Black_Sea", "Marco_Polo"], ["10th_century", "Byzantine_Empire", "Marco_Polo"], ["10th_century", "Philippines", "Marco_Polo"], ["10th_century", "History_of_science", "Marco_Polo"]]

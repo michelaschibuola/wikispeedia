@@ -1,0 +1,1 @@
+[["Poetry_of_the_United_States", "Literature", "Ancient_Egypt"], ["Poetry_of_the_United_States", "Religion", "Ancient_Egypt"]]

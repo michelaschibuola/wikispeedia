@@ -1,0 +1,1 @@
+[["Tennis", "India", "Ming_Dynasty"], ["Tennis", "London", "Ming_Dynasty"], ["Tennis", "Washington%2C_D.C.", "Ming_Dynasty"]]

@@ -1,0 +1,1 @@
+[["Alcohol", "Adolf_Hitler", "Democracy"], ["Alcohol", "Europe", "Democracy"], ["Alcohol", "United_States", "Democracy"], ["Alcohol", "Edgar_Allan_Poe", "Democracy"], ["Alcohol", "Turkey", "Democracy"]]

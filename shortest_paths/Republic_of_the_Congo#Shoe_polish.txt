@@ -1,0 +1,1 @@
+[["Republic_of_the_Congo", "France", "Shoe_polish"], ["Republic_of_the_Congo", "Sub-Saharan_Africa", "Shoe_polish"], ["Republic_of_the_Congo", "World_War_II", "Shoe_polish"], ["Republic_of_the_Congo", "United_States", "Shoe_polish"]]

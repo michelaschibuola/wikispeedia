@@ -1,0 +1,1 @@
+[["Montenegro", "Europe", "North_Sea_oil"], ["Montenegro", "Germany", "North_Sea_oil"], ["Montenegro", "Denmark", "North_Sea_oil"], ["Montenegro", "Netherlands", "North_Sea_oil"], ["Montenegro", "Norway", "North_Sea_oil"], ["Montenegro", "United_Kingdom", "North_Sea_oil"]]

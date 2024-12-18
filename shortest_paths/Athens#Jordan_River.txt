@@ -1,0 +1,1 @@
+[["Athens", "Lebanon", "Jordan_River"], ["Athens", "Music", "Jordan_River"], ["Athens", "Civilization", "Jordan_River"], ["Athens", "Poetry", "Jordan_River"], ["Athens", "Syria", "Jordan_River"]]

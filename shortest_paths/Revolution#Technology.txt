@@ -1,0 +1,1 @@
+[["Revolution", "Civilization", "Technology"], ["Revolution", "Karl_Marx", "Technology"], ["Revolution", "Economics", "Technology"], ["Revolution", "Industrial_Revolution", "Technology"]]

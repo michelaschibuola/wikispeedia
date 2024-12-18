@@ -1,0 +1,1 @@
+[["Suffrage", "Japan", "Comet_Halley"], ["Suffrage", "France", "Comet_Halley"]]

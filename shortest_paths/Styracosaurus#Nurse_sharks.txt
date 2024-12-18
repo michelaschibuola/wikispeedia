@@ -1,0 +1,1 @@
+[["Styracosaurus", "Animal", "Nurse_sharks"], ["Styracosaurus", "Chordate", "Nurse_sharks"], ["Styracosaurus", "Scientific_classification", "Nurse_sharks"]]

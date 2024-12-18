@@ -1,0 +1,1 @@
+[["Basketball", "Football_%28soccer%29", "Belfast"], ["Basketball", "United_States", "Belfast"], ["Basketball", "Dublin", "Belfast"], ["Basketball", "People%27s_Republic_of_China", "Belfast"]]

@@ -1,0 +1,1 @@
+[["Synthesizer", "Blade_Runner", "Corporation", "The_Lorax"], ["Synthesizer", "New_York_City", "Corporation", "The_Lorax"], ["Synthesizer", "Paul_McCartney", "Animation", "The_Lorax"], ["Synthesizer", "New_York_City", "Dr._Seuss", "The_Lorax"], ["Synthesizer", "New_York_City", "Theodore_Roosevelt", "The_Lorax"]]

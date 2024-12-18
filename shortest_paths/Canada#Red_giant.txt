@@ -1,0 +1,1 @@
+[["Canada", "Earth", "Red_giant"], ["Canada", "Helium", "Red_giant"], ["Canada", "Superman", "Red_giant"]]

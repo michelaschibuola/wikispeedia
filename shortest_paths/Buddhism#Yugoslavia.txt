@@ -1,0 +1,1 @@
+[["Buddhism", "Europe", "Yugoslavia"], ["Buddhism", "Greece", "Yugoslavia"], ["Buddhism", "Jew", "Yugoslavia"], ["Buddhism", "European_Union", "Yugoslavia"], ["Buddhism", "France", "Yugoslavia"], ["Buddhism", "History_of_the_world", "Yugoslavia"], ["Buddhism", "Russia", "Yugoslavia"], ["Buddhism", "Soviet_Union", "Yugoslavia"], ["Buddhism", "United_States", "Yugoslavia"]]

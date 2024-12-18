@@ -1,0 +1,1 @@
+[["Abbasid", "Egypt", "Football_%28soccer%29"], ["Abbasid", "Azerbaijani_people", "Football_%28soccer%29"], ["Abbasid", "Cairo", "Football_%28soccer%29"], ["Abbasid", "Mosque", "Football_%28soccer%29"], ["Abbasid", "Tehran", "Football_%28soccer%29"]]

@@ -1,0 +1,1 @@
+[["Guam", "Pacific_Ocean", "Stock_car_%28rail%29"], ["Guam", "United_States", "Stock_car_%28rail%29"], ["Guam", "Los_Angeles%2C_California", "Stock_car_%28rail%29"]]

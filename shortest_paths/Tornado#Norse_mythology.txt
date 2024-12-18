@@ -1,0 +1,1 @@
+[["Tornado", "Earth", "Norse_mythology"], ["Tornado", "Europe", "Norse_mythology"], ["Tornado", "Middle_East", "Norse_mythology"], ["Tornado", "United_States", "Norse_mythology"]]

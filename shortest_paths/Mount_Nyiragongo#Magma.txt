@@ -1,0 +1,1 @@
+[["Mount_Nyiragongo", "Carbon_dioxide", "Magma"], ["Mount_Nyiragongo", "Volcano", "Magma"]]

@@ -1,0 +1,1 @@
+[["Ordinary_differential_equation", "Mathematical_analysis", "20th_century", "Rugby_football"], ["Ordinary_differential_equation", "Isaac_Newton", "England", "Rugby_football"], ["Ordinary_differential_equation", "Mathematics", "Australia", "Rugby_football"]]

@@ -1,0 +1,1 @@
+[["Andrew_Jackson", "19th_century", "Whale", "Cookiecutter_shark"], ["Andrew_Jackson", "Florida", "Basking_shark", "Cookiecutter_shark"], ["Andrew_Jackson", "Thomas_Jefferson", "Symmetry", "Cookiecutter_shark"]]

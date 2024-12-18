@@ -1,0 +1,1 @@
+[["Ecology", "Agriculture", "Republic_of_China"], ["Ecology", "Marxism", "Republic_of_China"], ["Ecology", "Socialism", "Republic_of_China"]]

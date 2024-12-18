@@ -1,0 +1,1 @@
+[["Bird_migration", "England", "Ronald_Reagan"], ["Bird_migration", "Florida", "Ronald_Reagan"], ["Bird_migration", "Ireland", "Ronald_Reagan"], ["Bird_migration", "South_America", "Ronald_Reagan"], ["Bird_migration", "California", "Ronald_Reagan"]]

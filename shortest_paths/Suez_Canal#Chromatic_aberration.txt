@@ -1,0 +1,1 @@
+[["Suez_Canal", "Ancient_Egypt", "Glass", "Chromatic_aberration"], ["Suez_Canal", "Egypt", "Glass", "Chromatic_aberration"], ["Suez_Canal", "Mediterranean_Sea", "Glass", "Chromatic_aberration"], ["Suez_Canal", "United_States", "Photography", "Chromatic_aberration"]]

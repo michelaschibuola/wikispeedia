@@ -1,0 +1,1 @@
+[["Politics", "England", "FIFA"], ["Politics", "Europe", "FIFA"], ["Politics", "Italy", "FIFA"], ["Politics", "United_States", "FIFA"]]

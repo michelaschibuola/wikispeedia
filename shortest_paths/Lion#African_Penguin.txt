@@ -1,0 +1,1 @@
+[["Lion", "Africa", "African_Penguin"], ["Lion", "Animal", "African_Penguin"], ["Lion", "Binomial_nomenclature", "African_Penguin"], ["Lion", "Carolus_Linnaeus", "African_Penguin"], ["Lion", "Chordate", "African_Penguin"], ["Lion", "Scientific_classification", "African_Penguin"], ["Lion", "South_Africa", "African_Penguin"]]

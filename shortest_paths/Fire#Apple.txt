@@ -1,0 +1,1 @@
+[["Fire", "Christianity", "Apple"], ["Fire", "Europe", "Apple"], ["Fire", "Gravitation", "Apple"], ["Fire", "Halloween", "Apple"], ["Fire", "Plant", "Apple"], ["Fire", "United_States", "Apple"], ["Fire", "South_Africa", "Apple"], ["Fire", "Water", "Apple"]]

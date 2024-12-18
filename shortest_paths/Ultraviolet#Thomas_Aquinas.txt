@@ -1,0 +1,1 @@
+[["Ultraviolet", "Earth", "Thomas_Aquinas"], ["Ultraviolet", "Nature", "Thomas_Aquinas"]]

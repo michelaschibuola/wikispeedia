@@ -1,0 +1,1 @@
+[["The_Hague", "Liberia", "Franklin_D._Roosevelt"], ["The_Hague", "Europe", "Franklin_D._Roosevelt"], ["The_Hague", "France", "Franklin_D._Roosevelt"], ["The_Hague", "North_Sea", "Franklin_D._Roosevelt"], ["The_Hague", "Paris", "Franklin_D._Roosevelt"], ["The_Hague", "United_Nations", "Franklin_D._Roosevelt"], ["The_Hague", "World_War_II", "Franklin_D._Roosevelt"]]

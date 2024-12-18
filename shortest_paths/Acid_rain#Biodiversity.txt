@@ -1,0 +1,1 @@
+[["Acid_rain", "Biology", "Biodiversity"], ["Acid_rain", "Global_warming", "Biodiversity"], ["Acid_rain", "Invasive_species", "Biodiversity"], ["Acid_rain", "Pollution", "Biodiversity"], ["Acid_rain", "Earth", "Biodiversity"]]

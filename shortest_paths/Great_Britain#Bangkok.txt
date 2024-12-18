@@ -1,0 +1,1 @@
+[["Great_Britain", "English_language", "Bangkok"], ["Great_Britain", "Climate", "Bangkok"], ["Great_Britain", "Islam", "Bangkok"], ["Great_Britain", "Myanmar", "Bangkok"]]

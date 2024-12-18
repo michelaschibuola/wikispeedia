@@ -1,0 +1,1 @@
+[["Formula_One", "India", "University_of_Texas_at_Austin"], ["Formula_One", "Mexico", "University_of_Texas_at_Austin"], ["Formula_One", "People%27s_Republic_of_China", "University_of_Texas_at_Austin"], ["Formula_One", "United_States", "University_of_Texas_at_Austin"], ["Formula_One", "World_War_II", "University_of_Texas_at_Austin"]]

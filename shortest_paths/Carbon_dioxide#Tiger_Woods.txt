@@ -1,0 +1,1 @@
+[["Carbon_dioxide", "Helium", "Tiger_Woods"], ["Carbon_dioxide", "Oxygen", "Tiger_Woods"], ["Carbon_dioxide", "United_States", "Tiger_Woods"], ["Carbon_dioxide", "Nitrogen", "Tiger_Woods"]]

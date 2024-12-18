@@ -1,0 +1,1 @@
+[["Germany", "Ammonia", "Barium"], ["Germany", "Antoine_Lavoisier", "Barium"], ["Germany", "Coal", "Barium"], ["Germany", "England", "Barium"], ["Germany", "Glass", "Barium"], ["Germany", "Neutron", "Barium"], ["Germany", "Pigment", "Barium"]]

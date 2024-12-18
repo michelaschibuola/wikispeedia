@@ -1,0 +1,1 @@
+[["Qatar", "Arabic_language", "Dutch_language"], ["Qatar", "Formula_One", "Dutch_language"], ["Qatar", "Israel", "Dutch_language"], ["Qatar", "20th_century", "Dutch_language"], ["Qatar", "English_language", "Dutch_language"], ["Qatar", "United_Kingdom", "Dutch_language"], ["Qatar", "United_States", "Dutch_language"]]

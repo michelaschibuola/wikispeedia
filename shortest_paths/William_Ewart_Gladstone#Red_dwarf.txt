@@ -1,0 +1,1 @@
+[["William_Ewart_Gladstone", "Armenia", "Milky_Way", "Red_dwarf"], ["William_Ewart_Gladstone", "Egypt", "Sun", "Red_dwarf"], ["William_Ewart_Gladstone", "England", "Sun", "Red_dwarf"], ["William_Ewart_Gladstone", "Roman_Catholic_Church", "Big_Bang", "Red_dwarf"]]

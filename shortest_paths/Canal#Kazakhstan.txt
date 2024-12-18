@@ -1,0 +1,1 @@
+[["Canal", "Aral_Sea", "Kazakhstan"], ["Canal", "Russia", "Kazakhstan"], ["Canal", "Ice_hockey", "Kazakhstan"]]

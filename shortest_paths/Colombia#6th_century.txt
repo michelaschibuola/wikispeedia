@@ -1,0 +1,1 @@
+[["Colombia", "19th_century", "6th_century"], ["Colombia", "21st_century", "6th_century"], ["Colombia", "Jew", "6th_century"], ["Colombia", "Ethiopia", "6th_century"]]

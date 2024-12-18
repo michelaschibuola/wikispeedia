@@ -1,0 +1,1 @@
+[["Pony", "Ben_Nevis", "Great_Britain", "Eskimo"], ["Pony", "Horse", "Great_Britain", "Eskimo"], ["Pony", "Ireland", "Great_Britain", "Eskimo"], ["Pony", "Horse", "Canada", "Eskimo"], ["Pony", "Ireland", "Canada", "Eskimo"], ["Pony", "Horse", "Russia", "Eskimo"], ["Pony", "Ireland", "Ice_hockey", "Eskimo"]]

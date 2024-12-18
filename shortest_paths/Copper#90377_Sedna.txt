@@ -1,0 +1,1 @@
+[["Copper", "Chile", "90377_Sedna"], ["Copper", "United_States", "90377_Sedna"]]

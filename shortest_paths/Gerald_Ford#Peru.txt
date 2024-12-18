@@ -1,0 +1,1 @@
+[["Gerald_Ford", "Panama_Canal", "Peru"], ["Gerald_Ford", "World_War_II", "Peru"], ["Gerald_Ford", "John_Pershing", "Peru"]]

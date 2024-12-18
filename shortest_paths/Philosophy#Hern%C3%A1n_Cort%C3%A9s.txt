@@ -1,0 +1,1 @@
+[["Philosophy", "Charles_Etienne_Brasseur_de_Bourbourg", "Hern%C3%A1n_Cort%C3%A9s"], ["Philosophy", "Diego_Vel%C3%A1zquez", "Hern%C3%A1n_Cort%C3%A9s"], ["Philosophy", "Invasion", "Hern%C3%A1n_Cort%C3%A9s"]]

@@ -1,0 +1,1 @@
+[["Chromatic_aberration", "Glass", "Carbon_dioxide", "Columbine_High_School_massacre"], ["Chromatic_aberration", "Photography", "Film", "Columbine_High_School_massacre"], ["Chromatic_aberration", "Photography", "United_States", "Columbine_High_School_massacre"]]

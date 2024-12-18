@@ -1,0 +1,1 @@
+[["Oliver_Twist", "United_States", "Ultimatum_game"]]

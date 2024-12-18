@@ -1,0 +1,1 @@
+[["Venus", "Maya_civilization", "Salt"], ["Venus", "Sulfuric_acid", "Salt"], ["Venus", "Ancient_Rome", "Salt"], ["Venus", "Latin", "Salt"], ["Venus", "Nitrogen", "Salt"], ["Venus", "Water", "Salt"]]

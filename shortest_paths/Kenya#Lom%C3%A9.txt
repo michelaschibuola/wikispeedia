@@ -1,0 +1,1 @@
+[["Kenya", "Africa", "Lom%C3%A9"], ["Kenya", "African_Union", "Lom%C3%A9"], ["Kenya", "Coffee", "Lom%C3%A9"], ["Kenya", "Germany", "Lom%C3%A9"], ["Kenya", "Ghana", "Lom%C3%A9"], ["Kenya", "Sierra_Leone", "Lom%C3%A9"], ["Kenya", "Togo", "Lom%C3%A9"], ["Kenya", "United_Kingdom", "Lom%C3%A9"], ["Kenya", "United_States", "Lom%C3%A9"], ["Kenya", "World_War_I", "Lom%C3%A9"]]

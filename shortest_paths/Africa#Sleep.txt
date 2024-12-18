@@ -1,0 +1,1 @@
+[["Africa", "Human", "Sleep"], ["Africa", "United_States", "Sleep"], ["Africa", "Cattle", "Sleep"], ["Africa", "Dog", "Sleep"]]

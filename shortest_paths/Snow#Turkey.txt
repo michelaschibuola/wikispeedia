@@ -1,0 +1,1 @@
+[["Snow", "Johannes_Kepler", "Turkey"], ["Snow", "Kigo", "Turkey"], ["Snow", "Lebanon", "Turkey"], ["Snow", "Seoul", "Turkey"], ["Snow", "Austria", "Turkey"], ["Snow", "Chile", "Turkey"], ["Snow", "Finland", "Turkey"], ["Snow", "Luxembourg", "Turkey"], ["Snow", "United_States", "Turkey"], ["Snow", "Water", "Turkey"]]

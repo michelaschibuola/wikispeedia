@@ -1,0 +1,1 @@
+[["William_Shakespeare", "England", "Franks"], ["William_Shakespeare", "Language", "Franks"], ["William_Shakespeare", "Roman_Empire", "Franks"]]

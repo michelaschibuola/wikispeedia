@@ -1,0 +1,1 @@
+[["Korea", "Argentina", "Bill_Clinton"], ["Korea", "Dwight_D._Eisenhower", "Bill_Clinton"], ["Korea", "Cold_War", "Bill_Clinton"], ["Korea", "People%27s_Republic_of_China", "Bill_Clinton"], ["Korea", "United_Nations", "Bill_Clinton"], ["Korea", "United_States", "Bill_Clinton"]]

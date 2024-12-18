@@ -1,0 +1,1 @@
+[["Durham", "England", "Culture", "Cultural_diversity"], ["Durham", "London", "Culture", "Cultural_diversity"], ["Durham", "England", "Linguistics", "Cultural_diversity"], ["Durham", "London", "Multiculturalism", "Cultural_diversity"], ["Durham", "United_Kingdom", "Multiculturalism", "Cultural_diversity"], ["Durham", "United_Kingdom", "Globalization", "Cultural_diversity"]]

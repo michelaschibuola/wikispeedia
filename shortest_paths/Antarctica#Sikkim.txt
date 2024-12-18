@@ -1,0 +1,1 @@
+[["Antarctica", "Coal", "Sikkim"], ["Antarctica", "Glacier", "Sikkim"], ["Antarctica", "India", "Sikkim"], ["Antarctica", "Precambrian", "Sikkim"], ["Antarctica", "Snow", "Sikkim"], ["Antarctica", "United_Kingdom", "Sikkim"], ["Antarctica", "Time_zone", "Sikkim"]]

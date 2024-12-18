@@ -1,0 +1,1 @@
+[["Seychelles", "Africa", "Malcolm_X"], ["Seychelles", "Ethiopia", "Malcolm_X"], ["Seychelles", "Saudi_Arabia", "Malcolm_X"], ["Seychelles", "France", "Malcolm_X"], ["Seychelles", "Sudan", "Malcolm_X"], ["Seychelles", "Tanzania", "Malcolm_X"]]

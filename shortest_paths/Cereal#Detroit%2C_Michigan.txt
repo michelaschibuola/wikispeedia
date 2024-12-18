@@ -1,0 +1,1 @@
+[["Cereal", "Canada", "Detroit%2C_Michigan"], ["Cereal", "United_States", "Detroit%2C_Michigan"], ["Cereal", "Chicago", "Detroit%2C_Michigan"], ["Cereal", "Japan", "Detroit%2C_Michigan"]]

@@ -1,0 +1,1 @@
+[["Royal_Dutch_Shell", "Libya", "Montenegro"], ["Royal_Dutch_Shell", "Netherlands", "Montenegro"], ["Royal_Dutch_Shell", "Russia", "Montenegro"], ["Royal_Dutch_Shell", "United_Kingdom", "Montenegro"], ["Royal_Dutch_Shell", "United_States", "Montenegro"]]

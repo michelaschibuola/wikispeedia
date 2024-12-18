@@ -1,0 +1,1 @@
+[["Glass", "Alchemy", "Philosophy"], ["Glass", "Biology", "Philosophy"], ["Glass", "Oxygen", "Philosophy"], ["Glass", "Physics", "Philosophy"], ["Glass", "Roman_Empire", "Philosophy"], ["Glass", "Isaac_Newton", "Philosophy"], ["Glass", "Mesopotamia", "Philosophy"], ["Glass", "Speed_of_light", "Philosophy"], ["Glass", "Water", "Philosophy"]]

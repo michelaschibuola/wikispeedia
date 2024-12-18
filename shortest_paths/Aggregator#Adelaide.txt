@@ -1,0 +1,1 @@
+[["Aggregator", "ITunes", "Australia", "Adelaide"], ["Aggregator", "ITunes", "United_Kingdom", "Adelaide"], ["Aggregator", "Mass_media", "United_Kingdom", "Adelaide"], ["Aggregator", "Euston_Manifesto", "United_Kingdom", "Adelaide"], ["Aggregator", "Mass_media", "Australian_English", "Adelaide"], ["Aggregator", "Mass_media", "Vietnam_War", "Adelaide"]]

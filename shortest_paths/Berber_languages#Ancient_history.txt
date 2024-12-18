@@ -1,0 +1,1 @@
+[["Berber_languages", "Ancient_Egypt", "Ancient_history"], ["Berber_languages", "Egypt", "Ancient_history"], ["Berber_languages", "France", "Ancient_history"], ["Berber_languages", "Language", "Ancient_history"], ["Berber_languages", "Middle_East", "Ancient_history"]]

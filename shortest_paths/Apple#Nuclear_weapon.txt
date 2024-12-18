@@ -1,0 +1,1 @@
+[["Apple", "1980_eruption_of_Mount_St._Helens", "Nuclear_weapon"], ["Apple", "Argentina", "Nuclear_weapon"], ["Apple", "China", "Nuclear_weapon"], ["Apple", "France", "Nuclear_weapon"], ["Apple", "New_Zealand", "Nuclear_weapon"], ["Apple", "South_Africa", "Nuclear_weapon"], ["Apple", "United_States", "Nuclear_weapon"]]

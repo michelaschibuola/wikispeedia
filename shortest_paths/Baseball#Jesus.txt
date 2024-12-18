@@ -1,0 +1,1 @@
+[["Baseball", "Dominican_Republic", "Jesus"], ["Baseball", "Israel", "Jesus"], ["Baseball", "Venezuela", "Jesus"], ["Baseball", "El_Hatillo_Municipality%2C_Miranda", "Jesus"]]

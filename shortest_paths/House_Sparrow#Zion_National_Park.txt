@@ -1,0 +1,1 @@
+[["House_Sparrow", "Bird", "Zion_National_Park"], ["House_Sparrow", "Animal", "Zion_National_Park"], ["House_Sparrow", "Seed", "Zion_National_Park"], ["House_Sparrow", "United_States", "Zion_National_Park"]]

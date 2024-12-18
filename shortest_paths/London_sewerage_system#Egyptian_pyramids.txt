@@ -1,0 +1,1 @@
+[["London_sewerage_system", "19th_century", "Egypt", "Egyptian_pyramids"], ["London_sewerage_system", "Pollution", "Egypt", "Egyptian_pyramids"], ["London_sewerage_system", "19th_century", "Ancient_history", "Egyptian_pyramids"], ["London_sewerage_system", "20th_century", "Archaeoastronomy", "Egyptian_pyramids"]]

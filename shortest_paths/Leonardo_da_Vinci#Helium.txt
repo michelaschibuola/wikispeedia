@@ -1,0 +1,1 @@
+[["Leonardo_da_Vinci", "History_of_Earth", "Helium"], ["Leonardo_da_Vinci", "Human", "Helium"], ["Leonardo_da_Vinci", "Washington%2C_D.C.", "Helium"], ["Leonardo_da_Vinci", "Water", "Helium"]]

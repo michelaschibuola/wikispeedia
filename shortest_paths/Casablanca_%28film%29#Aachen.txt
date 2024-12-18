@@ -1,0 +1,1 @@
+[["Casablanca_%28film%29", "England", "Aachen"], ["Casablanca_%28film%29", "France", "Aachen"], ["Casablanca_%28film%29", "Germany", "Aachen"], ["Casablanca_%28film%29", "Nazism", "Aachen"], ["Casablanca_%28film%29", "Russia", "Aachen"], ["Casablanca_%28film%29", "United_States", "Aachen"], ["Casablanca_%28film%29", "World_War_II", "Aachen"]]

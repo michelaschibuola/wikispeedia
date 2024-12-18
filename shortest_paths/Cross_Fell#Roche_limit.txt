@@ -1,0 +1,1 @@
+[["Cross_Fell", "Cape_Town", "France", "Roche_limit"], ["Cross_Fell", "England", "France", "Roche_limit"], ["Cross_Fell", "South_Africa", "France", "Roche_limit"], ["Cross_Fell", "England", "Comet", "Roche_limit"], ["Cross_Fell", "England", "Gravitation", "Roche_limit"], ["Cross_Fell", "England", "Sun", "Roche_limit"], ["Cross_Fell", "South_Africa", "Earth", "Roche_limit"]]

@@ -1,0 +1,1 @@
+[["Global_warming", "China", "Alchemy"], ["Global_warming", "India", "Alchemy"], ["Global_warming", "Planet", "Alchemy"]]

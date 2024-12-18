@@ -1,0 +1,1 @@
+[["Snowy_Owl", "Canada", "Impressionism"], ["Snowy_Owl", "Russia", "Impressionism"]]

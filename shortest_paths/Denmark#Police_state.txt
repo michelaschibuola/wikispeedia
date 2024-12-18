@@ -1,0 +1,1 @@
+[["Denmark", "United_Kingdom", "Police_state"], ["Denmark", "Marshall_Plan", "Police_state"], ["Denmark", "Nazi_Germany", "Police_state"], ["Denmark", "United_States", "Police_state"]]

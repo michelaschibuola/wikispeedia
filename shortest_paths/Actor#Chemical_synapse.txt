@@ -1,0 +1,1 @@
+[["Actor", "Latin", "Cell_%28biology%29", "Chemical_synapse"], ["Actor", "Latin", "Cerebellum", "Chemical_synapse"], ["Actor", "Middle_Ages", "Computer", "Chemical_synapse"], ["Actor", "Television", "Computer", "Chemical_synapse"], ["Actor", "Christian_Bale", "Computer", "Chemical_synapse"]]

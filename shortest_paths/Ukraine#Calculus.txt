@@ -1,0 +1,1 @@
+[["Ukraine", "Ancient_Greece", "Calculus"], ["Ukraine", "Europe", "Calculus"], ["Ukraine", "10th_century", "Calculus"]]

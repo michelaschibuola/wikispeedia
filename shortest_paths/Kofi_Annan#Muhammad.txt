@@ -1,0 +1,1 @@
+[["Kofi_Annan", "Egypt", "Muhammad"], ["Kofi_Annan", "Islam", "Muhammad"], ["Kofi_Annan", "Women%27s_rights", "Muhammad"]]

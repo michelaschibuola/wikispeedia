@@ -1,0 +1,1 @@
+[["Easter_Island", "Chile", "Sub-Saharan_Africa"], ["Easter_Island", "Pacific_Ocean", "Sub-Saharan_Africa"], ["Easter_Island", "Oceania", "Sub-Saharan_Africa"], ["Easter_Island", "South_America", "Sub-Saharan_Africa"]]

@@ -1,0 +1,1 @@
+[["Wood", "Argentina", "Christianity"], ["Wood", "Fire", "Christianity"], ["Wood", "Jewellery", "Christianity"], ["Wood", "Water", "Christianity"]]

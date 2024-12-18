@@ -1,0 +1,1 @@
+[["Bushbuck", "Animal", "Humanities", "Visual_arts"], ["Bushbuck", "Animal", "Medicine", "Visual_arts"], ["Bushbuck", "Animal", "Nature", "Visual_arts"], ["Bushbuck", "Mammal", "Nature", "Visual_arts"], ["Bushbuck", "Forest", "Houston%2C_Texas", "Visual_arts"]]

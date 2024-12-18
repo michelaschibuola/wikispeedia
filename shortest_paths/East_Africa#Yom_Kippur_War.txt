@@ -1,0 +1,1 @@
+[["East_Africa", "Africa", "Yom_Kippur_War"], ["East_Africa", "Egypt", "Yom_Kippur_War"], ["East_Africa", "Sudan", "Yom_Kippur_War"], ["East_Africa", "Uganda", "Yom_Kippur_War"], ["East_Africa", "World_War_II", "Yom_Kippur_War"], ["East_Africa", "Saudi_Arabia", "Yom_Kippur_War"]]

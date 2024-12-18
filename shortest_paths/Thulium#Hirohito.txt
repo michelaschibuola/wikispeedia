@@ -1,0 +1,1 @@
+[["Thulium", "Calcium", "United_States", "Hirohito"], ["Thulium", "Electron", "United_Kingdom", "Hirohito"], ["Thulium", "Metal", "Japan", "Hirohito"], ["Thulium", "Neutron", "Germany", "Hirohito"]]

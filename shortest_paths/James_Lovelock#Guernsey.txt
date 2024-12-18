@@ -1,0 +1,1 @@
+[["James_Lovelock", "Elizabeth_II_of_the_United_Kingdom", "Guernsey"], ["James_Lovelock", "United_Kingdom", "Guernsey"]]

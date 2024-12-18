@@ -1,0 +1,1 @@
+[["Zebra", "Horse", "Animal_rights"], ["Zebra", "Ostrich", "Animal_rights"]]

@@ -1,0 +1,1 @@
+[["Thrasybulus", "Athens", "Canada", "Sodium_sulfate"], ["Thrasybulus", "Cyprus", "Canada", "Sodium_sulfate"], ["Thrasybulus", "Athens", "Spain", "Sodium_sulfate"], ["Thrasybulus", "Democracy", "Spain", "Sodium_sulfate"]]

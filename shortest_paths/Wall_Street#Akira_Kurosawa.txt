@@ -1,0 +1,1 @@
+[["Wall_Street", "United_States", "Akira_Kurosawa"], ["Wall_Street", "Novel", "Akira_Kurosawa"]]

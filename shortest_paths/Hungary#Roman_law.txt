@@ -1,0 +1,1 @@
+[["Hungary", "9th_century", "Roman_law"], ["Hungary", "Europe", "Roman_law"], ["Hungary", "European_Union", "Roman_law"], ["Hungary", "Germany", "Roman_law"], ["Hungary", "Holy_Roman_Empire", "Roman_law"], ["Hungary", "Roman_Empire", "Roman_law"], ["Hungary", "Western_Roman_Empire", "Roman_law"], ["Hungary", "San_Marino", "Roman_law"]]

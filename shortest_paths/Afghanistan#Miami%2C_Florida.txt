@@ -1,0 +1,1 @@
+[["Afghanistan", "Time_zone", "Miami%2C_Florida"], ["Afghanistan", "United_States", "Miami%2C_Florida"], ["Afghanistan", "Canada", "Miami%2C_Florida"], ["Afghanistan", "Israel", "Miami%2C_Florida"], ["Afghanistan", "Russian_language", "Miami%2C_Florida"], ["Afghanistan", "Turkey", "Miami%2C_Florida"]]

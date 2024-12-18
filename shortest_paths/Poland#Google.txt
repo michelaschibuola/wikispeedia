@@ -1,0 +1,1 @@
+[["Poland", "21st_century", "Google"], ["Poland", "Dublin", "Google"], ["Poland", "Germany", "Google"], ["Poland", "Hamburg", "Google"], ["Poland", "France", "Google"], ["Poland", "United_States", "Google"]]

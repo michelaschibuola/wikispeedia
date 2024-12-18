@@ -1,0 +1,1 @@
+[["Vladimir_Lenin", "Russia", "Buddhism"], ["Vladimir_Lenin", "Soviet_Union", "Buddhism"], ["Vladimir_Lenin", "Tajikistan", "Buddhism"], ["Vladimir_Lenin", "Europe", "Buddhism"], ["Vladimir_Lenin", "Jew", "Buddhism"], ["Vladimir_Lenin", "Manchester", "Buddhism"], ["Vladimir_Lenin", "Philosophy", "Buddhism"], ["Vladimir_Lenin", "United_States", "Buddhism"]]

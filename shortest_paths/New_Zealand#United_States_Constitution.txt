@@ -1,0 +1,1 @@
+[["New_Zealand", "History_of_democracy", "United_States_Constitution"], ["New_Zealand", "Law", "United_States_Constitution"], ["New_Zealand", "England", "United_States_Constitution"], ["New_Zealand", "United_States", "United_States_Constitution"], ["New_Zealand", "Slavery", "United_States_Constitution"], ["New_Zealand", "Television", "United_States_Constitution"]]

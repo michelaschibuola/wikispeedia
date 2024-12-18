@@ -1,0 +1,1 @@
+[["British_Isles", "Ancient_Greece", "Company_%28law%29"], ["British_Isles", "Ancient_Rome", "Company_%28law%29"], ["British_Isles", "United_States", "Company_%28law%29"], ["British_Isles", "England", "Company_%28law%29"]]

@@ -1,0 +1,1 @@
+[["Crime", "Culture", "Karachi"], ["Crime", "Manchester", "Karachi"]]

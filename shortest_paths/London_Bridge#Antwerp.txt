@@ -1,0 +1,1 @@
+[["London_Bridge", "London", "Antwerp"], ["London_Bridge", "England", "Antwerp"], ["London_Bridge", "Pound_sterling", "Antwerp"]]

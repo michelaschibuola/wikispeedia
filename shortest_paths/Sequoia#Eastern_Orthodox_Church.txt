@@ -1,0 +1,1 @@
+[["Sequoia", "Europe", "Eastern_Orthodox_Church"], ["Sequoia", "United_States", "Eastern_Orthodox_Church"]]

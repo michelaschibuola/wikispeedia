@@ -1,0 +1,1 @@
+[["Giant_Panda", "China", "Autumn"], ["Giant_Panda", "Hong_Kong", "Autumn"], ["Giant_Panda", "Japan", "Autumn"], ["Giant_Panda", "South_America", "Autumn"], ["Giant_Panda", "United_States", "Autumn"]]

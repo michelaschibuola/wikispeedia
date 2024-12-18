@@ -1,0 +1,1 @@
+[["Football", "Caracas", "Earthquake"], ["Football", "Japan", "Earthquake"], ["Football", "Netherlands", "Earthquake"], ["Football", "Lisbon", "Earthquake"]]

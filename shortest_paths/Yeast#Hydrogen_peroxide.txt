@@ -1,0 +1,1 @@
+[["Yeast", "Acetic_acid", "Hydrogen_peroxide"], ["Yeast", "Honey", "Hydrogen_peroxide"], ["Yeast", "Alcohol", "Hydrogen_peroxide"], ["Yeast", "Oxygen", "Hydrogen_peroxide"], ["Yeast", "Sulfuric_acid", "Hydrogen_peroxide"]]

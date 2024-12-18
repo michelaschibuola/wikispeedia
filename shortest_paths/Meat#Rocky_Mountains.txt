@@ -1,0 +1,1 @@
+[["Meat", "Agriculture", "Rocky_Mountains"], ["Meat", "Fish", "Rocky_Mountains"], ["Meat", "United_States", "Rocky_Mountains"]]

@@ -1,0 +1,1 @@
+[["Ottawa", "English_language", "Sputnik_program"], ["Ottawa", "Soviet_Union", "Sputnik_program"]]

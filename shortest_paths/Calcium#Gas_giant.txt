@@ -1,0 +1,1 @@
+[["Calcium", "Ammonia", "Gas_giant"], ["Calcium", "Earth", "Gas_giant"], ["Calcium", "Carbon", "Gas_giant"]]

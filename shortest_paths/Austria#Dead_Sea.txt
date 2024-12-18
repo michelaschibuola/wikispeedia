@@ -1,0 +1,1 @@
+[["Austria", "Islam", "Dead_Sea"], ["Austria", "Russia", "Dead_Sea"], ["Austria", "Turkey", "Dead_Sea"], ["Austria", "Jew", "Dead_Sea"], ["Austria", "List_of_lakes", "Dead_Sea"], ["Austria", "Zionism", "Dead_Sea"]]

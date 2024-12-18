@@ -1,0 +1,1 @@
+[["Thomas_Jefferson", "Age_of_Enlightenment", "Blaise_Pascal"], ["Thomas_Jefferson", "France", "Blaise_Pascal"], ["Thomas_Jefferson", "Jean-Jacques_Rousseau", "Blaise_Pascal"]]

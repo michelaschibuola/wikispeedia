@@ -1,0 +1,1 @@
+[["Sulfuric_acid", "Ammonia", "Ytterbium"], ["Sulfuric_acid", "Phase_%28matter%29", "Ytterbium"], ["Sulfuric_acid", "Steel", "Ytterbium"], ["Sulfuric_acid", "Water", "Ytterbium"]]

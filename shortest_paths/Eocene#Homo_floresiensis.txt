@@ -1,0 +1,1 @@
+[["Eocene", "Africa", "Homo_floresiensis"], ["Eocene", "Asia", "Homo_floresiensis"], ["Eocene", "Australia", "Homo_floresiensis"], ["Eocene", "Fossil", "Homo_floresiensis"], ["Eocene", "Mammal", "Homo_floresiensis"]]

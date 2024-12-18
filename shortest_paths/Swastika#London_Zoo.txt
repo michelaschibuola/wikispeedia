@@ -1,0 +1,1 @@
+[["Swastika", "England", "London_Zoo"], ["Swastika", "Giant_Panda", "London_Zoo"]]

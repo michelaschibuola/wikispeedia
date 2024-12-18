@@ -1,0 +1,1 @@
+[["Vanadium", "Coal", "Nuclear_power"], ["Vanadium", "Periodic_table", "Nuclear_power"], ["Vanadium", "Uranium", "Nuclear_power"], ["Vanadium", "Neutron", "Nuclear_power"], ["Vanadium", "Nuclear_fission", "Nuclear_power"], ["Vanadium", "Sweden", "Nuclear_power"]]

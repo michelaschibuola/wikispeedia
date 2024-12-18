@@ -1,0 +1,1 @@
+[["Paul_McCartney", "England", "Baroque"], ["Paul_McCartney", "Germany", "Baroque"], ["Paul_McCartney", "Lisbon", "Baroque"], ["Paul_McCartney", "Painting", "Baroque"], ["Paul_McCartney", "Prague", "Baroque"], ["Paul_McCartney", "Russia", "Baroque"], ["Paul_McCartney", "Trumpet", "Baroque"], ["Paul_McCartney", "William_Shakespeare", "Baroque"]]

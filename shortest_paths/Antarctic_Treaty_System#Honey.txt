@@ -1,0 +1,1 @@
+[["Antarctic_Treaty_System", "Argentina", "Honey"], ["Antarctic_Treaty_System", "Germany", "Honey"], ["Antarctic_Treaty_System", "Greece", "Honey"], ["Antarctic_Treaty_System", "India", "Honey"], ["Antarctic_Treaty_System", "Turkey", "Honey"], ["Antarctic_Treaty_System", "United_Kingdom", "Honey"], ["Antarctic_Treaty_System", "United_States", "Honey"]]

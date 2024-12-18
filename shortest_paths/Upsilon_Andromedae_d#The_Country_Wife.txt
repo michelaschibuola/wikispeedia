@@ -1,0 +1,1 @@
+[["Upsilon_Andromedae_d", "Gravitation", "Ancient_Rome", "The_Country_Wife"], ["Upsilon_Andromedae_d", "Jupiter", "Ancient_Rome", "The_Country_Wife"], ["Upsilon_Andromedae_d", "Mars", "Ancient_Rome", "The_Country_Wife"], ["Upsilon_Andromedae_d", "Water", "France", "The_Country_Wife"], ["Upsilon_Andromedae_d", "Water", "London", "The_Country_Wife"]]

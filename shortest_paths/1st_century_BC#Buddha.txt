@@ -1,0 +1,1 @@
+[["1st_century_BC", "1st_century", "Buddha"], ["1st_century_BC", "14th_century", "Buddha"], ["1st_century_BC", "8th_century", "Buddha"], ["1st_century_BC", "Jesus", "Buddha"], ["1st_century_BC", "Korea", "Buddha"], ["1st_century_BC", "Ancient_history", "Buddha"], ["1st_century_BC", "Persian_Empire", "Buddha"]]

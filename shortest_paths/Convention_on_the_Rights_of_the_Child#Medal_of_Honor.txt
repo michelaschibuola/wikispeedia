@@ -1,0 +1,1 @@
+[["Convention_on_the_Rights_of_the_Child", "Bill_Clinton", "Medal_of_Honor"], ["Convention_on_the_Rights_of_the_Child", "George_W._Bush", "Medal_of_Honor"], ["Convention_on_the_Rights_of_the_Child", "United_States", "Medal_of_Honor"]]

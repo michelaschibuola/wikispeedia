@@ -1,0 +1,1 @@
+[["Linus_Pauling", "DNA", "Folic_acid"], ["Linus_Pauling", "Cancer", "Folic_acid"]]

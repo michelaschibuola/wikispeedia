@@ -1,0 +1,1 @@
+[["Max_Weber", "Augustan_literature", "Ren%C3%A9_Descartes"], ["Max_Weber", "History_of_science", "Ren%C3%A9_Descartes"], ["Max_Weber", "Law", "Ren%C3%A9_Descartes"], ["Max_Weber", "Mathematics", "Ren%C3%A9_Descartes"], ["Max_Weber", "Pneumonia", "Ren%C3%A9_Descartes"], ["Max_Weber", "Pope", "Ren%C3%A9_Descartes"]]

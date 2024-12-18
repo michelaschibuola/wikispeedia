@@ -1,0 +1,1 @@
+[["Manuel_I_Komnenos", "France", "Jyllands-Posten_Muhammad_cartoons_controversy"], ["Manuel_I_Komnenos", "Germany", "Jyllands-Posten_Muhammad_cartoons_controversy"], ["Manuel_I_Komnenos", "Islam", "Jyllands-Posten_Muhammad_cartoons_controversy"], ["Manuel_I_Komnenos", "Syria", "Jyllands-Posten_Muhammad_cartoons_controversy"]]

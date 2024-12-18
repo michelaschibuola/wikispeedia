@@ -1,0 +1,1 @@
+[["United_States_Declaration_of_Independence", "New_York_City", "Erie_Canal"], ["United_States_Declaration_of_Independence", "Thomas_Jefferson", "Erie_Canal"], ["United_States_Declaration_of_Independence", "United_States", "Erie_Canal"], ["United_States_Declaration_of_Independence", "George_Washington", "Erie_Canal"]]

@@ -1,0 +1,1 @@
+[["Birth_control", "20th_century", "North_Africa"], ["Birth_control", "Asia", "North_Africa"], ["Birth_control", "Christianity", "North_Africa"], ["Birth_control", "Culture", "North_Africa"], ["Birth_control", "Europe", "North_Africa"], ["Birth_control", "Islam", "North_Africa"], ["Birth_control", "Judaism", "North_Africa"], ["Birth_control", "Jew", "North_Africa"]]

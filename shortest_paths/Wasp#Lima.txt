@@ -1,0 +1,1 @@
+[["Wasp", "Ant", "South_America", "Lima"], ["Wasp", "Fauna_of_Australia", "South_America", "Lima"], ["Wasp", "Fauna_of_Australia", "World_Heritage_Site", "Lima"], ["Wasp", "Pollinator_decline", "Food", "Lima"], ["Wasp", "Spider", "Argentina", "Lima"]]

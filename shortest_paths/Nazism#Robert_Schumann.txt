@@ -1,0 +1,1 @@
+[["Nazism", "Colditz_Castle", "Robert_Schumann"], ["Nazism", "Felix_Mendelssohn", "Robert_Schumann"], ["Nazism", "Germany", "Robert_Schumann"], ["Nazism", "Munich", "Robert_Schumann"], ["Nazism", "Richard_Wagner", "Robert_Schumann"], ["Nazism", "Romanticism", "Robert_Schumann"], ["Nazism", "Prague", "Robert_Schumann"]]

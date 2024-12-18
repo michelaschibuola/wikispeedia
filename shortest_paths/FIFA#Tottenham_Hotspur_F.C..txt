@@ -1,0 +1,1 @@
+[["FIFA", "England", "Tottenham_Hotspur_F.C."], ["FIFA", "Football_%28soccer%29", "Tottenham_Hotspur_F.C."], ["FIFA", "World_War_I", "Tottenham_Hotspur_F.C."], ["FIFA", "World_War_II", "Tottenham_Hotspur_F.C."]]

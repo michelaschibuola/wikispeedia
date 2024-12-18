@@ -1,0 +1,1 @@
+[["Richard_I_of_England", "England", "Puerto_Rico"], ["Richard_I_of_England", "English_language", "Puerto_Rico"], ["Richard_I_of_England", "France", "Puerto_Rico"]]

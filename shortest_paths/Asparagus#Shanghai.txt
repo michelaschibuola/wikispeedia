@@ -1,0 +1,1 @@
+[["Asparagus", "China", "Shanghai"], ["Asparagus", "Europe", "Shanghai"], ["Asparagus", "Guangzhou", "Shanghai"], ["Asparagus", "Japan", "Shanghai"], ["Asparagus", "United_States", "Shanghai"]]

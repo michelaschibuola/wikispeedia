@@ -1,0 +1,1 @@
+[["Argan", "Carolus_Linnaeus", "Cactus"], ["Argan", "Flower", "Cactus"], ["Argan", "Fruit", "Cactus"], ["Argan", "Plant", "Cactus"], ["Argan", "Scientific_classification", "Cactus"], ["Argan", "Tree", "Cactus"]]

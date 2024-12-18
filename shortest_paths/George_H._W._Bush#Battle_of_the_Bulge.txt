@@ -1,0 +1,1 @@
+[["George_H._W._Bush", "Dwight_D._Eisenhower", "Battle_of_the_Bulge"], ["George_H._W._Bush", "United_States", "Battle_of_the_Bulge"]]

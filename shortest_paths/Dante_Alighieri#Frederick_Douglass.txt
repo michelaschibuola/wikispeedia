@@ -1,0 +1,1 @@
+[["Dante_Alighieri", "France", "Frederick_Douglass"], ["Dante_Alighieri", "Italy", "Frederick_Douglass"]]

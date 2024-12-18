@@ -1,0 +1,1 @@
+[["Adolf_Hitler", "France", "Milk"], ["Adolf_Hitler", "India", "Milk"], ["Adolf_Hitler", "Middle_East", "Milk"], ["Adolf_Hitler", "Sweden", "Milk"], ["Adolf_Hitler", "United_Kingdom", "Milk"], ["Adolf_Hitler", "United_States", "Milk"]]

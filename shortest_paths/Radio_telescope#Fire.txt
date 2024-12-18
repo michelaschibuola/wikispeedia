@@ -1,0 +1,1 @@
+[["Radio_telescope", "Hydrogen", "Fire"], ["Radio_telescope", "Europe", "Fire"], ["Radio_telescope", "Light", "Fire"], ["Radio_telescope", "Sun", "Fire"], ["Radio_telescope", "World_War_II", "Fire"]]

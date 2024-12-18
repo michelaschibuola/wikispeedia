@@ -1,0 +1,1 @@
+[["Coal", "South_Africa", "Beet"], ["Coal", "United_States", "Beet"], ["Coal", "Plant", "Beet"]]

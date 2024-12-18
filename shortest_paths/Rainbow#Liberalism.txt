@@ -1,0 +1,1 @@
+[["Rainbow", "Canada", "Liberalism"], ["Rainbow", "Ecuador", "Liberalism"], ["Rainbow", "Italy", "Liberalism"]]

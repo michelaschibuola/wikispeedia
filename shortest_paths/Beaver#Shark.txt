@@ -1,0 +1,1 @@
+[["Beaver", "Animal", "Shark"], ["Beaver", "Chordate", "Shark"], ["Beaver", "Fish", "Shark"], ["Beaver", "Mammal", "Shark"], ["Beaver", "North_America", "Shark"], ["Beaver", "Scientific_classification", "Shark"]]

@@ -1,0 +1,1 @@
+[["The_Beano", "English_language", "Zulu", "Shaka"], ["The_Beano", "United_Kingdom", "Zulu", "Shaka"], ["The_Beano", "Scotland", "Napoleon_I_of_France", "Shaka"], ["The_Beano", "United_Kingdom", "Napoleon_I_of_France", "Shaka"]]

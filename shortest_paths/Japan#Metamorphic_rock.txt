@@ -1,0 +1,1 @@
+[["Japan", "Continent", "Metamorphic_rock"], ["Japan", "Geology_of_the_Grand_Canyon_area", "Metamorphic_rock"], ["Japan", "Sculpture", "Metamorphic_rock"]]

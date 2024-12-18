@@ -1,0 +1,1 @@
+[["Natalie_Portman", "Israel", "Afghanistan"], ["Natalie_Portman", "Jew", "Afghanistan"], ["Natalie_Portman", "Uganda", "Afghanistan"], ["Natalie_Portman", "United_States", "Afghanistan"]]

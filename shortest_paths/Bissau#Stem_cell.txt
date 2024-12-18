@@ -1,0 +1,1 @@
+[["Bissau", "Africa", "Human", "Stem_cell"], ["Bissau", "Atlantic_Ocean", "Canada", "Stem_cell"], ["Bissau", "Beach", "Canada", "Stem_cell"], ["Bissau", "Peanut", "Canada", "Stem_cell"], ["Bissau", "Atlantic_Ocean", "England", "Stem_cell"]]

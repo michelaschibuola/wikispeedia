@@ -1,0 +1,1 @@
+[["Northwest_Africa", "Algeria", "Che_Guevara"], ["Northwest_Africa", "Latin_America", "Che_Guevara"], ["Northwest_Africa", "South_America", "Che_Guevara"]]

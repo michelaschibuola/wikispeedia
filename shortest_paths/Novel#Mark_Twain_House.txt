@@ -1,0 +1,1 @@
+[["Novel", "Battle_of_the_Bulge", "Telephone", "Mark_Twain_House"], ["Novel", "Star_Trek", "Telephone", "Mark_Twain_House"], ["Novel", "Jane_Austen", "Mark_Twain", "Mark_Twain_House"], ["Novel", "King_Arthur", "Mark_Twain", "Mark_Twain_House"], ["Novel", "Walter_Scott", "Mark_Twain", "Mark_Twain_House"], ["Novel", "Wall_Street", "Ulysses_S._Grant", "Mark_Twain_House"]]

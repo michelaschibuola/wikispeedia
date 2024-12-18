@@ -1,0 +1,1 @@
+[["Bacteria", "Petroleum", "Georgia_%28country%29"], ["Bacteria", "Wine", "Georgia_%28country%29"], ["Bacteria", "Copper", "Georgia_%28country%29"]]

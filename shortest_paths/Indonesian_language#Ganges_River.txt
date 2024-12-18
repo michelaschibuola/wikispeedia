@@ -1,0 +1,1 @@
+[["Indonesian_language", "Hinduism", "Ganges_River"], ["Indonesian_language", "India", "Ganges_River"], ["Indonesian_language", "Netherlands", "Ganges_River"]]

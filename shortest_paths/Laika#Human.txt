@@ -1,0 +1,1 @@
+[["Laika", "Organism", "Human"], ["Laika", "Propaganda", "Human"], ["Laika", "Space_Race", "Human"], ["Laika", "United_Nations", "Human"], ["Laika", "Space_exploration", "Human"]]

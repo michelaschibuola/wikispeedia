@@ -1,0 +1,1 @@
+[["Sea_of_Galilee", "Byzantine_Empire", "Yellow_fever"], ["Sea_of_Galilee", "France", "Yellow_fever"]]

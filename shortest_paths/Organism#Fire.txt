@@ -1,0 +1,1 @@
+[["Organism", "Animal", "Fire"], ["Organism", "Chemistry", "Fire"], ["Organism", "History_of_Earth", "Fire"], ["Organism", "Human", "Fire"], ["Organism", "Hydrogen", "Fire"], ["Organism", "Iron", "Fire"], ["Organism", "Energy", "Fire"], ["Organism", "Forest", "Fire"], ["Organism", "Plant", "Fire"], ["Organism", "Water", "Fire"], ["Organism", "Sunlight", "Fire"]]

@@ -1,0 +1,1 @@
+[["Flag_of_Mexico", "France", "Equatorial_Guinea"], ["Flag_of_Mexico", "Spain", "Equatorial_Guinea"], ["Flag_of_Mexico", "Spanish_language", "Equatorial_Guinea"], ["Flag_of_Mexico", "List_of_sovereign_states", "Equatorial_Guinea"]]

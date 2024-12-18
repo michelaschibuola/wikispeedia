@@ -1,0 +1,1 @@
+[["Helium", "Carbon", "Arctic"], ["Helium", "Canada", "Arctic"], ["Helium", "Cold_War", "Arctic"], ["Helium", "Earth", "Arctic"], ["Helium", "Human", "Arctic"], ["Helium", "Russia", "Arctic"], ["Helium", "Solar_eclipse", "Arctic"], ["Helium", "United_States", "Arctic"]]

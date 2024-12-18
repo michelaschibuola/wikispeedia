@@ -1,0 +1,1 @@
+[["William_Thomson%2C_1st_Baron_Kelvin", "Electricity", "Fire"], ["William_Thomson%2C_1st_Baron_Kelvin", "Charles_Babbage", "Fire"], ["William_Thomson%2C_1st_Baron_Kelvin", "Christianity", "Fire"], ["William_Thomson%2C_1st_Baron_Kelvin", "Heat", "Fire"], ["William_Thomson%2C_1st_Baron_Kelvin", "Iron", "Fire"], ["William_Thomson%2C_1st_Baron_Kelvin", "Sun", "Fire"]]

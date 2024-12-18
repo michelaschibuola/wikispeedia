@@ -1,0 +1,1 @@
+[["Babur", "India", "Ethanol", "Phosphorus_trichloride"], ["Babur", "India", "European_Union", "Phosphorus_trichloride"], ["Babur", "Islam", "European_Union", "Phosphorus_trichloride"], ["Babur", "Uzbekistan", "European_Union", "Phosphorus_trichloride"], ["Babur", "Islam", "Alcohol", "Phosphorus_trichloride"], ["Babur", "Qur%27an", "Alcohol", "Phosphorus_trichloride"]]

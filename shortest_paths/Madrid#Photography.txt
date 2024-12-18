@@ -1,0 +1,1 @@
+[["Madrid", "France", "Photography"], ["Madrid", "Moscow", "Photography"], ["Madrid", "Salvador_Dal%C3%AD", "Photography"]]

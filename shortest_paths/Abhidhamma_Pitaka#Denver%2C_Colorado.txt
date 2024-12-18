@@ -1,0 +1,1 @@
+[["Abhidhamma_Pitaka", "Buddhism", "Jew", "Denver%2C_Colorado"], ["Abhidhamma_Pitaka", "Buddhism", "Jack_Kerouac", "Denver%2C_Colorado"], ["Abhidhamma_Pitaka", "Buddhism", "United_States", "Denver%2C_Colorado"]]

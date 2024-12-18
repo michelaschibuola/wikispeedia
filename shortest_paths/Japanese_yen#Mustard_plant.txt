@@ -1,0 +1,1 @@
+[["Japanese_yen", "United_Kingdom", "Mustard_plant"], ["Japanese_yen", "United_States", "Mustard_plant"]]

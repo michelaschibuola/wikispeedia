@@ -1,0 +1,1 @@
+[["Capital", "18th_century", "1st_century"], ["Capital", "Bratislava", "1st_century"], ["Capital", "China", "1st_century"], ["Capital", "Jerusalem", "1st_century"], ["Capital", "Rome", "1st_century"]]

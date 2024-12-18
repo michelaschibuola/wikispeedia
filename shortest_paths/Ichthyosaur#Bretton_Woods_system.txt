@@ -1,0 +1,1 @@
+[["Ichthyosaur", "Germany", "Bretton_Woods_system"], ["Ichthyosaur", "Japan", "Bretton_Woods_system"]]

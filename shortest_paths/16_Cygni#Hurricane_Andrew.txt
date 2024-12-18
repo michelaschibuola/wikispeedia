@@ -1,0 +1,1 @@
+[["16_Cygni", "Day", "United_States", "Hurricane_Andrew"], ["16_Cygni", "Sun", "United_States", "Hurricane_Andrew"], ["16_Cygni", "Extrasolar_planet", "University_of_Chicago", "Hurricane_Andrew"], ["16_Cygni", "Sun", "Tropical_cyclone", "Hurricane_Andrew"]]

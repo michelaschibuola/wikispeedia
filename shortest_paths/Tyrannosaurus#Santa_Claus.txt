@@ -1,0 +1,1 @@
+[["Tyrannosaurus", "Calvin_and_Hobbes", "Santa_Claus"], ["Tyrannosaurus", "Canada", "Santa_Claus"], ["Tyrannosaurus", "New_York_City", "Santa_Claus"], ["Tyrannosaurus", "Toy", "Santa_Claus"]]

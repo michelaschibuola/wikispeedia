@@ -1,0 +1,1 @@
+[["Chicago_Bears", "Chicago", "German_language", "Manifold"], ["Chicago_Bears", "United_States", "German_language", "Manifold"], ["Chicago_Bears", "United_States", "Carl_Friedrich_Gauss", "Manifold"], ["Chicago_Bears", "United_States", "Linear_algebra", "Manifold"]]

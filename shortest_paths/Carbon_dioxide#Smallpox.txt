@@ -1,0 +1,1 @@
+[["Carbon_dioxide", "Black_Death", "Smallpox"], ["Carbon_dioxide", "Sugar", "Smallpox"], ["Carbon_dioxide", "United_States", "Smallpox"]]

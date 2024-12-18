@@ -1,0 +1,1 @@
+[["Computer", "20th_century", "Baruch_Spinoza"], ["Computer", "Philosophy_of_mind", "Baruch_Spinoza"]]

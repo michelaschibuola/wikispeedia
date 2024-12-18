@@ -1,0 +1,1 @@
+[["North_Sea", "Czech_Republic", "Frankfurt"], ["North_Sea", "Europe", "Frankfurt"], ["North_Sea", "France", "Frankfurt"], ["North_Sea", "Germany", "Frankfurt"], ["North_Sea", "Hamburg", "Frankfurt"], ["North_Sea", "English_language", "Frankfurt"], ["North_Sea", "United_Kingdom", "Frankfurt"]]

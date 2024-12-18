@@ -1,0 +1,1 @@
+[["Peanut", "Butter", "Nitrogen"], ["Peanut", "Food", "Nitrogen"], ["Peanut", "Nitrogen_fixation", "Nitrogen"], ["Peanut", "Protein", "Nitrogen"], ["Peanut", "Soybean", "Nitrogen"]]

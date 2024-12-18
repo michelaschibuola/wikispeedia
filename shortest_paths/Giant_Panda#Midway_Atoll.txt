@@ -1,0 +1,1 @@
+[["Giant_Panda", "China", "Midway_Atoll"], ["Giant_Panda", "Japan", "Midway_Atoll"], ["Giant_Panda", "Soviet_Union", "Midway_Atoll"], ["Giant_Panda", "United_States", "Midway_Atoll"]]

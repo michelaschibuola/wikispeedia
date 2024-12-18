@@ -1,0 +1,1 @@
+[["Accra", "Ghana", "Whale"], ["Accra", "Atlantic_Ocean", "Whale"]]

@@ -1,0 +1,1 @@
+[["Ottawa", "Canada", "Swastika"], ["Ottawa", "French_language", "Swastika"], ["Ottawa", "Ice_hockey", "Swastika"], ["Ottawa", "North_America", "Swastika"], ["Ottawa", "English_language", "Swastika"], ["Ottawa", "Jew", "Swastika"], ["Ottawa", "Poland", "Swastika"], ["Ottawa", "Toronto", "Swastika"], ["Ottawa", "World_War_II", "Swastika"]]

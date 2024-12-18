@@ -1,0 +1,1 @@
+[["John_Flamsteed", "Isaac_Newton", "Color", "Hassium"], ["John_Flamsteed", "Star", "Color", "Hassium"], ["John_Flamsteed", "England", "Osmium", "Hassium"], ["John_Flamsteed", "Moon", "Radon", "Hassium"], ["John_Flamsteed", "Star", "Phase_%28matter%29", "Hassium"]]

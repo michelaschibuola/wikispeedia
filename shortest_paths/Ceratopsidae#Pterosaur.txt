@@ -1,0 +1,1 @@
+[["Ceratopsidae", "Animal", "Pterosaur"], ["Ceratopsidae", "Chordate", "Pterosaur"], ["Ceratopsidae", "Cretaceous", "Pterosaur"], ["Ceratopsidae", "Dinosaur", "Pterosaur"], ["Ceratopsidae", "Fossil", "Pterosaur"], ["Ceratopsidae", "Reptile", "Pterosaur"], ["Ceratopsidae", "Scientific_classification", "Pterosaur"]]

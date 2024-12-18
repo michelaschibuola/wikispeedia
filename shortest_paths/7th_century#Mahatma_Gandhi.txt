@@ -1,0 +1,1 @@
+[["7th_century", "Buddhism", "Mahatma_Gandhi"], ["7th_century", "China", "Mahatma_Gandhi"], ["7th_century", "India", "Mahatma_Gandhi"], ["7th_century", "Islam", "Mahatma_Gandhi"], ["7th_century", "Muhammad", "Mahatma_Gandhi"], ["7th_century", "Qur%27an", "Mahatma_Gandhi"], ["7th_century", "Christianity", "Mahatma_Gandhi"]]

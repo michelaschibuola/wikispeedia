@@ -1,0 +1,1 @@
+[["Heraclius", "Islam", "The_Holocaust"], ["Heraclius", "Jerusalem", "The_Holocaust"], ["Heraclius", "Jesus", "The_Holocaust"], ["Heraclius", "Jew", "The_Holocaust"]]

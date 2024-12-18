@@ -1,0 +1,1 @@
+[["Cattle", "Animal", "Great_white_shark"], ["Cattle", "Australia", "Great_white_shark"], ["Cattle", "Binomial_nomenclature", "Great_white_shark"], ["Cattle", "Canada", "Great_white_shark"], ["Cattle", "Carolus_Linnaeus", "Great_white_shark"], ["Cattle", "Chordate", "Great_white_shark"], ["Cattle", "Scientific_classification", "Great_white_shark"]]

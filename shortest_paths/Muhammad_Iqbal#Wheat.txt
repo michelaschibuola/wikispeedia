@@ -1,0 +1,1 @@
+[["Muhammad_Iqbal", "Germany", "Wheat"], ["Muhammad_Iqbal", "Middle_East", "Wheat"], ["Muhammad_Iqbal", "Pakistan", "Wheat"], ["Muhammad_Iqbal", "Spain", "Wheat"], ["Muhammad_Iqbal", "Turkey", "Wheat"]]

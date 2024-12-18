@@ -1,0 +1,1 @@
+[["Nazi_Germany", "Japan", "Natural_disaster"], ["Nazi_Germany", "Germany", "Natural_disaster"], ["Nazi_Germany", "Norway", "Natural_disaster"], ["Nazi_Germany", "Soviet_Union", "Natural_disaster"], ["Nazi_Germany", "United_States", "Natural_disaster"]]

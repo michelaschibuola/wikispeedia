@@ -1,0 +1,1 @@
+[["Sermon_on_the_Mount", "Christianity", "Soviet_Union", "Bohrium"], ["Sermon_on_the_Mount", "Max_Weber", "Germany", "Bohrium"], ["Sermon_on_the_Mount", "Martin_Luther", "Germany", "Bohrium"]]

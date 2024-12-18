@@ -1,0 +1,1 @@
+[["Plate_tectonics", "Pacific_Ocean", "Mir"], ["Plate_tectonics", "Astronomy", "Mir"], ["Plate_tectonics", "New_Zealand", "Mir"], ["Plate_tectonics", "United_States", "Mir"]]

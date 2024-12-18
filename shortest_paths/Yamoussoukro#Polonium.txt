@@ -1,0 +1,1 @@
+[["Yamoussoukro", "Africa", "Latin", "Polonium"], ["Yamoussoukro", "Capital", "Latin", "Polonium"], ["Yamoussoukro", "Pope_John_Paul_II", "Latin", "Polonium"], ["Yamoussoukro", "Pope_John_Paul_II", "Poland", "Polonium"], ["Yamoussoukro", "Pope_John_Paul_II", "Russia", "Polonium"]]

@@ -1,0 +1,1 @@
+[["Great_comet", "Comet_Hale-Bopp", "United_States", "Niagara_Falls"], ["Great_comet", "Solar_System", "William_Thomson%2C_1st_Baron_Kelvin", "Niagara_Falls"]]

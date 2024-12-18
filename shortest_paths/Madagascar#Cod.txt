@@ -1,0 +1,1 @@
+[["Madagascar", "Animal", "Cod"], ["Madagascar", "Europe", "Cod"], ["Madagascar", "Portugal", "Cod"], ["Madagascar", "United_Kingdom", "Cod"]]

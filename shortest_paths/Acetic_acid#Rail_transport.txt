@@ -1,0 +1,1 @@
+[["Acetic_acid", "Europe", "Rail_transport"], ["Acetic_acid", "Greece", "Rail_transport"], ["Acetic_acid", "Iron", "Rail_transport"], ["Acetic_acid", "Japan", "Rail_transport"], ["Acetic_acid", "Soil", "Rail_transport"], ["Acetic_acid", "United_States", "Rail_transport"]]

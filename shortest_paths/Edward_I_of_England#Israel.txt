@@ -1,0 +1,1 @@
+[["Edward_I_of_England", "Cyprus", "Israel"], ["Edward_I_of_England", "France", "Israel"], ["Edward_I_of_England", "Tunis", "Israel"], ["Edward_I_of_England", "Newcastle_upon_Tyne", "Israel"]]

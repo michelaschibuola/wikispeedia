@@ -1,0 +1,1 @@
+[["Brunei", "Buddhism", "Sikkim"], ["Brunei", "Hinduism", "Sikkim"], ["Brunei", "Monarchy", "Sikkim"], ["Brunei", "Rice", "Sikkim"], ["Brunei", "Time_zone", "Sikkim"], ["Brunei", "United_Kingdom", "Sikkim"]]

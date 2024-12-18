@@ -1,0 +1,1 @@
+[["Fatty_acid", "Apple", "Lung_cancer"], ["Fatty_acid", "Genetics", "Lung_cancer"]]

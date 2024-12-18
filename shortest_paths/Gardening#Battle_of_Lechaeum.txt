@@ -1,0 +1,1 @@
+[["Gardening", "Ancient_Rome", "Oligarchy", "Battle_of_Lechaeum"], ["Gardening", "Europe", "Oligarchy", "Battle_of_Lechaeum"], ["Gardening", "Canada", "Athens", "Battle_of_Lechaeum"], ["Gardening", "Europe", "Athens", "Battle_of_Lechaeum"], ["Gardening", "Tourism", "Athens", "Battle_of_Lechaeum"], ["Gardening", "United_States", "Athens", "Battle_of_Lechaeum"]]

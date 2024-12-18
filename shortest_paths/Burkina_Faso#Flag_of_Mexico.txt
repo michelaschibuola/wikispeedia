@@ -1,0 +1,1 @@
+[["Burkina_Faso", "Europe", "Flag_of_Mexico"], ["Burkina_Faso", "France", "Flag_of_Mexico"], ["Burkina_Faso", "List_of_sovereign_states", "Flag_of_Mexico"]]

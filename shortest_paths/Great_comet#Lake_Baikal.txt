@@ -1,0 +1,1 @@
+[["Great_comet", "Comet", "Nature", "Lake_Baikal"], ["Great_comet", "Solar_System", "Nature", "Lake_Baikal"]]

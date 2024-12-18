@@ -1,0 +1,1 @@
+[["Algiers", "Africa", "Rabat"], ["Algiers", "Ancient_Rome", "Rabat"], ["Algiers", "Arabic_language", "Rabat"], ["Algiers", "Capital", "Rabat"], ["Algiers", "Morocco", "Rabat"], ["Algiers", "Spain", "Rabat"], ["Algiers", "Istanbul", "Rabat"]]

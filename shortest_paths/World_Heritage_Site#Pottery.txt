@@ -1,0 +1,1 @@
+[["World_Heritage_Site", "Dorset", "Pottery"], ["World_Heritage_Site", "Geology_of_Dorset", "Pottery"], ["World_Heritage_Site", "Armenia", "Pottery"], ["World_Heritage_Site", "Finland", "Pottery"], ["World_Heritage_Site", "Germany", "Pottery"], ["World_Heritage_Site", "Japan", "Pottery"]]

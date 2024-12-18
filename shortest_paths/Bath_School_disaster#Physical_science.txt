@@ -1,0 +1,1 @@
+[["Bath_School_disaster", "Roman_Catholic_Church", "Physical_science"], ["Bath_School_disaster", "United_States", "Physical_science"]]

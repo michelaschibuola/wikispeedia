@@ -1,0 +1,1 @@
+[["Duran_Duran", "BBC", "Doha"], ["Duran_Duran", "Middle_East", "Doha"], ["Duran_Duran", "South_Africa", "Doha"], ["Duran_Duran", "United_Kingdom", "Doha"], ["Duran_Duran", "United_States", "Doha"]]

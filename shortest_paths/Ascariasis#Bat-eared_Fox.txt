@@ -1,0 +1,1 @@
+[["Ascariasis", "Animal", "Bat-eared_Fox"], ["Ascariasis", "Binomial_nomenclature", "Bat-eared_Fox"], ["Ascariasis", "Scientific_classification", "Bat-eared_Fox"]]

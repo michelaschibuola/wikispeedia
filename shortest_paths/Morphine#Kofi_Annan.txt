@@ -1,0 +1,1 @@
+[["Morphine", "AIDS", "Kofi_Annan"], ["Morphine", "United_Kingdom", "Kofi_Annan"], ["Morphine", "United_States", "Kofi_Annan"]]

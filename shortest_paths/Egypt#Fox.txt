@@ -1,0 +1,1 @@
+[["Egypt", "Continent", "Fox"], ["Egypt", "Europe", "Fox"], ["Egypt", "Turkey", "Fox"], ["Egypt", "George_Byron%2C_6th_Baron_Byron", "Fox"], ["Egypt", "Slovenia", "Fox"]]

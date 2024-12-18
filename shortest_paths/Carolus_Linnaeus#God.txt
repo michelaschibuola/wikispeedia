@@ -1,0 +1,1 @@
+[["Carolus_Linnaeus", "Ape", "God"], ["Carolus_Linnaeus", "Human", "God"], ["Carolus_Linnaeus", "Emanuel_Swedenborg", "God"], ["Carolus_Linnaeus", "Nature", "God"]]

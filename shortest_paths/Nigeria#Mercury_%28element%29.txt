@@ -1,0 +1,1 @@
+[["Nigeria", "Brazil", "Mercury_%28element%29"], ["Nigeria", "China", "Mercury_%28element%29"], ["Nigeria", "Coal", "Mercury_%28element%29"], ["Nigeria", "India", "Mercury_%28element%29"], ["Nigeria", "United_States", "Mercury_%28element%29"], ["Nigeria", "World_Health_Organization", "Mercury_%28element%29"]]

@@ -1,0 +1,1 @@
+[["Hatshepsut", "Egypt", "Slavery", "Das_Kapital"], ["Hatshepsut", "Ancient_Egypt", "Slavery", "Das_Kapital"], ["Hatshepsut", "Eritrea", "Marxism", "Das_Kapital"], ["Hatshepsut", "Propaganda", "Marxism", "Das_Kapital"], ["Hatshepsut", "Mummy", "Utilitarianism", "Das_Kapital"], ["Hatshepsut", "New_York_City", "Revolution", "Das_Kapital"]]

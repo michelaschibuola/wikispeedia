@@ -1,0 +1,1 @@
+[["Formula_One", "Detroit%2C_Michigan", "Alcohol"], ["Formula_One", "English_language", "Alcohol"], ["Formula_One", "Europe", "Alcohol"], ["Formula_One", "Turkey", "Alcohol"], ["Formula_One", "United_States", "Alcohol"]]

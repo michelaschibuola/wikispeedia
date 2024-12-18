@@ -1,0 +1,1 @@
+[["Infrastructure", "Desert_locust", "Cotton"], ["Infrastructure", "Economy_of_Africa", "Cotton"], ["Infrastructure", "Horn_of_Africa", "Cotton"], ["Infrastructure", "France", "Cotton"], ["Infrastructure", "Southern_United_States", "Cotton"]]

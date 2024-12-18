@@ -1,0 +1,1 @@
+[["Dog", "Middle_East", "Jewellery"], ["Dog", "North_America", "Jewellery"], ["Dog", "Russia", "Jewellery"]]

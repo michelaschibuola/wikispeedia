@@ -1,0 +1,1 @@
+[["Hindi", "Russian_language", "Sputnik_1"], ["Hindi", "United_States", "Sputnik_1"], ["Hindi", "United_Nations", "Sputnik_1"]]

@@ -1,0 +1,1 @@
+[["Abstract_art", "Art", "Adolf_Hitler"], ["Abstract_art", "Joseph_Stalin", "Adolf_Hitler"], ["Abstract_art", "Nazi_Germany", "Adolf_Hitler"]]

@@ -1,0 +1,1 @@
+[["Whale", "Albatross", "Popular_culture"], ["Whale", "Cattle", "Popular_culture"]]

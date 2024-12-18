@@ -1,0 +1,1 @@
+[["Lemon", "Cheese", "Milk"], ["Lemon", "Argentina", "Milk"], ["Lemon", "Brazil", "Milk"], ["Lemon", "Fatty_acid", "Milk"], ["Lemon", "India", "Milk"], ["Lemon", "United_States", "Milk"], ["Lemon", "Water", "Milk"], ["Lemon", "Tea", "Milk"]]

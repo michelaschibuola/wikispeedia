@@ -1,0 +1,1 @@
+[["Woodrow_Wilson", "Armenia", "Iceland"], ["Woodrow_Wilson", "Poland", "Iceland"], ["Woodrow_Wilson", "Germany", "Iceland"], ["Woodrow_Wilson", "Great_Britain", "Iceland"], ["Woodrow_Wilson", "Parliamentary_system", "Iceland"], ["Woodrow_Wilson", "Russia", "Iceland"]]

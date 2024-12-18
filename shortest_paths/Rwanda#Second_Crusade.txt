@@ -1,0 +1,1 @@
+[["Rwanda", "Cyprus", "Second_Crusade"], ["Rwanda", "Egypt", "Second_Crusade"], ["Rwanda", "Hungary", "Second_Crusade"], ["Rwanda", "Spain", "Second_Crusade"], ["Rwanda", "Switzerland", "Second_Crusade"]]

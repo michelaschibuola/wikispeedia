@@ -1,0 +1,1 @@
+[["Intelligence", "Albert_Einstein", "German_language", "Svart%C3%A1lfar"], ["Intelligence", "Language", "German_language", "Svart%C3%A1lfar"]]

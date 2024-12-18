@@ -1,0 +1,1 @@
+[["Romanticism", "Berlin", "Triumph_of_the_Will"], ["Romanticism", "Nazism", "Triumph_of_the_Will"], ["Romanticism", "Odin", "Triumph_of_the_Will"], ["Romanticism", "Richard_Wagner", "Triumph_of_the_Will"], ["Romanticism", "United_States", "Triumph_of_the_Will"]]

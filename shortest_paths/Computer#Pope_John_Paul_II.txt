@@ -1,0 +1,1 @@
+[["Computer", "20th_century", "Pope_John_Paul_II"], ["Computer", "Internet", "Pope_John_Paul_II"], ["Computer", "Esperanto", "Pope_John_Paul_II"], ["Computer", "Syria", "Pope_John_Paul_II"], ["Computer", "United_Kingdom", "Pope_John_Paul_II"], ["Computer", "United_States", "Pope_John_Paul_II"]]

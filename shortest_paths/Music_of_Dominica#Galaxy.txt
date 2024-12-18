@@ -1,0 +1,1 @@
+[["Music_of_Dominica", "Brazil", "Ferdinand_Magellan", "Galaxy"], ["Music_of_Dominica", "English_language", "Comet", "Galaxy"], ["Music_of_Dominica", "English_language", "Voynich_manuscript", "Galaxy"], ["Music_of_Dominica", "Full_moon", "Astronomy", "Galaxy"], ["Music_of_Dominica", "Full_moon", "Sun", "Galaxy"]]

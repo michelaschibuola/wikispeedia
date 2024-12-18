@@ -1,0 +1,1 @@
+[["Tuberculosis", "Edward_VI_of_England", "Tower_of_London"], ["Tuberculosis", "Germany", "Tower_of_London"], ["Tuberculosis", "London", "Tower_of_London"], ["Tuberculosis", "United_States", "Tower_of_London"], ["Tuberculosis", "World_War_II", "Tower_of_London"]]

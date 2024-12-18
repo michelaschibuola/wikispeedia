@@ -1,0 +1,1 @@
+[["Bosnia_and_Herzegovina", "Australia", "Desert"], ["Bosnia_and_Herzegovina", "United_States", "Desert"], ["Bosnia_and_Herzegovina", "Chad", "Desert"], ["Bosnia_and_Herzegovina", "Saudi_Arabia", "Desert"], ["Bosnia_and_Herzegovina", "World_Heritage_Site", "Desert"]]

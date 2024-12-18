@@ -1,0 +1,1 @@
+[["Denmark", "Buddhism", "Kochi_%28India%29"], ["Denmark", "Colombo", "Kochi_%28India%29"], ["Denmark", "Christianity", "Kochi_%28India%29"], ["Denmark", "Football_%28soccer%29", "Kochi_%28India%29"], ["Denmark", "India", "Kochi_%28India%29"], ["Denmark", "Time_zone", "Kochi_%28India%29"], ["Denmark", "Jew", "Kochi_%28India%29"], ["Denmark", "Tamil_people", "Kochi_%28India%29"]]

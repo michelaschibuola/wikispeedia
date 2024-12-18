@@ -1,0 +1,1 @@
+[["Johannes_Kepler", "Earth", "Herbig-Haro_object"], ["Johannes_Kepler", "Milky_Way", "Herbig-Haro_object"], ["Johannes_Kepler", "Solar_System", "Herbig-Haro_object"]]

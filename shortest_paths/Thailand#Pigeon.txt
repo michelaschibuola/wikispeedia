@@ -1,0 +1,1 @@
+[["Thailand", "Asia", "Pigeon"], ["Thailand", "France", "Pigeon"], ["Thailand", "Global_spread_of_H5N1", "Pigeon"], ["Thailand", "H5N1", "Pigeon"], ["Thailand", "United_States", "Pigeon"]]

@@ -1,0 +1,1 @@
+[["Turkmenistan", "NATO", "History_of_post-Soviet_Russia"], ["Turkmenistan", "Russia", "History_of_post-Soviet_Russia"], ["Turkmenistan", "Soviet_Union", "History_of_post-Soviet_Russia"], ["Turkmenistan", "Moscow", "History_of_post-Soviet_Russia"], ["Turkmenistan", "Poverty", "History_of_post-Soviet_Russia"], ["Turkmenistan", "Russian_language", "History_of_post-Soviet_Russia"]]

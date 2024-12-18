@@ -1,0 +1,1 @@
+[["Ernest_Hemingway", "Africa", "Yellow_fever"], ["Ernest_Hemingway", "Florida", "Yellow_fever"], ["Ernest_Hemingway", "United_States", "Yellow_fever"]]

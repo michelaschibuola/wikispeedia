@@ -1,0 +1,1 @@
+[["Beijing", "Canada", "Victoria_Cross"], ["Beijing", "China", "Victoria_Cross"], ["Beijing", "Germany", "Victoria_Cross"], ["Beijing", "Russia", "Victoria_Cross"], ["Beijing", "Turkey", "Victoria_Cross"], ["Beijing", "United_Kingdom", "Victoria_Cross"]]

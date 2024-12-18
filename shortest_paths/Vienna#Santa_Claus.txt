@@ -1,0 +1,1 @@
+[["Vienna", "Afghanistan", "Santa_Claus"], ["Vienna", "Belgium", "Santa_Claus"], ["Vienna", "German_language", "Santa_Claus"], ["Vienna", "Italy", "Santa_Claus"], ["Vienna", "Serbia", "Santa_Claus"], ["Vienna", "Germany", "Santa_Claus"], ["Vienna", "Hungary", "Santa_Claus"], ["Vienna", "Japan", "Santa_Claus"], ["Vienna", "Turkey", "Santa_Claus"]]

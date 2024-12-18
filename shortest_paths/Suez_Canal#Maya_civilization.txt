@@ -1,0 +1,1 @@
+[["Suez_Canal", "19th_century", "Maya_civilization"], ["Suez_Canal", "Ancient_Egypt", "Maya_civilization"], ["Suez_Canal", "Pyramid", "Maya_civilization"]]

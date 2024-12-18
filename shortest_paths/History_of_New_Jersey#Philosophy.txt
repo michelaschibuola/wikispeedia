@@ -1,0 +1,1 @@
+[["History_of_New_Jersey", "Industrial_Revolution", "Philosophy"], ["History_of_New_Jersey", "Nazism", "Philosophy"], ["History_of_New_Jersey", "North_Africa", "Philosophy"], ["History_of_New_Jersey", "United_States_Bill_of_Rights", "Philosophy"], ["History_of_New_Jersey", "World_War_II", "Philosophy"]]

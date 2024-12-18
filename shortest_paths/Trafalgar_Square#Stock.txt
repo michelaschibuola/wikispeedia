@@ -1,0 +1,1 @@
+[["Trafalgar_Square", "Margaret_Thatcher", "Stock"], ["Trafalgar_Square", "United_Kingdom", "Stock"], ["Trafalgar_Square", "United_States", "Stock"]]

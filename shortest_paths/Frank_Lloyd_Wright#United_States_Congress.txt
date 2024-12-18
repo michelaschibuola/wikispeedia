@@ -1,0 +1,1 @@
+[["Frank_Lloyd_Wright", "20th_century", "United_States_Congress"], ["Frank_Lloyd_Wright", "American_Civil_War", "United_States_Congress"], ["Frank_Lloyd_Wright", "Hurricane_Katrina", "United_States_Congress"], ["Frank_Lloyd_Wright", "United_States", "United_States_Congress"]]

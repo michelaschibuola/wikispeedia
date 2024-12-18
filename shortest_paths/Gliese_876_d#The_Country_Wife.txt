@@ -1,0 +1,1 @@
+[["Gliese_876_d", "Gravitation", "Ancient_Rome", "The_Country_Wife"], ["Gliese_876_d", "Jupiter", "Ancient_Rome", "The_Country_Wife"], ["Gliese_876_d", "Tide", "London", "The_Country_Wife"], ["Gliese_876_d", "Water", "London", "The_Country_Wife"], ["Gliese_876_d", "Water", "France", "The_Country_Wife"]]

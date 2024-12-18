@@ -1,0 +1,1 @@
+[["Tasmanian_Devil", "Fauna_of_Australia", "Indonesia", "Mecca"], ["Tasmanian_Devil", "Australia", "Indonesia", "Mecca"], ["Tasmanian_Devil", "Australia", "City", "Mecca"], ["Tasmanian_Devil", "Australia", "Saudi_Arabia", "Mecca"], ["Tasmanian_Devil", "Australia", "September_11%2C_2001_attacks", "Mecca"], ["Tasmanian_Devil", "Australia", "Sikhism", "Mecca"]]

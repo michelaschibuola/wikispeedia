@@ -1,0 +1,1 @@
+[["Mahatma_Gandhi", "India", "Tornado"], ["Mahatma_Gandhi", "China", "Tornado"], ["Mahatma_Gandhi", "South_Africa", "Tornado"], ["Mahatma_Gandhi", "United_Kingdom", "Tornado"], ["Mahatma_Gandhi", "United_States", "Tornado"]]

@@ -1,0 +1,1 @@
+[["Apple", "South_Africa", "Barack_Obama"]]

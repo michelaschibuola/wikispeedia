@@ -1,0 +1,1 @@
+[["Police", "Crime", "Government_of_France"], ["Police", "France", "Government_of_France"], ["Police", "French_Revolution", "Government_of_France"], ["Police", "Radio", "Government_of_France"]]

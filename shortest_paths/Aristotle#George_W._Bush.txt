@@ -1,0 +1,1 @@
+[["Aristotle", "Government", "George_W._Bush"], ["Aristotle", "Moon", "George_W._Bush"], ["Aristotle", "Philosophy", "George_W._Bush"], ["Aristotle", "Jimmy_Carter", "George_W._Bush"]]

@@ -1,0 +1,1 @@
+[["Theodore_Roosevelt", "American_Civil_War", "Horse"], ["Theodore_Roosevelt", "Archaeology", "Horse"], ["Theodore_Roosevelt", "Florida", "Horse"], ["Theodore_Roosevelt", "Russia", "Horse"]]

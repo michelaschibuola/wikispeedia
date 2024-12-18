@@ -1,0 +1,1 @@
+[["Palmyra_Atoll", "United_States", "John_F._Kennedy_assassination"], ["Palmyra_Atoll", "Washington%2C_D.C.", "John_F._Kennedy_assassination"]]

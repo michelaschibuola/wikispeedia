@@ -1,0 +1,1 @@
+[["Archaeology", "North_America", "Hern%C3%A1n_Cort%C3%A9s"], ["Archaeology", "Peru", "Hern%C3%A1n_Cort%C3%A9s"], ["Archaeology", "Spain", "Hern%C3%A1n_Cort%C3%A9s"], ["Archaeology", "Charles_Etienne_Brasseur_de_Bourbourg", "Hern%C3%A1n_Cort%C3%A9s"], ["Archaeology", "Invasion", "Hern%C3%A1n_Cort%C3%A9s"]]

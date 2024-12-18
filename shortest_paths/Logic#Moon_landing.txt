@@ -1,0 +1,1 @@
+[["Logic", "20th_century", "Moon_landing"], ["Logic", "Nostradamus", "Moon_landing"]]

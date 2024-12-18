@@ -1,0 +1,1 @@
+[["Buddha", "China", "Buckingham_Palace"], ["Buddha", "Delhi", "Buckingham_Palace"]]

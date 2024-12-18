@@ -1,0 +1,1 @@
+[["Optical_microscope", "Microscope", "Onion", "Sichuan_Pepper"], ["Optical_microscope", "Earth%27s_atmosphere", "United_States", "Sichuan_Pepper"], ["Optical_microscope", "Symmetry", "United_States", "Sichuan_Pepper"], ["Optical_microscope", "Metal", "Salt", "Sichuan_Pepper"], ["Optical_microscope", "Mineral", "Salt", "Sichuan_Pepper"]]

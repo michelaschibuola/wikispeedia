@@ -1,0 +1,1 @@
+[["Tea", "Abkhazia", "Government"], ["Tea", "Burundi", "Government"], ["Tea", "Kenya", "Government"], ["Tea", "Japan", "Government"], ["Tea", "Mongolia", "Government"], ["Tea", "Russia", "Government"], ["Tea", "Tamil_language", "Government"]]

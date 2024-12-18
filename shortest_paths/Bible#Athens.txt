@@ -1,0 +1,1 @@
+[["Bible", "19th_century", "Athens"], ["Bible", "Ancient_history", "Athens"], ["Bible", "Byzantine_Empire", "Athens"], ["Bible", "Georgia_%28country%29", "Athens"], ["Bible", "Lebanon", "Athens"], ["Bible", "Los_Angeles%2C_California", "Athens"], ["Bible", "Mosque", "Athens"], ["Bible", "Nashville%2C_Tennessee", "Athens"]]

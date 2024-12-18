@@ -1,0 +1,1 @@
+[["Metric_expansion_of_space", "Albert_Einstein", "Africa", "Tropical_Storm_Franklin_%282005%29"], ["Metric_expansion_of_space", "London", "Atlantic_Ocean", "Tropical_Storm_Franklin_%282005%29"], ["Metric_expansion_of_space", "Nature", "Tropical_cyclone", "Tropical_Storm_Franklin_%282005%29"]]

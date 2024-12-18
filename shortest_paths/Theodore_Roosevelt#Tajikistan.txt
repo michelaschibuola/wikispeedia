@@ -1,0 +1,1 @@
+[["Theodore_Roosevelt", "France", "Tajikistan"], ["Theodore_Roosevelt", "Israel", "Tajikistan"], ["Theodore_Roosevelt", "Russia", "Tajikistan"], ["Theodore_Roosevelt", "Scouting", "Tajikistan"]]

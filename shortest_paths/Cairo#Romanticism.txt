@@ -1,0 +1,1 @@
+[["Cairo", "Europe", "Romanticism"], ["Cairo", "Germany", "Romanticism"], ["Cairo", "Napoleon_I_of_France", "Romanticism"], ["Cairo", "Novel", "Romanticism"], ["Cairo", "United_States", "Romanticism"], ["Cairo", "Giuseppe_Verdi", "Romanticism"]]

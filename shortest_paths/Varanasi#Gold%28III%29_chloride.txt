@@ -1,0 +1,1 @@
+[["Varanasi", "Astrology", "Gold", "Gold%28III%29_chloride"], ["Varanasi", "India", "Gold", "Gold%28III%29_chloride"], ["Varanasi", "Sumer", "Gold", "Gold%28III%29_chloride"], ["Varanasi", "India", "Ethanol", "Gold%28III%29_chloride"], ["Varanasi", "India", "Mercury_%28element%29", "Gold%28III%29_chloride"]]

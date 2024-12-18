@@ -1,0 +1,1 @@
+[["Isis", "Asia", "Kansas_City%2C_Missouri"], ["Isis", "Rome", "Kansas_City%2C_Missouri"]]

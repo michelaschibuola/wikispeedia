@@ -1,0 +1,1 @@
+[["B_vitamins", "Alzheimer%27s_disease", "Aluminium", "Yenisei_River"], ["B_vitamins", "Beriberi", "Russia", "Yenisei_River"], ["B_vitamins", "Vitamin", "Russia", "Yenisei_River"], ["B_vitamins", "Beer", "Russia", "Yenisei_River"], ["B_vitamins", "Folic_acid", "Mongolia", "Yenisei_River"], ["B_vitamins", "Beer", "Mongolia", "Yenisei_River"]]

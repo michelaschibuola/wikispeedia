@@ -1,0 +1,1 @@
+[["Turkmenistan", "Aral_Sea", "Ocean"], ["Turkmenistan", "Caspian_Sea", "Ocean"], ["Turkmenistan", "Genghis_Khan", "Ocean"], ["Turkmenistan", "Gibraltar", "Ocean"], ["Turkmenistan", "Natural_gas", "Ocean"]]

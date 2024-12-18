@@ -1,0 +1,1 @@
+[["Johannes_Kepler", "Earth", "Drinking_water"], ["Johannes_Kepler", "Sweden", "Drinking_water"], ["Johannes_Kepler", "Turkey", "Drinking_water"]]

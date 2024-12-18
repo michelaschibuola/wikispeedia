@@ -1,0 +1,1 @@
+[["William_McKinley", "Cuba", "Ann_Arbor%2C_Michigan"], ["William_McKinley", "John_F._Kennedy", "Ann_Arbor%2C_Michigan"], ["William_McKinley", "United_States_House_of_Representatives", "Ann_Arbor%2C_Michigan"]]

@@ -1,0 +1,1 @@
+[["Virgil", "Christianity", "Franklin_D._Roosevelt"], ["Virgil", "French_language", "Franklin_D._Roosevelt"], ["Virgil", "German_language", "Franklin_D._Roosevelt"], ["Virgil", "Italy", "Franklin_D._Roosevelt"], ["Virgil", "United_States", "Franklin_D._Roosevelt"]]

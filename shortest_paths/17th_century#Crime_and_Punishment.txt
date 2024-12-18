@@ -1,0 +1,1 @@
+[["17th_century", "France", "Crime_and_Punishment"], ["17th_century", "Isaac_Newton", "Crime_and_Punishment"], ["17th_century", "Johannes_Kepler", "Crime_and_Punishment"], ["17th_century", "Russia", "Crime_and_Punishment"]]

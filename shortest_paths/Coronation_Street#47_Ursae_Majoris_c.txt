@@ -1,0 +1,1 @@
+[["Coronation_Street", "England", "Gravitation", "47_Ursae_Majoris_c"], ["Coronation_Street", "United_Kingdom", "Gravitation", "47_Ursae_Majoris_c"], ["Coronation_Street", "England", "Sun", "47_Ursae_Majoris_c"]]

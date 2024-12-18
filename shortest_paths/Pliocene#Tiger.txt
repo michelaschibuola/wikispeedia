@@ -1,0 +1,1 @@
+[["Pliocene", "Cheetah", "Tiger"], ["Pliocene", "Bear", "Tiger"], ["Pliocene", "Cattle", "Tiger"], ["Pliocene", "Dog", "Tiger"], ["Pliocene", "Elephant", "Tiger"], ["Pliocene", "Japan", "Tiger"]]

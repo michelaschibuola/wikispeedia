@@ -1,0 +1,1 @@
+[["Banknote", "Japan", "Tropical_cyclone"], ["Banknote", "United_States", "Tropical_cyclone"], ["Banknote", "United_States_dollar", "Tropical_cyclone"]]

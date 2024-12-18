@@ -1,0 +1,1 @@
+[["Alcohol", "English_language", "Republic_of_Macedonia"], ["Alcohol", "Europe", "Republic_of_Macedonia"], ["Alcohol", "United_States", "Republic_of_Macedonia"], ["Alcohol", "Turkey", "Republic_of_Macedonia"]]

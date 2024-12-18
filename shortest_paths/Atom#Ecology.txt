@@ -1,0 +1,1 @@
+[["Atom", "Carbon", "Ecology"], ["Atom", "Chemistry", "Ecology"], ["Atom", "Light", "Ecology"], ["Atom", "Oxygen", "Ecology"], ["Atom", "Physics", "Ecology"], ["Atom", "Water", "Ecology"], ["Atom", "Gottfried_Leibniz", "Ecology"], ["Atom", "History_of_science", "Ecology"], ["Atom", "Matter", "Ecology"]]

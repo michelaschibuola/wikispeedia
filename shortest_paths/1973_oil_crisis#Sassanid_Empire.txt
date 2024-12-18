@@ -1,0 +1,1 @@
+[["1973_oil_crisis", "Egypt", "Sassanid_Empire"], ["1973_oil_crisis", "Iran", "Sassanid_Empire"], ["1973_oil_crisis", "Iraq", "Sassanid_Empire"], ["1973_oil_crisis", "Israel", "Sassanid_Empire"], ["1973_oil_crisis", "Syria", "Sassanid_Empire"]]

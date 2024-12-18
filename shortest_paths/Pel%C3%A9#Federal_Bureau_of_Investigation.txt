@@ -1,0 +1,1 @@
+[["Pel%C3%A9", "New_York_City", "Federal_Bureau_of_Investigation"], ["Pel%C3%A9", "Nazism", "Federal_Bureau_of_Investigation"]]

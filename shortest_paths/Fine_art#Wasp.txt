@@ -1,0 +1,1 @@
+[["Fine_art", "Aristotle", "Animal", "Wasp"], ["Fine_art", "Humanities", "Animal", "Wasp"], ["Fine_art", "Aristotle", "Scientific_classification", "Wasp"], ["Fine_art", "United_States", "Herbivore", "Wasp"], ["Fine_art", "United_States", "Pollinator_decline", "Wasp"], ["Fine_art", "United_States", "Spider", "Wasp"]]

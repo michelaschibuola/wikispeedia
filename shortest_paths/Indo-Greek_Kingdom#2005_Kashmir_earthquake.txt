@@ -1,0 +1,1 @@
+[["Indo-Greek_Kingdom", "Afghanistan", "2005_Kashmir_earthquake"], ["Indo-Greek_Kingdom", "India", "2005_Kashmir_earthquake"], ["Indo-Greek_Kingdom", "Karachi", "2005_Kashmir_earthquake"], ["Indo-Greek_Kingdom", "Pakistan", "2005_Kashmir_earthquake"]]

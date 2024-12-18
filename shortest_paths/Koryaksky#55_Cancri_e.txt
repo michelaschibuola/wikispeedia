@@ -1,0 +1,1 @@
+[["Koryaksky", "Eruption_column", "Gravitation", "55_Cancri_e"], ["Koryaksky", "Russia", "Earth", "55_Cancri_e"], ["Koryaksky", "United_Nations", "Earth", "55_Cancri_e"], ["Koryaksky", "Volcano", "Earth", "55_Cancri_e"], ["Koryaksky", "Volcano", "Jupiter", "55_Cancri_e"], ["Koryaksky", "Volcano", "Neptune", "55_Cancri_e"], ["Koryaksky", "Volcano", "Sun", "55_Cancri_e"]]

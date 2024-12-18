@@ -1,0 +1,1 @@
+[["Ralph_Nader", "Ronald_Reagan", "Nintendo_Entertainment_System"], ["Ralph_Nader", "Russian_language", "Nintendo_Entertainment_System"], ["Ralph_Nader", "United_States", "Nintendo_Entertainment_System"]]

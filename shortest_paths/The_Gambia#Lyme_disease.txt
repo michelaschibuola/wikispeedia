@@ -1,0 +1,1 @@
+[["The_Gambia", "Portugal", "Lyme_disease"], ["The_Gambia", "United_States", "Lyme_disease"]]

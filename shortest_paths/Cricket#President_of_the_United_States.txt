@@ -1,0 +1,1 @@
+[["Cricket", "Elizabeth_II_of_the_United_Kingdom", "President_of_the_United_States"], ["Cricket", "Olympic_Games", "President_of_the_United_States"], ["Cricket", "Washington%2C_D.C.", "President_of_the_United_States"]]

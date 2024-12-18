@@ -1,0 +1,1 @@
+[["Leon_Trotsky", "Politics", "Nationality"], ["Leon_Trotsky", "Russian_language", "Nationality"], ["Leon_Trotsky", "Soviet_Union", "Nationality"], ["Leon_Trotsky", "United_States", "Nationality"]]

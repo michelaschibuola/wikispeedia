@@ -1,0 +1,1 @@
+[["Ukraine", "Europe", "Rugby_World_Cup"], ["Ukraine", "Portugal", "Rugby_World_Cup"], ["Ukraine", "Romania", "Rugby_World_Cup"]]

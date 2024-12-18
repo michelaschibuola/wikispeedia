@@ -1,0 +1,1 @@
+[["Radar", "Mercury_%28planet%29", "Astrology"], ["Radar", "Earth", "Astrology"], ["Radar", "English_language", "Astrology"], ["Radar", "Metal", "Astrology"], ["Radar", "Venus", "Astrology"]]

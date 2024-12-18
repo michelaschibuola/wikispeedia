@@ -1,0 +1,1 @@
+[["Cambodia", "Beijing", "Algiers"], ["Cambodia", "France", "Algiers"], ["Cambodia", "French_language", "Algiers"], ["Cambodia", "Paris", "Algiers"], ["Cambodia", "People%27s_Republic_of_China", "Algiers"], ["Cambodia", "United_States", "Algiers"], ["Cambodia", "Military_history_of_the_Soviet_Union", "Algiers"], ["Cambodia", "Turkey", "Algiers"]]

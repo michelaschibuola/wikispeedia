@@ -1,0 +1,1 @@
+[["Menthol", "Acetic_acid", "Renaissance", "Oil_painting"], ["Menthol", "Alcohol", "Chemistry", "Oil_painting"], ["Menthol", "Asia", "Cotton", "Oil_painting"], ["Menthol", "Japan", "16th_century", "Oil_painting"]]

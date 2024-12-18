@@ -1,0 +1,1 @@
+[["Yellow_fever", "Europe", "Auto_racing"], ["Yellow_fever", "France", "Auto_racing"], ["Yellow_fever", "United_States", "Auto_racing"]]

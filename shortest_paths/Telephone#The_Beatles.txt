@@ -1,0 +1,1 @@
+[["Telephone", "20th_century", "The_Beatles"], ["Telephone", "Argentina", "The_Beatles"], ["Telephone", "Synthesizer", "The_Beatles"], ["Telephone", "Radio", "The_Beatles"], ["Telephone", "Sweden", "The_Beatles"], ["Telephone", "United_States", "The_Beatles"]]

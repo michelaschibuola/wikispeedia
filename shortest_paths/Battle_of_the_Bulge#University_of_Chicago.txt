@@ -1,0 +1,1 @@
+[["Battle_of_the_Bulge", "Chicago", "University_of_Chicago"], ["Battle_of_the_Bulge", "Paris", "University_of_Chicago"], ["Battle_of_the_Bulge", "United_States", "University_of_Chicago"], ["Battle_of_the_Bulge", "World_War_II", "University_of_Chicago"]]

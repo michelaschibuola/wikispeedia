@@ -1,0 +1,1 @@
+[["Fencing", "16th_century", "Johann_Pachelbel"], ["Fencing", "17th_century", "Johann_Pachelbel"], ["Fencing", "18th_century", "Johann_Pachelbel"], ["Fencing", "19th_century", "Johann_Pachelbel"], ["Fencing", "20th_century", "Johann_Pachelbel"], ["Fencing", "Europe", "Johann_Pachelbel"], ["Fencing", "Germany", "Johann_Pachelbel"], ["Fencing", "Italy", "Johann_Pachelbel"]]

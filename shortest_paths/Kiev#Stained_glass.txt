@@ -1,0 +1,1 @@
+[["Kiev", "Paris", "Stained_glass"], ["Kiev", "World_Heritage_Site", "Stained_glass"]]

@@ -1,0 +1,1 @@
+[["Minneapolis%2C_Minnesota", "Canada", "Eurovision_Song_Contest"], ["Minneapolis%2C_Minnesota", "Germany", "Eurovision_Song_Contest"], ["Minneapolis%2C_Minnesota", "United_States", "Eurovision_Song_Contest"]]

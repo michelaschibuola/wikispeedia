@@ -1,0 +1,1 @@
+[["Thermodynamic_temperature", "Argon", "Cassini-Huygens"], ["Thermodynamic_temperature", "Earth", "Cassini-Huygens"], ["Thermodynamic_temperature", "Sun", "Cassini-Huygens"], ["Thermodynamic_temperature", "Ultraviolet", "Cassini-Huygens"]]

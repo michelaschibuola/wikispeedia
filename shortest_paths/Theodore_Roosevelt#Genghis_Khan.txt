@@ -1,0 +1,1 @@
+[["Theodore_Roosevelt", "Germany", "Genghis_Khan"], ["Theodore_Roosevelt", "Russia", "Genghis_Khan"]]

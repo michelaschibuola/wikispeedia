@@ -1,0 +1,1 @@
+[["Abbasid", "Aristotle", "Humanities"], ["Abbasid", "Buddhism", "Humanities"], ["Abbasid", "Islam", "Humanities"], ["Abbasid", "Persian_Empire", "Humanities"]]

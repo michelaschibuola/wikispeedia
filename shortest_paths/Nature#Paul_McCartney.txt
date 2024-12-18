@@ -1,0 +1,1 @@
+[["Nature", "Bertrand_Russell", "Paul_McCartney"], ["Nature", "Painting", "Paul_McCartney"]]

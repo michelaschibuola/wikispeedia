@@ -1,0 +1,1 @@
+[["Puerto_Rico", "England", "William_III_of_England"], ["Puerto_Rico", "France", "William_III_of_England"], ["Puerto_Rico", "Roman_Catholic_Church", "William_III_of_England"], ["Puerto_Rico", "Scotland", "William_III_of_England"], ["Puerto_Rico", "Spain", "William_III_of_England"]]

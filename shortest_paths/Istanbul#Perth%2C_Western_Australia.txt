@@ -1,0 +1,1 @@
+[["Istanbul", "City", "Perth%2C_Western_Australia"], ["Istanbul", "Europe", "Perth%2C_Western_Australia"], ["Istanbul", "France", "Perth%2C_Western_Australia"], ["Istanbul", "Indonesia", "Perth%2C_Western_Australia"], ["Istanbul", "Malaysia", "Perth%2C_Western_Australia"], ["Istanbul", "Pakistan", "Perth%2C_Western_Australia"]]

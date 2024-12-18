@@ -1,0 +1,1 @@
+[["Baltic_Sea", "European_Union", "Mercury_%28element%29"], ["Baltic_Sea", "Fish", "Mercury_%28element%29"], ["Baltic_Sea", "Latin", "Mercury_%28element%29"], ["Baltic_Sea", "Roman_Empire", "Mercury_%28element%29"], ["Baltic_Sea", "Silver", "Mercury_%28element%29"]]

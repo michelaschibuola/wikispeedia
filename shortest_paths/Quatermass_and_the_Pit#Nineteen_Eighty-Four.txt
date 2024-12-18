@@ -1,0 +1,1 @@
+[["Quatermass_and_the_Pit", "London", "Nineteen_Eighty-Four"], ["Quatermass_and_the_Pit", "Propaganda", "Nineteen_Eighty-Four"], ["Quatermass_and_the_Pit", "United_Kingdom", "Nineteen_Eighty-Four"], ["Quatermass_and_the_Pit", "United_States", "Nineteen_Eighty-Four"], ["Quatermass_and_the_Pit", "World_War_II", "Nineteen_Eighty-Four"]]

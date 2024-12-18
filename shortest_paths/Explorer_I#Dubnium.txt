@@ -1,0 +1,1 @@
+[["Explorer_I", "Soviet_Union", "Dubnium"], ["Explorer_I", "United_States", "Dubnium"]]

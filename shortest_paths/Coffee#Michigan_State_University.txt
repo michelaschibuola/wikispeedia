@@ -1,0 +1,1 @@
+[["Coffee", "Brazil", "Michigan_State_University"], ["Coffee", "United_States_dollar", "Michigan_State_University"]]

@@ -1,0 +1,1 @@
+[["Polar_coordinate_system", "Aircraft", "American_Civil_War", "Zachary_Taylor"], ["Polar_coordinate_system", "Isaac_Newton", "England", "Zachary_Taylor"], ["Polar_coordinate_system", "Isaac_Newton", "Stuttering", "Zachary_Taylor"]]

@@ -1,0 +1,1 @@
+[["Bratislava", "Finland", "Medal_of_Honor"], ["Bratislava", "George_W._Bush", "Medal_of_Honor"], ["Bratislava", "Poland", "Medal_of_Honor"], ["Bratislava", "United_States", "Medal_of_Honor"]]

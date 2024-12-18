@@ -1,0 +1,1 @@
+[["Karl_Popper", "Economics", "Confucianism"], ["Karl_Popper", "20th_century", "Confucianism"], ["Karl_Popper", "Philosophy", "Confucianism"], ["Karl_Popper", "Politics", "Confucianism"], ["Karl_Popper", "Socrates", "Confucianism"]]

@@ -1,0 +1,1 @@
+[["Photography", "France", "Apple"], ["Photography", "United_States", "Apple"]]

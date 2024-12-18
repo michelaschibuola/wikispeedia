@@ -1,0 +1,1 @@
+[["Asparagus", "Europe", "London", "Edward_V_of_England"], ["Asparagus", "European_Union", "London", "Edward_V_of_England"], ["Asparagus", "Japan", "London", "Edward_V_of_England"], ["Asparagus", "Europe", "Wales", "Edward_V_of_England"], ["Asparagus", "United_States", "Tower_of_London", "Edward_V_of_England"]]

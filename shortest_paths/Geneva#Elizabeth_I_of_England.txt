@@ -1,0 +1,1 @@
+[["Geneva", "France", "Elizabeth_I_of_England"], ["Geneva", "French_language", "Elizabeth_I_of_England"], ["Geneva", "Islam", "Elizabeth_I_of_England"]]

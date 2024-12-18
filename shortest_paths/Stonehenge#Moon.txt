@@ -1,0 +1,1 @@
+[["Stonehenge", "Archaeoastronomy", "Moon"], ["Stonehenge", "Geology", "Moon"], ["Stonehenge", "Ireland", "Moon"], ["Stonehenge", "Japan", "Moon"], ["Stonehenge", "Middle_Ages", "Moon"], ["Stonehenge", "Old_English_language", "Moon"], ["Stonehenge", "United_States", "Moon"], ["Stonehenge", "Sun", "Moon"]]

@@ -1,0 +1,1 @@
+[["Plains_Zebra", "Binomial_nomenclature", "Wasabi"], ["Plains_Zebra", "Scientific_classification", "Wasabi"]]

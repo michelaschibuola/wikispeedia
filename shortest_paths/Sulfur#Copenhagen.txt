@@ -1,0 +1,1 @@
+[["Sulfur", "Hafnium", "Copenhagen"], ["Sulfur", "New_Zealand", "Copenhagen"], ["Sulfur", "United_States", "Copenhagen"], ["Sulfur", "Transport", "Copenhagen"]]

@@ -1,0 +1,1 @@
+[["X_Window_System", "The_Children%27s_Machine", "Egypt", "Akhenaten"], ["X_Window_System", "Latin_alphabet", "Egypt", "Akhenaten"], ["X_Window_System", "Internet", "German_language", "Akhenaten"], ["X_Window_System", "Latin_alphabet", "German_language", "Akhenaten"], ["X_Window_System", "Latin_alphabet", "Greece", "Akhenaten"]]

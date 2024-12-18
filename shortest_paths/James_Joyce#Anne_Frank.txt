@@ -1,0 +1,1 @@
+[["James_Joyce", "Jew", "Anne_Frank"], ["James_Joyce", "Roman_Catholic_Church", "Anne_Frank"], ["James_Joyce", "Switzerland", "Anne_Frank"], ["James_Joyce", "United_States", "Anne_Frank"]]

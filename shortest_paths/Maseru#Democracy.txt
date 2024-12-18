@@ -1,0 +1,1 @@
+[["Maseru", "Africa", "Democracy"], ["Maseru", "South_Africa", "Democracy"]]

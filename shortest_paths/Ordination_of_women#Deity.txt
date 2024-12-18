@@ -1,0 +1,1 @@
+[["Ordination_of_women", "Africa", "Deity"], ["Ordination_of_women", "Buddhism", "Deity"], ["Ordination_of_women", "Islam", "Deity"], ["Ordination_of_women", "Jesus", "Deity"], ["Ordination_of_women", "Judaism", "Deity"]]

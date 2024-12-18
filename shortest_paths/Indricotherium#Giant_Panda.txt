@@ -1,0 +1,1 @@
+[["Indricotherium", "Animal", "Giant_Panda"], ["Indricotherium", "Binomial_nomenclature", "Giant_Panda"], ["Indricotherium", "Chordate", "Giant_Panda"], ["Indricotherium", "Herbivore", "Giant_Panda"], ["Indricotherium", "Mammal", "Giant_Panda"], ["Indricotherium", "Scientific_classification", "Giant_Panda"]]

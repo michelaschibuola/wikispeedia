@@ -1,0 +1,1 @@
+[["Funchal", "Africa", "Arithmetic", "Elementary_algebra"], ["Funchal", "16th_century", "Mathematics", "Elementary_algebra"], ["Funchal", "16th_century", "Number", "Elementary_algebra"]]

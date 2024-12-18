@@ -1,0 +1,1 @@
+[["Platypus", "Animal", "Ankylosaurus"], ["Platypus", "Binomial_nomenclature", "Ankylosaurus"], ["Platypus", "Cretaceous", "Ankylosaurus"], ["Platypus", "Crocodile", "Ankylosaurus"], ["Platypus", "Reptile", "Ankylosaurus"], ["Platypus", "Scientific_classification", "Ankylosaurus"]]

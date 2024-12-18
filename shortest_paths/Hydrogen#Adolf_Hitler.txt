@@ -1,0 +1,1 @@
+[["Hydrogen", "Alcohol", "Adolf_Hitler"], ["Hydrogen", "Aluminium", "Adolf_Hitler"], ["Hydrogen", "Gold", "Adolf_Hitler"], ["Hydrogen", "Max_Planck", "Adolf_Hitler"], ["Hydrogen", "United_Kingdom", "Adolf_Hitler"]]

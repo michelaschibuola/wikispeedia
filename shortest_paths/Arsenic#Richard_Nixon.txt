@@ -1,0 +1,1 @@
+[["Arsenic", "Bangladesh", "Richard_Nixon"], ["Arsenic", "Cambodia", "Richard_Nixon"], ["Arsenic", "Vietnam", "Richard_Nixon"]]

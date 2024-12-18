@@ -1,0 +1,1 @@
+[["Spain", "Communism", "Rubik%27s_Cube"], ["Spain", "England", "Rubik%27s_Cube"], ["Spain", "New_York_City", "Rubik%27s_Cube"], ["Spain", "Paris", "Rubik%27s_Cube"], ["Spain", "Hebrew_language", "Rubik%27s_Cube"], ["Spain", "Hungary", "Rubik%27s_Cube"]]

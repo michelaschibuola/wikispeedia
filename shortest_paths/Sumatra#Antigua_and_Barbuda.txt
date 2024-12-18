@@ -1,0 +1,1 @@
+[["Sumatra", "Islam", "Antigua_and_Barbuda"], ["Sumatra", "Christianity", "Antigua_and_Barbuda"]]

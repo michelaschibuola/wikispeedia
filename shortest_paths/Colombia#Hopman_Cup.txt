@@ -1,0 +1,1 @@
+[["Colombia", "Spain", "Hopman_Cup"], ["Colombia", "United_States", "Hopman_Cup"], ["Colombia", "South_Africa", "Hopman_Cup"]]

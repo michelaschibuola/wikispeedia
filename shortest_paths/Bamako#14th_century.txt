@@ -1,0 +1,1 @@
+[["Bamako", "19th_century", "14th_century"], ["Bamako", "France", "14th_century"]]

@@ -1,0 +1,1 @@
+[["Abuja", "Time_zone", "Jamaica", "Lunar_eclipse"], ["Abuja", "Africa", "Jamaica", "Lunar_eclipse"], ["Abuja", "Commonwealth_Games", "Jamaica", "Lunar_eclipse"], ["Abuja", "Time_zone", "Earth", "Lunar_eclipse"], ["Abuja", "Africa", "Earth", "Lunar_eclipse"], ["Abuja", "Africa", "Ptolemy", "Lunar_eclipse"], ["Abuja", "Africa", "Flat_Earth", "Lunar_eclipse"]]

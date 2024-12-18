@@ -1,0 +1,1 @@
+[["Peace", "Nobel_Peace_Prize", "Weimar_Republic"], ["Peace", "Terrorism", "Weimar_Republic"], ["Peace", "Treaty_of_Versailles", "Weimar_Republic"], ["Peace", "United_States", "Weimar_Republic"], ["Peace", "World_War_II", "Weimar_Republic"]]

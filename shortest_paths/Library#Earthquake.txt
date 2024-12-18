@@ -1,0 +1,1 @@
+[["Library", "House", "Earthquake"], ["Library", "Salt_Lake_City%2C_Utah", "Earthquake"], ["Library", "Lima", "Earthquake"], ["Library", "San_Jose%2C_California", "Earthquake"]]

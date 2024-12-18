@@ -1,0 +1,1 @@
+[["Jupiter", "Astronomy", "Architecture"], ["Jupiter", "Ancient_Rome", "Architecture"], ["Jupiter", "China", "Architecture"]]

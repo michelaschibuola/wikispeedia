@@ -1,0 +1,1 @@
+[["Speed_of_light", "Apollo_8", "Moon_landing"], ["Speed_of_light", "Moon", "Moon_landing"], ["Speed_of_light", "United_States", "Moon_landing"]]

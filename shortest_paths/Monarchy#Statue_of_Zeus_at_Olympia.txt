@@ -1,0 +1,1 @@
+[["Monarchy", "Greece", "Statue_of_Zeus_at_Olympia"], ["Monarchy", "Macedon", "Statue_of_Zeus_at_Olympia"]]

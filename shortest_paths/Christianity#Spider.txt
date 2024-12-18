@@ -1,0 +1,1 @@
+[["Christianity", "Argentina", "Spider"], ["Christianity", "Canada", "Spider"], ["Christianity", "China", "Spider"], ["Christianity", "Japan", "Spider"], ["Christianity", "New_Zealand", "Spider"]]

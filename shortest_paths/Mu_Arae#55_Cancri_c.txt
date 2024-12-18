@@ -1,0 +1,1 @@
+[["Mu_Arae", "Extrasolar_planet", "55_Cancri_c"], ["Mu_Arae", "55_Cancri", "55_Cancri_c"], ["Mu_Arae", "Day", "55_Cancri_c"], ["Mu_Arae", "Gas_giant", "55_Cancri_c"], ["Mu_Arae", "Star", "55_Cancri_c"], ["Mu_Arae", "Sun", "55_Cancri_c"]]

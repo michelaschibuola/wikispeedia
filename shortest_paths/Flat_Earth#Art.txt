@@ -1,0 +1,1 @@
+[["Flat_Earth", "13th_century", "Art"], ["Flat_Earth", "15th_century", "Art"], ["Flat_Earth", "Aristotle", "Art"], ["Flat_Earth", "Europe", "Art"], ["Flat_Earth", "Literature", "Art"], ["Flat_Earth", "Middle_Ages", "Art"], ["Flat_Earth", "Romanticism", "Art"]]

@@ -1,0 +1,1 @@
+[["Newspaper", "London", "Boeing_747"], ["Newspaper", "Montreal", "Boeing_747"], ["Newspaper", "France", "Boeing_747"], ["Newspaper", "Germany", "Boeing_747"], ["Newspaper", "Japan", "Boeing_747"], ["Newspaper", "United_States", "Boeing_747"]]

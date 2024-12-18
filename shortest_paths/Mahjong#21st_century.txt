@@ -1,0 +1,1 @@
+[["Mahjong", "Capitalism", "21st_century"], ["Mahjong", "Communism", "21st_century"], ["Mahjong", "Internet", "21st_century"], ["Mahjong", "People%27s_Republic_of_China", "21st_century"]]

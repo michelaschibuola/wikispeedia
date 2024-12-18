@@ -1,0 +1,1 @@
+[["Glastonbury_Festival", "England", "Cereal", "Tropical_Storm_Delta_%282005%29"], ["Glastonbury_Festival", "England", "Atlantic_Ocean", "Tropical_Storm_Delta_%282005%29"], ["Glastonbury_Festival", "Flood", "Atlantic_Ocean", "Tropical_Storm_Delta_%282005%29"]]

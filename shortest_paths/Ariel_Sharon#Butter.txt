@@ -1,0 +1,1 @@
+[["Ariel_Sharon", "Africa", "Butter"], ["Ariel_Sharon", "France", "Butter"], ["Ariel_Sharon", "Water", "Butter"]]

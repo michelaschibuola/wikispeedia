@@ -1,0 +1,1 @@
+[["GNU", "Anarchism", "Germany", "Archaeopteryx"], ["GNU", "Internet", "Germany", "Archaeopteryx"], ["GNU", "Computer", "Evolution", "Archaeopteryx"], ["GNU", "C%2B%2B", "Evolution", "Archaeopteryx"], ["GNU", "Computer", "History_of_Earth", "Archaeopteryx"], ["GNU", "Internet", "London", "Archaeopteryx"]]

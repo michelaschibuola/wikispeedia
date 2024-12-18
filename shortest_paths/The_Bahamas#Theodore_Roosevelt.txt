@@ -1,0 +1,1 @@
+[["The_Bahamas", "Cuba", "Theodore_Roosevelt"], ["The_Bahamas", "Florida", "Theodore_Roosevelt"], ["The_Bahamas", "History_of_South_Carolina", "Theodore_Roosevelt"], ["The_Bahamas", "Portuguese_language", "Theodore_Roosevelt"]]

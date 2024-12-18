@@ -1,0 +1,1 @@
+[["Rail_transport", "Iran", "Oman"], ["Rail_transport", "Asia", "Oman"], ["Rail_transport", "India", "Oman"], ["Rail_transport", "United_Kingdom", "Oman"], ["Rail_transport", "Time_zone", "Oman"]]

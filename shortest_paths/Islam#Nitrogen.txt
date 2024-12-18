@@ -1,0 +1,1 @@
+[["Islam", "Alchemy", "Nitrogen"], ["Islam", "Extraterrestrial_life", "Nitrogen"], ["Islam", "Food", "Nitrogen"], ["Islam", "Gunpowder", "Nitrogen"], ["Islam", "Latin", "Nitrogen"], ["Islam", "Petroleum", "Nitrogen"], ["Islam", "Middle_Ages", "Nitrogen"], ["Islam", "Water", "Nitrogen"]]

@@ -1,0 +1,1 @@
+[["Nuclear_power", "Soviet_Union", "Seaborgium"], ["Nuclear_power", "United_States", "Seaborgium"], ["Nuclear_power", "Periodic_table", "Seaborgium"]]

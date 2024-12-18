@@ -1,0 +1,1 @@
+[["Malaria", "Haji_Mohammad_Suharto", "Propaganda"], ["Malaria", "Joseph_Stalin", "Propaganda"], ["Malaria", "United_States", "Propaganda"], ["Malaria", "World_War_II", "Propaganda"], ["Malaria", "Scramble_for_Africa", "Propaganda"]]

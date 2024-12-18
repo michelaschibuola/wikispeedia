@@ -1,0 +1,1 @@
+[["Ezra_Pound", "Europe", "Golden_Eagle"], ["Ezra_Pound", "Japan", "Golden_Eagle"]]

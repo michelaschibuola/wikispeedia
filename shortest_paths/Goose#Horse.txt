@@ -1,0 +1,1 @@
+[["Goose", "Athanasius_Kircher", "Horse"], ["Goose", "Animal", "Horse"], ["Goose", "Asia", "Horse"], ["Goose", "Chordate", "Horse"], ["Goose", "Europe", "Horse"], ["Goose", "North_America", "Horse"], ["Goose", "Scientific_classification", "Horse"]]

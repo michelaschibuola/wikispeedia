@@ -1,0 +1,1 @@
+[["Felice_Beato", "China", "Cancer"], ["Felice_Beato", "Japan", "Cancer"], ["Felice_Beato", "London", "Cancer"]]

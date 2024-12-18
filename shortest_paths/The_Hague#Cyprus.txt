@@ -1,0 +1,1 @@
+[["The_Hague", "European_Union", "Cyprus"], ["The_Hague", "NATO", "Cyprus"], ["The_Hague", "Netherlands", "Cyprus"], ["The_Hague", "Europe", "Cyprus"], ["The_Hague", "France", "Cyprus"], ["The_Hague", "Royal_Air_Force", "Cyprus"], ["The_Hague", "United_Nations", "Cyprus"], ["The_Hague", "World_War_II", "Cyprus"]]

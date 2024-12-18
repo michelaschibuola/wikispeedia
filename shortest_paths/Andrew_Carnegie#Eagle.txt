@@ -1,0 +1,1 @@
+[["Andrew_Carnegie", "Australia", "Eagle"], ["Andrew_Carnegie", "English_language", "Eagle"], ["Andrew_Carnegie", "Great_Britain", "Eagle"], ["Andrew_Carnegie", "Philippines", "Eagle"], ["Andrew_Carnegie", "United_States", "Eagle"]]

@@ -1,0 +1,1 @@
+[["Wild_cat", "Africa", "Nationalism"], ["Wild_cat", "Asia", "Nationalism"], ["Wild_cat", "China", "Nationalism"], ["Wild_cat", "Egypt", "Nationalism"], ["Wild_cat", "England", "Nationalism"], ["Wild_cat", "India", "Nationalism"], ["Wild_cat", "Ireland", "Nationalism"], ["Wild_cat", "Portugal", "Nationalism"], ["Wild_cat", "Spain", "Nationalism"]]

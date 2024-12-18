@@ -1,0 +1,1 @@
+[["Earl_of_Shaftesbury", "British_Isles", "Roman_Empire", "Giraffe"], ["Earl_of_Shaftesbury", "British_Isles", "Nairobi", "Giraffe"], ["Earl_of_Shaftesbury", "Charles_II_of_England", "Africa", "Giraffe"], ["Earl_of_Shaftesbury", "Dorset", "Cattle", "Giraffe"]]

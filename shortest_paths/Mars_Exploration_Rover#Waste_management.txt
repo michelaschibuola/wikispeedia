@@ -1,0 +1,1 @@
+[["Mars_Exploration_Rover", "Aluminium", "Waste_management"], ["Mars_Exploration_Rover", "Australia", "Waste_management"], ["Mars_Exploration_Rover", "Germany", "Waste_management"], ["Mars_Exploration_Rover", "Soil", "Waste_management"]]

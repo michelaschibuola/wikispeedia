@@ -1,0 +1,1 @@
+[["Bologna", "Europe", "Manchester_United_F.C."], ["Bologna", "Football_%28soccer%29", "Manchester_United_F.C."], ["Bologna", "Germany", "Manchester_United_F.C."], ["Bologna", "United_Kingdom", "Manchester_United_F.C."], ["Bologna", "United_States", "Manchester_United_F.C."], ["Bologna", "World_War_II", "Manchester_United_F.C."]]

@@ -1,0 +1,1 @@
+[["Lyme_disease", "Europe", "History_of_Central_Asia"], ["Lyme_disease", "North_America", "History_of_Central_Asia"]]

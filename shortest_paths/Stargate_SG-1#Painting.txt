@@ -1,0 +1,1 @@
+[["Stargate_SG-1", "Ancient_Egypt", "Painting"], ["Stargate_SG-1", "Australia", "Painting"], ["Stargate_SG-1", "France", "Painting"], ["Stargate_SG-1", "Portugal", "Painting"], ["Stargate_SG-1", "Spain", "Painting"]]

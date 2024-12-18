@@ -1,0 +1,1 @@
+[["Onion_dome", "Moscow", "Polish-Soviet_War"], ["Onion_dome", "Munich", "Polish-Soviet_War"], ["Onion_dome", "Kiev", "Polish-Soviet_War"]]

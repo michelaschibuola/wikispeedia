@@ -1,0 +1,1 @@
+[["Winter", "California", "Star_Wars"], ["Winter", "England", "Star_Wars"], ["Winter", "Sydney", "Star_Wars"], ["Winter", "Ancient_Rome", "Star_Wars"], ["Winter", "Earth", "Star_Wars"], ["Winter", "Europe", "Star_Wars"], ["Winter", "Germany", "Star_Wars"]]

@@ -1,0 +1,1 @@
+[["Ku_Klux_Klan", "Canada", "Mixed-breed_dog"], ["Ku_Klux_Klan", "United_States", "Mixed-breed_dog"]]

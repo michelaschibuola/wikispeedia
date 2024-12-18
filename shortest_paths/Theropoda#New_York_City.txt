@@ -1,0 +1,1 @@
+[["Theropoda", "Albertosaurus", "New_York_City"], ["Theropoda", "Dinosaur", "New_York_City"], ["Theropoda", "Microraptor", "New_York_City"], ["Theropoda", "Chicago", "New_York_City"], ["Theropoda", "North_America", "New_York_City"], ["Theropoda", "Tyrannosaurus", "New_York_City"]]

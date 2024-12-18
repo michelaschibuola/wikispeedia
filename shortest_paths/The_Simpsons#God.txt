@@ -1,0 +1,1 @@
+[["The_Simpsons", "Joseph_and_the_Amazing_Technicolor_Dreamcoat", "God"], ["The_Simpsons", "Stephen_Jay_Gould", "God"], ["The_Simpsons", "Buddhism", "God"], ["The_Simpsons", "Christianity", "God"], ["The_Simpsons", "France", "God"], ["The_Simpsons", "Islam", "God"], ["The_Simpsons", "United_States", "God"]]

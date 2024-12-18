@@ -1,0 +1,1 @@
+[["Egypt", "Africa", "Victoria%2C_Seychelles"], ["Egypt", "British_Empire", "Victoria%2C_Seychelles"], ["Egypt", "Fishing", "Victoria%2C_Seychelles"], ["Egypt", "United_Kingdom", "Victoria%2C_Seychelles"]]

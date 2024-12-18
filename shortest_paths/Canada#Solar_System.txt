@@ -1,0 +1,1 @@
+[["Canada", "Latin", "Solar_System"], ["Canada", "Carbon", "Solar_System"], ["Canada", "Earth", "Solar_System"], ["Canada", "Helium", "Solar_System"], ["Canada", "Moon", "Solar_System"], ["Canada", "Nickel", "Solar_System"], ["Canada", "Silver", "Solar_System"], ["Canada", "Superman", "Solar_System"], ["Canada", "Water", "Solar_System"], ["Canada", "Weather", "Solar_System"]]

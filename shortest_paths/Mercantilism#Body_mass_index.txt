@@ -1,0 +1,1 @@
+[["Mercantilism", "British_Empire", "Belgium", "Body_mass_index"], ["Mercantilism", "Liberalism", "Belgium", "Body_mass_index"], ["Mercantilism", "Germany", "Belgium", "Body_mass_index"], ["Mercantilism", "Economics", "Health", "Body_mass_index"], ["Mercantilism", "Japan", "World_Health_Organization", "Body_mass_index"]]

@@ -1,0 +1,1 @@
+[["Lake_Baikal", "Nature", "Immanuel_Kant"], ["Lake_Baikal", "Russia", "Immanuel_Kant"], ["Lake_Baikal", "Russian_language", "Immanuel_Kant"]]

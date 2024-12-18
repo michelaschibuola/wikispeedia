@@ -1,0 +1,1 @@
+[["North_Africa", "Africa", "Ernest_Hemingway"], ["North_Africa", "20th_century", "Ernest_Hemingway"], ["North_Africa", "Italy", "Ernest_Hemingway"], ["North_Africa", "Spain", "Ernest_Hemingway"], ["North_Africa", "World_War_II", "Ernest_Hemingway"], ["North_Africa", "United_States", "Ernest_Hemingway"]]

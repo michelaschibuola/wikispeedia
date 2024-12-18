@@ -1,0 +1,1 @@
+[["Tiananmen_Square_protests_of_1989", "China", "Firearm"], ["Tiananmen_Square_protests_of_1989", "United_States", "Firearm"]]

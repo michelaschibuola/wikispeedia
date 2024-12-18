@@ -1,0 +1,1 @@
+[["Qur%27an", "Asia", "Caribbean_Sea"], ["Qur%27an", "Europe", "Caribbean_Sea"]]

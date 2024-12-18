@@ -1,0 +1,1 @@
+[["Tobacco_smoking", "Tobacco", "Edgar_Allan_Poe"], ["Tobacco_smoking", "England", "Edgar_Allan_Poe"], ["Tobacco_smoking", "Scotland", "Edgar_Allan_Poe"], ["Tobacco_smoking", "Sweden", "Edgar_Allan_Poe"], ["Tobacco_smoking", "United_States", "Edgar_Allan_Poe"]]

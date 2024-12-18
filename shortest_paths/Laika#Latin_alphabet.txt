@@ -1,0 +1,1 @@
+[["Laika", "Soviet_Union", "Latin_alphabet"]]

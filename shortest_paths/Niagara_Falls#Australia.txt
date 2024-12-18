@@ -1,0 +1,1 @@
+[["Niagara_Falls", "Domestic_AC_power_plugs_and_sockets", "Australia"], ["Niagara_Falls", "Charles_Dickens", "Australia"], ["Niagara_Falls", "United_States", "Australia"], ["Niagara_Falls", "World_War_I", "Australia"], ["Niagara_Falls", "River", "Australia"]]

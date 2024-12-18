@@ -1,0 +1,1 @@
+[["White_cliffs_of_Dover", "England", "Denmark"], ["White_cliffs_of_Dover", "Europe", "Denmark"], ["White_cliffs_of_Dover", "France", "Denmark"], ["White_cliffs_of_Dover", "United_Kingdom", "Denmark"]]

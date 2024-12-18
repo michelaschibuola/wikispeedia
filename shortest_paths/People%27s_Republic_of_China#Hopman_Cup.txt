@@ -1,0 +1,1 @@
+[["People%27s_Republic_of_China", "Australia", "Hopman_Cup"], ["People%27s_Republic_of_China", "Germany", "Hopman_Cup"], ["People%27s_Republic_of_China", "United_States", "Hopman_Cup"], ["People%27s_Republic_of_China", "Spain", "Hopman_Cup"]]

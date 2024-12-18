@@ -1,0 +1,1 @@
+[["Ho_Chi_Minh", "France", "International_Red_Cross_and_Red_Crescent_Movement"], ["Ho_Chi_Minh", "Soviet_Union", "International_Red_Cross_and_Red_Crescent_Movement"], ["Ho_Chi_Minh", "United_States", "International_Red_Cross_and_Red_Crescent_Movement"], ["Ho_Chi_Minh", "World_War_I", "International_Red_Cross_and_Red_Crescent_Movement"]]

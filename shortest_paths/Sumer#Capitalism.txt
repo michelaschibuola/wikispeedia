@@ -1,0 +1,1 @@
+[["Sumer", "History_of_Earth", "Capitalism"], ["Sumer", "History_of_the_world", "Capitalism"], ["Sumer", "Religion", "Capitalism"]]

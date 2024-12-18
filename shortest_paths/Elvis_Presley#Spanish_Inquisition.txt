@@ -1,0 +1,1 @@
+[["Elvis_Presley", "France", "Spanish_Inquisition"], ["Elvis_Presley", "Germany", "Spanish_Inquisition"], ["Elvis_Presley", "Race", "Spanish_Inquisition"]]

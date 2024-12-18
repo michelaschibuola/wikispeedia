@@ -1,0 +1,1 @@
+[["Snowdonia", "Biosphere", "Animal", "Monoclonius"], ["Snowdonia", "England", "Battle_of_the_Little_Bighorn", "Monoclonius"], ["Snowdonia", "England", "Dinosaur", "Monoclonius"], ["Snowdonia", "England", "Parrot", "Monoclonius"], ["Snowdonia", "English_language", "Canada", "Monoclonius"], ["Snowdonia", "English_language", "North_America", "Monoclonius"]]

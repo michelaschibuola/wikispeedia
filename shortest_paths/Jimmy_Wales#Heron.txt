@@ -1,0 +1,1 @@
+[["Jimmy_Wales", "Florida", "Extinct_birds", "Heron"], ["Jimmy_Wales", "Frankfurt", "Canada", "Heron"], ["Jimmy_Wales", "Germany", "Canada", "Heron"], ["Jimmy_Wales", "United_States", "Canada", "Heron"], ["Jimmy_Wales", "Germany", "Zambezi", "Heron"], ["Jimmy_Wales", "India", "Rice", "Heron"], ["Jimmy_Wales", "United_States", "Rice", "Heron"]]

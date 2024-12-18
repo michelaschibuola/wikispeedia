@@ -1,0 +1,1 @@
+[["Hurricane_Katrina", "21st_century", "Globalization"], ["Hurricane_Katrina", "Canada", "Globalization"], ["Hurricane_Katrina", "Pakistan", "Globalization"], ["Hurricane_Katrina", "Poverty", "Globalization"], ["Hurricane_Katrina", "South_Korea", "Globalization"], ["Hurricane_Katrina", "United_States", "Globalization"]]

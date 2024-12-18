@@ -1,0 +1,1 @@
+[["Jackal", "Europe", "Golden_Eagle"], ["Jackal", "Fox", "Golden_Eagle"], ["Jackal", "Africa", "Golden_Eagle"], ["Jackal", "Animal", "Golden_Eagle"], ["Jackal", "Asia", "Golden_Eagle"], ["Jackal", "Bird", "Golden_Eagle"], ["Jackal", "Chordate", "Golden_Eagle"], ["Jackal", "Mammal", "Golden_Eagle"], ["Jackal", "Scientific_classification", "Golden_Eagle"]]

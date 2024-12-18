@@ -1,0 +1,1 @@
+[["Camel", "Africa", "Dog"], ["Camel", "Ammonia", "Dog"], ["Camel", "Afghanistan", "Dog"], ["Camel", "Animal", "Dog"], ["Camel", "Mammal", "Dog"], ["Camel", "Scientific_classification", "Dog"], ["Camel", "Milk", "Dog"], ["Camel", "Pliocene", "Dog"]]

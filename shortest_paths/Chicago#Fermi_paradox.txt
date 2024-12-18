@@ -1,0 +1,1 @@
+[["Chicago", "Nikola_Tesla", "Fermi_paradox"]]

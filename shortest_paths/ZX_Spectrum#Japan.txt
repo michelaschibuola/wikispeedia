@@ -1,0 +1,1 @@
+[["ZX_Spectrum", "Blade_Runner", "Japan"], ["ZX_Spectrum", "Floppy_disk", "Japan"], ["ZX_Spectrum", "Pac-Man", "Japan"], ["ZX_Spectrum", "SimCity", "Japan"], ["ZX_Spectrum", "Euro", "Japan"], ["ZX_Spectrum", "Nintendo", "Japan"], ["ZX_Spectrum", "United_Kingdom", "Japan"]]

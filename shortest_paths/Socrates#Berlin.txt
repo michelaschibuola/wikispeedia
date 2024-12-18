@@ -1,0 +1,1 @@
+[["Socrates", "Frederick_II_of_Prussia", "Berlin"], ["Socrates", "Greece", "Berlin"], ["Socrates", "Pericles", "Berlin"], ["Socrates", "S%C3%B8ren_Kierkegaard", "Berlin"], ["Socrates", "Athens", "Berlin"]]

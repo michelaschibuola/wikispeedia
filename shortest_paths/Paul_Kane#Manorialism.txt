@@ -1,0 +1,1 @@
+[["Paul_Kane", "Europe", "Manorialism"], ["Paul_Kane", "France", "Manorialism"]]

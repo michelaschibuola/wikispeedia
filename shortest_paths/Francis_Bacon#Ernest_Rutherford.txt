@@ -1,0 +1,1 @@
+[["Francis_Bacon", "England", "Ernest_Rutherford"], ["Francis_Bacon", "Alchemy", "Ernest_Rutherford"], ["Francis_Bacon", "Trinity_College%2C_Cambridge", "Ernest_Rutherford"], ["Francis_Bacon", "University_of_Cambridge", "Ernest_Rutherford"]]

@@ -1,0 +1,1 @@
+[["Trench_warfare", "Ernest_Hemingway", "Chicago"], ["Trench_warfare", "Athens", "Chicago"], ["Trench_warfare", "Germany", "Chicago"], ["Trench_warfare", "Monopoly_%28game%29", "Chicago"], ["Trench_warfare", "United_States", "Chicago"], ["Trench_warfare", "World_War_II", "Chicago"]]

@@ -1,0 +1,1 @@
+[["Barbados", "English_language", "Butter"], ["Barbados", "Ireland", "Butter"], ["Barbados", "Roman_Catholic_Church", "Butter"], ["Barbados", "Scotland", "Butter"], ["Barbados", "Sugar", "Butter"], ["Barbados", "United_Kingdom", "Butter"]]

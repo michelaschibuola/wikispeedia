@@ -1,0 +1,1 @@
+[["University_of_Chicago", "Carl_Sagan", "Astrology"], ["University_of_Chicago", "Israel", "Astrology"], ["University_of_Chicago", "Voynich_manuscript", "Astrology"]]

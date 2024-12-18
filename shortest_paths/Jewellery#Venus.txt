@@ -1,0 +1,1 @@
+[["Jewellery", "Ancient_Greece", "Venus"], ["Jewellery", "Ancient_Egypt", "Venus"], ["Jewellery", "Australia", "Venus"], ["Jewellery", "China", "Venus"], ["Jewellery", "Copper", "Venus"], ["Jewellery", "Latin", "Venus"], ["Jewellery", "Maya_civilization", "Venus"], ["Jewellery", "South_America", "Venus"]]

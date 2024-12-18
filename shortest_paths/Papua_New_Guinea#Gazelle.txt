@@ -1,0 +1,1 @@
+[["Papua_New_Guinea", "Africa", "Gazelle"], ["Papua_New_Guinea", "Mammal", "Gazelle"]]

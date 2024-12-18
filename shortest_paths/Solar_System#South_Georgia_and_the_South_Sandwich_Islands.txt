@@ -1,0 +1,1 @@
+[["Solar_System", "Antarctica", "South_Georgia_and_the_South_Sandwich_Islands"], ["Solar_System", "Latin", "South_Georgia_and_the_South_Sandwich_Islands"], ["Solar_System", "Transit_of_Venus", "South_Georgia_and_the_South_Sandwich_Islands"], ["Solar_System", "Volcano", "South_Georgia_and_the_South_Sandwich_Islands"]]

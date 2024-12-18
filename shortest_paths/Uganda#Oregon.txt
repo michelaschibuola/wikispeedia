@@ -1,0 +1,1 @@
+[["Uganda", "List_of_lakes", "Oregon"], ["Uganda", "Christianity", "Oregon"], ["Uganda", "Ghana", "Oregon"], ["Uganda", "Spain", "Oregon"], ["Uganda", "United_Kingdom", "Oregon"], ["Uganda", "United_States", "Oregon"]]

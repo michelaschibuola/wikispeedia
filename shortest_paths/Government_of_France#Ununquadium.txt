@@ -1,0 +1,1 @@
+[["Government_of_France", "Currency", "Russia", "Ununquadium"], ["Government_of_France", "France", "Russia", "Ununquadium"], ["Government_of_France", "Human_rights", "Russia", "Ununquadium"], ["Government_of_France", "Mass_media", "Russia", "Ununquadium"], ["Government_of_France", "Radio", "Electron", "Ununquadium"], ["Government_of_France", "Television", "Color", "Ununquadium"]]

@@ -1,0 +1,1 @@
+[["Calgary", "Canada", "Modern_history"], ["Calgary", "Europe", "Modern_history"], ["Calgary", "India", "Modern_history"], ["Calgary", "Pacific_Ocean", "Modern_history"], ["Calgary", "People%27s_Republic_of_China", "Modern_history"], ["Calgary", "United_States", "Modern_history"]]

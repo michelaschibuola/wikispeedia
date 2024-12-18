@@ -1,0 +1,1 @@
+[["Upsilon_Andromedae_c", "Earth", "Africa", "The_Dandy"], ["Upsilon_Andromedae_c", "Earth", "United_Kingdom", "The_Dandy"], ["Upsilon_Andromedae_c", "Gravitation", "United_Kingdom", "The_Dandy"]]

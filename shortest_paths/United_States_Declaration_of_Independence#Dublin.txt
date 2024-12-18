@@ -1,0 +1,1 @@
+[["United_States_Declaration_of_Independence", "Benjamin_Franklin", "Dublin"], ["United_States_Declaration_of_Independence", "New_York_City", "Dublin"], ["United_States_Declaration_of_Independence", "Philadelphia", "Dublin"], ["United_States_Declaration_of_Independence", "United_States", "Dublin"]]

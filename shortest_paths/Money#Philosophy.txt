@@ -1,0 +1,1 @@
+[["Money", "Economics", "Philosophy"], ["Money", "Human", "Philosophy"], ["Money", "John_Locke", "Philosophy"], ["Money", "Mesopotamia", "Philosophy"], ["Money", "Art", "Philosophy"], ["Money", "Bob_Dylan", "Philosophy"], ["Money", "China", "Philosophy"], ["Money", "Voltaire", "Philosophy"], ["Money", "Water", "Philosophy"], ["Money", "The_Brothers_Karamazov", "Philosophy"]]

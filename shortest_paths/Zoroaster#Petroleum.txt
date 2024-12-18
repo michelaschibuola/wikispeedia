@@ -1,0 +1,1 @@
+[["Zoroaster", "Iran", "Petroleum"], ["Zoroaster", "Persian_Empire", "Petroleum"], ["Zoroaster", "Russia", "Petroleum"]]

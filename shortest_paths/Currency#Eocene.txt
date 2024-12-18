@@ -1,0 +1,1 @@
+[["Currency", "Australia", "Eocene"], ["Currency", "Egypt", "Eocene"], ["Currency", "Greenland", "Eocene"], ["Currency", "India", "Eocene"], ["Currency", "Puerto_Rico", "Eocene"], ["Currency", "Trinidad_and_Tobago", "Eocene"], ["Currency", "United_States", "Eocene"]]

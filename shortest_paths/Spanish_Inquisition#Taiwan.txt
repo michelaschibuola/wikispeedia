@@ -1,0 +1,1 @@
+[["Spanish_Inquisition", "19th_century", "Taiwan"], ["Spanish_Inquisition", "Christianity", "Taiwan"], ["Spanish_Inquisition", "Islam", "Taiwan"], ["Spanish_Inquisition", "Judaism", "Taiwan"], ["Spanish_Inquisition", "Portugal", "Taiwan"]]

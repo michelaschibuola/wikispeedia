@@ -1,0 +1,1 @@
+[["11th_century", "13th_century", "Art"], ["11th_century", "15th_century", "Art"], ["11th_century", "21st_century", "Art"], ["11th_century", "China", "Art"], ["11th_century", "France", "Art"], ["11th_century", "Time", "Art"], ["11th_century", "Chola_dynasty", "Art"], ["11th_century", "Yemen", "Art"]]

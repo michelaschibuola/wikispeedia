@@ -1,0 +1,1 @@
+[["Spanish_Inquisition", "15th_century", "Vietnam"], ["Spanish_Inquisition", "19th_century", "Vietnam"], ["Spanish_Inquisition", "Christianity", "Vietnam"], ["Spanish_Inquisition", "France", "Vietnam"], ["Spanish_Inquisition", "Islam", "Vietnam"]]

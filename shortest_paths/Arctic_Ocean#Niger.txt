@@ -1,0 +1,1 @@
+[["Arctic_Ocean", "Canada", "Niger"], ["Arctic_Ocean", "China", "Niger"], ["Arctic_Ocean", "United_States", "Niger"], ["Arctic_Ocean", "Sub-Saharan_Africa", "Niger"]]

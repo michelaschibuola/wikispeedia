@@ -1,0 +1,1 @@
+[["Rice", "Asia", "Panama_Canal"], ["Rice", "Ecuador", "Panama_Canal"], ["Rice", "France", "Panama_Canal"], ["Rice", "Nicaragua", "Panama_Canal"], ["Rice", "People%27s_Republic_of_China", "Panama_Canal"], ["Rice", "Peru", "Panama_Canal"], ["Rice", "South_America", "Panama_Canal"], ["Rice", "Spanish_language", "Panama_Canal"], ["Rice", "United_States", "Panama_Canal"]]

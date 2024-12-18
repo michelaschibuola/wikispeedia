@@ -1,0 +1,1 @@
+[["Shielded_metal_arc_welding", "Carbon_dioxide", "Ice"], ["Shielded_metal_arc_welding", "Earth%27s_atmosphere", "Ice"]]

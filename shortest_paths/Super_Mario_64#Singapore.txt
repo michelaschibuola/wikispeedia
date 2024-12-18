@@ -1,0 +1,1 @@
+[["Super_Mario_64", "China", "Singapore"], ["Super_Mario_64", "Europe", "Singapore"], ["Super_Mario_64", "Japan", "Singapore"]]

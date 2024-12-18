@@ -1,0 +1,1 @@
+[["Ethanol", "Canada", "Bog"], ["Ethanol", "Carbon_dioxide", "Bog"], ["Ethanol", "Fossil_fuel", "Bog"], ["Ethanol", "United_Kingdom", "Bog"]]

@@ -1,0 +1,1 @@
+[["Popular_culture", "Berlin", "Ancient_Egypt"], ["Popular_culture", "Culture", "Ancient_Egypt"], ["Popular_culture", "Engineering", "Ancient_Egypt"], ["Popular_culture", "Olmec", "Ancient_Egypt"], ["Popular_culture", "Art", "Ancient_Egypt"], ["Popular_culture", "Literature", "Ancient_Egypt"], ["Popular_culture", "Society", "Ancient_Egypt"]]

@@ -1,0 +1,1 @@
+[["Tourism", "South_Africa", "Dance"], ["Tourism", "20th_century", "Dance"], ["Tourism", "Brazil", "Dance"], ["Tourism", "Europe", "Dance"], ["Tourism", "Peru", "Dance"], ["Tourism", "Rio_de_Janeiro", "Dance"]]

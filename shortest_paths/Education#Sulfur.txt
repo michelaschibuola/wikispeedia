@@ -1,0 +1,1 @@
+[["Education", "Latin", "Sulfur"], ["Education", "United_States", "Sulfur"], ["Education", "Hong_Kong", "Sulfur"], ["Education", "Sanskrit", "Sulfur"], ["Education", "Transport", "Sulfur"]]

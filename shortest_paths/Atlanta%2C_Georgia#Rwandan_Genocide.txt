@@ -1,0 +1,1 @@
+[["Atlanta%2C_Georgia", "Belgium", "Rwandan_Genocide"], ["Atlanta%2C_Georgia", "France", "Rwandan_Genocide"], ["Atlanta%2C_Georgia", "Germany", "Rwandan_Genocide"], ["Atlanta%2C_Georgia", "Israel", "Rwandan_Genocide"], ["Atlanta%2C_Georgia", "United_Kingdom", "Rwandan_Genocide"], ["Atlanta%2C_Georgia", "United_States", "Rwandan_Genocide"]]

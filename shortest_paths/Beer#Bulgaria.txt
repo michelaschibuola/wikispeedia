@@ -1,0 +1,1 @@
+[["Beer", "Africa", "Bulgaria"], ["Beer", "Finland", "Bulgaria"], ["Beer", "Japan", "Bulgaria"], ["Beer", "Kazakhstan", "Bulgaria"], ["Beer", "New_Zealand", "Bulgaria"], ["Beer", "Russia", "Bulgaria"], ["Beer", "Ukraine", "Bulgaria"], ["Beer", "United_States", "Bulgaria"]]

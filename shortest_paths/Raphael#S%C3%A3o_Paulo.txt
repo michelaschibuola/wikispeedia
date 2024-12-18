@@ -1,0 +1,1 @@
+[["Raphael", "Budapest", "S%C3%A3o_Paulo"], ["Raphael", "France", "S%C3%A3o_Paulo"], ["Raphael", "Italy", "S%C3%A3o_Paulo"], ["Raphael", "London", "S%C3%A3o_Paulo"], ["Raphael", "Milan", "S%C3%A3o_Paulo"], ["Raphael", "Paris", "S%C3%A3o_Paulo"], ["Raphael", "Paul_of_Tarsus", "S%C3%A3o_Paulo"]]

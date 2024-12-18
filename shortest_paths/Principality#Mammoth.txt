@@ -1,0 +1,1 @@
+[["Principality", "Africa", "Mammoth"], ["Principality", "Asia", "Mammoth"], ["Principality", "Europe", "Mammoth"], ["Principality", "France", "Mammoth"], ["Principality", "Spain", "Mammoth"], ["Principality", "World_War_II", "Mammoth"]]

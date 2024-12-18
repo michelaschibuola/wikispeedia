@@ -1,0 +1,1 @@
+[["Uruguay", "Hebrew_language", "Crimean_Karaites"], ["Uruguay", "Jew", "Crimean_Karaites"], ["Uruguay", "Europe", "Crimean_Karaites"], ["Uruguay", "United_States", "Crimean_Karaites"]]

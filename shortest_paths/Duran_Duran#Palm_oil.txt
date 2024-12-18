@@ -1,0 +1,1 @@
+[["Duran_Duran", "Indonesia", "Palm_oil"], ["Duran_Duran", "United_Kingdom", "Palm_oil"]]

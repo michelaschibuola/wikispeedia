@@ -1,0 +1,1 @@
+[["Winter", "2005_Kashmir_earthquake", "21st_century"], ["Winter", "Florida", "21st_century"], ["Winter", "19th_century", "21st_century"], ["Winter", "Europe", "21st_century"], ["Winter", "Germany", "21st_century"], ["Winter", "Russia", "21st_century"], ["Winter", "United_Kingdom", "21st_century"], ["Winter", "United_States", "21st_century"]]

@@ -1,0 +1,1 @@
+[["Hero_of_the_Russian_Federation", "Japan", "Giant_Panda"], ["Hero_of_the_Russian_Federation", "Soviet_Union", "Giant_Panda"], ["Hero_of_the_Russian_Federation", "United_States", "Giant_Panda"]]

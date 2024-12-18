@@ -1,0 +1,1 @@
+[["Mathematics", "Ancient_Egypt", "Wine"], ["Mathematics", "Iran", "Wine"], ["Mathematics", "Islam", "Wine"], ["Mathematics", "Australia", "Wine"], ["Mathematics", "Latin", "Wine"], ["Mathematics", "Mesopotamia", "Wine"]]

@@ -1,0 +1,1 @@
+[["Mahjong", "Asia", "Cambodia"], ["Mahjong", "Beijing", "Cambodia"], ["Mahjong", "China", "Cambodia"], ["Mahjong", "Chinese_language", "Cambodia"], ["Mahjong", "Communism", "Cambodia"], ["Mahjong", "French_language", "Cambodia"], ["Mahjong", "People%27s_Republic_of_China", "Cambodia"]]

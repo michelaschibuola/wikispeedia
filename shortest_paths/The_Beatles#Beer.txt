@@ -1,0 +1,1 @@
+[["The_Beatles", "Hamburg", "Beer"], ["The_Beatles", "Finland", "Beer"], ["The_Beatles", "Manchester", "Beer"], ["The_Beatles", "New_Zealand", "Beer"], ["The_Beatles", "United_States", "Beer"]]

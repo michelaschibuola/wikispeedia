@@ -1,0 +1,1 @@
+[["Diamond", "Japan", "John_F._Kennedy"], ["Diamond", "London", "John_F._Kennedy"], ["Diamond", "United_States", "John_F._Kennedy"], ["Diamond", "Lincoln_%28automobile%29", "John_F._Kennedy"]]

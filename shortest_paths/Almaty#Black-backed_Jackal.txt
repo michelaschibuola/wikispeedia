@@ -1,0 +1,1 @@
+[["Almaty", "Apple", "Binomial_nomenclature", "Black-backed_Jackal"], ["Almaty", "Apple", "Scientific_classification", "Black-backed_Jackal"], ["Almaty", "France", "Africa", "Black-backed_Jackal"], ["Almaty", "Istanbul", "Africa", "Black-backed_Jackal"], ["Almaty", "Soviet_Union", "Africa", "Black-backed_Jackal"], ["Almaty", "Turkey", "Fox", "Black-backed_Jackal"]]

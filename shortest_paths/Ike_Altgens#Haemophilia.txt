@@ -1,0 +1,1 @@
+[["Ike_Altgens", "Dallas%2C_Texas", "Jew", "Haemophilia"], ["Ike_Altgens", "United_States", "Jew", "Haemophilia"], ["Ike_Altgens", "World_War_II", "Jew", "Haemophilia"], ["Ike_Altgens", "United_States", "HIV", "Haemophilia"]]

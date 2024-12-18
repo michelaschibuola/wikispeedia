@@ -1,0 +1,1 @@
+[["Middle_Ages", "Europe", "Mississippi_River"], ["Middle_Ages", "Spain", "Mississippi_River"]]

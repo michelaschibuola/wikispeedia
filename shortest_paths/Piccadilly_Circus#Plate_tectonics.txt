@@ -1,0 +1,1 @@
+[["Piccadilly_Circus", "Aluminium", "Plate_tectonics"], ["Piccadilly_Circus", "United_States", "Plate_tectonics"]]

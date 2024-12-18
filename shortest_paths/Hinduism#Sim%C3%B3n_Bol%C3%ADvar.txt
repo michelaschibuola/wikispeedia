@@ -1,0 +1,1 @@
+[["Hinduism", "United_Kingdom", "Sim%C3%B3n_Bol%C3%ADvar"], ["Hinduism", "Jamaica", "Sim%C3%B3n_Bol%C3%ADvar"], ["Hinduism", "Latin_America", "Sim%C3%B3n_Bol%C3%ADvar"], ["Hinduism", "Nationalism", "Sim%C3%B3n_Bol%C3%ADvar"], ["Hinduism", "Panama", "Sim%C3%B3n_Bol%C3%ADvar"], ["Hinduism", "South_America", "Sim%C3%B3n_Bol%C3%ADvar"]]

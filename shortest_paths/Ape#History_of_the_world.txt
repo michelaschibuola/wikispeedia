@@ -1,0 +1,1 @@
+[["Ape", "Africa", "History_of_the_world"], ["Ape", "Asia", "History_of_the_world"], ["Ape", "Christianity", "History_of_the_world"], ["Ape", "Human", "History_of_the_world"]]

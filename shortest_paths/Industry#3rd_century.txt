@@ -1,0 +1,1 @@
+[["Industry", "North_America", "3rd_century"], ["Industry", "Japan", "3rd_century"], ["Industry", "Mexico", "3rd_century"], ["Industry", "Syria", "3rd_century"], ["Industry", "Ukraine", "3rd_century"]]

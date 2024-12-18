@@ -1,0 +1,1 @@
+[["Coriander", "Ancient_Egypt", "Ramesses_II"], ["Coriander", "Israel", "Ramesses_II"], ["Coriander", "Mediterranean_Sea", "Ramesses_II"]]

@@ -1,0 +1,1 @@
+[["Art", "Color", "Pigment"], ["Art", "France", "Pigment"], ["Art", "Human", "Pigment"], ["Art", "Carbon", "Pigment"], ["Art", "Sand_art_and_play", "Pigment"]]

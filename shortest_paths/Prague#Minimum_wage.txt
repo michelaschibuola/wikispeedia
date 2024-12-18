@@ -1,0 +1,1 @@
+[["Prague", "European_Union", "Minimum_wage"], ["Prague", "Cyprus", "Minimum_wage"], ["Prague", "Germany", "Minimum_wage"]]

@@ -1,0 +1,1 @@
+[["Planet", "Argon", "Magnetism"], ["Planet", "Atom", "Magnetism"], ["Planet", "Carbon", "Magnetism"], ["Planet", "Physics", "Magnetism"], ["Planet", "Hydrogen", "Magnetism"], ["Planet", "Nitrogen", "Magnetism"], ["Planet", "Oxygen", "Magnetism"], ["Planet", "Star", "Magnetism"], ["Planet", "Silver", "Magnetism"]]

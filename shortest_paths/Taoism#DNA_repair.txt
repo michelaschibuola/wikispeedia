@@ -1,0 +1,1 @@
+[["Taoism", "China", "Cancer", "DNA_repair"], ["Taoism", "Japan", "Cancer", "DNA_repair"], ["Taoism", "China", "Fossil_record", "DNA_repair"], ["Taoism", "Culture", "Evolution", "DNA_repair"], ["Taoism", "History_of_the_world", "DNA", "DNA_repair"], ["Taoism", "Symmetry", "DNA", "DNA_repair"], ["Taoism", "Korea", "Protein", "DNA_repair"]]

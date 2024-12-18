@@ -1,0 +1,1 @@
+[["Rococo", "Munich", "Henrik_Ibsen"], ["Rococo", "19th_century", "Henrik_Ibsen"], ["Rococo", "Art", "Henrik_Ibsen"], ["Rococo", "Germany", "Henrik_Ibsen"], ["Rococo", "Italy", "Henrik_Ibsen"]]

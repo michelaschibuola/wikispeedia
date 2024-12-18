@@ -1,0 +1,1 @@
+[["Bob_Marley", "Africa", "Atlantic_slave_trade"], ["Bob_Marley", "England", "Atlantic_slave_trade"], ["Bob_Marley", "Germany", "Atlantic_slave_trade"], ["Bob_Marley", "Jamaica", "Atlantic_slave_trade"], ["Bob_Marley", "United_Kingdom", "Atlantic_slave_trade"], ["Bob_Marley", "United_States", "Atlantic_slave_trade"]]

@@ -1,0 +1,1 @@
+[["Uruguay", "19th_century", "Viking"], ["Uruguay", "Sweden", "Viking"], ["Uruguay", "Agriculture", "Viking"], ["Uruguay", "Atlantic_Ocean", "Viking"], ["Uruguay", "Europe", "Viking"], ["Uruguay", "Irish_people", "Viking"], ["Uruguay", "Portugal", "Viking"], ["Uruguay", "Spain", "Viking"]]

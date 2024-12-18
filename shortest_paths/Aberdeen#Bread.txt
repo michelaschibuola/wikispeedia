@@ -1,0 +1,1 @@
+[["Aberdeen", "English_language", "Bread"], ["Aberdeen", "Europe", "Bread"], ["Aberdeen", "France", "Bread"], ["Aberdeen", "Germany", "Bread"], ["Aberdeen", "Middle_Ages", "Bread"], ["Aberdeen", "Scotland", "Bread"]]

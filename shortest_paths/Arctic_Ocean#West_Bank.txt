@@ -1,0 +1,1 @@
+[["Arctic_Ocean", "Russia", "West_Bank"], ["Arctic_Ocean", "United_Kingdom", "West_Bank"], ["Arctic_Ocean", "United_States", "West_Bank"]]

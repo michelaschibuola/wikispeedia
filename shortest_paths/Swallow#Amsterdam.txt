@@ -1,0 +1,1 @@
+[["Swallow", "House_Martin", "Africa", "Amsterdam"], ["Swallow", "House_Martin", "Europe", "Amsterdam"], ["Swallow", "Animal", "Rock_Pigeon", "Amsterdam"], ["Swallow", "Bird", "Rock_Pigeon", "Amsterdam"], ["Swallow", "Chordate", "Rock_Pigeon", "Amsterdam"], ["Swallow", "Scientific_classification", "Rock_Pigeon", "Amsterdam"], ["Swallow", "Swift", "France", "Amsterdam"]]

@@ -1,0 +1,1 @@
+[["Tobacco", "New_York_City", "George_H._W._Bush"], ["Tobacco", "People%27s_Republic_of_China", "George_H._W._Bush"], ["Tobacco", "South_America", "George_H._W._Bush"], ["Tobacco", "United_States", "George_H._W._Bush"]]

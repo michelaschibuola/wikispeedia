@@ -1,0 +1,1 @@
+[["David_Hume", "France", "Turin"], ["David_Hume", "Germany", "Turin"], ["David_Hume", "Jean-Jacques_Rousseau", "Turin"], ["David_Hume", "Scotland", "Turin"]]

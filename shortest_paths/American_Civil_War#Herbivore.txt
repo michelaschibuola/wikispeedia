@@ -1,0 +1,1 @@
+[["American_Civil_War", "Europe", "Herbivore"], ["American_Civil_War", "United_States", "Herbivore"], ["American_Civil_War", "Horse", "Herbivore"], ["American_Civil_War", "Yellowstone_National_Park", "Herbivore"]]

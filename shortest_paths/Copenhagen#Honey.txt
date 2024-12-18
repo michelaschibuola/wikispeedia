@@ -1,0 +1,1 @@
+[["Copenhagen", "Bread", "Honey"], ["Copenhagen", "Middle_East", "Honey"], ["Copenhagen", "Turkey", "Honey"], ["Copenhagen", "United_States", "Honey"], ["Copenhagen", "Europe", "Honey"]]

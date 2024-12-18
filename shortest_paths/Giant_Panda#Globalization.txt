@@ -1,0 +1,1 @@
+[["Giant_Panda", "China", "Globalization"], ["Giant_Panda", "Thailand", "Globalization"], ["Giant_Panda", "United_States", "Globalization"]]

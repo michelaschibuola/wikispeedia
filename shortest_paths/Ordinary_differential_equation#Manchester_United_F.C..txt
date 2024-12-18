@@ -1,0 +1,1 @@
+[["Ordinary_differential_equation", "Gottfried_Leibniz", "Germany", "Manchester_United_F.C."], ["Ordinary_differential_equation", "Gottfried_Leibniz", "World_War_II", "Manchester_United_F.C."], ["Ordinary_differential_equation", "Isaac_Newton", "England", "Manchester_United_F.C."]]

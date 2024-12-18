@@ -1,0 +1,1 @@
+[["Christianity", "Ancient_Rome", "Mount_Vesuvius"], ["Christianity", "Europe", "Mount_Vesuvius"], ["Christianity", "Italy", "Mount_Vesuvius"]]

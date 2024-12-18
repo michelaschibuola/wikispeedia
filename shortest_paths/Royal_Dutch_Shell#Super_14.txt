@@ -1,0 +1,1 @@
+[["Royal_Dutch_Shell", "South_Africa", "Super_14"], ["Royal_Dutch_Shell", "United_Kingdom", "Super_14"], ["Royal_Dutch_Shell", "United_States_dollar", "Super_14"]]

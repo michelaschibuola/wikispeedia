@@ -1,0 +1,1 @@
+[["England", "British_English", "Trigonometric_function"], ["England", "Ptolemy", "Trigonometric_function"]]

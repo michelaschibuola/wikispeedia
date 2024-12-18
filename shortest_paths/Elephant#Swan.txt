@@ -1,0 +1,1 @@
+[["Elephant", "Animal", "Swan"], ["Elephant", "Chordate", "Swan"], ["Elephant", "Extinction", "Swan"], ["Elephant", "Hinduism", "Swan"], ["Elephant", "India", "Swan"], ["Elephant", "Scientific_classification", "Swan"], ["Elephant", "Pliocene", "Swan"]]

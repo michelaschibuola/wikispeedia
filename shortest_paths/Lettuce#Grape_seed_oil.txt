@@ -1,0 +1,1 @@
+[["Lettuce", "Fatty_acid", "Grape_seed_oil"], ["Lettuce", "Vitamin_C", "Grape_seed_oil"]]

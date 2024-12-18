@@ -1,0 +1,1 @@
+[["New_York_City", "Automated_teller_machine", "Linux"], ["New_York_City", "Google", "Linux"], ["New_York_City", "Monopoly_%28game%29", "Linux"], ["New_York_City", "Penguin", "Linux"]]

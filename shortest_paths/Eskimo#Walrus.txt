@@ -1,0 +1,1 @@
+[["Eskimo", "Arctic", "Walrus"], ["Eskimo", "Arctic_Ocean", "Walrus"], ["Eskimo", "Greenland", "Walrus"], ["Eskimo", "History_of_Greenland", "Walrus"]]

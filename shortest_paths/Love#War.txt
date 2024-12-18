@@ -1,0 +1,1 @@
+[["Love", "Anthropology", "War"], ["Love", "Bertrand_Russell", "War"], ["Love", "Psychology", "War"], ["Love", "Religion", "War"], ["Love", "Mesopotamia", "War"], ["Love", "Nazism", "War"]]

@@ -1,0 +1,1 @@
+[["Kuwait", "Israel", "Duran_Duran"], ["Kuwait", "United_Kingdom", "Duran_Duran"], ["Kuwait", "United_States", "Duran_Duran"], ["Kuwait", "Margaret_Thatcher", "Duran_Duran"], ["Kuwait", "Middle_East", "Duran_Duran"]]

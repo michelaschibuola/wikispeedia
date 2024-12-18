@@ -1,0 +1,1 @@
+[["Potato", "Plant", "Photosynthetic_reaction_centre"], ["Potato", "Water", "Photosynthetic_reaction_centre"]]

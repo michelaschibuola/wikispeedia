@@ -1,0 +1,1 @@
+[["Harry_S._Truman", "Israel", "Arable_land"], ["Harry_S._Truman", "Soviet_Union", "Arable_land"]]

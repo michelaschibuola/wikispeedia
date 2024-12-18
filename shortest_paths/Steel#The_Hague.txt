@@ -1,0 +1,1 @@
+[["Steel", "Andrew_Carnegie", "The_Hague"], ["Steel", "Library", "The_Hague"], ["Steel", "Sculpture", "The_Hague"], ["Steel", "20th_century", "The_Hague"]]

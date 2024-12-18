@@ -1,0 +1,1 @@
+[["Perl", "Monty_Python", "BBC", "Mecca"], ["Perl", "Latin", "Arabic_language", "Mecca"], ["Perl", "Latin", "Islam", "Mecca"], ["Perl", "Latin", "Muhammad_ibn_Musa_al-Khwarizmi", "Mecca"], ["Perl", "Latin", "Qur%27an", "Mecca"], ["Perl", "Latin", "Red_Sea", "Mecca"], ["Perl", "Latin", "Richard_Francis_Burton", "Mecca"]]

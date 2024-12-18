@@ -1,0 +1,1 @@
+[["Venus", "Astrology", "Science"], ["Venus", "Astronomy", "Science"], ["Venus", "Nature", "Science"], ["Venus", "Alchemy", "Science"], ["Venus", "C._S._Lewis", "Science"], ["Venus", "Latin", "Science"], ["Venus", "Matter", "Science"], ["Venus", "Pythagoras", "Science"], ["Venus", "United_States", "Science"]]

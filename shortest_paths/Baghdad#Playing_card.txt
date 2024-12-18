@@ -1,0 +1,1 @@
+[["Baghdad", "United_Kingdom", "Playing_card"], ["Baghdad", "United_States", "Playing_card"], ["Baghdad", "Charlemagne", "Playing_card"]]

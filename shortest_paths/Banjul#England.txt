@@ -1,0 +1,1 @@
+[["Banjul", "Atlantic_Ocean", "England"], ["Banjul", "United_Kingdom", "England"], ["Banjul", "Newark%2C_New_Jersey", "England"]]

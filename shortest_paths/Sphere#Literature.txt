@@ -1,0 +1,1 @@
+[["Sphere", "History_of_painting", "Literature"], ["Sphere", "Painting", "Literature"]]

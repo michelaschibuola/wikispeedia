@@ -1,0 +1,1 @@
+[["Lead", "Coal", "Money"], ["Lead", "Gold", "Money"], ["Lead", "Copper", "Money"], ["Lead", "Silver", "Money"]]

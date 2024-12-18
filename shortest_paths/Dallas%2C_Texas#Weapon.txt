@@ -1,0 +1,1 @@
+[["Dallas%2C_Texas", "Computer", "Weapon"], ["Dallas%2C_Texas", "United_States", "Weapon"], ["Dallas%2C_Texas", "World_War_II", "Weapon"]]

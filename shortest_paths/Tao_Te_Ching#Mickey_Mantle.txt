@@ -1,0 +1,1 @@
+[["Tao_Te_Ching", "Buddhism", "United_States", "Mickey_Mantle"], ["Tao_Te_Ching", "Philosophy", "United_States", "Mickey_Mantle"], ["Tao_Te_Ching", "Chinese_language", "United_States", "Mickey_Mantle"], ["Tao_Te_Ching", "Chinese_language", "Washington%2C_D.C.", "Mickey_Mantle"]]

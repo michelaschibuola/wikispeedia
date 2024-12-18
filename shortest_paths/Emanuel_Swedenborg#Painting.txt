@@ -1,0 +1,1 @@
+[["Emanuel_Swedenborg", "18th_century", "Painting"], ["Emanuel_Swedenborg", "Aristotle", "Painting"], ["Emanuel_Swedenborg", "Bible", "Painting"], ["Emanuel_Swedenborg", "France", "Painting"], ["Emanuel_Swedenborg", "Plato", "Painting"]]

@@ -1,0 +1,1 @@
+[["Papua_New_Guinea", "Australia", "Super_Bowl_XL"], ["Papua_New_Guinea", "New_Zealand", "Super_Bowl_XL"], ["Papua_New_Guinea", "Portugal", "Super_Bowl_XL"], ["Papua_New_Guinea", "Sweden", "Super_Bowl_XL"]]

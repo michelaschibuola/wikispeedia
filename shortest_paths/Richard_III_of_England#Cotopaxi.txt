@@ -1,0 +1,1 @@
+[["Richard_III_of_England", "Rainbow", "Ecuador", "Cotopaxi"], ["Richard_III_of_England", "World_War_II", "Ecuador", "Cotopaxi"], ["Richard_III_of_England", "World_War_II", "Pacific_Ocean", "Cotopaxi"]]

@@ -1,0 +1,1 @@
+[["GNU", "Anarchism", "History_of_Russia", "Amur"], ["GNU", "Computer", "Asia", "Amur"], ["GNU", "Internet", "Asia", "Amur"], ["GNU", "Computer", "Gold", "Amur"], ["GNU", "Internet", "People%27s_Republic_of_China", "Amur"]]

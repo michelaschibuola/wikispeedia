@@ -1,0 +1,1 @@
+[["Denmark", "Anarchism", "History_of_democracy"], ["Denmark", "India", "History_of_democracy"], ["Denmark", "Poland", "History_of_democracy"], ["Denmark", "Monarchy", "History_of_democracy"], ["Denmark", "New_Zealand", "History_of_democracy"], ["Denmark", "Switzerland", "History_of_democracy"], ["Denmark", "Warsaw", "History_of_democracy"]]

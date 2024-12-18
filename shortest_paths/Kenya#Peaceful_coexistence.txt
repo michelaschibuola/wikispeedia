@@ -1,0 +1,1 @@
+[["Kenya", "India", "Peaceful_coexistence"], ["Kenya", "Indonesia", "Peaceful_coexistence"], ["Kenya", "Malaysia", "Peaceful_coexistence"], ["Kenya", "United_States", "Peaceful_coexistence"], ["Kenya", "Winston_Churchill", "Peaceful_coexistence"]]

@@ -1,0 +1,1 @@
+[["Albert_Einstein", "Atom", "Tin"], ["Albert_Einstein", "Chemical_element", "Tin"], ["Albert_Einstein", "Latin", "Tin"]]

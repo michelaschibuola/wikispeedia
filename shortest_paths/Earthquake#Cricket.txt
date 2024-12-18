@@ -1,0 +1,1 @@
+[["Earthquake", "Netherlands", "Cricket"], ["Earthquake", "United_Kingdom", "Cricket"], ["Earthquake", "Kerala", "Cricket"], ["Earthquake", "Ottawa", "Cricket"], ["Earthquake", "Papua_New_Guinea", "Cricket"], ["Earthquake", "Wellington", "Cricket"]]

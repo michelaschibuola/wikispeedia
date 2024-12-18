@@ -1,0 +1,1 @@
+[["Salt_Lake_City%2C_Utah", "Clay", "Dam"], ["Salt_Lake_City%2C_Utah", "Earthquake", "Dam"], ["Salt_Lake_City%2C_Utah", "Mining", "Dam"]]

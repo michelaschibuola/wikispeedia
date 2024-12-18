@@ -1,0 +1,1 @@
+[["Calvin_Coolidge", "France", "Vietnam"], ["Calvin_Coolidge", "League_of_Nations", "Vietnam"], ["Calvin_Coolidge", "World_War_II", "Vietnam"], ["Calvin_Coolidge", "Scouting", "Vietnam"]]

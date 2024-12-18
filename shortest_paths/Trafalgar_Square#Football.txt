@@ -1,0 +1,1 @@
+[["Trafalgar_Square", "London", "Football"], ["Trafalgar_Square", "Scotland", "Football"], ["Trafalgar_Square", "United_States", "Football"], ["Trafalgar_Square", "World_War_II", "Football"]]

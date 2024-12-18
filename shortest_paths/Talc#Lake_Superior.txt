@@ -1,0 +1,1 @@
+[["Talc", "Mineral", "Lake_Superior"]]

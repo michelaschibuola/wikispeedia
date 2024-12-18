@@ -1,0 +1,1 @@
+[["Magnesium", "Argentina", "Scouting", "Social_capital"], ["Magnesium", "Plant", "Community", "Social_capital"], ["Magnesium", "Scotland", "Ku_Klux_Klan", "Social_capital"]]

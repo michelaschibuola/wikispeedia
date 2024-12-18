@@ -1,0 +1,1 @@
+[["Brazil", "Astrophysics_Data_System", "Central_processing_unit"], ["Brazil", "Automobile", "Central_processing_unit"], ["Brazil", "Nintendo_Entertainment_System", "Central_processing_unit"], ["Brazil", "ZX_Spectrum", "Central_processing_unit"]]

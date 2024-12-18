@@ -1,0 +1,1 @@
+[["Northern_Mariana_Islands", "Japan", "Michigan_State_University"], ["Northern_Mariana_Islands", "United_States", "Michigan_State_University"], ["Northern_Mariana_Islands", "United_States_dollar", "Michigan_State_University"]]

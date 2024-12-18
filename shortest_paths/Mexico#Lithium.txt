@@ -1,0 +1,1 @@
+[["Mexico", "Argentina", "Lithium"], ["Mexico", "Copper", "Lithium"], ["Mexico", "Chile", "Lithium"], ["Mexico", "United_States", "Lithium"], ["Mexico", "Pleiades_%28star_cluster%29", "Lithium"]]

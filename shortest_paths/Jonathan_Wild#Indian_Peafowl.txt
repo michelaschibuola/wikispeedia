@@ -1,0 +1,1 @@
+[["Jonathan_Wild", "Newspaper", "India", "Indian_Peafowl"], ["Jonathan_Wild", "Pound_sterling", "India", "Indian_Peafowl"]]

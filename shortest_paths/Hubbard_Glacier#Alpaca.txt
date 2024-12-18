@@ -1,0 +1,1 @@
+[["Hubbard_Glacier", "Glacier", "Andes", "Alpaca"], ["Hubbard_Glacier", "Glacier", "South_America", "Alpaca"], ["Hubbard_Glacier", "Canada", "France", "Alpaca"], ["Hubbard_Glacier", "U.S._state", "France", "Alpaca"], ["Hubbard_Glacier", "Canada", "Germany", "Alpaca"], ["Hubbard_Glacier", "Trout", "Australia", "Alpaca"], ["Hubbard_Glacier", "U.S._state", "Spain", "Alpaca"]]

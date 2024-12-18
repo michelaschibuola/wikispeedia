@@ -1,0 +1,1 @@
+[["Ethanol", "Almond", "Seed"], ["Ethanol", "Essential_oil", "Seed"], ["Ethanol", "Fruit", "Seed"], ["Ethanol", "Honey", "Seed"], ["Ethanol", "Potato", "Seed"], ["Ethanol", "Protein", "Seed"], ["Ethanol", "Water", "Seed"]]

@@ -1,0 +1,1 @@
+[["Honduras", "Football_%28soccer%29", "Tripoli"], ["Honduras", "Africa", "Tripoli"], ["Honduras", "Ottoman_Empire", "Tripoli"], ["Honduras", "Spain", "Tripoli"], ["Honduras", "Time_zone", "Tripoli"], ["Honduras", "United_States", "Tripoli"], ["Honduras", "Madrid", "Tripoli"]]

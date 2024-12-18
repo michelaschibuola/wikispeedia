@@ -1,0 +1,1 @@
+[["Max_Weber", "Russia", "Arctic_Circle"], ["Max_Weber", "United_States", "Arctic_Circle"]]

@@ -1,0 +1,1 @@
+[["Education_in_the_United_States", "American_English", "Autumn"], ["Education_in_the_United_States", "English_language", "Autumn"], ["Education_in_the_United_States", "Harvest", "Autumn"], ["Education_in_the_United_States", "Latin", "Autumn"], ["Education_in_the_United_States", "United_States", "Autumn"]]

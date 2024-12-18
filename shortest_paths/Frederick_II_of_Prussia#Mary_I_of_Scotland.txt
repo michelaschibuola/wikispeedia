@@ -1,0 +1,1 @@
+[["Frederick_II_of_Prussia", "Anne_of_Great_Britain", "Mary_I_of_Scotland"], ["Frederick_II_of_Prussia", "French_language", "Mary_I_of_Scotland"], ["Frederick_II_of_Prussia", "Roman_Catholic_Church", "Mary_I_of_Scotland"], ["Frederick_II_of_Prussia", "Saint_Petersburg", "Mary_I_of_Scotland"]]

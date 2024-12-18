@@ -1,0 +1,1 @@
+[["Drinking_water", "Egypt", "Encyclop%C3%A6dia_Britannica"], ["Drinking_water", "United_Kingdom", "Encyclop%C3%A6dia_Britannica"], ["Drinking_water", "United_States", "Encyclop%C3%A6dia_Britannica"]]

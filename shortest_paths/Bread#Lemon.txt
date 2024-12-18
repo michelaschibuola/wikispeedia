@@ -1,0 +1,1 @@
+[["Bread", "Cheese", "Lemon"], ["Bread", "Fatty_acid", "Lemon"], ["Bread", "Fruit", "Lemon"], ["Bread", "India", "Lemon"], ["Bread", "Onion", "Lemon"], ["Bread", "Soup", "Lemon"], ["Bread", "Tea", "Lemon"], ["Bread", "United_States", "Lemon"], ["Bread", "Water", "Lemon"], ["Bread", "Coriander", "Lemon"]]

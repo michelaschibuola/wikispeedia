@@ -1,0 +1,1 @@
+[["Socialism", "19th_century", "Bible"], ["Socialism", "Christianity", "Bible"], ["Socialism", "Jew", "Bible"], ["Socialism", "Property", "Bible"], ["Socialism", "Slavery", "Bible"], ["Socialism", "Politics", "Bible"], ["Socialism", "Sweden", "Bible"], ["Socialism", "Thomas_More", "Bible"], ["Socialism", "Zionism", "Bible"]]

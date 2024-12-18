@@ -1,0 +1,1 @@
+[["National_Anthem_of_Russia", "Joseph_Stalin", "Luftwaffe"], ["National_Anthem_of_Russia", "Soviet_Union", "Luftwaffe"], ["National_Anthem_of_Russia", "Spain", "Luftwaffe"], ["National_Anthem_of_Russia", "United_Kingdom", "Luftwaffe"]]

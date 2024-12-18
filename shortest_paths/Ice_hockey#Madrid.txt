@@ -1,0 +1,1 @@
+[["Ice_hockey", "Amsterdam", "Madrid"], ["Ice_hockey", "Berlin", "Madrid"], ["Ice_hockey", "European_Union", "Madrid"], ["Ice_hockey", "Basketball", "Madrid"], ["Ice_hockey", "Germany", "Madrid"], ["Ice_hockey", "New_York_City", "Madrid"], ["Ice_hockey", "Russia", "Madrid"], ["Ice_hockey", "Moscow", "Madrid"]]

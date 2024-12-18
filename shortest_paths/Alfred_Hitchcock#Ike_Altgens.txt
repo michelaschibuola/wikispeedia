@@ -1,0 +1,1 @@
+[["Alfred_Hitchcock", "Actor", "Ike_Altgens"], ["Alfred_Hitchcock", "Advertising", "Ike_Altgens"], ["Alfred_Hitchcock", "Television", "Ike_Altgens"], ["Alfred_Hitchcock", "United_States", "Ike_Altgens"]]

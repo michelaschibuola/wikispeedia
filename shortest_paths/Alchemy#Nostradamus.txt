@@ -1,0 +1,1 @@
+[["Alchemy", "Astrology", "Nostradamus"], ["Alchemy", "Astronomy", "Nostradamus"], ["Alchemy", "Black_Death", "Nostradamus"], ["Alchemy", "Medicine", "Nostradamus"], ["Alchemy", "Voynich_manuscript", "Nostradamus"]]

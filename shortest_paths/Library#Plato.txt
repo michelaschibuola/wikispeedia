@@ -1,0 +1,1 @@
+[["Library", "Education", "Plato"], ["Library", "John_Dee", "Plato"], ["Library", "19th_century", "Plato"], ["Library", "Aristotle", "Plato"], ["Library", "Byzantine_Empire", "Plato"], ["Library", "Christianity", "Plato"], ["Library", "Egypt", "Plato"], ["Library", "Information", "Plato"], ["Library", "Iran", "Plato"]]

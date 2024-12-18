@@ -1,0 +1,1 @@
+[["Natural_disaster", "California", "Spider"], ["Natural_disaster", "China", "Spider"], ["Natural_disaster", "Japan", "Spider"], ["Natural_disaster", "United_States", "Spider"]]

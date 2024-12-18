@@ -1,0 +1,1 @@
+[["War", "Civilization", "Maya_mythology"], ["War", "History_of_the_world", "Maya_mythology"], ["War", "Maya_civilization", "Maya_mythology"], ["War", "Religion", "Maya_mythology"]]

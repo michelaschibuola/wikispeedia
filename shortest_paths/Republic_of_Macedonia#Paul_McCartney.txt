@@ -1,0 +1,1 @@
+[["Republic_of_Macedonia", "Germany", "Paul_McCartney"], ["Republic_of_Macedonia", "Greece", "Paul_McCartney"], ["Republic_of_Macedonia", "Republic_of_Ireland", "Paul_McCartney"], ["Republic_of_Macedonia", "Russia", "Paul_McCartney"], ["Republic_of_Macedonia", "United_Kingdom", "Paul_McCartney"], ["Republic_of_Macedonia", "United_States", "Paul_McCartney"]]

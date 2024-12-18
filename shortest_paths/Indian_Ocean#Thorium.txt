@@ -1,0 +1,1 @@
+[["Indian_Ocean", "Australia", "Thorium"], ["Indian_Ocean", "India", "Thorium"], ["Indian_Ocean", "Mineral", "Thorium"], ["Indian_Ocean", "Petroleum", "Thorium"]]

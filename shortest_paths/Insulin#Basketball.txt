@@ -1,0 +1,1 @@
+[["Insulin", "Berlin", "Basketball"], ["Insulin", "France", "Basketball"], ["Insulin", "Germany", "Basketball"], ["Insulin", "Romania", "Basketball"], ["Insulin", "University_of_Chicago", "Basketball"]]

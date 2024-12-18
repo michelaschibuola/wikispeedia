@@ -1,0 +1,1 @@
+[["Columbus%2C_Ohio", "Israel", "Domesticated_turkey"], ["Columbus%2C_Ohio", "United_States", "Domesticated_turkey"], ["Columbus%2C_Ohio", "World_War_II", "Domesticated_turkey"]]

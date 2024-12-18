@@ -1,0 +1,1 @@
+[["Socialism", "England", "Pound_sterling"], ["Socialism", "Gold_standard", "Pound_sterling"], ["Socialism", "India", "Pound_sterling"], ["Socialism", "Margaret_Thatcher", "Pound_sterling"], ["Socialism", "Egypt", "Pound_sterling"], ["Socialism", "World_War_I", "Pound_sterling"], ["Socialism", "World_War_II", "Pound_sterling"], ["Socialism", "Sweden", "Pound_sterling"]]

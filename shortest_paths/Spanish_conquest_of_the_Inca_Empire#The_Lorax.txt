@@ -1,0 +1,1 @@
+[["Spanish_conquest_of_the_Inca_Empire", "Peru", "Biodiversity", "The_Lorax"], ["Spanish_conquest_of_the_Inca_Empire", "South_America", "Biodiversity", "The_Lorax"], ["Spanish_conquest_of_the_Inca_Empire", "Bible", "Theodore_Roosevelt", "The_Lorax"], ["Spanish_conquest_of_the_Inca_Empire", "Colombia", "Theodore_Roosevelt", "The_Lorax"]]

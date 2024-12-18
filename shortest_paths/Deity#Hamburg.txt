@@ -1,0 +1,1 @@
+[["Deity", "Africa", "Hamburg"], ["Deity", "English_language", "Hamburg"], ["Deity", "Japan", "Hamburg"]]

@@ -1,0 +1,1 @@
+[["Tennis", "England", "Oslo"], ["Tennis", "European_Union", "Oslo"], ["Tennis", "Fanny_Blankers-Koen", "Oslo"], ["Tennis", "Global_city", "Oslo"], ["Tennis", "Gothenburg", "Oslo"], ["Tennis", "Olympic_Games", "Oslo"], ["Tennis", "Sweden", "Oslo"], ["Tennis", "Germany", "Oslo"], ["Tennis", "London", "Oslo"], ["Tennis", "Russia", "Oslo"], ["Tennis", "Washington%2C_D.C.", "Oslo"]]

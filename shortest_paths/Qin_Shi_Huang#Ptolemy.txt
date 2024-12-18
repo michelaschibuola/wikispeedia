@@ -1,0 +1,1 @@
+[["Qin_Shi_Huang", "China", "Ptolemy"], ["Qin_Shi_Huang", "Earth", "Ptolemy"], ["Qin_Shi_Huang", "Europe", "Ptolemy"], ["Qin_Shi_Huang", "Roman_Empire", "Ptolemy"]]

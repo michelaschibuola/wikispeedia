@@ -1,0 +1,1 @@
+[["Necktie", "19th_century", "Lion"], ["Necktie", "20th_century", "Lion"], ["Necktie", "England", "Lion"], ["Necktie", "United_Kingdom", "Lion"]]

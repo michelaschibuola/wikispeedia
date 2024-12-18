@@ -1,0 +1,1 @@
+[["Dark_Ages", "18th_century", "Emanuel_Swedenborg"], ["Dark_Ages", "Augustine_of_Hippo", "Emanuel_Swedenborg"], ["Dark_Ages", "Immanuel_Kant", "Emanuel_Swedenborg"]]

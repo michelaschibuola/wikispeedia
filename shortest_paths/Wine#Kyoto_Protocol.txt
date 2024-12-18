@@ -1,0 +1,1 @@
+[["Wine", "Australia", "Kyoto_Protocol"], ["Wine", "Carbon_dioxide", "Kyoto_Protocol"], ["Wine", "United_States", "Kyoto_Protocol"]]

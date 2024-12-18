@@ -1,0 +1,1 @@
+[["Delhi", "Agriculture", "Minnesota"], ["Delhi", "Hinduism", "Minnesota"], ["Delhi", "India", "Minnesota"], ["Delhi", "Rain", "Minnesota"], ["Delhi", "Winter", "Minnesota"], ["Delhi", "Iron", "Minnesota"], ["Delhi", "Norman_Borlaug", "Minnesota"]]

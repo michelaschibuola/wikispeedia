@@ -1,0 +1,1 @@
+[["Argentina", "Apple", "Trojan_War"], ["Argentina", "Cyprus", "Trojan_War"], ["Argentina", "Egypt", "Trojan_War"], ["Argentina", "Italy", "Trojan_War"], ["Argentina", "Berlin", "Trojan_War"]]

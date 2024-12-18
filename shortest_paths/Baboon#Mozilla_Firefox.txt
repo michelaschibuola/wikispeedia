@@ -1,0 +1,1 @@
+[["Baboon", "Africa", "Europe", "Mozilla_Firefox"], ["Baboon", "Herbivore", "Europe", "Mozilla_Firefox"], ["Baboon", "Mammal", "Europe", "Mozilla_Firefox"], ["Baboon", "Animal", "Red_Panda", "Mozilla_Firefox"], ["Baboon", "Mammal", "Red_Panda", "Mozilla_Firefox"], ["Baboon", "Scientific_classification", "Red_Panda", "Mozilla_Firefox"]]

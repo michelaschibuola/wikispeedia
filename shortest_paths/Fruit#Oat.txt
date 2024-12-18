@@ -1,0 +1,1 @@
+[["Fruit", "Algeria", "Oat"], ["Fruit", "Bread", "Oat"], ["Fruit", "Cereal", "Oat"], ["Fruit", "Animal", "Oat"], ["Fruit", "Human", "Oat"], ["Fruit", "Maize", "Oat"], ["Fruit", "Plant", "Oat"], ["Fruit", "Seed", "Oat"], ["Fruit", "Wheat", "Oat"]]

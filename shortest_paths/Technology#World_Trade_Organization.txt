@@ -1,0 +1,1 @@
+[["Technology", "Anarchism", "World_Trade_Organization"], ["Technology", "People%27s_Republic_of_China", "World_Trade_Organization"], ["Technology", "Qatar", "World_Trade_Organization"], ["Technology", "Iraq", "World_Trade_Organization"], ["Technology", "Mexico", "World_Trade_Organization"], ["Technology", "Organization", "World_Trade_Organization"]]

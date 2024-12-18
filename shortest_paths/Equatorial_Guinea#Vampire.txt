@@ -1,0 +1,1 @@
+[["Equatorial_Guinea", "Africa", "Vampire"], ["Equatorial_Guinea", "France", "Vampire"], ["Equatorial_Guinea", "French_language", "Vampire"], ["Equatorial_Guinea", "India", "Vampire"], ["Equatorial_Guinea", "Latin_America", "Vampire"], ["Equatorial_Guinea", "Spain", "Vampire"], ["Equatorial_Guinea", "Malawi", "Vampire"]]

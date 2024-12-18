@@ -1,0 +1,1 @@
+[["Samoa", "20th_century", "Mexico_City"], ["Samoa", "Baseball", "Mexico_City"], ["Samoa", "Europe", "Mexico_City"], ["Samoa", "United_States", "Mexico_City"]]

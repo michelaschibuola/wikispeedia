@@ -1,0 +1,1 @@
+[["Michigan_State_University", "Brazil", "Peru"], ["Michigan_State_University", "Chile", "Peru"], ["Michigan_State_University", "Japan", "Peru"], ["Michigan_State_University", "Maize", "Peru"], ["Michigan_State_University", "United_States", "Peru"], ["Michigan_State_University", "World_War_II", "Peru"]]

@@ -1,0 +1,1 @@
+[["Abkhazia", "Ottoman_Empire", "Atlantic_slave_trade"], ["Abkhazia", "Russia", "Atlantic_slave_trade"], ["Abkhazia", "Tobacco", "Atlantic_slave_trade"]]

@@ -1,0 +1,1 @@
+[["Mysticism", "Max_Weber", "Police"], ["Mysticism", "19th_century", "Police"]]

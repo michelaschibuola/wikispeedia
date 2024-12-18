@@ -1,0 +1,1 @@
+[["Nicolaus_Copernicus", "Archaeology", "Invasion"], ["Nicolaus_Copernicus", "Europe", "Invasion"], ["Nicolaus_Copernicus", "Italy", "Invasion"], ["Nicolaus_Copernicus", "Nazi_Germany", "Invasion"], ["Nicolaus_Copernicus", "Poland", "Invasion"], ["Nicolaus_Copernicus", "Religion", "Invasion"], ["Nicolaus_Copernicus", "Roman_Catholic_Church", "Invasion"]]

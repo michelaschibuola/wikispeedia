@@ -1,0 +1,1 @@
+[["Continent", "Egypt", "Nobel_Peace_Prize"], ["Continent", "United_Nations", "Nobel_Peace_Prize"], ["Continent", "World_War_II", "Nobel_Peace_Prize"], ["Continent", "League_of_Nations", "Nobel_Peace_Prize"], ["Continent", "South_Africa", "Nobel_Peace_Prize"]]

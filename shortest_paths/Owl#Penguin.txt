@@ -1,0 +1,1 @@
+[["Owl", "Bird", "Penguin"], ["Owl", "Carnivore", "Penguin"], ["Owl", "Extinct_birds", "Penguin"], ["Owl", "Animal", "Penguin"], ["Owl", "Antarctica", "Penguin"], ["Owl", "Dinosaur", "Penguin"], ["Owl", "Fish", "Penguin"], ["Owl", "Fossil", "Penguin"], ["Owl", "Paleocene", "Penguin"], ["Owl", "Scientific_classification", "Penguin"]]

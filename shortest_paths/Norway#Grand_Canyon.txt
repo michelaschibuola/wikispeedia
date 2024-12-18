@@ -1,0 +1,1 @@
+[["Norway", "Europe", "Grand_Canyon"]]

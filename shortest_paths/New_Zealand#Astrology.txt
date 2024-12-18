@@ -1,0 +1,1 @@
+[["New_Zealand", "English_language", "Astrology"], ["New_Zealand", "Mercury_%28planet%29", "Astrology"], ["New_Zealand", "Asia", "Astrology"], ["New_Zealand", "Europe", "Astrology"], ["New_Zealand", "Gold", "Astrology"], ["New_Zealand", "Pleiades_%28star_cluster%29", "Astrology"]]

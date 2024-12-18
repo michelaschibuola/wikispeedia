@@ -1,0 +1,1 @@
+[["Marseille", "France", "Guangzhou"], ["Marseille", "Global_city", "Guangzhou"], ["Marseille", "Ho_Chi_Minh", "Guangzhou"], ["Marseille", "Lyon", "Guangzhou"], ["Marseille", "Capital", "Guangzhou"], ["Marseille", "French_language", "Guangzhou"], ["Marseille", "Italy", "Guangzhou"], ["Marseille", "Portugal", "Guangzhou"], ["Marseille", "Shanghai", "Guangzhou"]]

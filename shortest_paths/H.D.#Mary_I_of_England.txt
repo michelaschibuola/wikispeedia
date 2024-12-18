@@ -1,0 +1,1 @@
+[["H.D.", "Europe", "Mary_I_of_England"], ["H.D.", "London", "Mary_I_of_England"], ["H.D.", "Music", "Mary_I_of_England"]]
