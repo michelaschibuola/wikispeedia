@@ -1,1 +1,0 @@
-[["Lake_Titicaca", "River", "New_Zealand", "Kakapo"], ["Lake_Titicaca", "List_of_lakes", "New_Zealand", "Kakapo"], ["Lake_Titicaca", "South_America", "Bat", "Kakapo"], ["Lake_Titicaca", "South_America", "Gerald_Durrell", "Kakapo"], ["Lake_Titicaca", "South_America", "Mammal", "Kakapo"], ["Lake_Titicaca", "South_America", "Parrot", "Kakapo"]]

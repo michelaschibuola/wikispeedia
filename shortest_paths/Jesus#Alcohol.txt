@@ -1,1 +1,0 @@
-[["Jesus", "English_language", "Alcohol"], ["Jesus", "Europe", "Alcohol"], ["Jesus", "Islam", "Alcohol"], ["Jesus", "Qur%27an", "Alcohol"], ["Jesus", "Paul_McCartney", "Alcohol"]]

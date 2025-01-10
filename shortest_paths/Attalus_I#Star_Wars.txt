@@ -1,1 +1,0 @@
-[["Attalus_I", "Ancient_Rome", "Star_Wars"], ["Attalus_I", "Italy", "Star_Wars"], ["Attalus_I", "Turkey", "Star_Wars"]]

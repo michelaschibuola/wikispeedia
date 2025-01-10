@@ -1,1 +1,0 @@
-[["Sphere", "History_of_painting", "Paul_C%C3%A9zanne"], ["Sphere", "Western_painting", "Paul_C%C3%A9zanne"]]

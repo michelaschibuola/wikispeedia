@@ -1,1 +1,0 @@
-[["Gold", "Africa", "Ariel_Sharon"], ["Gold", "Cancer", "Ariel_Sharon"], ["Gold", "Egypt", "Ariel_Sharon"], ["Gold", "United_States", "Ariel_Sharon"]]

@@ -1,1 +1,0 @@
-[["Minimum_wage", "New_Zealand", "Canada_Goose"], ["Minimum_wage", "United_States", "Canada_Goose"]]

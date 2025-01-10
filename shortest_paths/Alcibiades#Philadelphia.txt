@@ -1,1 +1,0 @@
-[["Alcibiades", "Athens", "Philadelphia"], ["Alcibiades", "Italy", "Philadelphia"]]

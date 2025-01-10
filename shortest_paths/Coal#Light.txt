@@ -1,1 +1,0 @@
-[["Coal", "Birmingham", "Light"], ["Coal", "Arsenic", "Light"], ["Coal", "Barium", "Light"], ["Coal", "Cadmium", "Light"], ["Coal", "Electricity", "Light"], ["Coal", "Diamond", "Light"], ["Coal", "Energy", "Light"], ["Coal", "Photovoltaic_array", "Light"], ["Coal", "Plant", "Light"], ["Coal", "Sunlight", "Light"], ["Coal", "Ultraviolet", "Light"]]

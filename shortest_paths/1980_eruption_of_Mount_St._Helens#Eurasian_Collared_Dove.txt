@@ -1,1 +1,0 @@
-[["1980_eruption_of_Mount_St._Helens", "Animal", "Eurasian_Collared_Dove"], ["1980_eruption_of_Mount_St._Helens", "California", "Eurasian_Collared_Dove"]]

@@ -1,1 +1,0 @@
-[["Sierra_Leone", "Africa", "Jazz"], ["Sierra_Leone", "Atlantic_slave_trade", "Jazz"], ["Sierra_Leone", "Europe", "Jazz"], ["Sierra_Leone", "France", "Jazz"], ["Sierra_Leone", "United_Kingdom", "Jazz"], ["Sierra_Leone", "United_States", "Jazz"]]

@@ -1,1 +1,0 @@
-[["Afrikaans", "19th_century", "Union_Flag"], ["Afrikaans", "Australia", "Union_Flag"], ["Afrikaans", "Canada", "Union_Flag"], ["Afrikaans", "New_Zealand", "Union_Flag"], ["Afrikaans", "Scotland", "Union_Flag"], ["Afrikaans", "United_Kingdom", "Union_Flag"], ["Afrikaans", "United_States", "Union_Flag"], ["Afrikaans", "Flag_of_South_Africa", "Union_Flag"]]

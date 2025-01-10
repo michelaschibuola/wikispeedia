@@ -1,1 +1,0 @@
-[["ASCII", "Computer", "Syria", "Hatshepsut"], ["ASCII", "Hebrew_language", "Egypt", "Hatshepsut"], ["ASCII", "Latin_alphabet", "Egypt", "Hatshepsut"]]

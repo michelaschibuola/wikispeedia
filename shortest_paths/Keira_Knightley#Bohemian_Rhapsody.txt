@@ -1,1 +1,0 @@
-[["Keira_Knightley", "Japan", "Bohemian_Rhapsody"], ["Keira_Knightley", "United_Kingdom", "Bohemian_Rhapsody"], ["Keira_Knightley", "United_States", "Bohemian_Rhapsody"]]

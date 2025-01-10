@@ -1,1 +1,0 @@
-[["Barn_Owl", "Europe", "Honey"], ["Barn_Owl", "Insect", "Honey"]]

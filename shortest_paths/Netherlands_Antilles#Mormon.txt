@@ -1,1 +1,0 @@
-[["Netherlands_Antilles", "Latin_America", "Mormon"], ["Netherlands_Antilles", "Christianity", "Mormon"], ["Netherlands_Antilles", "Colombia", "Mormon"], ["Netherlands_Antilles", "French_language", "Mormon"], ["Netherlands_Antilles", "Mexico", "Mormon"], ["Netherlands_Antilles", "Spanish_language", "Mormon"]]

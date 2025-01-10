@@ -1,1 +1,0 @@
-[["International_Court_of_Justice", "French_language", "Cheetah"], ["International_Court_of_Justice", "English_language", "Cheetah"], ["International_Court_of_Justice", "Iran", "Cheetah"], ["International_Court_of_Justice", "United_States", "Cheetah"]]

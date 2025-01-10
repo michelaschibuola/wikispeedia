@@ -1,1 +1,0 @@
-[["Island_Fox", "Binomial_nomenclature", "Basil"], ["Island_Fox", "Scientific_classification", "Basil"]]

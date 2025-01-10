@@ -1,1 +1,0 @@
-[["Nuclear_weapon", "China", "Basil"], ["Nuclear_weapon", "India", "Basil"]]

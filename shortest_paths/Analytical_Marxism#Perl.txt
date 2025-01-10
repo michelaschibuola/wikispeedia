@@ -1,1 +1,0 @@
-[["Analytical_Marxism", "Logic", "Astrophysics_Data_System", "Perl"]]

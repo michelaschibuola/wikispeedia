@@ -1,1 +1,0 @@
-[["Kakapo", "Animal", "Indian_Peafowl"], ["Kakapo", "Binomial_nomenclature", "Indian_Peafowl"], ["Kakapo", "Bird", "Indian_Peafowl"], ["Kakapo", "Chordate", "Indian_Peafowl"], ["Kakapo", "Scientific_classification", "Indian_Peafowl"]]

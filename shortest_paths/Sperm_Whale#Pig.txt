@@ -1,1 +1,0 @@
-[["Sperm_Whale", "Animal", "Pig"], ["Sperm_Whale", "Carolus_Linnaeus", "Pig"], ["Sperm_Whale", "Chordate", "Pig"], ["Sperm_Whale", "Mammal", "Pig"], ["Sperm_Whale", "Scientific_classification", "Pig"]]

@@ -1,1 +1,0 @@
-[["Tiananmen_Square_protests_of_1989", "China", "Coin"], ["Tiananmen_Square_protests_of_1989", "People%27s_Republic_of_China", "Coin"], ["Tiananmen_Square_protests_of_1989", "Japan", "Coin"], ["Tiananmen_Square_protests_of_1989", "United_Kingdom", "Coin"], ["Tiananmen_Square_protests_of_1989", "United_States", "Coin"]]

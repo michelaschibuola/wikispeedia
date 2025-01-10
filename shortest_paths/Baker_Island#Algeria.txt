@@ -1,1 +1,0 @@
-[["Baker_Island", "Time_zone", "Algeria"], ["Baker_Island", "United_States", "Algeria"]]

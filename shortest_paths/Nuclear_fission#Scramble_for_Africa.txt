@@ -1,1 +1,0 @@
-[["Nuclear_fission", "Japan", "Scramble_for_Africa"], ["Nuclear_fission", "United_States", "Scramble_for_Africa"], ["Nuclear_fission", "World_War_II", "Scramble_for_Africa"]]

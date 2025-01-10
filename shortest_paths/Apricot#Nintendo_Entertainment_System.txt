@@ -1,1 +1,0 @@
-[["Apricot", "Australia", "Nintendo_Entertainment_System"], ["Apricot", "Europe", "Nintendo_Entertainment_System"], ["Apricot", "Russia", "Nintendo_Entertainment_System"], ["Apricot", "United_States", "Nintendo_Entertainment_System"]]

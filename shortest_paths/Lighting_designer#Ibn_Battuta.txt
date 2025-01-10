@@ -1,1 +1,0 @@
-[["Lighting_designer", "Theatre", "Baghdad", "Ibn_Battuta"], ["Lighting_designer", "Theatre", "India", "Ibn_Battuta"]]

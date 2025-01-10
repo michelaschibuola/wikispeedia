@@ -1,1 +1,0 @@
-[["James_Bond", "Japan", "Human_rights"], ["James_Bond", "Law", "Human_rights"], ["James_Bond", "United_Kingdom", "Human_rights"], ["James_Bond", "United_States", "Human_rights"], ["James_Bond", "U2", "Human_rights"]]

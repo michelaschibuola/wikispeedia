@@ -1,1 +1,0 @@
-[["Indian_Ocean", "Cretaceous", "Amber"], ["Indian_Ocean", "Asia", "Amber"], ["Indian_Ocean", "Mineral", "Amber"], ["Indian_Ocean", "Russia", "Amber"], ["Indian_Ocean", "United_States", "Amber"]]

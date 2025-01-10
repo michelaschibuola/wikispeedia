@@ -1,1 +1,0 @@
-[["Salt_Lake_City%2C_Utah", "Pacific_Ocean", "Tiger_Woods"], ["Salt_Lake_City%2C_Utah", "United_States", "Tiger_Woods"]]

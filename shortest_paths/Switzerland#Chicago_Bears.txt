@@ -1,1 +1,0 @@
-[["Switzerland", "United_States", "Chicago_Bears"]]

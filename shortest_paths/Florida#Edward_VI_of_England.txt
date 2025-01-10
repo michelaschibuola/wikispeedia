@@ -1,1 +1,0 @@
-[["Florida", "16th_century", "Edward_VI_of_England"], ["Florida", "England", "Edward_VI_of_England"], ["Florida", "France", "Edward_VI_of_England"], ["Florida", "Germany", "Edward_VI_of_England"], ["Florida", "United_States", "Edward_VI_of_England"], ["Florida", "Westminster_Abbey", "Edward_VI_of_England"]]

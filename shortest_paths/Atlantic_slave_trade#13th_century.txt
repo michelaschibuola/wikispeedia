@@ -1,1 +1,0 @@
-[["Atlantic_slave_trade", "Angola", "13th_century"], ["Atlantic_slave_trade", "Netherlands", "13th_century"], ["Atlantic_slave_trade", "Scotland", "13th_century"]]

@@ -1,1 +1,0 @@
-[["Costume_design", "Film", "United_States", "Tiger_Woods"], ["Costume_design", "Film", "Louisville%2C_Kentucky", "Tiger_Woods"], ["Costume_design", "Film", "Sweden", "Tiger_Woods"], ["Costume_design", "Gone_with_the_Wind_%28film%29", "Sweden", "Tiger_Woods"]]

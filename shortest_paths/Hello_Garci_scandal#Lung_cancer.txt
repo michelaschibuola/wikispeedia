@@ -1,1 +1,0 @@
-[["Hello_Garci_scandal", "Philippines", "Bhutan", "Lung_cancer"], ["Hello_Garci_scandal", "Philippines", "China", "Lung_cancer"], ["Hello_Garci_scandal", "Philippines", "United_States", "Lung_cancer"]]

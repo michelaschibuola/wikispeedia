@@ -1,1 +1,0 @@
-[["Leon_Trotsky", "Finland", "Coupling_%28railway%29"], ["Leon_Trotsky", "Mexico", "Coupling_%28railway%29"], ["Leon_Trotsky", "Soviet_Union", "Coupling_%28railway%29"], ["Leon_Trotsky", "United_Kingdom", "Coupling_%28railway%29"], ["Leon_Trotsky", "Russia", "Coupling_%28railway%29"]]

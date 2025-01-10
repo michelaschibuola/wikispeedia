@@ -1,1 +1,0 @@
-[["Snow_Goose", "Animal", "Basking_shark"], ["Snow_Goose", "Binomial_nomenclature", "Basking_shark"], ["Snow_Goose", "Canada", "Basking_shark"], ["Snow_Goose", "Chordate", "Basking_shark"], ["Snow_Goose", "Scientific_classification", "Basking_shark"]]

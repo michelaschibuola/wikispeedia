@@ -1,1 +1,0 @@
-[["Turtle", "Indian_Ocean", "2005_Sumatra_earthquake"], ["Turtle", "Seychelles", "2005_Sumatra_earthquake"]]

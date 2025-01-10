@@ -1,1 +1,0 @@
-[["Halloween", "Scotland", "Liberal_Democrats"], ["Halloween", "United_Kingdom", "Liberal_Democrats"]]

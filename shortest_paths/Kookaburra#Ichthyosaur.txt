@@ -1,1 +1,0 @@
-[["Kookaburra", "Animal", "Ichthyosaur"], ["Kookaburra", "Chordate", "Ichthyosaur"], ["Kookaburra", "Scientific_classification", "Ichthyosaur"]]

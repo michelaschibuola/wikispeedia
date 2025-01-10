@@ -1,1 +1,0 @@
-[["Viking", "English_language", "Banana"], ["Viking", "Islam", "Banana"], ["Viking", "Portugal", "Banana"]]

@@ -1,1 +1,0 @@
-[["Electrical_engineering", "Albert_Einstein", "Prague"], ["Electrical_engineering", "European_Union", "Prague"], ["Electrical_engineering", "Japan", "Prague"], ["Electrical_engineering", "University", "Prague"]]

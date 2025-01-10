@@ -1,1 +1,0 @@
-[["Mao_Zedong", "France", "Atlanta%2C_Georgia"], ["Mao_Zedong", "Japan", "Atlanta%2C_Georgia"], ["Mao_Zedong", "South_Korea", "Atlanta%2C_Georgia"], ["Mao_Zedong", "United_States", "Atlanta%2C_Georgia"], ["Mao_Zedong", "World_War_II", "Atlanta%2C_Georgia"], ["Mao_Zedong", "Mummy", "Atlanta%2C_Georgia"]]

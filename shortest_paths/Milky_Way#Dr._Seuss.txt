@@ -1,1 +1,0 @@
-[["Milky_Way", "India", "Dr._Seuss"]]

@@ -1,1 +1,0 @@
-[["Japan", "Greece", "Temple_of_Artemis"], ["Japan", "Heracles", "Temple_of_Artemis"], ["Japan", "Christianity", "Temple_of_Artemis"], ["Japan", "Moon", "Temple_of_Artemis"], ["Japan", "Sculpture", "Temple_of_Artemis"], ["Japan", "Turkey", "Temple_of_Artemis"]]

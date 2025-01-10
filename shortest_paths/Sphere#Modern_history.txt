@@ -1,1 +1,0 @@
-[["Sphere", "Earth", "Modern_history"]]

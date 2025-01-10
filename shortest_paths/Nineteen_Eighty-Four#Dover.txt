@@ -1,1 +1,0 @@
-[["Nineteen_Eighty-Four", "England", "Dover"], ["Nineteen_Eighty-Four", "Europe", "Dover"], ["Nineteen_Eighty-Four", "United_Kingdom", "Dover"], ["Nineteen_Eighty-Four", "World_War_II", "Dover"]]

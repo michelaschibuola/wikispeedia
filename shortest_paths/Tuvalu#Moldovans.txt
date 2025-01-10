@@ -1,1 +1,0 @@
-[["Tuvalu", "Spain", "Moldovans"], ["Tuvalu", "United_States", "Moldovans"]]

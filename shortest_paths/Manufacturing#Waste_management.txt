@@ -1,1 +1,0 @@
-[["Manufacturing", "Energy", "Waste_management"], ["Manufacturing", "Industry", "Waste_management"], ["Manufacturing", "Gas", "Waste_management"], ["Manufacturing", "Infrastructure", "Waste_management"], ["Manufacturing", "Steel", "Waste_management"], ["Manufacturing", "United_States", "Waste_management"], ["Manufacturing", "Melbourne", "Waste_management"]]

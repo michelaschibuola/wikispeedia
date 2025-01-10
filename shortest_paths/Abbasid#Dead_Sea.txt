@@ -1,1 +1,0 @@
-[["Abbasid", "Arabic_language", "Dead_Sea"], ["Abbasid", "Aristotle", "Dead_Sea"], ["Abbasid", "Byzantine_Empire", "Dead_Sea"], ["Abbasid", "Islam", "Dead_Sea"]]

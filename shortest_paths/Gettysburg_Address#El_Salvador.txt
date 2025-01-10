@@ -1,1 +1,0 @@
-[["Gettysburg_Address", "Cuba", "El_Salvador"], ["Gettysburg_Address", "United_States", "El_Salvador"]]

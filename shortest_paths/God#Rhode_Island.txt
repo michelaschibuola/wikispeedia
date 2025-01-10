@@ -1,1 +1,0 @@
-[["God", "Christianity", "Rhode_Island"], ["God", "Judaism", "Rhode_Island"], ["God", "United_States", "Rhode_Island"]]

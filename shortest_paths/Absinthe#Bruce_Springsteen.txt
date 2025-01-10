@@ -1,1 +1,0 @@
-[["Absinthe", "Switzerland", "Bruce_Springsteen"], ["Absinthe", "United_Kingdom", "Bruce_Springsteen"], ["Absinthe", "United_States", "Bruce_Springsteen"]]

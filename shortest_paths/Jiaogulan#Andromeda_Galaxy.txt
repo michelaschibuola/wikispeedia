@@ -1,1 +1,0 @@
-[["Jiaogulan", "China", "Astronomy", "Andromeda_Galaxy"], ["Jiaogulan", "Chinese_language", "Sirius", "Andromeda_Galaxy"], ["Jiaogulan", "Japan", "Moon", "Andromeda_Galaxy"], ["Jiaogulan", "Japan", "Sun", "Andromeda_Galaxy"], ["Jiaogulan", "Plant", "Extraterrestrial_life", "Andromeda_Galaxy"]]

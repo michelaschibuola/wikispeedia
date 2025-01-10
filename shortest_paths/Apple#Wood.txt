@@ -1,1 +1,0 @@
-[["Apple", "Argentina", "Wood"], ["Apple", "Fungus", "Wood"], ["Apple", "North_America", "Wood"], ["Apple", "Plant", "Wood"], ["Apple", "Soil", "Wood"], ["Apple", "Tree", "Wood"], ["Apple", "Water", "Wood"], ["Apple", "Mesopotamia", "Wood"], ["Apple", "Toy", "Wood"]]

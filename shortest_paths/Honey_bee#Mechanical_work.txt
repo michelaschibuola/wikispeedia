@@ -1,1 +1,0 @@
-[["Honey_bee", "Animal", "Energy", "Mechanical_work"], ["Honey_bee", "Protein", "Atom", "Mechanical_work"], ["Honey_bee", "Sugar", "Atom", "Mechanical_work"], ["Honey_bee", "Sugar", "Steam_engine", "Mechanical_work"]]

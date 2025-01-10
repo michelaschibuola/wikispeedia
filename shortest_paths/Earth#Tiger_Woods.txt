@@ -1,1 +1,0 @@
-[["Earth", "Nitrogen", "Tiger_Woods"], ["Earth", "Oxygen", "Tiger_Woods"], ["Earth", "Pacific_Ocean", "Tiger_Woods"], ["Earth", "United_States", "Tiger_Woods"], ["Earth", "Helium", "Tiger_Woods"]]

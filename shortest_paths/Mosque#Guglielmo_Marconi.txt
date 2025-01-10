@@ -1,1 +1,0 @@
-[["Mosque", "Football_%28soccer%29", "Guglielmo_Marconi"], ["Mosque", "London", "Guglielmo_Marconi"], ["Mosque", "Rome", "Guglielmo_Marconi"], ["Mosque", "United_Kingdom", "Guglielmo_Marconi"]]

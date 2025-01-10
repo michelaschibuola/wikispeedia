@@ -1,1 +1,0 @@
-[["Carbon", "Brazil", "16th_century"], ["Carbon", "German_language", "16th_century"], ["Carbon", "India", "16th_century"], ["Carbon", "Science", "16th_century"], ["Carbon", "Steel", "16th_century"], ["Carbon", "Sun", "16th_century"]]

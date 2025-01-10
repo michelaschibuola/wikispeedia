@@ -1,1 +1,0 @@
-[["Stephen_Hawking", "England", "Chew_Stoke"], ["Stephen_Hawking", "United_Kingdom", "Chew_Stoke"]]

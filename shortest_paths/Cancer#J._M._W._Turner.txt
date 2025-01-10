@@ -1,1 +1,0 @@
-[["Cancer", "London", "J._M._W._Turner"], ["Cancer", "The_Holocaust", "J._M._W._Turner"]]

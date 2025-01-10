@@ -1,1 +1,0 @@
-[["Domestic_goat", "Chicken", "Flower"], ["Domestic_goat", "Iran", "Flower"], ["Domestic_goat", "Protein", "Flower"], ["Domestic_goat", "Scientific_classification", "Flower"]]

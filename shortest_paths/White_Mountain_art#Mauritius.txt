@@ -1,1 +1,0 @@
-[["White_Mountain_art", "Rocky_Mountains", "Mark_Twain", "Mauritius"], ["White_Mountain_art", "Rocky_Mountains", "Agriculture", "Mauritius"], ["White_Mountain_art", "Rocky_Mountains", "English_language", "Mauritius"], ["White_Mountain_art", "Rocky_Mountains", "United_States", "Mauritius"]]

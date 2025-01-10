@@ -1,1 +1,0 @@
-[["Tamil_language", "South_Africa", "African_Penguin"], ["Tamil_language", "Animal", "African_Penguin"]]

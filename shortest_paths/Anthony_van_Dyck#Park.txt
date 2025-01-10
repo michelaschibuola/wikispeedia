@@ -1,1 +1,0 @@
-[["Anthony_van_Dyck", "England", "Park"], ["Anthony_van_Dyck", "France", "Park"], ["Anthony_van_Dyck", "London", "Park"], ["Anthony_van_Dyck", "Paris", "Park"], ["Anthony_van_Dyck", "Belgium", "Park"]]

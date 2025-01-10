@@ -1,1 +1,0 @@
-[["Cactus", "19th_century", "Slavery"], ["Cactus", "Africa", "Slavery"], ["Cactus", "Aztec", "Slavery"], ["Cactus", "Canada", "Slavery"], ["Cactus", "Israel", "Slavery"], ["Cactus", "Jew", "Slavery"], ["Cactus", "North_America", "Slavery"], ["Cactus", "South_America", "Slavery"], ["Cactus", "United_States", "Slavery"]]

@@ -1,1 +1,0 @@
-[["Barn_Owl", "Animal", "Cape_Lion"], ["Barn_Owl", "Chordate", "Cape_Lion"], ["Barn_Owl", "Scientific_classification", "Cape_Lion"]]

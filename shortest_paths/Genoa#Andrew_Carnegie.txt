@@ -1,1 +1,0 @@
-[["Genoa", "Spain", "Andrew_Carnegie"], ["Genoa", "United_States", "Andrew_Carnegie"]]

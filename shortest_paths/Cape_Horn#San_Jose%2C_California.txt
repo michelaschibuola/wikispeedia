@@ -1,1 +1,0 @@
-[["Cape_Horn", "Spanish_language", "San_Jose%2C_California"], ["Cape_Horn", "United_States", "San_Jose%2C_California"]]

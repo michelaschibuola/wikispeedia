@@ -1,1 +1,0 @@
-[["BASIC", "BBC", "Africa", "Hutu"], ["BASIC", "BBC", "United_States", "Hutu"], ["BASIC", "Bill_Gates", "United_States", "Hutu"], ["BASIC", "Computer", "United_States", "Hutu"], ["BASIC", "BBC", "Rwandan_Genocide", "Hutu"], ["BASIC", "BBC", "United_Nations", "Hutu"]]

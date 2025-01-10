@@ -1,1 +1,0 @@
-[["Birmingham", "Basketball", "West_Virginia"], ["Birmingham", "Coal", "West_Virginia"], ["Birmingham", "Europe", "West_Virginia"], ["Birmingham", "Football_%28soccer%29", "West_Virginia"], ["Birmingham", "United_States", "West_Virginia"]]

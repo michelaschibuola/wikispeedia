@@ -1,1 +1,0 @@
-[["Mary_Seacole", "France", "Bismuth"], ["Mary_Seacole", "United_Kingdom", "Bismuth"]]

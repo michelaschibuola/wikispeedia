@@ -1,1 +1,0 @@
-[["Measles", "Bolivia", "Sucre"], ["Measles", "Peru", "Sucre"], ["Measles", "South_America", "Sucre"]]

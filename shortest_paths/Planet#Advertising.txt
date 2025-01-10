@@ -1,1 +1,0 @@
-[["Planet", "Ancient_Rome", "Advertising"], ["Planet", "Ancient_history", "Advertising"], ["Planet", "Japan", "Advertising"]]

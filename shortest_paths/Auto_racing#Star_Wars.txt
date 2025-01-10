@@ -1,1 +1,0 @@
-[["Auto_racing", "Australia", "Star_Wars"], ["Auto_racing", "Europe", "Star_Wars"], ["Auto_racing", "Germany", "Star_Wars"]]

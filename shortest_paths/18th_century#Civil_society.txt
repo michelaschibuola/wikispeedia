@@ -1,1 +1,0 @@
-[["18th_century", "Russia", "Civil_society"], ["18th_century", "Law", "Civil_society"], ["18th_century", "Liberal_democracy", "Civil_society"], ["18th_century", "Nationalism", "Civil_society"], ["18th_century", "Political_economy", "Civil_society"], ["18th_century", "Politics", "Civil_society"]]

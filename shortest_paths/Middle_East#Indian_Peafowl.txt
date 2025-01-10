@@ -1,1 +1,0 @@
-[["Middle_East", "Mexico", "Indian_Peafowl"], ["Middle_East", "India", "Indian_Peafowl"], ["Middle_East", "Pakistan", "Indian_Peafowl"], ["Middle_East", "Sri_Lanka", "Indian_Peafowl"]]

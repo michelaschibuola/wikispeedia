@@ -1,1 +1,0 @@
-[["Norfolk", "History_of_saffron", "Alexander_the_Great"], ["Norfolk", "Europe", "Alexander_the_Great"], ["Norfolk", "London", "Alexander_the_Great"], ["Norfolk", "Middle_Ages", "Alexander_the_Great"], ["Norfolk", "Saffron", "Alexander_the_Great"]]

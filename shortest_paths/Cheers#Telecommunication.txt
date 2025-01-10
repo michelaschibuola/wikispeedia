@@ -1,1 +1,0 @@
-[["Cheers", "Netherlands", "Telecommunication"], ["Cheers", "Television", "Telecommunication"]]

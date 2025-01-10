@@ -1,1 +1,0 @@
-[["Seoul", "France", "Anschluss"], ["Seoul", "Italy", "Anschluss"], ["Seoul", "Poland", "Anschluss"], ["Seoul", "United_Kingdom", "Anschluss"], ["Seoul", "United_States", "Anschluss"]]

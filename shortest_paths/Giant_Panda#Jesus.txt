@@ -1,1 +1,0 @@
-[["Giant_Panda", "China", "Jesus"], ["Giant_Panda", "Silver", "Jesus"], ["Giant_Panda", "Swastika", "Jesus"]]

@@ -1,1 +1,0 @@
-[["Brazil", "Barcelona", "War_of_the_Spanish_Succession"], ["Brazil", "Europe", "War_of_the_Spanish_Succession"], ["Brazil", "Italy", "War_of_the_Spanish_Succession"], ["Brazil", "Portugal", "War_of_the_Spanish_Succession"], ["Brazil", "France", "War_of_the_Spanish_Succession"]]

@@ -1,1 +1,0 @@
-[["Malcolm_X", "New_York_City", "Charles_Dickens"], ["Malcolm_X", "Paris", "Charles_Dickens"], ["Malcolm_X", "United_States", "Charles_Dickens"]]

@@ -1,1 +1,0 @@
-[["Oceanography", "Mediterranean_Sea", "Bulgaria"], ["Oceanography", "Australia", "Bulgaria"], ["Oceanography", "Europe", "Bulgaria"], ["Oceanography", "Monaco", "Bulgaria"], ["Oceanography", "United_States", "Bulgaria"]]

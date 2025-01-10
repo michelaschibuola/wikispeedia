@@ -1,1 +1,0 @@
-[["Charles_Dickens", "England", "Baroque"], ["Charles_Dickens", "Henry_James", "Baroque"], ["Charles_Dickens", "William_Shakespeare", "Baroque"], ["Charles_Dickens", "Literature", "Baroque"], ["Charles_Dickens", "Miguel_de_Cervantes", "Baroque"]]

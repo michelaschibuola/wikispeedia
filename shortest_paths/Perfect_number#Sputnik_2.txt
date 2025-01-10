@@ -1,1 +1,0 @@
-[["Perfect_number", "Leonhard_Euler", "Russian_language", "Sputnik_2"], ["Perfect_number", "Leonhard_Euler", "Soviet_Union", "Sputnik_2"]]

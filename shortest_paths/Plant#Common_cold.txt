@@ -1,1 +1,0 @@
-[["Plant", "Bacteria", "Common_cold"], ["Plant", "Cell_%28biology%29", "Common_cold"], ["Plant", "Lemon", "Common_cold"], ["Plant", "Tobacco", "Common_cold"], ["Plant", "Virus", "Common_cold"]]

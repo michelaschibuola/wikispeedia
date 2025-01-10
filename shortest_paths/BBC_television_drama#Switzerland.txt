@@ -1,1 +1,0 @@
-[["BBC_television_drama", "Austria", "Switzerland"], ["BBC_television_drama", "Italy", "Switzerland"], ["BBC_television_drama", "United_States", "Switzerland"]]

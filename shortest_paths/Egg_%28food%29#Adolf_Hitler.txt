@@ -1,1 +1,0 @@
-[["Egg_%28food%29", "United_Kingdom", "Adolf_Hitler"], ["Egg_%28food%29", "United_States", "Adolf_Hitler"]]

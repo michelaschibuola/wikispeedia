@@ -1,1 +1,0 @@
-[["Krazy_Kat", "Cat", "Black_panther"]]

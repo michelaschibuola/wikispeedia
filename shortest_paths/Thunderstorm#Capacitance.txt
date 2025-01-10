@@ -1,1 +1,0 @@
-[["Thunderstorm", "Electricity", "Capacitance"], ["Thunderstorm", "Energy", "Capacitance"]]

@@ -1,1 +1,0 @@
-[["Nuclear_weapon", "20th_century", "Moon_landing"], ["Nuclear_weapon", "Dwight_D._Eisenhower", "Moon_landing"], ["Nuclear_weapon", "Moon", "Moon_landing"], ["Nuclear_weapon", "Soviet_Union", "Moon_landing"], ["Nuclear_weapon", "United_States", "Moon_landing"]]

@@ -1,1 +1,0 @@
-[["Ice_age", "Climate_change", "Gottfried_Leibniz"], ["Ice_age", "Earth", "Gottfried_Leibniz"], ["Ice_age", "History_of_science", "Gottfried_Leibniz"]]

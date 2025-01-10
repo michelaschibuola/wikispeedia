@@ -1,1 +1,0 @@
-[["17th_century", "Japan", "Attack_on_Pearl_Harbor"], ["17th_century", "Netherlands", "Attack_on_Pearl_Harbor"], ["17th_century", "North_America", "Attack_on_Pearl_Harbor"], ["17th_century", "Taiwan", "Attack_on_Pearl_Harbor"]]

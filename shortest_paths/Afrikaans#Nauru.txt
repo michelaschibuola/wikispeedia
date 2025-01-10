@@ -1,1 +1,0 @@
-[["Afrikaans", "Australia", "Nauru"], ["Afrikaans", "English_language", "Nauru"], ["Afrikaans", "New_Zealand", "Nauru"], ["Afrikaans", "United_Kingdom", "Nauru"]]

@@ -1,1 +1,0 @@
-[["Bhutan", "Asia", "Karachi"], ["Bhutan", "Football_%28soccer%29", "Karachi"], ["Bhutan", "India", "Karachi"], ["Bhutan", "Indian_independence_movement", "Karachi"], ["Bhutan", "People%27s_Republic_of_China", "Karachi"], ["Bhutan", "Time_zone", "Karachi"], ["Bhutan", "Buddhism", "Karachi"]]

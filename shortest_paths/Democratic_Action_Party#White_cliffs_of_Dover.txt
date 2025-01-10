@@ -1,1 +1,0 @@
-[["Democratic_Action_Party", "Malaysia", "Europe", "White_cliffs_of_Dover"], ["Democratic_Action_Party", "Malaysia", "United_Kingdom", "White_cliffs_of_Dover"], ["Democratic_Action_Party", "Parliament_of_Malaysia", "United_Kingdom", "White_cliffs_of_Dover"]]

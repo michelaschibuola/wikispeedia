@@ -1,1 +1,0 @@
-[["List_of_sovereign_states", "Italy", "Mars"], ["List_of_sovereign_states", "Japan", "Mars"], ["List_of_sovereign_states", "Vietnam", "Mars"]]

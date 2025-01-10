@@ -1,1 +1,0 @@
-[["Dinosaur", "Belgium", "Acorn_Computers"], ["Dinosaur", "England", "Acorn_Computers"]]

@@ -1,1 +1,0 @@
-[["Cheese", "Ancient_Egypt", "Cairo"], ["Cheese", "Coffee", "Cairo"], ["Cheese", "Egypt", "Cairo"], ["Cheese", "Europe", "Cairo"], ["Cheese", "France", "Cairo"], ["Cheese", "Germany", "Cairo"], ["Cheese", "Islam", "Cairo"], ["Cheese", "Middle_East", "Cairo"], ["Cheese", "Roman_Empire", "Cairo"], ["Cheese", "United_Nations", "Cairo"], ["Cheese", "United_States", "Cairo"]]

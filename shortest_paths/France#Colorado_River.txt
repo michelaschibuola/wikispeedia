@@ -1,1 +1,0 @@
-[["France", "20th_century", "Colorado_River"], ["France", "Dam", "Colorado_River"], ["France", "California", "Colorado_River"], ["France", "River", "Colorado_River"], ["France", "United_States", "Colorado_River"], ["France", "List_of_rivers_by_length", "Colorado_River"], ["France", "Mexico", "Colorado_River"], ["France", "Water", "Colorado_River"]]

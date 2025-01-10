@@ -1,1 +1,0 @@
-[["Drinking_water", "Finland", "Bear"], ["Drinking_water", "Mammal", "Bear"], ["Drinking_water", "United_States", "Bear"]]

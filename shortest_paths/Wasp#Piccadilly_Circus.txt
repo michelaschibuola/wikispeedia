@@ -1,1 +1,0 @@
-[["Wasp", "Pollinator_decline", "United_States", "Piccadilly_Circus"], ["Wasp", "Spider", "United_States", "Piccadilly_Circus"], ["Wasp", "Herbivore", "United_States", "Piccadilly_Circus"]]

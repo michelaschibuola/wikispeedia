@@ -1,1 +1,0 @@
-[["Madagascar", "China", "Buckingham_Palace"], ["Madagascar", "France", "Buckingham_Palace"], ["Madagascar", "Germany", "Buckingham_Palace"], ["Madagascar", "Russia", "Buckingham_Palace"], ["Madagascar", "United_Kingdom", "Buckingham_Palace"], ["Madagascar", "World_War_II", "Buckingham_Palace"]]

@@ -1,1 +1,0 @@
-[["Planet", "20th_century", "Diamond_simulant"], ["Planet", "Japan", "Diamond_simulant"], ["Planet", "Oxygen", "Diamond_simulant"]]

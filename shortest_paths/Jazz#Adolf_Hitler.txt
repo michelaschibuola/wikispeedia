@@ -1,1 +1,0 @@
-[["Jazz", "France", "Adolf_Hitler"], ["Jazz", "United_Kingdom", "Adolf_Hitler"], ["Jazz", "United_States", "Adolf_Hitler"], ["Jazz", "Jesse_Owens", "Adolf_Hitler"], ["Jazz", "Warsaw", "Adolf_Hitler"]]

@@ -1,1 +1,0 @@
-[["Jimmy_Carter", "Afghanistan", "15th_Marine_Expeditionary_Unit"], ["Jimmy_Carter", "Pakistan", "15th_Marine_Expeditionary_Unit"], ["Jimmy_Carter", "Persian_Gulf", "15th_Marine_Expeditionary_Unit"], ["Jimmy_Carter", "United_Kingdom", "15th_Marine_Expeditionary_Unit"], ["Jimmy_Carter", "World_War_II", "15th_Marine_Expeditionary_Unit"]]

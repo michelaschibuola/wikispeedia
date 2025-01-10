@@ -1,1 +1,0 @@
-[["13th_century", "Europe", "Climate_change"], ["13th_century", "Netherlands", "Climate_change"], ["13th_century", "Weather", "Climate_change"]]

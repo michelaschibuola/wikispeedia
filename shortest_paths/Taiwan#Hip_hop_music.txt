@@ -1,1 +1,0 @@
-[["Taiwan", "English_language", "Hip_hop_music"], ["Taiwan", "Nationalism", "Hip_hop_music"], ["Taiwan", "Philippines", "Hip_hop_music"], ["Taiwan", "Seoul", "Hip_hop_music"], ["Taiwan", "South_Africa", "Hip_hop_music"], ["Taiwan", "Netherlands", "Hip_hop_music"], ["Taiwan", "United_Kingdom", "Hip_hop_music"]]

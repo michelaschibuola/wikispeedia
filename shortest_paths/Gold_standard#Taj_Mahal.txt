@@ -1,1 +1,0 @@
-[["Gold_standard", "Asia", "Taj_Mahal"], ["Gold_standard", "India", "Taj_Mahal"], ["Gold_standard", "Islam", "Taj_Mahal"], ["Gold_standard", "Persian_Empire", "Taj_Mahal"], ["Gold_standard", "United_Kingdom", "Taj_Mahal"]]

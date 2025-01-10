@@ -1,1 +1,0 @@
-[["Economy_of_Africa", "China", "Louisville%2C_Kentucky"], ["Economy_of_Africa", "Coal", "Louisville%2C_Kentucky"], ["Economy_of_Africa", "English_language", "Louisville%2C_Kentucky"], ["Economy_of_Africa", "United_States", "Louisville%2C_Kentucky"]]

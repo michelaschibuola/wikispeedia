@@ -1,1 +1,0 @@
-[["Robert_Oppenheimer", "Europe", "Manchester_United_F.C."], ["Robert_Oppenheimer", "Germany", "Manchester_United_F.C."], ["Robert_Oppenheimer", "United_States", "Manchester_United_F.C."], ["Robert_Oppenheimer", "World_War_II", "Manchester_United_F.C."]]

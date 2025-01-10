@@ -1,1 +1,0 @@
-[["Cotopaxi", "Andes", "Roman_Empire", "Aksumite_currency"], ["Cotopaxi", "Amazon_Rainforest", "Africa", "Aksumite_currency"], ["Cotopaxi", "Pacific_Ocean", "Africa", "Aksumite_currency"], ["Cotopaxi", "Ecuador", "Currency", "Aksumite_currency"], ["Cotopaxi", "Ecuador", "Christianity", "Aksumite_currency"], ["Cotopaxi", "Pacific_Ocean", "Sub-Saharan_Africa", "Aksumite_currency"]]

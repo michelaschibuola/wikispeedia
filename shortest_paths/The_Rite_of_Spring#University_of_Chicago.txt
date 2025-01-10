@@ -1,1 +1,0 @@
-[["The_Rite_of_Spring", "London", "University_of_Chicago"], ["The_Rite_of_Spring", "Paris", "University_of_Chicago"], ["The_Rite_of_Spring", "United_States", "University_of_Chicago"]]

@@ -1,1 +1,0 @@
-[["The_Beatles", "Bob_Dylan", "Philosophy"], ["The_Beatles", "Kurt_Cobain", "Philosophy"], ["The_Beatles", "Love", "Philosophy"], ["The_Beatles", "Communism", "Philosophy"], ["The_Beatles", "India", "Philosophy"], ["The_Beatles", "United_States", "Philosophy"], ["The_Beatles", "World_War_II", "Philosophy"]]

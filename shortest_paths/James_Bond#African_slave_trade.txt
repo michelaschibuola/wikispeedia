@@ -1,1 +1,0 @@
-[["James_Bond", "Law", "African_slave_trade"], ["James_Bond", "Middle_East", "African_slave_trade"], ["James_Bond", "Portugal", "African_slave_trade"], ["James_Bond", "Scotland", "African_slave_trade"], ["James_Bond", "United_Kingdom", "African_slave_trade"], ["James_Bond", "United_States", "African_slave_trade"]]

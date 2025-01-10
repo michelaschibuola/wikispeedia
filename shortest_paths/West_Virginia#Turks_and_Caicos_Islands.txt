@@ -1,1 +1,0 @@
-[["West_Virginia", "2004_Atlantic_hurricane_season", "Turks_and_Caicos_Islands"], ["West_Virginia", "Navassa_Island", "Turks_and_Caicos_Islands"], ["West_Virginia", "United_States", "Turks_and_Caicos_Islands"], ["West_Virginia", "Canada", "Turks_and_Caicos_Islands"], ["West_Virginia", "English_language", "Turks_and_Caicos_Islands"]]

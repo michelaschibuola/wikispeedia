@@ -1,1 +1,0 @@
-[["Welsh_law", "Wales", "Coal", "Florida_East_Coast_Railway"], ["Welsh_law", "13th_century", "Coal", "Florida_East_Coast_Railway"], ["Welsh_law", "16th_century", "Florida", "Florida_East_Coast_Railway"], ["Welsh_law", "17th_century", "New_York_City", "Florida_East_Coast_Railway"], ["Welsh_law", "Ireland", "Henry_H._Rogers", "Florida_East_Coast_Railway"]]

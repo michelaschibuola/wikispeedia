@@ -1,1 +1,0 @@
-[["Jane_Austen", "19th_century", "Bird", "Hawaiian_Goose"], ["Jane_Austen", "Hampshire", "Pig", "Hawaiian_Goose"], ["Jane_Austen", "20th_century", "Binomial_nomenclature", "Hawaiian_Goose"], ["Jane_Austen", "20th_century", "Canada_Goose", "Hawaiian_Goose"], ["Jane_Austen", "Rudyard_Kipling", "Mongoose", "Hawaiian_Goose"]]

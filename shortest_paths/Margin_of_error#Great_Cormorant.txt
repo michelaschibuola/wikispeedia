@@ -1,1 +1,0 @@
-[["Margin_of_error", "George_W._Bush", "Canada", "Great_Cormorant"], ["Margin_of_error", "George_W._Bush", "Europe", "Great_Cormorant"], ["Margin_of_error", "George_W._Bush", "United_Kingdom", "Great_Cormorant"], ["Margin_of_error", "Mass_media", "United_Kingdom", "Great_Cormorant"], ["Margin_of_error", "George_W._Bush", "Japan", "Great_Cormorant"]]

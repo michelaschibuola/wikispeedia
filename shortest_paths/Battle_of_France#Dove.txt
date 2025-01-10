@@ -1,1 +1,0 @@
-[["Battle_of_France", "France", "Dove"], ["Battle_of_France", "Poland", "Dove"]]

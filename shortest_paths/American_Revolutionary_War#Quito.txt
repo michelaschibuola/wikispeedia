@@ -1,1 +1,0 @@
-[["American_Revolutionary_War", "Spain", "Quito"], ["American_Revolutionary_War", "Capital", "Quito"], ["American_Revolutionary_War", "Louisville%2C_Kentucky", "Quito"], ["American_Revolutionary_War", "Toronto", "Quito"]]

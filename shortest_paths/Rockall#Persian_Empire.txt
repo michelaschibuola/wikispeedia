@@ -1,1 +1,0 @@
-[["Rockall", "British_Empire", "Persian_Empire"], ["Rockall", "Petroleum", "Persian_Empire"], ["Rockall", "Royal_Navy", "Persian_Empire"], ["Rockall", "Soviet_Union", "Persian_Empire"]]

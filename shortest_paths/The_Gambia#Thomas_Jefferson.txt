@@ -1,1 +1,0 @@
-[["The_Gambia", "African_American_literature", "Thomas_Jefferson"], ["The_Gambia", "France", "Thomas_Jefferson"], ["The_Gambia", "United_States", "Thomas_Jefferson"]]

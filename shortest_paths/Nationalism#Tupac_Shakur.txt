@@ -1,1 +1,0 @@
-[["Nationalism", "Hip_hop_music", "Tupac_Shakur"], ["Nationalism", "Mythology", "Tupac_Shakur"], ["Nationalism", "United_States", "Tupac_Shakur"]]

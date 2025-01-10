@@ -1,1 +1,0 @@
-[["Permian", "Australia", "Donald_Duck"], ["Permian", "United_States", "Donald_Duck"]]

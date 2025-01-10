@@ -1,1 +1,0 @@
-[["Ho_Chi_Minh", "China", "University"], ["Ho_Chi_Minh", "Confucianism", "University"], ["Ho_Chi_Minh", "England", "University"], ["Ho_Chi_Minh", "English_language", "University"], ["Ho_Chi_Minh", "Joseph_Stalin", "University"], ["Ho_Chi_Minh", "Soviet_Union", "University"]]

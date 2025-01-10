@@ -1,1 +1,0 @@
-[["Nintendo", "Europe", "Bologna"], ["Nintendo", "France", "Bologna"], ["Nintendo", "Germany", "Bologna"], ["Nintendo", "Playing_card", "Bologna"], ["Nintendo", "United_States", "Bologna"]]

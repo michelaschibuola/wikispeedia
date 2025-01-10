@@ -1,1 +1,0 @@
-[["Suleiman_the_Magnificent", "Damascus", "Manchester"], ["Suleiman_the_Magnificent", "France", "Manchester"], ["Suleiman_the_Magnificent", "Jew", "Manchester"], ["Suleiman_the_Magnificent", "Spain", "Manchester"]]

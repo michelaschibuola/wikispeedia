@@ -1,1 +1,0 @@
-[["Bouvet_Island", "Indian_Ocean", "Mesopotamia"], ["Bouvet_Island", "United_Kingdom", "Mesopotamia"]]

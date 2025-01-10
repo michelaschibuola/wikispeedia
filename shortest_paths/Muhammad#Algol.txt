@@ -1,1 +1,0 @@
-[["Muhammad", "Arabic_language", "Algol"]]

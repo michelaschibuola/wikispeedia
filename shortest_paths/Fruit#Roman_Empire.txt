@@ -1,1 +1,0 @@
-[["Fruit", "Abkhazia", "Roman_Empire"], ["Fruit", "Algeria", "Roman_Empire"], ["Fruit", "Apricot", "Roman_Empire"], ["Fruit", "Azerbaijan", "Roman_Empire"], ["Fruit", "Black_pepper", "Roman_Empire"], ["Fruit", "Barcelona", "Roman_Empire"], ["Fruit", "Honey", "Roman_Empire"], ["Fruit", "Istanbul", "Roman_Empire"], ["Fruit", "Nutmeg", "Roman_Empire"]]

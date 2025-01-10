@@ -1,1 +1,0 @@
-[["Newspaper", "France", "Marie_Curie"], ["Newspaper", "United_States", "Marie_Curie"]]

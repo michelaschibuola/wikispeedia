@@ -1,1 +1,0 @@
-[["Rock_of_Gibraltar", "Europe", "Capitalism"], ["Rock_of_Gibraltar", "United_Kingdom", "Capitalism"]]

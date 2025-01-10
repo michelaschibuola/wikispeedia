@@ -1,1 +1,0 @@
-[["Baseball", "Argentina", "Avocado"], ["Baseball", "Israel", "Avocado"], ["Baseball", "United_States", "Avocado"], ["Baseball", "Florida", "Avocado"], ["Baseball", "Mexico", "Avocado"], ["Baseball", "Vietnam", "Avocado"]]

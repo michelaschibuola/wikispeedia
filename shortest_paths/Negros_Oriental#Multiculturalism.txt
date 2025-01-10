@@ -1,1 +1,0 @@
-[["Negros_Oriental", "Spanish_language", "Multiculturalism"], ["Negros_Oriental", "United_States", "Multiculturalism"], ["Negros_Oriental", "World_War_II", "Multiculturalism"]]

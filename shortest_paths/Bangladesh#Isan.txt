@@ -1,1 +1,0 @@
-[["Bangladesh", "Buddhism", "Isan"], ["Bangladesh", "Cricket", "Isan"], ["Bangladesh", "English_language", "Isan"], ["Bangladesh", "Flood", "Isan"], ["Bangladesh", "Sanskrit", "Isan"], ["Bangladesh", "Tennis", "Isan"], ["Bangladesh", "Bridge", "Isan"], ["Bangladesh", "Folk_music", "Isan"], ["Bangladesh", "Rice", "Isan"]]

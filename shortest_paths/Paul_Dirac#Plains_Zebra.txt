@@ -1,1 +1,0 @@
-[["Paul_Dirac", "Electrical_engineering", "South_Africa", "Plains_Zebra"], ["Paul_Dirac", "United_Kingdom", "South_Africa", "Plains_Zebra"], ["Paul_Dirac", "World_War_II", "South_Africa", "Plains_Zebra"], ["Paul_Dirac", "United_Kingdom", "Ethiopia", "Plains_Zebra"]]

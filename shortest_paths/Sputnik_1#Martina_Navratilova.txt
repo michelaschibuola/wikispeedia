@@ -1,1 +1,0 @@
-[["Sputnik_1", "New_York_City", "Martina_Navratilova"], ["Sputnik_1", "United_States", "Martina_Navratilova"]]

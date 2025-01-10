@@ -1,1 +1,0 @@
-[["Lake_Turkana", "Ethiopia", "Syria"], ["Lake_Turkana", "Great_Rift_Valley", "Syria"], ["Lake_Turkana", "List_of_lakes", "Syria"]]

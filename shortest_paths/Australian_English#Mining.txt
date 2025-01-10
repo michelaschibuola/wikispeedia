@@ -1,1 +1,0 @@
-[["Australian_English", "Australia", "Mining"], ["Australian_English", "United_States", "Mining"], ["Australian_English", "Dam", "Mining"]]

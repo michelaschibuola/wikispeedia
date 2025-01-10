@@ -1,1 +1,0 @@
-[["Medieval_music", "Germany", "Berlin"], ["Medieval_music", "Italy", "Berlin"], ["Medieval_music", "Jew", "Berlin"], ["Medieval_music", "Roman_Catholic_Church", "Berlin"], ["Medieval_music", "Spain", "Berlin"]]

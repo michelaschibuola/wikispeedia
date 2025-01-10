@@ -1,1 +1,0 @@
-[["Roman_Empire", "Flanders", "Carbon_dioxide"], ["Roman_Empire", "Germany", "Carbon_dioxide"], ["Roman_Empire", "Glass", "Carbon_dioxide"], ["Roman_Empire", "United_States", "Carbon_dioxide"], ["Roman_Empire", "Scotland", "Carbon_dioxide"]]

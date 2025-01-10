@@ -1,1 +1,0 @@
-[["Sequence_alignment", "DNA", "United_Kingdom", "Local_government_in_the_United_Kingdom"], ["Sequence_alignment", "DNA", "Ireland", "Local_government_in_the_United_Kingdom"]]

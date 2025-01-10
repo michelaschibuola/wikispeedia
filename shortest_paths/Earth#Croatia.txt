@@ -1,1 +1,0 @@
-[["Earth", "Asia", "Croatia"], ["Earth", "Canada", "Croatia"], ["Earth", "Climate", "Croatia"], ["Earth", "Europe", "Croatia"], ["Earth", "German_language", "Croatia"], ["Earth", "United_Nations", "Croatia"], ["Earth", "Russia", "Croatia"], ["Earth", "Time_zone", "Croatia"], ["Earth", "United_Kingdom", "Croatia"]]

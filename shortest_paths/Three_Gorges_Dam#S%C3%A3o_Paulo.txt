@@ -1,1 +1,0 @@
-[["Three_Gorges_Dam", "China", "S%C3%A3o_Paulo"], ["Three_Gorges_Dam", "Shanghai", "S%C3%A3o_Paulo"]]

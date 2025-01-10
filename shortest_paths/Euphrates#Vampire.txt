@@ -1,1 +1,0 @@
-[["Euphrates", "Ancient_Rome", "Vampire"], ["Euphrates", "Sumer", "Vampire"]]

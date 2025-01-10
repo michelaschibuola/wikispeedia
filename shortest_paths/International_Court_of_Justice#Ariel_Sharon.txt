@@ -1,1 +1,0 @@
-[["International_Court_of_Justice", "Belgium", "Ariel_Sharon"], ["International_Court_of_Justice", "France", "Ariel_Sharon"], ["International_Court_of_Justice", "Jordan", "Ariel_Sharon"], ["International_Court_of_Justice", "United_States", "Ariel_Sharon"], ["International_Court_of_Justice", "West_Bank", "Ariel_Sharon"]]

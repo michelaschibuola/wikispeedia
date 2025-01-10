@@ -1,1 +1,0 @@
-[["Mosaic", "Byzantine_Empire", "Pope"], ["Mosaic", "4th_century", "Pope"], ["Mosaic", "Baroque", "Pope"], ["Mosaic", "Charlemagne", "Pope"], ["Mosaic", "Constantine_I", "Pope"], ["Mosaic", "Italy", "Pope"], ["Mosaic", "Roman_Empire", "Pope"], ["Mosaic", "Rome", "Pope"], ["Mosaic", "Spain", "Pope"], ["Mosaic", "Western_Roman_Empire", "Pope"]]

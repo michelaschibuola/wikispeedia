@@ -1,1 +1,0 @@
-[["Butter", "Asia", "Taiwan"], ["Butter", "English_language", "Taiwan"], ["Butter", "Peanut", "Taiwan"], ["Butter", "United_Kingdom", "Taiwan"], ["Butter", "Water_Buffalo", "Taiwan"], ["Butter", "Pea", "Taiwan"]]

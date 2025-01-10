@@ -1,1 +1,0 @@
-[["Zambia", "19th_century", "Westminster_System"], ["Zambia", "India", "Westminster_System"], ["Zambia", "United_Kingdom", "Westminster_System"]]

@@ -1,1 +1,0 @@
-[["Human_rights", "Albania", "Homer"], ["Human_rights", "19th_century", "Homer"], ["Human_rights", "Max_Weber", "Homer"], ["Human_rights", "Political_science", "Homer"], ["Human_rights", "Religion", "Homer"], ["Human_rights", "Slavery", "Homer"]]

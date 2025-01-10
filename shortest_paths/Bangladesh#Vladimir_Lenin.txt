@@ -1,1 +1,0 @@
-[["Bangladesh", "Armenia", "Vladimir_Lenin"], ["Bangladesh", "Azerbaijan", "Vladimir_Lenin"], ["Bangladesh", "English_language", "Vladimir_Lenin"], ["Bangladesh", "Russia", "Vladimir_Lenin"], ["Bangladesh", "Cholera", "Vladimir_Lenin"], ["Bangladesh", "Georgia_%28country%29", "Vladimir_Lenin"], ["Bangladesh", "Manchester", "Vladimir_Lenin"]]

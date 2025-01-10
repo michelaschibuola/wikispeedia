@@ -1,1 +1,0 @@
-[["British_English", "Hong_Kong", "Summer"]]

@@ -1,1 +1,0 @@
-[["Algeria", "Agriculture", "Accountancy"], ["Algeria", "English_language", "Accountancy"], ["Algeria", "Islam", "Accountancy"], ["Algeria", "Ottoman_Empire", "Accountancy"], ["Algeria", "Croatia", "Accountancy"], ["Algeria", "Italy", "Accountancy"]]

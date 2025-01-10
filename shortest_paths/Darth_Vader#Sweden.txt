@@ -1,1 +1,0 @@
-[["Darth_Vader", "German_language", "Sweden"], ["Darth_Vader", "Stargate_SG-1", "Sweden"]]

@@ -1,1 +1,0 @@
-[["Beach", "Canada", "Dallas%2C_Texas"], ["Beach", "Los_Angeles%2C_California", "Dallas%2C_Texas"]]

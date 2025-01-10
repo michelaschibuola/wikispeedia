@@ -1,1 +1,0 @@
-[["Oppression", "Invasion", "England", "Edward_II_of_England"], ["Oppression", "Invasion", "France", "Edward_II_of_England"], ["Oppression", "Pope_John_Paul_II", "France", "Edward_II_of_England"], ["Oppression", "Psychology", "19th_century", "Edward_II_of_England"], ["Oppression", "Pope_John_Paul_II", "Football", "Edward_II_of_England"]]

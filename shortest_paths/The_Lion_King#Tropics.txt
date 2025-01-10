@@ -1,1 +1,0 @@
-[["The_Lion_King", "Mount_Kilimanjaro", "Tropics"], ["The_Lion_King", "South_Africa", "Tropics"]]

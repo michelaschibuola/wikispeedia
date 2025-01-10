@@ -1,1 +1,0 @@
-[["American_football", "Mexico", "Religion"], ["American_football", "Glasgow", "Religion"]]

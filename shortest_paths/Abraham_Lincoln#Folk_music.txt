@@ -1,1 +1,0 @@
-[["Abraham_Lincoln", "Bible", "Folk_music"], ["Abraham_Lincoln", "United_Kingdom", "Folk_music"], ["Abraham_Lincoln", "Southern_United_States", "Folk_music"]]

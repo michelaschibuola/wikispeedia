@@ -1,1 +1,0 @@
-[["Arctic_Ocean", "Canada", "The_Canadian"], ["Arctic_Ocean", "United_States", "The_Canadian"], ["Arctic_Ocean", "Rocky_Mountains", "The_Canadian"]]

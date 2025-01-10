@@ -1,1 +1,0 @@
-[["Longship", "Middle_Ages", "Day", "Upsilon_Andromedae"], ["Longship", "Middle_Ages", "Earth", "Upsilon_Andromedae"], ["Longship", "Norse_mythology", "Earth", "Upsilon_Andromedae"], ["Longship", "Ship", "Iron", "Upsilon_Andromedae"], ["Longship", "The_Rime_of_the_Ancient_Mariner", "Sun", "Upsilon_Andromedae"]]

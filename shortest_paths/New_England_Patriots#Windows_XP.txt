@@ -1,1 +1,0 @@
-[["New_England_Patriots", "American_football", "New_Zealand", "Windows_XP"], ["New_England_Patriots", "Elvis_Presley", "New_Zealand", "Windows_XP"], ["New_England_Patriots", "Super_Bowl_XL", "New_Zealand", "Windows_XP"], ["New_England_Patriots", "Super_Bowl_XL", "Microsoft", "Windows_XP"]]

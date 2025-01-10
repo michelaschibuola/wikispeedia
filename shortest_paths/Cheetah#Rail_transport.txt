@@ -1,1 +1,0 @@
-[["Cheetah", "India", "Rail_transport"], ["Cheetah", "Iran", "Rail_transport"], ["Cheetah", "United_States", "Rail_transport"]]

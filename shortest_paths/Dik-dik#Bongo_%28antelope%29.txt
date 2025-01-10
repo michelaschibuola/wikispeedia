@@ -1,1 +1,0 @@
-[["Dik-dik", "Antelope", "Bongo_%28antelope%29"], ["Dik-dik", "Africa", "Bongo_%28antelope%29"], ["Dik-dik", "Animal", "Bongo_%28antelope%29"], ["Dik-dik", "Lion", "Bongo_%28antelope%29"], ["Dik-dik", "Mammal", "Bongo_%28antelope%29"], ["Dik-dik", "Scientific_classification", "Bongo_%28antelope%29"]]

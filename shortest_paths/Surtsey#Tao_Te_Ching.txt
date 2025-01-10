@@ -1,1 +1,0 @@
-[["Surtsey", "Biology", "Philosophy", "Tao_Te_Ching"], ["Surtsey", "France", "Buddhism", "Tao_Te_Ching"], ["Surtsey", "France", "Jean-Jacques_Rousseau", "Tao_Te_Ching"], ["Surtsey", "Volcano", "Landscape", "Tao_Te_Ching"]]

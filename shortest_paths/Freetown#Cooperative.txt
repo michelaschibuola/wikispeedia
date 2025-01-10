@@ -1,1 +1,0 @@
-[["Freetown", "Canada", "Cooperative"], ["Freetown", "United_States", "Cooperative"]]

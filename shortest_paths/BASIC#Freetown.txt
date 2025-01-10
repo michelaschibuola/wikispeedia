@@ -1,1 +1,0 @@
-[["BASIC", "BBC", "Africa", "Freetown"], ["BASIC", "BBC", "England", "Freetown"], ["BASIC", "BBC", "United_States", "Freetown"], ["BASIC", "Bill_Gates", "United_States", "Freetown"], ["BASIC", "Computer", "United_States", "Freetown"], ["BASIC", "BBC", "World_War_II", "Freetown"], ["BASIC", "BBC", "Great_Britain", "Freetown"], ["BASIC", "Computer", "Great_Britain", "Freetown"]]

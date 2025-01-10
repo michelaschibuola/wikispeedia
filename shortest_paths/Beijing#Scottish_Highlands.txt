@@ -1,1 +1,0 @@
-[["Beijing", "Argentina", "Scottish_Highlands"], ["Beijing", "Europe", "Scottish_Highlands"], ["Beijing", "United_Kingdom", "Scottish_Highlands"]]

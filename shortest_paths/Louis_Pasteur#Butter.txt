@@ -1,1 +1,0 @@
-[["Louis_Pasteur", "Bacteria", "Butter"], ["Louis_Pasteur", "Cattle", "Butter"], ["Louis_Pasteur", "France", "Butter"], ["Louis_Pasteur", "Roman_Catholic_Church", "Butter"], ["Louis_Pasteur", "Yeast", "Butter"]]

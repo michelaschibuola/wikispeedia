@@ -1,1 +1,0 @@
-[["Ganesha", "France", "San_Marino"]]

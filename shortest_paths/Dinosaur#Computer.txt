@@ -1,1 +1,0 @@
-[["Dinosaur", "Asperger_syndrome", "Computer"], ["Dinosaur", "Physics", "Computer"], ["Dinosaur", "United_States", "Computer"], ["Dinosaur", "Evolution", "Computer"], ["Dinosaur", "History_of_Earth", "Computer"]]

@@ -1,1 +1,0 @@
-[["Zuid-Gelders", "Dutch_language", "English_language", "Helmeted_Guineafowl"], ["Zuid-Gelders", "Dutch_language", "Europe", "Helmeted_Guineafowl"], ["Zuid-Gelders", "Dutch_language", "France", "Helmeted_Guineafowl"], ["Zuid-Gelders", "East_Flemish", "France", "Helmeted_Guineafowl"], ["Zuid-Gelders", "West_Flemish", "France", "Helmeted_Guineafowl"]]

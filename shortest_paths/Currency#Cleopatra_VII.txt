@@ -1,1 +1,0 @@
-[["Currency", "Ancient_Egypt", "Cleopatra_VII"], ["Currency", "Cyprus", "Cleopatra_VII"], ["Currency", "Egypt", "Cleopatra_VII"], ["Currency", "France", "Cleopatra_VII"], ["Currency", "Libya", "Cleopatra_VII"], ["Currency", "Roman_Empire", "Cleopatra_VII"], ["Currency", "Syria", "Cleopatra_VII"]]

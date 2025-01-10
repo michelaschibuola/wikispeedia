@@ -1,1 +1,0 @@
-[["Blue_Whale", "Japan", "Andorra"], ["Blue_Whale", "Latin", "Andorra"], ["Blue_Whale", "Sri_Lanka", "Andorra"], ["Blue_Whale", "United_Kingdom", "Andorra"], ["Blue_Whale", "United_States", "Andorra"], ["Blue_Whale", "World_War_II", "Andorra"]]

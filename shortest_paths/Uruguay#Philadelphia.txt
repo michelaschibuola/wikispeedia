@@ -1,1 +1,0 @@
-[["Uruguay", "Latin_America", "Philadelphia"], ["Uruguay", "Irish_people", "Philadelphia"], ["Uruguay", "Time_zone", "Philadelphia"], ["Uruguay", "United_States", "Philadelphia"]]

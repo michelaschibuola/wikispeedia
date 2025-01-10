@@ -1,1 +1,0 @@
-[["Luftwaffe", "Ireland", "U2"], ["Luftwaffe", "London", "U2"], ["Luftwaffe", "United_Kingdom", "U2"], ["Luftwaffe", "United_States", "U2"]]

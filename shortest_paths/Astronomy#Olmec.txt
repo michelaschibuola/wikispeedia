@@ -1,1 +1,0 @@
-[["Astronomy", "Ancient_Egypt", "Olmec"], ["Astronomy", "Maya_civilization", "Olmec"], ["Astronomy", "Sylvanus_Morley", "Olmec"]]

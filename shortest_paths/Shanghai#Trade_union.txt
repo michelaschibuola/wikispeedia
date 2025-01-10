@@ -1,1 +1,0 @@
-[["Shanghai", "HSBC", "Trade_union"], ["Shanghai", "People%27s_Republic_of_China", "Trade_union"], ["Shanghai", "Belgium", "Trade_union"], ["Shanghai", "France", "Trade_union"], ["Shanghai", "Germany", "Trade_union"], ["Shanghai", "Ireland", "Trade_union"], ["Shanghai", "Sweden", "Trade_union"]]

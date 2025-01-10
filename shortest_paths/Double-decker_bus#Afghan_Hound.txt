@@ -1,1 +1,0 @@
-[["Double-decker_bus", "Europe", "Afghan_Hound"], ["Double-decker_bus", "United_States", "Afghan_Hound"]]

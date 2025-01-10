@@ -1,1 +1,0 @@
-[["Copper", "Australia", "Wasabi"], ["Copper", "United_States", "Wasabi"], ["Copper", "Fertilizer", "Wasabi"], ["Copper", "Radish", "Wasabi"]]

@@ -1,1 +1,0 @@
-[["Prague", "Polish-Lithuanian_Commonwealth", "George_Fox"], ["Prague", "Amsterdam", "George_Fox"], ["Prague", "Germany", "George_Fox"], ["Prague", "London", "George_Fox"]]

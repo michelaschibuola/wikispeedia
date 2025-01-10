@@ -1,1 +1,0 @@
-[["Antarctic_Treaty_System", "Canada", "San_Jose%2C_California"], ["Antarctic_Treaty_System", "India", "San_Jose%2C_California"], ["Antarctic_Treaty_System", "Japan", "San_Jose%2C_California"], ["Antarctic_Treaty_System", "Russia", "San_Jose%2C_California"], ["Antarctic_Treaty_System", "United_States", "San_Jose%2C_California"]]

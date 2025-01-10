@@ -1,1 +1,0 @@
-[["Atom", "Francium", "England"], ["Atom", "Iridium", "England"], ["Atom", "Neutron", "England"], ["Atom", "Uranium", "England"], ["Atom", "Ernest_Rutherford", "England"], ["Atom", "History_of_science", "England"], ["Atom", "Niels_Bohr", "England"], ["Atom", "Paul_Dirac", "England"], ["Atom", "Radio", "England"]]

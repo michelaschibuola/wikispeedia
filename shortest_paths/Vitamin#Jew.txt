@@ -1,1 +1,0 @@
-[["Vitamin", "20th_century", "Jew"], ["Vitamin", "Nutrition", "Jew"], ["Vitamin", "Russia", "Jew"]]

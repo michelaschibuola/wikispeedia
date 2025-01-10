@@ -1,1 +1,0 @@
-[["Florida", "English_language", "Music_of_Hawaii"], ["Florida", "Jamaica", "Music_of_Hawaii"]]

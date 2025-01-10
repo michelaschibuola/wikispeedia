@@ -1,1 +1,0 @@
-[["20th_century", "Europe", "Parrot"], ["20th_century", "Germany", "Parrot"], ["20th_century", "Nazism", "Parrot"], ["20th_century", "Spain", "Parrot"], ["20th_century", "United_States", "Parrot"], ["20th_century", "Extinct_birds", "Parrot"], ["20th_century", "South_America", "Parrot"]]

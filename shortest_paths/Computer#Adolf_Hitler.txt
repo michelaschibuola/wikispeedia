@@ -1,1 +1,0 @@
-[["Computer", "Architecture", "Adolf_Hitler"], ["Computer", "John_von_Neumann", "Adolf_Hitler"], ["Computer", "Gold", "Adolf_Hitler"], ["Computer", "History_of_nuclear_weapons", "Adolf_Hitler"], ["Computer", "United_Kingdom", "Adolf_Hitler"], ["Computer", "United_States", "Adolf_Hitler"]]

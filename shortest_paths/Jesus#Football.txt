@@ -1,1 +1,0 @@
-[["Jesus", "19th_century", "Football"], ["Jesus", "China", "Football"], ["Jesus", "Damascus", "Football"], ["Jesus", "English_language", "Football"], ["Jesus", "Pope_John_Paul_II", "Football"]]

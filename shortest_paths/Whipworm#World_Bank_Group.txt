@@ -1,1 +1,0 @@
-[["Whipworm", "Carolus_Linnaeus", "Japan", "World_Bank_Group"], ["Whipworm", "Crohn%27s_disease", "Europe", "World_Bank_Group"], ["Whipworm", "Crohn%27s_disease", "United_States", "World_Bank_Group"]]

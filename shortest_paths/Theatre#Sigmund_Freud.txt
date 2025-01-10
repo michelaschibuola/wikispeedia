@@ -1,1 +1,0 @@
-[["Theatre", "Humanities", "Sigmund_Freud"], ["Theatre", "Literature", "Sigmund_Freud"], ["Theatre", "Richard_Wagner", "Sigmund_Freud"], ["Theatre", "Existentialism", "Sigmund_Freud"], ["Theatre", "France", "Sigmund_Freud"], ["Theatre", "Paris", "Sigmund_Freud"], ["Theatre", "Vienna", "Sigmund_Freud"]]

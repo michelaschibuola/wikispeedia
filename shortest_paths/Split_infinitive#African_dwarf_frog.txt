@@ -1,1 +1,0 @@
-[["Split_infinitive", "Latin", "Africa", "African_dwarf_frog"], ["Split_infinitive", "English_language", "Africa", "African_dwarf_frog"], ["Split_infinitive", "French_language", "Africa", "African_dwarf_frog"], ["Split_infinitive", "Latin", "Animal", "African_dwarf_frog"], ["Split_infinitive", "Latin", "Scientific_classification", "African_dwarf_frog"]]

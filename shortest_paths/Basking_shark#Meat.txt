@@ -1,1 +1,0 @@
-[["Basking_shark", "Animal", "Meat"], ["Basking_shark", "Fish", "Meat"], ["Basking_shark", "Japan", "Meat"]]

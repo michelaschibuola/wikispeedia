@@ -1,1 +1,0 @@
-[["Civil_rights", "Europe", "Romanticism"], ["Civil_rights", "United_States", "Romanticism"], ["Civil_rights", "Liberalism", "Romanticism"]]

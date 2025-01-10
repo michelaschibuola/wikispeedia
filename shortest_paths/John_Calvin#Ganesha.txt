@@ -1,1 +1,0 @@
-[["John_Calvin", "France", "Ganesha"], ["John_Calvin", "Paris", "Ganesha"]]

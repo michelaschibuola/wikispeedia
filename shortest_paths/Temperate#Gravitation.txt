@@ -1,1 +1,0 @@
-[["Temperate", "Apple", "Gravitation"], ["Temperate", "Earth", "Gravitation"], ["Temperate", "Aristotle", "Gravitation"], ["Temperate", "United_Kingdom", "Gravitation"]]

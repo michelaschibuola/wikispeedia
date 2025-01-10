@@ -1,1 +1,0 @@
-[["Baseball", "American_football", "Superman"], ["Baseball", "Earth", "Superman"], ["Baseball", "United_States", "Superman"], ["Baseball", "Canada", "Superman"], ["Baseball", "Mario", "Superman"], ["Baseball", "Ronald_Reagan", "Superman"]]

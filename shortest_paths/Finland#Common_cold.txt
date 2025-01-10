@@ -1,1 +1,0 @@
-[["Finland", "19th_century", "Common_cold"], ["Finland", "Germany", "Common_cold"], ["Finland", "Iceland", "Common_cold"], ["Finland", "United_Kingdom", "Common_cold"], ["Finland", "United_States", "Common_cold"], ["Finland", "Greenland", "Common_cold"]]

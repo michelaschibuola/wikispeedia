@@ -1,1 +1,0 @@
-[["Football", "France", "Benito_Mussolini"], ["Football", "Switzerland", "Benito_Mussolini"], ["Football", "United_States", "Benito_Mussolini"], ["Football", "World_War_II", "Benito_Mussolini"]]

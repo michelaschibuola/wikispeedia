@@ -1,1 +1,0 @@
-[["A_Christmas_Carol", "United_Kingdom", "Poison_gas_in_World_War_I"], ["A_Christmas_Carol", "United_States", "Poison_gas_in_World_War_I"]]

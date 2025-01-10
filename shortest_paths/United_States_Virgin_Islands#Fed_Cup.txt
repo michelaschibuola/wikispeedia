@@ -1,1 +1,0 @@
-[["United_States_Virgin_Islands", "United_States", "Fed_Cup"], ["United_States_Virgin_Islands", "France", "Fed_Cup"], ["United_States_Virgin_Islands", "Germany", "Fed_Cup"], ["United_States_Virgin_Islands", "Netherlands", "Fed_Cup"], ["United_States_Virgin_Islands", "Spain", "Fed_Cup"]]

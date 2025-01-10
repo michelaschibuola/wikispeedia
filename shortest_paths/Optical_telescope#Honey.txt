@@ -1,1 +1,0 @@
-[["Optical_telescope", "Binoculars", "United_Kingdom", "Honey"], ["Optical_telescope", "Binoculars", "United_States", "Honey"], ["Optical_telescope", "Light", "Ecology", "Honey"], ["Optical_telescope", "Light", "Bee", "Honey"], ["Optical_telescope", "Light", "Seed", "Honey"], ["Optical_telescope", "Photon", "Hydrogen_peroxide", "Honey"]]

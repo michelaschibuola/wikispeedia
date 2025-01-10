@@ -1,1 +1,0 @@
-[["Music", "Minnesota", "Food"], ["Music", "Culture", "Food"], ["Music", "Religion", "Food"], ["Music", "South_Africa", "Food"]]

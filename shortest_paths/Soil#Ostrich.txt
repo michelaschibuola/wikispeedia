@@ -1,1 +1,0 @@
-[["Soil", "19th_century", "Ostrich"], ["Soil", "20th_century", "Ostrich"], ["Soil", "China", "Ostrich"]]

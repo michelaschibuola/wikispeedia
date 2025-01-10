@@ -1,1 +1,0 @@
-[["Sahara", "Radar", "Battle_of_Rennell_Island"], ["Sahara", "United_States", "Battle_of_Rennell_Island"]]

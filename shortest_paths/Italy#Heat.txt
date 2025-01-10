@@ -1,1 +1,0 @@
-[["Italy", "Albert_Einstein", "Heat"], ["Italy", "Dinosaur", "Heat"], ["Italy", "Latin", "Heat"], ["Italy", "Nuclear_power", "Heat"], ["Italy", "Physics", "Heat"]]

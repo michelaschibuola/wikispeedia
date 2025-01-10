@@ -1,1 +1,0 @@
-[["Stratford-upon-Avon", "England", "Russian_language", "Tsar_Bomba"], ["Stratford-upon-Avon", "England", "Sun", "Tsar_Bomba"], ["Stratford-upon-Avon", "Vivien_Leigh", "Soviet_Union", "Tsar_Bomba"]]

@@ -1,1 +1,0 @@
-[["Marcel_Proust", "France", "Swastika"], ["Marcel_Proust", "French_language", "Swastika"], ["Marcel_Proust", "Jew", "Swastika"], ["Marcel_Proust", "Paris", "Swastika"]]

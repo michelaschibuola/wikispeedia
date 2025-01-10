@@ -1,1 +1,0 @@
-[["Atlantic_slave_trade", "Birmingham", "Uranium"], ["Atlantic_slave_trade", "England", "Uranium"], ["Atlantic_slave_trade", "Mining", "Uranium"]]

@@ -1,1 +1,0 @@
-[["Albatross", "Animal", "Emu"], ["Albatross", "Australia", "Emu"], ["Albatross", "Bird", "Emu"], ["Albatross", "Chordate", "Emu"], ["Albatross", "Feather", "Emu"], ["Albatross", "Peru", "Emu"], ["Albatross", "Scientific_classification", "Emu"]]

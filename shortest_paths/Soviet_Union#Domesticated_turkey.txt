@@ -1,1 +1,0 @@
-[["Soviet_Union", "Europe", "Domesticated_turkey"], ["Soviet_Union", "Israel", "Domesticated_turkey"], ["Soviet_Union", "President_of_the_United_States", "Domesticated_turkey"], ["Soviet_Union", "United_States", "Domesticated_turkey"], ["Soviet_Union", "World_War_II", "Domesticated_turkey"], ["Soviet_Union", "Turkey", "Domesticated_turkey"]]

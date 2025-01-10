@@ -1,1 +1,0 @@
-[["Tokyo", "Human", "Time"], ["Tokyo", "Rome", "Time"], ["Tokyo", "Technology", "Time"], ["Tokyo", "Time_zone", "Time"], ["Tokyo", "18th_century", "Time"], ["Tokyo", "Egypt", "Time"], ["Tokyo", "Transport", "Time"]]

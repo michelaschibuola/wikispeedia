@@ -1,1 +1,0 @@
-[["Famine", "Japan", "Japanese_yen"], ["Famine", "Market", "Japanese_yen"], ["Famine", "People%27s_Republic_of_China", "Japanese_yen"], ["Famine", "United_Kingdom", "Japanese_yen"], ["Famine", "United_States", "Japanese_yen"], ["Famine", "World_War_II", "Japanese_yen"], ["Famine", "Japanese_war_crimes", "Japanese_yen"]]

@@ -1,1 +1,0 @@
-[["Sony", "Miami%2C_Florida", "Galileo_Galilei"], ["Sony", "Italy", "Galileo_Galilei"], ["Sony", "San_Francisco%2C_California", "Galileo_Galilei"]]

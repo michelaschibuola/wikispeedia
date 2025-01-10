@@ -1,1 +1,0 @@
-[["Richmond%2C_Virginia", "Global_city", "Gothenburg"], ["Richmond%2C_Virginia", "England", "Gothenburg"], ["Richmond%2C_Virginia", "Europe", "Gothenburg"], ["Richmond%2C_Virginia", "Time_zone", "Gothenburg"], ["Richmond%2C_Virginia", "United_States", "Gothenburg"]]

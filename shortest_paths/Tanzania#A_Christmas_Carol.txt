@@ -1,1 +1,0 @@
-[["Tanzania", "English_language", "A_Christmas_Carol"], ["Tanzania", "United_Kingdom", "A_Christmas_Carol"], ["Tanzania", "United_States", "A_Christmas_Carol"]]

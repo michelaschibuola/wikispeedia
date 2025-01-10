@@ -1,1 +1,0 @@
-[["Bhutan", "European_Union", "History_of_Greece"], ["Bhutan", "Literacy", "History_of_Greece"], ["Bhutan", "Olympic_Games", "History_of_Greece"], ["Bhutan", "Tourism", "History_of_Greece"], ["Bhutan", "Turkey", "History_of_Greece"]]

@@ -1,1 +1,0 @@
-[["Haiti", "Africa", "Mbabane"], ["Haiti", "United_States", "Mbabane"], ["Haiti", "Sugar", "Mbabane"]]

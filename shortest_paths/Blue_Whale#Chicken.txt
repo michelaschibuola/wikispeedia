@@ -1,1 +1,0 @@
-[["Blue_Whale", "Animal", "Chicken"], ["Blue_Whale", "Dinosaur", "Chicken"], ["Blue_Whale", "Japan", "Chicken"], ["Blue_Whale", "Scientific_classification", "Chicken"], ["Blue_Whale", "United_States", "Chicken"]]

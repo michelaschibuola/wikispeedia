@@ -1,1 +1,0 @@
-[["Capital", "Africa", "Cactus"], ["Capital", "Aztec", "Cactus"], ["Capital", "Bolivia", "Cactus"], ["Capital", "Mexico_City", "Cactus"], ["Capital", "United_States", "Cactus"], ["Capital", "Israel", "Cactus"], ["Capital", "North_America", "Cactus"], ["Capital", "South_America", "Cactus"]]

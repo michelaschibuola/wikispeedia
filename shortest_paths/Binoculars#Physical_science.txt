@@ -1,1 +1,0 @@
-[["Binoculars", "United_States", "Physical_science"], ["Binoculars", "Sun", "Physical_science"]]

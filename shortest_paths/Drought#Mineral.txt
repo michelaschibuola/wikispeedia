@@ -1,1 +1,0 @@
-[["Drought", "Soil", "Mineral"], ["Drought", "Economy_of_Africa", "Mineral"], ["Drought", "Great_Salt_Lake", "Mineral"], ["Drought", "History_of_the_Grand_Canyon_area", "Mineral"], ["Drought", "Moringa_oleifera", "Mineral"], ["Drought", "Water_purification", "Mineral"]]

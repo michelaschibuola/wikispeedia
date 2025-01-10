@@ -1,1 +1,0 @@
-[["Peregrine_Falcon", "Canada", "Saint-Pierre_and_Miquelon"], ["Peregrine_Falcon", "United_Kingdom", "Saint-Pierre_and_Miquelon"], ["Peregrine_Falcon", "United_States", "Saint-Pierre_and_Miquelon"]]

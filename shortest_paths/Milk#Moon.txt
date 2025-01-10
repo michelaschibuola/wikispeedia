@@ -1,1 +1,0 @@
-[["Milk", "Calcium", "Moon"], ["Milk", "Canada", "Moon"], ["Milk", "France", "Moon"], ["Milk", "Japan", "Moon"], ["Milk", "Magnesium", "Moon"], ["Milk", "Potassium", "Moon"], ["Milk", "Russia", "Moon"], ["Milk", "United_States", "Moon"]]

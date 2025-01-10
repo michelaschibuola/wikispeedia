@@ -1,1 +1,0 @@
-[["Bird", "Puerto_Rico", "Hurricane_Georges"]]

@@ -1,1 +1,0 @@
-[["Fusarium", "Contact_lens", "United_States", "Australian_English"], ["Fusarium", "Scientific_classification", "Dingo", "Australian_English"], ["Fusarium", "Scientific_classification", "Kangaroo", "Australian_English"]]

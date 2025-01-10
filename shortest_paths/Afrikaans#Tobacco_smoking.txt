@@ -1,1 +1,0 @@
-[["Afrikaans", "Australia", "Tobacco_smoking"], ["Afrikaans", "New_Zealand", "Tobacco_smoking"], ["Afrikaans", "Norway", "Tobacco_smoking"], ["Afrikaans", "Scotland", "Tobacco_smoking"], ["Afrikaans", "United_Kingdom", "Tobacco_smoking"], ["Afrikaans", "United_States", "Tobacco_smoking"]]

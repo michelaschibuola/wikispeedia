@@ -1,1 +1,0 @@
-[["Ska", "Jazz", "Igor_Stravinsky"], ["Ska", "Piano", "Igor_Stravinsky"], ["Ska", "United_States", "Igor_Stravinsky"], ["Ska", "World_War_II", "Igor_Stravinsky"], ["Ska", "Trumpet", "Igor_Stravinsky"]]

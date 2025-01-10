@@ -1,1 +1,0 @@
-[["African_Penguin", "Africa", "20th_century", "Abstract_art"], ["African_Penguin", "Binomial_nomenclature", "20th_century", "Abstract_art"], ["African_Penguin", "South_Africa", "20th_century", "Abstract_art"], ["African_Penguin", "South_America", "20th_century", "Abstract_art"], ["African_Penguin", "South_Africa", "Nazi_Germany", "Abstract_art"]]

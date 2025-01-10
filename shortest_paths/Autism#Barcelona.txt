@@ -1,1 +1,0 @@
-[["Autism", "Germany", "Barcelona"], ["Autism", "United_States", "Barcelona"], ["Autism", "Mercury_%28element%29", "Barcelona"]]

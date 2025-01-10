@@ -1,1 +1,0 @@
-[["Electrical_resistance", "Action_potential", "Animal", "African_Penguin"], ["Electrical_resistance", "Energy", "Animal", "African_Penguin"], ["Electrical_resistance", "Electricity", "Cape_Town", "African_Penguin"], ["Electrical_resistance", "Rhodium", "South_America", "African_Penguin"]]

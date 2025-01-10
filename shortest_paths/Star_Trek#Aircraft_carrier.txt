@@ -1,1 +1,0 @@
-[["Star_Trek", "United_States", "Aircraft_carrier"]]

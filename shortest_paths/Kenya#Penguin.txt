@@ -1,1 +1,0 @@
-[["Kenya", "English_language", "Penguin"], ["Kenya", "Argentina", "Penguin"], ["Kenya", "Dinosaur", "Penguin"], ["Kenya", "Fossil", "Penguin"], ["Kenya", "Germany", "Penguin"], ["Kenya", "Japan", "Penguin"]]

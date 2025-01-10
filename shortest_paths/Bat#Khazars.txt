@@ -1,1 +1,0 @@
-[["Bat", "China", "Khazars"], ["Bat", "Fish", "Khazars"], ["Bat", "Poland", "Khazars"]]

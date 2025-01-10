@@ -1,1 +1,0 @@
-[["Domestic_goat", "Animal", "Saltasaurus"], ["Domestic_goat", "Chordate", "Saltasaurus"], ["Domestic_goat", "Scientific_classification", "Saltasaurus"]]

@@ -1,1 +1,0 @@
-[["Earthquake", "Earth", "Sunlight"], ["Earthquake", "Natural_gas", "Sunlight"], ["Earthquake", "Lighthouse_of_Alexandria", "Sunlight"], ["Earthquake", "Mount_Pinatubo", "Sunlight"], ["Earthquake", "Sun", "Sunlight"]]

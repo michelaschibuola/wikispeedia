@@ -1,1 +1,0 @@
-[["Comics", "United_Kingdom", "The_Lord_of_the_Rings"], ["Comics", "United_States", "The_Lord_of_the_Rings"], ["Comics", "World_War_II", "The_Lord_of_the_Rings"]]

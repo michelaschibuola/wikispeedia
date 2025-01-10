@@ -1,1 +1,0 @@
-[["Stephen_Hawking", "French_language", "Cheese"], ["Stephen_Hawking", "Germany", "Cheese"], ["Stephen_Hawking", "United_Kingdom", "Cheese"], ["Stephen_Hawking", "United_States", "Cheese"]]

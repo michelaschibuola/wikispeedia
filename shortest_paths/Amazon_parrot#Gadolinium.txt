@@ -1,1 +1,0 @@
-[["Amazon_parrot", "Animal", "Calcium", "Gadolinium"], ["Amazon_parrot", "Bird", "Color", "Gadolinium"], ["Amazon_parrot", "Mexico", "France", "Gadolinium"], ["Amazon_parrot", "South_America", "France", "Gadolinium"], ["Amazon_parrot", "South_America", "Multiple_sclerosis", "Gadolinium"], ["Amazon_parrot", "South_America", "Iron", "Gadolinium"]]

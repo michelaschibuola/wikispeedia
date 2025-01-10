@@ -1,1 +1,0 @@
-[["Niger", "France", "Charlie_Chaplin"], ["Niger", "Italy", "Charlie_Chaplin"], ["Niger", "Switzerland", "Charlie_Chaplin"], ["Niger", "United_States", "Charlie_Chaplin"]]

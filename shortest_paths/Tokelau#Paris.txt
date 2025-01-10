@@ -1,1 +1,0 @@
-[["Tokelau", "List_of_countries", "Paris"], ["Tokelau", "Capital", "Paris"], ["Tokelau", "English_language", "Paris"], ["Tokelau", "United_Kingdom", "Paris"], ["Tokelau", "United_States", "Paris"]]

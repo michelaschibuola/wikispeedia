@@ -1,1 +1,0 @@
-[["Lion", "10th_century", "Norway"], ["Lion", "England", "Norway"], ["Lion", "Leonardo_da_Vinci", "Norway"], ["Lion", "19th_century", "Norway"], ["Lion", "Europe", "Norway"], ["Lion", "Turkey", "Norway"], ["Lion", "Netherlands", "Norway"], ["Lion", "Scotland", "Norway"], ["Lion", "Trafalgar_Square", "Norway"]]

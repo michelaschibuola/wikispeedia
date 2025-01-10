@@ -1,1 +1,0 @@
-[["Protoceratops", "Animal", "Bedbug"], ["Protoceratops", "Scientific_classification", "Bedbug"]]

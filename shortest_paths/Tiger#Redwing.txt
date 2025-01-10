@@ -1,1 +1,0 @@
-[["Tiger", "Animal", "Redwing"], ["Tiger", "Asia", "Redwing"], ["Tiger", "Binomial_nomenclature", "Redwing"], ["Tiger", "Carolus_Linnaeus", "Redwing"], ["Tiger", "Scientific_classification", "Redwing"]]

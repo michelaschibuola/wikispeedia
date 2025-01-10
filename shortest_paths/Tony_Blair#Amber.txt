@@ -1,1 +1,0 @@
-[["Tony_Blair", "England", "Amber"], ["Tony_Blair", "Netherlands", "Amber"], ["Tony_Blair", "Russia", "Amber"], ["Tony_Blair", "Sweden", "Amber"], ["Tony_Blair", "United_States", "Amber"]]

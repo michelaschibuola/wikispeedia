@@ -1,1 +1,0 @@
-[["Phosphorus_tribromide", "Oxygen", "Moon", "Proxima_Centauri"], ["Phosphorus_tribromide", "Oxygen", "Planetary_habitability", "Proxima_Centauri"], ["Phosphorus_tribromide", "Oxygen", "Star", "Proxima_Centauri"], ["Phosphorus_tribromide", "Phase_%28matter%29", "Star", "Proxima_Centauri"], ["Phosphorus_tribromide", "Oxygen", "Sun", "Proxima_Centauri"]]

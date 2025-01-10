@@ -1,1 +1,0 @@
-[["Eastern_Orthodox_Church", "Anglicanism", "Solomon_Islands"], ["Eastern_Orthodox_Church", "Christianity", "Solomon_Islands"], ["Eastern_Orthodox_Church", "Australia", "Solomon_Islands"]]

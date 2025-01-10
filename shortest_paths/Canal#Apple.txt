@@ -1,1 +1,0 @@
-[["Canal", "England", "Apple"], ["Canal", "France", "Apple"], ["Canal", "Mesopotamia", "Apple"], ["Canal", "United_States", "Apple"], ["Canal", "Chile", "Apple"]]

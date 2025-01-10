@@ -1,1 +1,0 @@
-[["Fossil_fuel", "Global_warming", "Darling_River"], ["Fossil_fuel", "Pollution", "Darling_River"]]

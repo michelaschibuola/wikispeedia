@@ -1,1 +1,0 @@
-[["Multiple_sclerosis", "France", "Louisville%2C_Kentucky"], ["Multiple_sclerosis", "Tuberculosis", "Louisville%2C_Kentucky"], ["Multiple_sclerosis", "United_States", "Louisville%2C_Kentucky"]]

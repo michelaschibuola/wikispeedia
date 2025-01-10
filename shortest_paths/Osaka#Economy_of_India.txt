@@ -1,1 +1,0 @@
-[["Osaka", "Japan", "Economy_of_India"], ["Osaka", "Australia", "Economy_of_India"], ["Osaka", "China", "Economy_of_India"], ["Osaka", "Germany", "Economy_of_India"], ["Osaka", "People%27s_Republic_of_China", "Economy_of_India"], ["Osaka", "United_Arab_Emirates", "Economy_of_India"], ["Osaka", "United_States", "Economy_of_India"]]

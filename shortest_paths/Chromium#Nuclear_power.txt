@@ -1,1 +1,0 @@
-[["Chromium", "India", "Nuclear_power"], ["Chromium", "Lead", "Nuclear_power"], ["Chromium", "Neutron", "Nuclear_power"], ["Chromium", "Periodic_table", "Nuclear_power"], ["Chromium", "South_Africa", "Nuclear_power"], ["Chromium", "Coal", "Nuclear_power"]]

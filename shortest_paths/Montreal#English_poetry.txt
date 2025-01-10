@@ -1,1 +1,0 @@
-[["Montreal", "England", "English_poetry"], ["Montreal", "English_language", "English_poetry"], ["Montreal", "Europe", "English_poetry"], ["Montreal", "France", "English_poetry"], ["Montreal", "United_States", "English_poetry"], ["Montreal", "World_War_I", "English_poetry"]]

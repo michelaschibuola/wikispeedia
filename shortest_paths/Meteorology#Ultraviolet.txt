@@ -1,1 +1,0 @@
-[["Meteorology", "Astronomy", "Ultraviolet"], ["Meteorology", "Ecology", "Ultraviolet"], ["Meteorology", "Earth", "Ultraviolet"], ["Meteorology", "Earth%27s_atmosphere", "Ultraviolet"], ["Meteorology", "Latin", "Ultraviolet"], ["Meteorology", "Nature", "Ultraviolet"]]

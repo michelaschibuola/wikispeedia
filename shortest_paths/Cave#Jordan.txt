@@ -1,1 +1,0 @@
-[["Cave", "Asia", "Jordan"], ["Cave", "France", "Jordan"], ["Cave", "Georgia_%28country%29", "Jordan"], ["Cave", "United_Kingdom", "Jordan"], ["Cave", "United_States", "Jordan"]]

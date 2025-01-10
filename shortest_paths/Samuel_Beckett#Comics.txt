@@ -1,1 +1,0 @@
-[["Samuel_Beckett", "United_States", "Comics"], ["Samuel_Beckett", "World_War_II", "Comics"]]

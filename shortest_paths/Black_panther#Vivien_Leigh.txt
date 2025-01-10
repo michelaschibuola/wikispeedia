@@ -1,1 +1,0 @@
-[["Black_panther", "India", "Vivien_Leigh"], ["Black_panther", "Ireland", "Vivien_Leigh"], ["Black_panther", "Latin_America", "Vivien_Leigh"]]

@@ -1,1 +1,0 @@
-[["Turtle", "Canada", "Liberal_democracy"]]

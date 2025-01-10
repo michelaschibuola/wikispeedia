@@ -1,1 +1,0 @@
-[["Airbus_A380", "Australia", "Palau"], ["Airbus_A380", "Germany", "Palau"], ["Airbus_A380", "Japan", "Palau"], ["Airbus_A380", "United_States_dollar", "Palau"]]

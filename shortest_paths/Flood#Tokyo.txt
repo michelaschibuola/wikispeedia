@@ -1,1 +1,0 @@
-[["Flood", "Australia", "Tokyo"], ["Flood", "Egypt", "Tokyo"], ["Flood", "England", "Tokyo"], ["Flood", "India", "Tokyo"], ["Flood", "London", "Tokyo"], ["Flood", "United_Kingdom", "Tokyo"], ["Flood", "United_States", "Tokyo"], ["Flood", "Water", "Tokyo"], ["Flood", "SimCity", "Tokyo"]]

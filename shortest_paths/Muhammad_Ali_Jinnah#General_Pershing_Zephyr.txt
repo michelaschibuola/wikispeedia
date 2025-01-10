@@ -1,1 +1,0 @@
-[["Muhammad_Ali_Jinnah", "World_War_I", "General_Pershing_Zephyr"], ["Muhammad_Ali_Jinnah", "World_War_II", "General_Pershing_Zephyr"]]

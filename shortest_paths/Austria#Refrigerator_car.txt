@@ -1,1 +1,0 @@
-[["Austria", "Ancient_Rome", "Refrigerator_car"], ["Austria", "Europe", "Refrigerator_car"], ["Austria", "Germany", "Refrigerator_car"], ["Austria", "Russia", "Refrigerator_car"], ["Austria", "World_War_I", "Refrigerator_car"], ["Austria", "World_War_II", "Refrigerator_car"]]

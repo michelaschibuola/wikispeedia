@@ -1,1 +1,0 @@
-[["Middle_East", "Earth", "Juan_Sebasti%C3%A1n_Elcano"], ["Middle_East", "Genoa", "Juan_Sebasti%C3%A1n_Elcano"], ["Middle_East", "Indian_Ocean", "Juan_Sebasti%C3%A1n_Elcano"], ["Middle_East", "Spain", "Juan_Sebasti%C3%A1n_Elcano"]]

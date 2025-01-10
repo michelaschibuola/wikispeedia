@@ -1,1 +1,0 @@
-[["Mecca", "City", "Atlantic_Ocean", "Nurse_sharks"], ["Mecca", "Zheng_He", "Atlantic_Ocean", "Nurse_sharks"], ["Mecca", "Indonesia", "Pacific_Ocean", "Nurse_sharks"]]

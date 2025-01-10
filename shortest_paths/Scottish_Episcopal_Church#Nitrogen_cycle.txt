@@ -1,1 +1,0 @@
-[["Scottish_Episcopal_Church", "Ordination_of_women", "Water", "Nitrogen_cycle"], ["Scottish_Episcopal_Church", "Scotland", "Plant", "Nitrogen_cycle"], ["Scottish_Episcopal_Church", "17th_century", "Bacteria", "Nitrogen_cycle"], ["Scottish_Episcopal_Church", "England", "Aquarium", "Nitrogen_cycle"]]

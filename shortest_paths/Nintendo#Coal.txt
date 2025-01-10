@@ -1,1 +1,0 @@
-[["Nintendo", "Australia", "Coal"], ["Nintendo", "Germany", "Coal"], ["Nintendo", "Industry", "Coal"], ["Nintendo", "London", "Coal"], ["Nintendo", "People%27s_Republic_of_China", "Coal"], ["Nintendo", "United_States", "Coal"]]

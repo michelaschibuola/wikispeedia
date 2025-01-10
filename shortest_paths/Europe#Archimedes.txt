@@ -1,1 +1,0 @@
-[["Europe", "16th_century", "Archimedes"], ["Europe", "Ancient_Greece", "Archimedes"], ["Europe", "Calculus", "Archimedes"], ["Europe", "Arabic_language", "Archimedes"], ["Europe", "Latin", "Archimedes"], ["Europe", "Middle_Ages", "Archimedes"], ["Europe", "Renaissance", "Archimedes"], ["Europe", "Rome", "Archimedes"]]

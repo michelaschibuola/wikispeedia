@@ -1,1 +1,0 @@
-[["William_and_Mary", "Scotland", "Calgary", "Thunderstorm"], ["William_and_Mary", "Scotland", "Canberra", "Thunderstorm"], ["William_and_Mary", "Scotland", "Rainforest", "Thunderstorm"], ["William_and_Mary", "Scotland", "United_States", "Thunderstorm"]]

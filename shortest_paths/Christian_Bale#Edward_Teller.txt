@@ -1,1 +1,0 @@
-[["Christian_Bale", "England", "Edward_Teller"], ["Christian_Bale", "United_States", "Edward_Teller"], ["Christian_Bale", "World_War_II", "Edward_Teller"]]

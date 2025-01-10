@@ -1,1 +1,0 @@
-[["Kuala_Lumpur", "Global_city", "Bras%C3%ADlia"], ["Kuala_Lumpur", "Time_zone", "Bras%C3%ADlia"]]

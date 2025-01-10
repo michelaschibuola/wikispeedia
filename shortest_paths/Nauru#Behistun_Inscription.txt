@@ -1,1 +1,0 @@
-[["Nauru", "Afghanistan", "Behistun_Inscription"], ["Nauru", "World_War_II", "Behistun_Inscription"]]

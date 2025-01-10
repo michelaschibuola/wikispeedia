@@ -1,1 +1,0 @@
-[["Ancient_Egypt", "Cheetah", "Vegetation"]]

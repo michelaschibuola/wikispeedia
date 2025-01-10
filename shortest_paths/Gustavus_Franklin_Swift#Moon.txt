@@ -1,1 +1,0 @@
-[["Gustavus_Franklin_Swift", "Canada", "Moon"], ["Gustavus_Franklin_Swift", "United_States", "Moon"]]

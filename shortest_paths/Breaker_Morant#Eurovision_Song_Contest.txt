@@ -1,1 +1,0 @@
-[["Breaker_Morant", "Australia", "Eurovision_Song_Contest"], ["Breaker_Morant", "New_Zealand", "Eurovision_Song_Contest"], ["Breaker_Morant", "United_Kingdom", "Eurovision_Song_Contest"]]

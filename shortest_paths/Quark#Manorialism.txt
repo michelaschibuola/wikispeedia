@@ -1,1 +1,0 @@
-[["Quark", "Physics", "13th_century", "Manorialism"], ["Quark", "Buddhism", "13th_century", "Manorialism"], ["Quark", "Buddhism", "5th_century", "Manorialism"], ["Quark", "Buddhism", "Europe", "Manorialism"], ["Quark", "Buddhism", "France", "Manorialism"], ["Quark", "Rubik%27s_Cube", "Capitalism", "Manorialism"]]

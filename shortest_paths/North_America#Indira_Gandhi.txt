@@ -1,1 +1,0 @@
-[["North_America", "Iran", "Indira_Gandhi"], ["North_America", "Great_Britain", "Indira_Gandhi"], ["North_America", "United_Nations", "Indira_Gandhi"]]

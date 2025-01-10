@@ -1,1 +1,0 @@
-[["Pumpkin", "Halloween", "6th_century"], ["Pumpkin", "India", "6th_century"]]

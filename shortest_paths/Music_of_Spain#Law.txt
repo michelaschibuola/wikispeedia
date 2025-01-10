@@ -1,1 +1,0 @@
-[["Music_of_Spain", "Ancient_Greece", "Law"], ["Music_of_Spain", "Christianity", "Law"], ["Music_of_Spain", "France", "Law"], ["Music_of_Spain", "Greece", "Law"], ["Music_of_Spain", "Italy", "Law"], ["Music_of_Spain", "Judaism", "Law"], ["Music_of_Spain", "Netherlands", "Law"], ["Music_of_Spain", "Roman_Empire", "Law"]]

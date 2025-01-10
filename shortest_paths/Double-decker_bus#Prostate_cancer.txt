@@ -1,1 +1,0 @@
-[["Double-decker_bus", "Europe", "Prostate_cancer"], ["Double-decker_bus", "India", "Prostate_cancer"]]

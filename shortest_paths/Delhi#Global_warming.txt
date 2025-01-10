@@ -1,1 +1,0 @@
-[["Delhi", "Agriculture", "Global_warming"], ["Delhi", "Climate", "Global_warming"], ["Delhi", "India", "Global_warming"]]

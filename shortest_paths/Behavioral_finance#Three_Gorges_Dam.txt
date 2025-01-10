@@ -1,1 +1,0 @@
-[["Behavioral_finance", "Finance", "Money", "Three_Gorges_Dam"], ["Behavioral_finance", "Market", "Money", "Three_Gorges_Dam"], ["Behavioral_finance", "Finance", "Shanghai", "Three_Gorges_Dam"], ["Behavioral_finance", "Market", "Water", "Three_Gorges_Dam"]]

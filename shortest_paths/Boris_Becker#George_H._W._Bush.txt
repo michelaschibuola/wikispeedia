@@ -1,1 +1,0 @@
-[["Boris_Becker", "Canada", "George_H._W._Bush"], ["Boris_Becker", "Florida", "George_H._W._Bush"], ["Boris_Becker", "Japan", "George_H._W._Bush"], ["Boris_Becker", "United_States", "George_H._W._Bush"]]

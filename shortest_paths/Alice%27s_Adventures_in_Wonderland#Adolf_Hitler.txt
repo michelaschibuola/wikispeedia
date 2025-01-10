@@ -1,1 +1,0 @@
-[["Alice%27s_Adventures_in_Wonderland", "France", "Adolf_Hitler"], ["Alice%27s_Adventures_in_Wonderland", "United_States", "Adolf_Hitler"], ["Alice%27s_Adventures_in_Wonderland", "J._R._R._Tolkien", "Adolf_Hitler"]]

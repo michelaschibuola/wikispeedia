@@ -1,1 +1,0 @@
-[["Tiananmen_Square_protests_of_1989", "China", "Frog", "Chromatophore"], ["Tiananmen_Square_protests_of_1989", "United_Kingdom", "Frog", "Chromatophore"], ["Tiananmen_Square_protests_of_1989", "China", "Mammal", "Chromatophore"], ["Tiananmen_Square_protests_of_1989", "People%27s_Republic_of_China", "Bird", "Chromatophore"]]

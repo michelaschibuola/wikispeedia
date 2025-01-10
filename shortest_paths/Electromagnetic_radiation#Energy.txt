@@ -1,1 +1,0 @@
-[["Electromagnetic_radiation", "Energy"]]

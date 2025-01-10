@@ -1,1 +1,0 @@
-[["Mogadishu", "Anarcho-capitalism", "Police"], ["Mogadishu", "China", "Police"], ["Mogadishu", "Sudan", "Police"], ["Mogadishu", "United_Nations", "Police"], ["Mogadishu", "United_States", "Police"]]

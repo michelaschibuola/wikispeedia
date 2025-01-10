@@ -1,1 +1,0 @@
-[["Stegosaurus", "East_Africa", "Somalia"], ["Stegosaurus", "France", "Somalia"], ["Stegosaurus", "Madagascar", "Somalia"]]

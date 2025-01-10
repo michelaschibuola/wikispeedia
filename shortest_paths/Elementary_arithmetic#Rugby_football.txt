@@ -1,1 +1,0 @@
-[["Elementary_arithmetic", "Computer", "20th_century", "Rugby_football"], ["Elementary_arithmetic", "Computer", "United_Kingdom", "Rugby_football"], ["Elementary_arithmetic", "Mathematics", "Australia", "Rugby_football"]]

@@ -1,1 +1,0 @@
-[["European_Union", "English_language", "Australian_English"], ["European_Union", "United_States", "Australian_English"], ["European_Union", "World_War_II", "Australian_English"], ["European_Union", "International_English", "Australian_English"], ["European_Union", "Ireland", "Australian_English"]]

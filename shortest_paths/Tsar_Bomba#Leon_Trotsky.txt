@@ -1,1 +1,0 @@
-[["Tsar_Bomba", "Finland", "Leon_Trotsky"], ["Tsar_Bomba", "Russian_language", "Leon_Trotsky"], ["Tsar_Bomba", "Soviet_Union", "Leon_Trotsky"]]

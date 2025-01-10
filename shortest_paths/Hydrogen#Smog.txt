@@ -1,1 +1,0 @@
-[["Hydrogen", "Automobile", "Smog"], ["Hydrogen", "Nitrogen", "Smog"], ["Hydrogen", "Linus_Pauling", "Smog"], ["Hydrogen", "Ozone", "Smog"], ["Hydrogen", "Volcano", "Smog"]]

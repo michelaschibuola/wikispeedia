@@ -1,1 +1,0 @@
-[["Pythagorean_theorem", "British_Isles", "Argentina", "Magellanic_Penguin"], ["Pythagorean_theorem", "China", "Argentina", "Magellanic_Penguin"], ["Pythagorean_theorem", "Egypt", "Argentina", "Magellanic_Penguin"]]

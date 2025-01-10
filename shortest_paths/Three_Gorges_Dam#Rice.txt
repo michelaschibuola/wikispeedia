@@ -1,1 +1,0 @@
-[["Three_Gorges_Dam", "China", "Rice"], ["Three_Gorges_Dam", "Water", "Rice"]]

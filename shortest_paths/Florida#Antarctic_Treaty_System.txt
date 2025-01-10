@@ -1,1 +1,0 @@
-[["Florida", "Cuba", "Antarctic_Treaty_System"], ["Florida", "France", "Antarctic_Treaty_System"], ["Florida", "Germany", "Antarctic_Treaty_System"], ["Florida", "Greece", "Antarctic_Treaty_System"], ["Florida", "United_Kingdom", "Antarctic_Treaty_System"], ["Florida", "United_States", "Antarctic_Treaty_System"], ["Florida", "Guatemala", "Antarctic_Treaty_System"]]

@@ -1,1 +1,0 @@
-[["Olympic_Games", "Australia", "Cassowary"], ["Olympic_Games", "World_War_II", "Cassowary"]]

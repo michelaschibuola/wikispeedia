@@ -1,1 +1,0 @@
-[["Silicon", "Earth", "Space_Shuttle_program"], ["Silicon", "California", "Space_Shuttle_program"]]

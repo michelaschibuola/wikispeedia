@@ -1,1 +1,0 @@
-[["Weapon", "Energy", "History_of_post-Soviet_Russia"], ["Weapon", "Soviet_Union", "History_of_post-Soviet_Russia"], ["Weapon", "World_War_I", "History_of_post-Soviet_Russia"]]

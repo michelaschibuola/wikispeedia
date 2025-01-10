@@ -1,1 +1,0 @@
-[["Owl", "Europe", "Jorge_Luis_Borges"], ["Owl", "Aztec", "Jorge_Luis_Borges"], ["Owl", "Islam", "Jorge_Luis_Borges"]]

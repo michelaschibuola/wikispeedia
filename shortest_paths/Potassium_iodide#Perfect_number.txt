@@ -1,1 +1,0 @@
-[["Potassium_iodide", "United_Kingdom", "Prime_number", "Perfect_number"]]

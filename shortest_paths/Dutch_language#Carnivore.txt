@@ -1,1 +1,0 @@
-[["Dutch_language", "Bear", "Carnivore"], ["Dutch_language", "Cat", "Carnivore"], ["Dutch_language", "Cheese", "Carnivore"], ["Dutch_language", "Europe", "Carnivore"], ["Dutch_language", "Penguin", "Carnivore"], ["Dutch_language", "Walrus", "Carnivore"]]

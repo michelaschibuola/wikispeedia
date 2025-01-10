@@ -1,1 +1,0 @@
-[["12th_century", "19th_century", "Jacques-Louis_David"], ["12th_century", "France", "Jacques-Louis_David"], ["12th_century", "Paris", "Jacques-Louis_David"], ["12th_century", "Brussels", "Jacques-Louis_David"], ["12th_century", "History_of_painting", "Jacques-Louis_David"]]

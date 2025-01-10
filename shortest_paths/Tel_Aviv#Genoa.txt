@@ -1,1 +1,0 @@
-[["Tel_Aviv", "Global_city", "Genoa"], ["Tel_Aviv", "Buenos_Aires", "Genoa"], ["Tel_Aviv", "City", "Genoa"], ["Tel_Aviv", "Mediterranean_Sea", "Genoa"], ["Tel_Aviv", "Milan", "Genoa"]]

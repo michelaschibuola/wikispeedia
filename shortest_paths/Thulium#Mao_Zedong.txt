@@ -1,1 +1,0 @@
-[["Thulium", "Calcium", "United_States", "Mao_Zedong"], ["Thulium", "Color", "Film", "Mao_Zedong"], ["Thulium", "Lanthanum", "Film", "Mao_Zedong"], ["Thulium", "Metal", "Birth_control", "Mao_Zedong"], ["Thulium", "Metal", "Japan", "Mao_Zedong"]]

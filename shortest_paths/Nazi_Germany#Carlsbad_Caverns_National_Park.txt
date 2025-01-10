@@ -1,1 +1,0 @@
-[["Nazi_Germany", "Czech_Republic", "Carlsbad_Caverns_National_Park"], ["Nazi_Germany", "German_language", "Carlsbad_Caverns_National_Park"], ["Nazi_Germany", "United_States", "Carlsbad_Caverns_National_Park"]]

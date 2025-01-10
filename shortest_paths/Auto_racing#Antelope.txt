@@ -1,1 +1,0 @@
-[["Auto_racing", "Great_Britain", "Antelope"], ["Auto_racing", "United_States", "Antelope"]]

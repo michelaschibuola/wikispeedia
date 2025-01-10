@@ -1,1 +1,0 @@
-[["Great_Auk", "17th_century", "Montevideo"], ["Great_Auk", "19th_century", "Montevideo"], ["Great_Auk", "Canada", "Montevideo"]]

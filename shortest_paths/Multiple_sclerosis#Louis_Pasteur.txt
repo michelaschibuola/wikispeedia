@@ -1,1 +1,0 @@
-[["Multiple_sclerosis", "Biotechnology", "Louis_Pasteur"], ["Multiple_sclerosis", "Europe", "Louis_Pasteur"], ["Multiple_sclerosis", "France", "Louis_Pasteur"]]

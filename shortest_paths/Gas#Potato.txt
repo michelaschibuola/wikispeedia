@@ -1,1 +1,0 @@
-[["Gas", "1980_eruption_of_Mount_St._Helens", "Potato"], ["Gas", "Acetic_acid", "Potato"]]

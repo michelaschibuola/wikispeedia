@@ -1,1 +1,0 @@
-[["Asia", "Computer", "Autism"], ["Asia", "World_War_II", "Autism"], ["Asia", "Germany", "Autism"], ["Asia", "Internet", "Autism"]]

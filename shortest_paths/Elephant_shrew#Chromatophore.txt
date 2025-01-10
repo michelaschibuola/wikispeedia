@@ -1,1 +1,0 @@
-[["Elephant_shrew", "Animal", "Chromatophore"], ["Elephant_shrew", "Mammal", "Chromatophore"]]

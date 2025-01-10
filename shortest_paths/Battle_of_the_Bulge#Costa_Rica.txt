@@ -1,1 +1,0 @@
-[["Battle_of_the_Bulge", "Italy", "Costa_Rica"], ["Battle_of_the_Bulge", "Poland", "Costa_Rica"], ["Battle_of_the_Bulge", "United_States", "Costa_Rica"]]

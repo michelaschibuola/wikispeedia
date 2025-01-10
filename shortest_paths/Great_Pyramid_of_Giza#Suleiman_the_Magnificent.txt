@@ -1,1 +1,0 @@
-[["Great_Pyramid_of_Giza", "Egypt", "Suleiman_the_Magnificent"], ["Great_Pyramid_of_Giza", "Mosque", "Suleiman_the_Magnificent"]]

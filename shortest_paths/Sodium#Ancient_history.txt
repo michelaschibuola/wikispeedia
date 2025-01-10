@@ -1,1 +1,0 @@
-[["Sodium", "Fire", "Ancient_history"], ["Sodium", "Europe", "Ancient_history"], ["Sodium", "Latin", "Ancient_history"]]

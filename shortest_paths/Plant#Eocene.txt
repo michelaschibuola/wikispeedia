@@ -1,1 +1,0 @@
-[["Plant", "Death_Valley_National_Park", "Eocene"], ["Plant", "History_of_Earth", "Eocene"], ["Plant", "Paleontology", "Eocene"], ["Plant", "Amber", "Eocene"], ["Plant", "Fossil", "Eocene"], ["Plant", "Puerto_Rico", "Eocene"]]

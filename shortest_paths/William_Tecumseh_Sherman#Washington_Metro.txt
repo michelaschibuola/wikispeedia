@@ -1,1 +1,0 @@
-[["William_Tecumseh_Sherman", "New_York_City", "Washington_Metro"], ["William_Tecumseh_Sherman", "United_States_Congress", "Washington_Metro"], ["William_Tecumseh_Sherman", "Washington%2C_D.C.", "Washington_Metro"]]

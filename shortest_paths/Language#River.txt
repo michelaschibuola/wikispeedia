@@ -1,1 +1,0 @@
-[["Language", "Africa", "River"], ["Language", "Brazil", "River"], ["Language", "Mesopotamia", "River"], ["Language", "Zimbabwe", "River"]]

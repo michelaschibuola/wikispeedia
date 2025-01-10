@@ -1,1 +1,0 @@
-[["Ariel_Sharon", "Africa", "Clothing"], ["Ariel_Sharon", "Jordan", "Clothing"]]

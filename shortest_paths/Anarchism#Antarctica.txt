@@ -1,1 +1,0 @@
-[["Anarchism", "Germany", "Antarctica"], ["Anarchism", "Government", "Antarctica"], ["Anarchism", "United_Kingdom", "Antarctica"], ["Anarchism", "Property", "Antarctica"]]

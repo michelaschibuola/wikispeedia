@@ -1,1 +1,0 @@
-[["Climate", "Russia", "Ruthenium"], ["Climate", "South_Africa", "Ruthenium"]]

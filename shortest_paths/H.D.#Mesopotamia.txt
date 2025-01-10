@@ -1,1 +1,0 @@
-[["H.D.", "Ancient_Greece", "Mesopotamia"], ["H.D.", "Egypt", "Mesopotamia"], ["H.D.", "Europe", "Mesopotamia"], ["H.D.", "Poetry", "Mesopotamia"], ["H.D.", "War", "Mesopotamia"], ["H.D.", "World_War_I", "Mesopotamia"]]

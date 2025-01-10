@@ -1,1 +1,0 @@
-[["Publishing", "Paris", "J%C3%B3zef_Pi%C5%82sudski"], ["Publishing", "Law", "J%C3%B3zef_Pi%C5%82sudski"], ["Publishing", "Newspaper", "J%C3%B3zef_Pi%C5%82sudski"], ["Publishing", "Tokyo", "J%C3%B3zef_Pi%C5%82sudski"], ["Publishing", "United_States", "J%C3%B3zef_Pi%C5%82sudski"]]

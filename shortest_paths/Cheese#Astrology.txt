@@ -1,1 +1,0 @@
-[["Cheese", "English_language", "Astrology"], ["Cheese", "Europe", "Astrology"], ["Cheese", "Greece", "Astrology"], ["Cheese", "Middle_Ages", "Astrology"], ["Cheese", "Middle_East", "Astrology"]]

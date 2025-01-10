@@ -1,1 +1,0 @@
-[["Weapon", "Phosphorus", "Chemical_element"], ["Weapon", "Nuclear_fission", "Chemical_element"]]

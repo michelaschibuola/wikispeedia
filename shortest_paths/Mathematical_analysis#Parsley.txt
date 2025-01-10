@@ -1,1 +1,0 @@
-[["Mathematical_analysis", "History_of_science", "Vitamin_C", "Parsley"], ["Mathematical_analysis", "20th_century", "Vitamin_C", "Parsley"], ["Mathematical_analysis", "17th_century", "Nutmeg", "Parsley"], ["Mathematical_analysis", "Mathematics", "Lebanon", "Parsley"]]

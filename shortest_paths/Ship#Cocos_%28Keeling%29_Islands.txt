@@ -1,1 +1,0 @@
-[["Ship", "19th_century", "Cocos_%28Keeling%29_Islands"], ["Ship", "Europe", "Cocos_%28Keeling%29_Islands"], ["Ship", "World_War_II", "Cocos_%28Keeling%29_Islands"]]

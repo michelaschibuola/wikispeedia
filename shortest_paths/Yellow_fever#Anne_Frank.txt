@@ -1,1 +1,0 @@
-[["Yellow_fever", "United_States", "Anne_Frank"]]

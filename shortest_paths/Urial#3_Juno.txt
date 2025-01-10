@@ -1,1 +1,0 @@
-[["Urial", "Asia", "Germany", "3_Juno"], ["Urial", "India", "Germany", "3_Juno"], ["Urial", "Russia", "Germany", "3_Juno"], ["Urial", "India", "Gravitation", "3_Juno"], ["Urial", "Russia", "Moon", "3_Juno"]]

@@ -1,1 +1,0 @@
-[["France", "Comet", "Great_comet"], ["France", "Comet_Halley", "Great_comet"]]

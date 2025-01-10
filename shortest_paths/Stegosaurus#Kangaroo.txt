@@ -1,1 +1,0 @@
-[["Stegosaurus", "Animal", "Kangaroo"], ["Stegosaurus", "Chordate", "Kangaroo"], ["Stegosaurus", "Mammal", "Kangaroo"], ["Stegosaurus", "Reptile", "Kangaroo"], ["Stegosaurus", "Scientific_classification", "Kangaroo"], ["Stegosaurus", "Tyrannosaurus", "Kangaroo"]]

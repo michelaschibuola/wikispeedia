@@ -1,1 +1,0 @@
-[["Charlie_Chaplin", "Indonesia", "Tiger"], ["Charlie_Chaplin", "Soviet_Union", "Tiger"]]

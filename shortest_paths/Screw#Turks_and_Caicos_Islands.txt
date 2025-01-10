@@ -1,1 +1,0 @@
-[["Screw", "Canada", "Turks_and_Caicos_Islands"], ["Screw", "United_Kingdom", "Turks_and_Caicos_Islands"], ["Screw", "United_States", "Turks_and_Caicos_Islands"]]

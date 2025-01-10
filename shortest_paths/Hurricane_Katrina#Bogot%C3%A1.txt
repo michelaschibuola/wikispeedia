@@ -1,1 +1,0 @@
-[["Hurricane_Katrina", "Tsunami", "Bogot%C3%A1"], ["Hurricane_Katrina", "Venezuela", "Bogot%C3%A1"], ["Hurricane_Katrina", "Miami%2C_Florida", "Bogot%C3%A1"]]

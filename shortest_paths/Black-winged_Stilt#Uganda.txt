@@ -1,1 +1,0 @@
-[["Black-winged_Stilt", "Africa", "Uganda"], ["Black-winged_Stilt", "Asia", "Uganda"], ["Black-winged_Stilt", "Indonesia", "Uganda"]]

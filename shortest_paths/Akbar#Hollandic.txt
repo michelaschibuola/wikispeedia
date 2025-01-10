@@ -1,1 +1,0 @@
-[["Akbar", "16th_century", "Antwerp", "Hollandic"], ["Akbar", "Philosophy", "Antwerp", "Hollandic"], ["Akbar", "Alexander_the_Great", "French_language", "Hollandic"]]

@@ -1,1 +1,0 @@
-[["Lake_Turkana", "Africa", "Chinese_language", "Tripitaka"], ["Lake_Turkana", "Cheetah", "Sanskrit", "Tripitaka"], ["Lake_Turkana", "Elephant", "Buddha", "Tripitaka"], ["Lake_Turkana", "Elephant", "Buddhism", "Tripitaka"]]

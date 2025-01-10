@@ -1,1 +1,0 @@
-[["Edmund_Burke", "United_States", "Frank_Lloyd_Wright"], ["Edmund_Burke", "University_of_Chicago", "Frank_Lloyd_Wright"]]

@@ -1,1 +1,0 @@
-[["Pakistan", "Istanbul", "Stockholm"], ["Pakistan", "Middle_East", "Stockholm"], ["Pakistan", "Time_zone", "Stockholm"]]

@@ -1,1 +1,0 @@
-[["Computer_and_video_games", "Switzerland", "H.D."], ["Computer_and_video_games", "United_States", "H.D."]]

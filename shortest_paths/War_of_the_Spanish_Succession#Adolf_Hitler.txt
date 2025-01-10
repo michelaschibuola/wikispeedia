@@ -1,1 +1,0 @@
-[["War_of_the_Spanish_Succession", "Munich", "Adolf_Hitler"], ["War_of_the_Spanish_Succession", "Spain", "Adolf_Hitler"], ["War_of_the_Spanish_Succession", "War", "Adolf_Hitler"], ["War_of_the_Spanish_Succession", "Austria", "Adolf_Hitler"], ["War_of_the_Spanish_Succession", "France", "Adolf_Hitler"], ["War_of_the_Spanish_Succession", "Italy", "Adolf_Hitler"]]

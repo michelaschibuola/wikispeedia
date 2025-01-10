@@ -1,1 +1,0 @@
-[["Nagorno-Karabakh_War", "Israel", "Slavery"], ["Nagorno-Karabakh_War", "Ottoman_Empire", "Slavery"], ["Nagorno-Karabakh_War", "Russia", "Slavery"], ["Nagorno-Karabakh_War", "Turkey", "Slavery"], ["Nagorno-Karabakh_War", "United_States", "Slavery"]]

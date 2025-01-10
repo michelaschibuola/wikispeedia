@@ -1,1 +1,0 @@
-[["Haiti", "Christopher_Columbus", "Mary_I_of_England"], ["Haiti", "Europe", "Mary_I_of_England"], ["Haiti", "Spain", "Mary_I_of_England"]]

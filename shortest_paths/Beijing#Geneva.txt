@@ -1,1 +1,0 @@
-[["Beijing", "Algiers", "Geneva"], ["Beijing", "France", "Geneva"], ["Beijing", "Paris", "Geneva"], ["Beijing", "Global_city", "Geneva"], ["Beijing", "United_Nations", "Geneva"]]

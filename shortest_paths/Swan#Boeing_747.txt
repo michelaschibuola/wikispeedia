@@ -1,1 +1,0 @@
-[["Swan", "Australia", "Boeing_747"], ["Swan", "Japan", "Boeing_747"]]

@@ -1,1 +1,0 @@
-[["The_Lion_King", "Africa", "Ireland", "Pony"], ["The_Lion_King", "English_language", "Ireland", "Pony"], ["The_Lion_King", "Television", "Horse", "Pony"], ["The_Lion_King", "United_States", "Horse", "Pony"]]

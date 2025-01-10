@@ -1,1 +1,0 @@
-[["Gunpowder", "Desmond_Tutu", "Brazil"], ["Gunpowder", "Middle_East", "Brazil"], ["Gunpowder", "Steel", "Brazil"], ["Gunpowder", "Islam", "Brazil"], ["Gunpowder", "Middle_Ages", "Brazil"]]

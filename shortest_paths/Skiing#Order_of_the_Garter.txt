@@ -1,1 +1,0 @@
-[["Skiing", "Russia", "Order_of_the_Garter"], ["Skiing", "World_War_II", "Order_of_the_Garter"]]

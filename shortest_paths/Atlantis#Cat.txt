@@ -1,1 +1,0 @@
-[["Atlantis", "Ancient_Egypt", "Cat"], ["Atlantis", "Athanasius_Kircher", "Cat"], ["Atlantis", "Cyprus", "Cat"]]

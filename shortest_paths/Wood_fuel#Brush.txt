@@ -1,1 +1,0 @@
-[["Wood_fuel", "Steel", "Brush"], ["Wood_fuel", "Wood", "Brush"]]

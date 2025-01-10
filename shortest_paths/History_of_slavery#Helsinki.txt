@@ -1,1 +1,0 @@
-[["History_of_slavery", "Europe", "Helsinki"], ["History_of_slavery", "Germany", "Helsinki"], ["History_of_slavery", "Russia", "Helsinki"]]

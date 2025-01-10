@@ -1,1 +1,0 @@
-[["Intelligence", "Albert_Einstein", "Euclid", "Oxyrhynchus"], ["Intelligence", "Albert_Einstein", "World_War_I", "Oxyrhynchus"], ["Intelligence", "Animal_rights", "Aristotle", "Oxyrhynchus"], ["Intelligence", "Mind", "Aristotle", "Oxyrhynchus"], ["Intelligence", "Psychology", "Aristotle", "Oxyrhynchus"], ["Intelligence", "September_11%2C_2001_attacks", "Egypt", "Oxyrhynchus"]]

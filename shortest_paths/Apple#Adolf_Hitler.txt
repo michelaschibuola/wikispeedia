@@ -1,1 +1,0 @@
-[["Apple", "Denmark", "Adolf_Hitler"], ["Apple", "France", "Adolf_Hitler"], ["Apple", "Italy", "Adolf_Hitler"], ["Apple", "Paris", "Adolf_Hitler"], ["Apple", "Sweden", "Adolf_Hitler"], ["Apple", "United_States", "Adolf_Hitler"]]

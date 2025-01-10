@@ -1,1 +1,0 @@
-[["Day", "English_language", "Sputnik_program"], ["Day", "United_States", "Sputnik_program"]]

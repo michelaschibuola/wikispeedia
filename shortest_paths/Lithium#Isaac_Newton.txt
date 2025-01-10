@@ -1,1 +1,0 @@
-[["Lithium", "Color", "Isaac_Newton"], ["Lithium", "Earth%27s_atmosphere", "Isaac_Newton"], ["Lithium", "Glass", "Isaac_Newton"], ["Lithium", "Humphry_Davy", "Isaac_Newton"], ["Lithium", "Telescope", "Isaac_Newton"], ["Lithium", "Star", "Isaac_Newton"]]

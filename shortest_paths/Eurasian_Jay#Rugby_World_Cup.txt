@@ -1,1 +1,0 @@
-[["Eurasian_Jay", "Africa", "Rugby_World_Cup"], ["Eurasian_Jay", "Asia", "Rugby_World_Cup"], ["Eurasian_Jay", "Europe", "Rugby_World_Cup"]]

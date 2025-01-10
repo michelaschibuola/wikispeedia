@@ -1,1 +1,0 @@
-[["Redwood_National_and_State_Parks", "Fishing", "Katana"], ["Redwood_National_and_State_Parks", "World_War_II", "Katana"]]

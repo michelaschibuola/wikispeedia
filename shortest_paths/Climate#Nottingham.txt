@@ -1,1 +1,0 @@
-[["Climate", "Barbados", "Nottingham"], ["Climate", "Belarus", "Nottingham"], ["Climate", "China", "Nottingham"], ["Climate", "Montreal", "Nottingham"], ["Climate", "Slovenia", "Nottingham"]]

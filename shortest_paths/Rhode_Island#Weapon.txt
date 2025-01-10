@@ -1,1 +1,0 @@
-[["Rhode_Island", "World_War_I", "Weapon"], ["Rhode_Island", "United_States", "Weapon"]]

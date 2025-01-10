@@ -1,1 +1,0 @@
-[["Color", "Fruit", "Cuba"], ["Color", "Nickel", "Cuba"]]

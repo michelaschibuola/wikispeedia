@@ -1,1 +1,0 @@
-[["Mango", "Africa", "Beer"], ["Mango", "Apple", "Beer"], ["Mango", "China", "Beer"], ["Mango", "Flower", "Beer"], ["Mango", "Indonesia", "Beer"], ["Mango", "Mexico", "Beer"], ["Mango", "Plum", "Beer"], ["Mango", "South_America", "Beer"], ["Mango", "Sugar", "Beer"], ["Mango", "United_States", "Beer"]]

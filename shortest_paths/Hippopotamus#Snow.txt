@@ -1,1 +1,0 @@
-[["Hippopotamus", "England", "Snow"], ["Hippopotamus", "Tanzania", "Snow"], ["Hippopotamus", "South_Africa", "Snow"]]

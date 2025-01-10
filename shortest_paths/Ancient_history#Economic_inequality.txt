@@ -1,1 +1,0 @@
-[["Ancient_history", "Italy", "Economic_inequality"], ["Ancient_history", "Religion", "Economic_inequality"], ["Ancient_history", "United_States", "Economic_inequality"]]

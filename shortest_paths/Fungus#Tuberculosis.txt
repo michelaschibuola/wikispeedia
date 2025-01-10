@@ -1,1 +1,0 @@
-[["Fungus", "AIDS", "Tuberculosis"], ["Fungus", "Cheese", "Tuberculosis"], ["Fungus", "Cystic_fibrosis", "Tuberculosis"], ["Fungus", "Bacteria", "Tuberculosis"], ["Fungus", "Malaria", "Tuberculosis"], ["Fungus", "Pneumonia", "Tuberculosis"]]

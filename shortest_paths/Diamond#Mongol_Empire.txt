@@ -1,1 +1,0 @@
-[["Diamond", "China", "Mongol_Empire"], ["Diamond", "Europe", "Mongol_Empire"], ["Diamond", "Russia", "Mongol_Empire"]]

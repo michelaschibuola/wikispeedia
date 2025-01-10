@@ -1,1 +1,0 @@
-[["Burkina_Faso", "Africa", "Guinness"], ["Burkina_Faso", "Iron", "Guinness"], ["Burkina_Faso", "Sorghum", "Guinness"]]

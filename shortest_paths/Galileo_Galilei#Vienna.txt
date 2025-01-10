@@ -1,1 +1,0 @@
-[["Galileo_Galilei", "16th_century", "Vienna"], ["Galileo_Galilei", "17th_century", "Vienna"], ["Galileo_Galilei", "Italy", "Vienna"]]

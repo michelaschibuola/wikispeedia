@@ -1,1 +1,0 @@
-[["History_of_Earth", "Animal", "Giganotosaurus"], ["History_of_Earth", "Cretaceous", "Giganotosaurus"], ["History_of_Earth", "Dinosaur", "Giganotosaurus"], ["History_of_Earth", "Reptile", "Giganotosaurus"]]

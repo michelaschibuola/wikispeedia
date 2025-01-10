@@ -1,1 +1,0 @@
-[["Syria", "Argentina", "Royal_Marines"], ["Syria", "Barbados", "Royal_Marines"], ["Syria", "Iraq", "Royal_Marines"], ["Syria", "Madagascar", "Royal_Marines"], ["Syria", "Russia", "Royal_Marines"], ["Syria", "United_Kingdom", "Royal_Marines"], ["Syria", "World_War_II", "Royal_Marines"]]

@@ -1,1 +1,0 @@
-[["Butter", "Africa", "Rainforest"], ["Butter", "Asia", "Rainforest"], ["Butter", "Australia", "Rainforest"], ["Butter", "Mammal", "Rainforest"], ["Butter", "New_Zealand", "Rainforest"], ["Butter", "Scotland", "Rainforest"]]

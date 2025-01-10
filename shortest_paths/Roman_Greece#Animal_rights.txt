@@ -1,1 +1,0 @@
-[["Roman_Greece", "Paul_of_Tarsus", "Animal_rights"], ["Roman_Greece", "Philosophy", "Animal_rights"]]

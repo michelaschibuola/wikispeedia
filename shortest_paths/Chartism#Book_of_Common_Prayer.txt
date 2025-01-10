@@ -1,1 +1,0 @@
-[["Chartism", "Scotland", "Book_of_Common_Prayer"], ["Chartism", "United_Kingdom", "Book_of_Common_Prayer"], ["Chartism", "Wales", "Book_of_Common_Prayer"]]

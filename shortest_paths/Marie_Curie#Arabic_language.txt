@@ -1,1 +1,0 @@
-[["Marie_Curie", "France", "Arabic_language"], ["Marie_Curie", "Jew", "Arabic_language"]]

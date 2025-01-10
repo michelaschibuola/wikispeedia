@@ -1,1 +1,0 @@
-[["Kuwait_City", "Asia", "Japan"], ["Kuwait_City", "Kuwait", "Japan"], ["Kuwait_City", "Capital", "Japan"]]

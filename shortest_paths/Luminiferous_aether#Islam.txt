@@ -1,1 +1,0 @@
-[["Luminiferous_aether", "Latin", "Islam"], ["Luminiferous_aether", "Speed_of_light", "Islam"]]

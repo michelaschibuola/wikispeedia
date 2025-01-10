@@ -1,1 +1,0 @@
-[["Bucharest", "Black_Sea", "Marco_Polo"], ["Bucharest", "Ottoman_Empire", "Marco_Polo"]]

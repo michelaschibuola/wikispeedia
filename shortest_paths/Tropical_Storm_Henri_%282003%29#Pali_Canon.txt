@@ -1,1 +1,0 @@
-[["Tropical_Storm_Henri_%282003%29", "Africa", "Ordination_of_women", "Pali_Canon"], ["Tropical_Storm_Henri_%282003%29", "United_States", "Ordination_of_women", "Pali_Canon"], ["Tropical_Storm_Henri_%282003%29", "United_States", "Sri_Lanka", "Pali_Canon"], ["Tropical_Storm_Henri_%282003%29", "United_States", "Buddhism", "Pali_Canon"]]

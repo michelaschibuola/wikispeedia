@@ -1,1 +1,0 @@
-[["Aksumite_currency", "Currency", "Paraguay"]]

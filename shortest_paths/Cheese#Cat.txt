@@ -1,1 +1,0 @@
-[["Cheese", "Carnivore", "Cat"], ["Cheese", "Ancient_Egypt", "Cat"], ["Cheese", "Dutch_language", "Cat"], ["Cheese", "Mammal", "Cat"], ["Cheese", "Protein", "Cat"]]

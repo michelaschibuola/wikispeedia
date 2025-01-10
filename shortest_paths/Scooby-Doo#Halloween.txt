@@ -1,1 +1,0 @@
-[["Scooby-Doo", "The_Simpsons", "Halloween"], ["Scooby-Doo", "United_States", "Halloween"]]

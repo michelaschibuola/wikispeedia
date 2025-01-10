@@ -1,1 +1,0 @@
-[["Spyware", "Advertising", "Newspaper", "Humour"], ["Spyware", "Internet", "Newspaper", "Humour"], ["Spyware", "Internet", "Communication", "Humour"], ["Spyware", "Sony", "Communication", "Humour"]]

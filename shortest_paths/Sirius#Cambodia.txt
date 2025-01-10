@@ -1,1 +1,0 @@
-[["Sirius", "Chinese_language", "Cambodia"], ["Sirius", "Sanskrit", "Cambodia"]]

@@ -1,1 +1,0 @@
-[["Intelligence", "Harry_Potter", "English_language", "Windows_2000"], ["Intelligence", "Language", "English_language", "Windows_2000"], ["Intelligence", "Stanis%C5%82aw_Lem", "English_language", "Windows_2000"], ["Intelligence", "Language", "Arabic_language", "Windows_2000"], ["Intelligence", "Language", "Windows_XP", "Windows_2000"]]

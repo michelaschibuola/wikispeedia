@@ -1,1 +1,0 @@
-[["Drosophila_melanogaster", "Animal", "Ichthyosaur"], ["Drosophila_melanogaster", "Scientific_classification", "Ichthyosaur"]]

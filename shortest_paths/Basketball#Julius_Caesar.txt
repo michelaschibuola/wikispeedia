@@ -1,1 +1,0 @@
-[["Basketball", "Athens", "Julius_Caesar"], ["Basketball", "France", "Julius_Caesar"], ["Basketball", "Greece", "Julius_Caesar"], ["Basketball", "Switzerland", "Julius_Caesar"], ["Basketball", "Rome", "Julius_Caesar"]]

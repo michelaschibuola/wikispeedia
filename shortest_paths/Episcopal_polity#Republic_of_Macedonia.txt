@@ -1,1 +1,0 @@
-[["Episcopal_polity", "Roman_Catholic_Church", "Republic_of_Macedonia"], ["Episcopal_polity", "Roman_Empire", "Republic_of_Macedonia"], ["Episcopal_polity", "United_States", "Republic_of_Macedonia"]]

@@ -1,1 +1,0 @@
-[["Olaudah_Equiano", "England", "Rugby_World_Cup"], ["Olaudah_Equiano", "France", "Rugby_World_Cup"], ["Olaudah_Equiano", "London", "Rugby_World_Cup"]]

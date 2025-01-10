@@ -1,1 +1,0 @@
-[["Eagle", "Ancient_Rome", "House"], ["Eagle", "Heraldry", "House"], ["Eagle", "United_States", "House"]]

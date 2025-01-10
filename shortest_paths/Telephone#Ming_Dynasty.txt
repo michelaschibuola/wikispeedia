@@ -1,1 +1,0 @@
-[["Telephone", "Japan", "Ming_Dynasty"], ["Telephone", "London", "Ming_Dynasty"]]

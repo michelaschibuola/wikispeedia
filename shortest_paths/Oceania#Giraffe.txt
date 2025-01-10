@@ -1,1 +1,0 @@
-[["Oceania", "Kenya", "Giraffe"], ["Oceania", "Mozambique", "Giraffe"], ["Oceania", "Somalia", "Giraffe"], ["Oceania", "Southern_Africa", "Giraffe"], ["Oceania", "Sudan", "Giraffe"], ["Oceania", "Tanzania", "Giraffe"]]

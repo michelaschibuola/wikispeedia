@@ -1,1 +1,0 @@
-[["Turtle", "Argentina", "Christianity"], ["Turtle", "Guyana", "Christianity"], ["Turtle", "Maya_mythology", "Christianity"], ["Turtle", "Canada", "Christianity"], ["Turtle", "South_America", "Christianity"]]

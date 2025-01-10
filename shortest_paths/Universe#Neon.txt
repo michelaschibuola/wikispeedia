@@ -1,1 +1,0 @@
-[["Universe", "Earth", "Neon"], ["Universe", "Electron", "Neon"], ["Universe", "Helium", "Neon"], ["Universe", "Hydrogen", "Neon"], ["Universe", "Star", "Neon"], ["Universe", "Neutron", "Neon"]]

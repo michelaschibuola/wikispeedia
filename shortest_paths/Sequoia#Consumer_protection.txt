@@ -1,1 +1,0 @@
-[["Sequoia", "California", "Consumer_protection"], ["Sequoia", "New_Zealand", "Consumer_protection"], ["Sequoia", "United_States", "Consumer_protection"]]

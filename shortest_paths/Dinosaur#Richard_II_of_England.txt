@@ -1,1 +1,0 @@
-[["Dinosaur", "England", "Richard_II_of_England"]]

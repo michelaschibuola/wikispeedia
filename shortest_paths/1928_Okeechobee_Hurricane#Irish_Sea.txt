@@ -1,1 +1,0 @@
-[["1928_Okeechobee_Hurricane", "Atlantic_Ocean", "Irish_Sea"], ["1928_Okeechobee_Hurricane", "United_States", "Irish_Sea"]]

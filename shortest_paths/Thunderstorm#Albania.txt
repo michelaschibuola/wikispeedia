@@ -1,1 +1,0 @@
-[["Thunderstorm", "Indonesia", "Albania"], ["Thunderstorm", "Uganda", "Albania"], ["Thunderstorm", "United_States", "Albania"]]

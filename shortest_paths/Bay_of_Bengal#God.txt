@@ -1,1 +1,0 @@
-[["Bay_of_Bengal", "India", "God"], ["Bay_of_Bengal", "Tropical_cyclone", "God"]]

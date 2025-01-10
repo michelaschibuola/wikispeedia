@@ -1,1 +1,0 @@
-[["Mount_Rushmore", "Canada", "Britney_Spears"], ["Mount_Rushmore", "Film", "Britney_Spears"], ["Mount_Rushmore", "United_States", "Britney_Spears"]]

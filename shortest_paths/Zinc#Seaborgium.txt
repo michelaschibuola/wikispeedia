@@ -1,1 +1,0 @@
-[["Zinc", "List_of_elements_by_name", "Seaborgium"], ["Zinc", "Periodic_table", "Seaborgium"], ["Zinc", "Periodic_table_%28large_version%29", "Seaborgium"], ["Zinc", "Chemical_element", "Seaborgium"], ["Zinc", "Color", "Seaborgium"], ["Zinc", "Electron", "Seaborgium"], ["Zinc", "Phase_%28matter%29", "Seaborgium"]]

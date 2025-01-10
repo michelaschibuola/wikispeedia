@@ -1,1 +1,0 @@
-[["Red_dwarf", "Earth", "United_Kingdom", "Outer_Hebrides"], ["Red_dwarf", "Hydrogen", "United_Kingdom", "Outer_Hebrides"]]

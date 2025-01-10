@@ -1,1 +1,0 @@
-[["Flamingo", "Bird", "Evolution"], ["Flamingo", "Bacteria", "Evolution"], ["Flamingo", "Carolus_Linnaeus", "Evolution"], ["Flamingo", "Fossil_record", "Evolution"], ["Flamingo", "Protein", "Evolution"], ["Flamingo", "Scientific_classification", "Evolution"], ["Flamingo", "Gal%C3%A1pagos_Islands", "Evolution"]]

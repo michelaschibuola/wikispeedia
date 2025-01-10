@@ -1,1 +1,0 @@
-[["Bridge", "Australia", "Frog"], ["Bridge", "Brazil", "Frog"], ["Bridge", "Czech_Republic", "Frog"], ["Bridge", "France", "Frog"], ["Bridge", "Isan", "Frog"]]

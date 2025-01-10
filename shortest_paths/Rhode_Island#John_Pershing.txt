@@ -1,1 +1,0 @@
-[["Rhode_Island", "American_Civil_War", "John_Pershing"], ["Rhode_Island", "George_Washington", "John_Pershing"], ["Rhode_Island", "World_War_I", "John_Pershing"], ["Rhode_Island", "Washington%2C_D.C.", "John_Pershing"]]

@@ -1,1 +1,0 @@
-[["Copenhagen", "Arthur_Wellesley%2C_1st_Duke_of_Wellington", "Trafalgar_Square"], ["Copenhagen", "United_States", "Trafalgar_Square"], ["Copenhagen", "World_War_II", "Trafalgar_Square"], ["Copenhagen", "Norway", "Trafalgar_Square"], ["Copenhagen", "Oslo", "Trafalgar_Square"]]

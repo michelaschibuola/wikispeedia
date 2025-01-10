@@ -1,1 +1,0 @@
-[["Ghana", "United_Kingdom", "Tornado"], ["Ghana", "United_States", "Tornado"], ["Ghana", "Louisville%2C_Kentucky", "Tornado"], ["Ghana", "South_Africa", "Tornado"]]

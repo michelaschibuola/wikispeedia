@@ -1,1 +1,0 @@
-[["Florida", "England", "City_status_in_the_United_Kingdom"], ["Florida", "United_Kingdom", "City_status_in_the_United_Kingdom"], ["Florida", "Nottingham", "City_status_in_the_United_Kingdom"], ["Florida", "Westminster_Abbey", "City_status_in_the_United_Kingdom"]]

@@ -1,1 +1,0 @@
-[["Saint_Petersburg", "Anna_Karenina", "Sean_Connery"], ["Saint_Petersburg", "Australia", "Sean_Connery"], ["Saint_Petersburg", "France", "Sean_Connery"]]

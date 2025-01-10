@@ -1,1 +1,0 @@
-[["Ku_Klux_Klan", "Canada", "Train"], ["Ku_Klux_Klan", "Los_Angeles%2C_California", "Train"], ["Ku_Klux_Klan", "New_York_City", "Train"], ["Ku_Klux_Klan", "United_States", "Train"]]

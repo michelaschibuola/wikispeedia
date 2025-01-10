@@ -1,1 +1,0 @@
-[["Himalayas", "Buddhism", "Deity"], ["Himalayas", "Hinduism", "Deity"], ["Himalayas", "Jesus", "Deity"]]

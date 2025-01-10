@@ -1,1 +1,0 @@
-[["Republic_of_Ireland", "France", "Pyramid"], ["Republic_of_Ireland", "United_States", "Pyramid"]]

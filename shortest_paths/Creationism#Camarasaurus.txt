@@ -1,1 +1,0 @@
-[["Creationism", "Elephant", "Camarasaurus"], ["Creationism", "Fossil_record", "Camarasaurus"], ["Creationism", "Dinosaur", "Camarasaurus"]]

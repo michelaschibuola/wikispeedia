@@ -1,1 +1,0 @@
-[["Birmingham", "Europe", "Beaver"], ["Birmingham", "France", "Beaver"], ["Birmingham", "North_America", "Beaver"]]

@@ -1,1 +1,0 @@
-[["Golden_Eagle", "China", "Buddha"], ["Golden_Eagle", "India", "Buddha"], ["Golden_Eagle", "Japan", "Buddha"], ["Golden_Eagle", "Korea", "Buddha"]]

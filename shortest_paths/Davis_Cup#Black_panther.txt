@@ -1,1 +1,0 @@
-[["Davis_Cup", "India", "Black_panther"], ["Davis_Cup", "Spain", "Black_panther"]]

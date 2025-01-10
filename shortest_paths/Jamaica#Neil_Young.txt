@@ -1,1 +1,0 @@
-[["Jamaica", "Canada", "Neil_Young"], ["Jamaica", "London", "Neil_Young"], ["Jamaica", "Los_Angeles%2C_California", "Neil_Young"], ["Jamaica", "People%27s_Republic_of_China", "Neil_Young"], ["Jamaica", "Spain", "Neil_Young"], ["Jamaica", "Toronto", "Neil_Young"]]

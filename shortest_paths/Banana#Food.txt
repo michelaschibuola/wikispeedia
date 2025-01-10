@@ -1,1 +1,0 @@
-[["Banana", "English_language", "Food"], ["Banana", "Fatty_acid", "Food"], ["Banana", "Fruit", "Food"], ["Banana", "Islam", "Food"], ["Banana", "Virus", "Food"], ["Banana", "Vitamin_C", "Food"], ["Banana", "Bread", "Food"]]

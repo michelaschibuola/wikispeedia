@@ -1,1 +1,0 @@
-[["Robert_Boyle", "Hydrogen", "Sun"], ["Robert_Boyle", "Isaac_Newton", "Sun"], ["Robert_Boyle", "Physical_science", "Sun"], ["Robert_Boyle", "Physics", "Sun"], ["Robert_Boyle", "Electricity", "Sun"], ["Robert_Boyle", "England", "Sun"], ["Robert_Boyle", "Galileo_Galilei", "Sun"], ["Robert_Boyle", "Gold", "Sun"], ["Robert_Boyle", "Latin", "Sun"]]

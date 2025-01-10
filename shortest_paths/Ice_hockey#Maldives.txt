@@ -1,1 +1,0 @@
-[["Ice_hockey", "English_language", "Maldives"], ["Ice_hockey", "United_Kingdom", "Maldives"]]

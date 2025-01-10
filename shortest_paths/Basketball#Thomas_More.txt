@@ -1,1 +1,0 @@
-[["Basketball", "Spain", "Thomas_More"], ["Basketball", "Paris", "Thomas_More"]]

@@ -1,1 +1,0 @@
-[["Fedora_Core", "Business", "Capital", "Rhode_Island"], ["Fedora_Core", "Cambridge", "Ireland", "Rhode_Island"], ["Fedora_Core", "Thailand", "Christianity", "Rhode_Island"], ["Fedora_Core", "Thailand", "United_States", "Rhode_Island"], ["Fedora_Core", "The_Children%27s_Machine", "United_States", "Rhode_Island"], ["Fedora_Core", "Thailand", "Washington%2C_D.C.", "Rhode_Island"]]

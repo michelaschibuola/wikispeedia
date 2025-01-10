@@ -1,1 +1,0 @@
-[["FIFA", "Australia", "Flemish_people"], ["FIFA", "French_language", "Flemish_people"], ["FIFA", "South_Africa", "Flemish_people"], ["FIFA", "United_States", "Flemish_people"], ["FIFA", "World_War_II", "Flemish_people"]]

@@ -1,1 +1,0 @@
-[["Behistun_Inscription", "Afghanistan", "Karachi"], ["Behistun_Inscription", "Babylonia", "Karachi"], ["Behistun_Inscription", "Iran", "Karachi"]]

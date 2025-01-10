@@ -1,1 +1,0 @@
-[["Joseph_Stalin", "Adolf_Hitler", "Martin_Luther"], ["Joseph_Stalin", "France", "Martin_Luther"], ["Joseph_Stalin", "Germany", "Martin_Luther"], ["Joseph_Stalin", "Italy", "Martin_Luther"], ["Joseph_Stalin", "Jew", "Martin_Luther"]]

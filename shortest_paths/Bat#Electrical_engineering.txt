@@ -1,1 +1,0 @@
-[["Bat", "United_Kingdom", "Electrical_engineering"], ["Bat", "New_Zealand", "Electrical_engineering"]]

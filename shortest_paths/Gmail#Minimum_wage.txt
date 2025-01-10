@@ -1,1 +1,0 @@
-[["Gmail", "Australia", "Minimum_wage"], ["Gmail", "Germany", "Minimum_wage"], ["Gmail", "New_Zealand", "Minimum_wage"], ["Gmail", "United_Kingdom", "Minimum_wage"], ["Gmail", "United_States", "Minimum_wage"]]

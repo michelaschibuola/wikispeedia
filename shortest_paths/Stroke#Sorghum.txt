@@ -1,1 +1,0 @@
-[["Stroke", "Carolus_Linnaeus", "Sorghum"], ["Stroke", "United_States", "Sorghum"]]

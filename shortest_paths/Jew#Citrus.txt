@@ -1,1 +1,0 @@
-[["Jew", "India", "Citrus"], ["Jew", "Algeria", "Citrus"], ["Jew", "Argentina", "Citrus"], ["Jew", "Asia", "Citrus"], ["Jew", "Australia", "Citrus"], ["Jew", "China", "Citrus"], ["Jew", "Islam", "Citrus"], ["Jew", "South_Africa", "Citrus"], ["Jew", "United_States", "Citrus"], ["Jew", "Nigeria", "Citrus"], ["Jew", "South_America", "Citrus"], ["Jew", "Wine", "Citrus"]]

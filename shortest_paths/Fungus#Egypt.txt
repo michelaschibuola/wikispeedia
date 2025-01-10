@@ -1,1 +1,0 @@
-[["Fungus", "Cheese", "Egypt"], ["Fungus", "Malaria", "Egypt"], ["Fungus", "Okapi", "Egypt"]]

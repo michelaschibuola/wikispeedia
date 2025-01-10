@@ -1,1 +1,0 @@
-[["George_Eliot", "15th_century", "21st_century"], ["George_Eliot", "20th_century", "21st_century"], ["George_Eliot", "Europe", "21st_century"], ["George_Eliot", "London", "21st_century"], ["George_Eliot", "United_States", "21st_century"]]

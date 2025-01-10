@@ -1,1 +1,0 @@
-[["Paris", "1928_Okeechobee_Hurricane", "Galveston_Hurricane_of_1900"], ["Paris", "City", "Galveston_Hurricane_of_1900"], ["Paris", "Africa", "Galveston_Hurricane_of_1900"], ["Paris", "New_York_City", "Galveston_Hurricane_of_1900"], ["Paris", "United_States", "Galveston_Hurricane_of_1900"], ["Paris", "Washington%2C_D.C.", "Galveston_Hurricane_of_1900"]]

@@ -1,1 +1,0 @@
-[["American_football", "Japan", "Katana"], ["American_football", "World_War_II", "Katana"]]

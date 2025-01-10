@@ -1,1 +1,0 @@
-[["Bible", "Alchemy", "Gunpowder"], ["Bible", "Siege", "Gunpowder"], ["Bible", "Sulfur", "Gunpowder"]]

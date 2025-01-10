@@ -1,1 +1,0 @@
-[["East_Africa", "France", "Global_city"], ["East_Africa", "Nairobi", "Global_city"], ["East_Africa", "Tourism", "Global_city"]]

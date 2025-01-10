@@ -1,1 +1,0 @@
-[["U2", "Pope_John_Paul_II", "Peaceful_coexistence"], ["U2", "United_States", "Peaceful_coexistence"]]

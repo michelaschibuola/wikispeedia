@@ -1,1 +1,0 @@
-[["List_of_sovereign_states", "Austria", "Jet_engine"], ["List_of_sovereign_states", "Germany", "Jet_engine"], ["List_of_sovereign_states", "United_Kingdom", "Jet_engine"]]

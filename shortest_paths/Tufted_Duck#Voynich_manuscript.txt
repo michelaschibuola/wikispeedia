@@ -1,1 +1,0 @@
-[["Tufted_Duck", "Europe", "Voynich_manuscript"], ["Tufted_Duck", "United_Kingdom", "Voynich_manuscript"], ["Tufted_Duck", "United_States", "Voynich_manuscript"]]

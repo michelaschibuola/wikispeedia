@@ -1,1 +1,0 @@
-[["Tropical_cyclone", "Atlantic_Ocean", "Trout"], ["Tropical_cyclone", "Pacific_Ocean", "Trout"], ["Tropical_cyclone", "Australia", "Trout"], ["Tropical_cyclone", "Europe", "Trout"], ["Tropical_cyclone", "New_Zealand", "Trout"], ["Tropical_cyclone", "United_States", "Trout"]]

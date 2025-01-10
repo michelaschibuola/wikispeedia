@@ -1,1 +1,0 @@
-[["Richard_III_%28play%29", "The_Beatles", "Captain_Marvel_%28DC_Comics%29", "Humour"], ["Richard_III_%28play%29", "William_Hogarth", "Aesthetics", "Humour"], ["Richard_III_%28play%29", "William_Hogarth", "Comics", "Humour"]]

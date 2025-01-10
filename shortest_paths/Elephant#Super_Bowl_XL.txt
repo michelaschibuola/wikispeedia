@@ -1,1 +1,0 @@
-[["Elephant", "United_Kingdom", "Super_Bowl_XL"]]

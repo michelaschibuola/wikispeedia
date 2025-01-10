@@ -1,1 +1,0 @@
-[["Davis_Cup", "Belarus", "Cryptography"], ["Davis_Cup", "France", "Cryptography"], ["Davis_Cup", "Germany", "Cryptography"], ["Davis_Cup", "Russia", "Cryptography"], ["Davis_Cup", "United_States", "Cryptography"]]

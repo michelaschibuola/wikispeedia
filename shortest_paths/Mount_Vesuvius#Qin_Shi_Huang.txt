@@ -1,1 +1,0 @@
-[["Mount_Vesuvius", "Earth", "Qin_Shi_Huang"], ["Mount_Vesuvius", "Europe", "Qin_Shi_Huang"], ["Mount_Vesuvius", "World_War_II", "Qin_Shi_Huang"]]

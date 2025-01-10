@@ -1,1 +1,0 @@
-[["Alchemy", "Europe", "Attack_on_Pearl_Harbor"], ["Alchemy", "Japan", "Attack_on_Pearl_Harbor"]]

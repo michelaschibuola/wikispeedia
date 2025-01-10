@@ -1,1 +1,0 @@
-[["Retinol", "Antarctica", "Andes", "Galeras"], ["Retinol", "Iron", "Volcano", "Galeras"], ["Retinol", "Measles", "Colombia", "Galeras"], ["Retinol", "Switzerland", "United_Nations", "Galeras"], ["Retinol", "World_Health_Organization", "United_Nations", "Galeras"]]

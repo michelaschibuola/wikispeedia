@@ -1,1 +1,0 @@
-[["Los_Angeles%2C_California", "Australia", "Nationality"], ["Los_Angeles%2C_California", "Crime", "Nationality"], ["Los_Angeles%2C_California", "Culture", "Nationality"], ["Los_Angeles%2C_California", "Europe", "Nationality"], ["Los_Angeles%2C_California", "United_States", "Nationality"], ["Los_Angeles%2C_California", "Russian_language", "Nationality"]]

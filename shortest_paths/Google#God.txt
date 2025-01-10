@@ -1,1 +1,0 @@
-[["Google", "Douglas_Adams", "God"], ["Google", "China", "God"], ["Google", "France", "God"], ["Google", "United_States", "God"]]

@@ -1,1 +1,0 @@
-[["Dead_Sea_scrolls", "Christianity", "Human", "Sequence_alignment"], ["Dead_Sea_scrolls", "Homo_floresiensis", "Human", "Sequence_alignment"], ["Dead_Sea_scrolls", "Homo_floresiensis", "Language", "Sequence_alignment"]]

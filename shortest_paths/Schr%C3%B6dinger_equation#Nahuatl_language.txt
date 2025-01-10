@@ -1,1 +1,0 @@
-[["Schr%C3%B6dinger_equation", "Paul_Dirac", "Poetry", "Nahuatl_language"], ["Schr%C3%B6dinger_equation", "Physics", "12th_century", "Nahuatl_language"], ["Schr%C3%B6dinger_equation", "Time", "12th_century", "Nahuatl_language"], ["Schr%C3%B6dinger_equation", "Time", "16th_century", "Nahuatl_language"], ["Schr%C3%B6dinger_equation", "Time", "Day", "Nahuatl_language"]]

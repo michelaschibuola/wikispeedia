@@ -1,1 +1,0 @@
-[["Bertrand_Russell", "Japan", "Earthquake"], ["Bertrand_Russell", "Soviet_Union", "Earthquake"], ["Bertrand_Russell", "United_Kingdom", "Earthquake"]]

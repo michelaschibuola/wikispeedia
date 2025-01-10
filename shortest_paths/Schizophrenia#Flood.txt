@@ -1,1 +1,0 @@
-[["Schizophrenia", "Europe", "Flood"], ["Schizophrenia", "India", "Flood"], ["Schizophrenia", "United_Kingdom", "Flood"], ["Schizophrenia", "United_States", "Flood"]]

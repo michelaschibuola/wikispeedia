@@ -1,1 +1,0 @@
-[["History_of_slavery", "France", "Thomas_Edison"], ["History_of_slavery", "Germany", "Thomas_Edison"], ["History_of_slavery", "United_Kingdom", "Thomas_Edison"], ["History_of_slavery", "United_States", "Thomas_Edison"]]

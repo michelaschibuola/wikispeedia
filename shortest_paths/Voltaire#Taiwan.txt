@@ -1,1 +1,0 @@
-[["Voltaire", "Confucianism", "Taiwan"], ["Voltaire", "Liberalism", "Taiwan"], ["Voltaire", "Bible", "Taiwan"], ["Voltaire", "Christianity", "Taiwan"], ["Voltaire", "Encyclop%C3%A6dia_Britannica", "Taiwan"]]

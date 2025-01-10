@@ -1,1 +1,0 @@
-[["Pea", "Evolution", "Bacteria"], ["Pea", "Folic_acid", "Bacteria"], ["Pea", "Maize", "Bacteria"], ["Pea", "Binomial_nomenclature", "Bacteria"], ["Pea", "Butter", "Bacteria"], ["Pea", "Fatty_acid", "Bacteria"], ["Pea", "Genetics", "Bacteria"], ["Pea", "Plant", "Bacteria"], ["Pea", "Scientific_classification", "Bacteria"]]

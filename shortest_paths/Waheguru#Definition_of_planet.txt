@@ -1,1 +1,0 @@
-[["Waheguru", "Deity", "Earth", "Definition_of_planet"], ["Waheguru", "Sanskrit", "Earth", "Definition_of_planet"], ["Waheguru", "Deity", "Mars", "Definition_of_planet"], ["Waheguru", "Sanskrit", "Mars", "Definition_of_planet"]]

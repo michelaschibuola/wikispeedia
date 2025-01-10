@@ -1,1 +1,0 @@
-[["Mediterranean_Sea", "Germany", "Wolfgang_Amadeus_Mozart"], ["Mediterranean_Sea", "Italy", "Wolfgang_Amadeus_Mozart"]]

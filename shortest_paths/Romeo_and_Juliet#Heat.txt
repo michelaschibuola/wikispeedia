@@ -1,1 +1,0 @@
-[["Romeo_and_Juliet", "Renaissance", "Engineering", "Heat"], ["Romeo_and_Juliet", "Renaissance", "Hippocrates", "Heat"], ["Romeo_and_Juliet", "William_Shakespeare", "Hippocrates", "Heat"], ["Romeo_and_Juliet", "Renaissance", "Latin", "Heat"], ["Romeo_and_Juliet", "Spanish_language", "Latin", "Heat"], ["Romeo_and_Juliet", "Renaissance", "Welding", "Heat"]]

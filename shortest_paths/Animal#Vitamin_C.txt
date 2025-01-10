@@ -1,1 +1,0 @@
-[["Animal", "Human", "Vitamin_C"], ["Animal", "Ape", "Vitamin_C"], ["Animal", "Pigeon", "Vitamin_C"]]

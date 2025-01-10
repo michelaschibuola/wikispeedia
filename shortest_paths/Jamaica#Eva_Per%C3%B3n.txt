@@ -1,1 +1,0 @@
-[["Jamaica", "Cuba", "Eva_Per%C3%B3n"], ["Jamaica", "New_York_City", "Eva_Per%C3%B3n"], ["Jamaica", "Spain", "Eva_Per%C3%B3n"], ["Jamaica", "United_States", "Eva_Per%C3%B3n"], ["Jamaica", "Latin_America", "Eva_Per%C3%B3n"]]

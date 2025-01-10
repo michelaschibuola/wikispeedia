@@ -1,1 +1,0 @@
-[["Hebrew_language", "Hebrew_calendar", "Autumn"], ["Hebrew_language", "Canada", "Autumn"], ["Hebrew_language", "English_language", "Autumn"], ["Hebrew_language", "Jew", "Autumn"], ["Hebrew_language", "United_States", "Autumn"], ["Hebrew_language", "Saffron", "Autumn"]]

@@ -1,1 +1,0 @@
-[["Neoclassicism", "19th_century", "Latin_America"], ["Neoclassicism", "France", "Latin_America"], ["Neoclassicism", "Music", "Latin_America"], ["Neoclassicism", "Napoleon_I_of_France", "Latin_America"], ["Neoclassicism", "Russia", "Latin_America"], ["Neoclassicism", "Peru", "Latin_America"]]

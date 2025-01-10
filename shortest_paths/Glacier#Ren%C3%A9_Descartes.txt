@@ -1,1 +1,0 @@
-[["Glacier", "French_language", "Ren%C3%A9_Descartes"], ["Glacier", "Geometry", "Ren%C3%A9_Descartes"], ["Glacier", "Netherlands", "Ren%C3%A9_Descartes"]]

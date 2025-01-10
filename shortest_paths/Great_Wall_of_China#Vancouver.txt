@@ -1,1 +1,0 @@
-[["Great_Wall_of_China", "China", "Vancouver"], ["Great_Wall_of_China", "Chinese_language", "Vancouver"]]

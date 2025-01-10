@@ -1,1 +1,0 @@
-[["Blackjack", "Europe", "Netherlands"], ["Blackjack", "United_Kingdom", "Netherlands"]]

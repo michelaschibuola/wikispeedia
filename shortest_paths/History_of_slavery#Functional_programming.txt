@@ -1,1 +1,0 @@
-[["History_of_slavery", "17th_century", "Calculus", "Functional_programming"], ["History_of_slavery", "Europe", "Calculus", "Functional_programming"], ["History_of_slavery", "Hungary", "Programming_language", "Functional_programming"], ["History_of_slavery", "Islam", "Algorithm", "Functional_programming"]]

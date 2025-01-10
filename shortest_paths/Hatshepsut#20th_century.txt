@@ -1,1 +1,0 @@
-[["Hatshepsut", "Josephus", "20th_century"], ["Hatshepsut", "Mummy", "20th_century"], ["Hatshepsut", "New_York_City", "20th_century"], ["Hatshepsut", "Propaganda", "20th_century"]]

@@ -1,1 +1,0 @@
-[["Sri_Lanka", "English_language", "Ludwig_Wittgenstein"], ["Sri_Lanka", "Norway", "Ludwig_Wittgenstein"], ["Sri_Lanka", "World_War_II", "Ludwig_Wittgenstein"], ["Sri_Lanka", "Steel", "Ludwig_Wittgenstein"]]

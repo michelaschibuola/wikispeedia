@@ -1,1 +1,0 @@
-[["Richard_Nixon", "Chile", "Telescope", "Optical_telescope"], ["Richard_Nixon", "California", "Light", "Optical_telescope"], ["Richard_Nixon", "Latin", "Light", "Optical_telescope"], ["Richard_Nixon", "World_War_II", "Binoculars", "Optical_telescope"]]

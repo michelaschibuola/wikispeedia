@@ -1,1 +1,0 @@
-[["Peru", "17th_century", "Calculus"], ["Peru", "Europe", "Calculus"]]

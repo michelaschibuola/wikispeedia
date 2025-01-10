@@ -1,1 +1,0 @@
-[["Black_pepper", "French_language", "George_II_of_Great_Britain"], ["Black_pepper", "India", "George_II_of_Great_Britain"]]

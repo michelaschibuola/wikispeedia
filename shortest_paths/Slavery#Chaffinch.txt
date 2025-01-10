@@ -1,1 +1,0 @@
-[["Slavery", "Africa", "Chaffinch"], ["Slavery", "Asia", "Chaffinch"], ["Slavery", "English_language", "Chaffinch"], ["Slavery", "Europe", "Chaffinch"], ["Slavery", "North_America", "Chaffinch"]]

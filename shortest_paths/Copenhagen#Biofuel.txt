@@ -1,1 +1,0 @@
-[["Copenhagen", "Sweden", "Biofuel"], ["Copenhagen", "United_States", "Biofuel"], ["Copenhagen", "European_Union", "Biofuel"]]

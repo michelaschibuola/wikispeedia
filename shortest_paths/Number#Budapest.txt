@@ -1,1 +1,0 @@
-[["Number", "Austria", "Budapest"], ["Number", "16th_century", "Budapest"], ["Number", "18th_century", "Budapest"], ["Number", "Europe", "Budapest"]]

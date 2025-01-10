@@ -1,1 +1,0 @@
-[["Zinc", "Argentina", "Hebrew_language"], ["Zinc", "Kochi_%28India%29", "Hebrew_language"], ["Zinc", "Canada", "Hebrew_language"], ["Zinc", "Europe", "Hebrew_language"], ["Zinc", "France", "Hebrew_language"], ["Zinc", "German_language", "Hebrew_language"]]

@@ -1,1 +1,0 @@
-[["Jurassic", "Germany", "Alfred_Hitchcock"], ["Jurassic", "United_States", "Alfred_Hitchcock"]]

@@ -1,1 +1,0 @@
-[["Special_relativity", "Electron", "Vanadium"], ["Special_relativity", "Hydrogen", "Vanadium"], ["Special_relativity", "Star", "Vanadium"]]

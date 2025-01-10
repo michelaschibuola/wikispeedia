@@ -1,1 +1,0 @@
-[["Meat", "Domestic_goat", "Shoe_polish"], ["Meat", "Japan", "Shoe_polish"], ["Meat", "United_States", "Shoe_polish"], ["Meat", "South_Africa", "Shoe_polish"]]

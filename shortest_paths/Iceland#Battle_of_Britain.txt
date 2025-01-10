@@ -1,1 +1,0 @@
-[["Iceland", "British_Isles", "Battle_of_Britain"], ["Iceland", "Norway", "Battle_of_Britain"], ["Iceland", "Poland", "Battle_of_Britain"], ["Iceland", "Scotland", "Battle_of_Britain"]]

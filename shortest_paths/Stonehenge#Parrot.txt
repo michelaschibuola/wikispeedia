@@ -1,1 +1,0 @@
-[["Stonehenge", "England", "Parrot"], ["Stonehenge", "New_Zealand", "Parrot"], ["Stonehenge", "United_States", "Parrot"]]

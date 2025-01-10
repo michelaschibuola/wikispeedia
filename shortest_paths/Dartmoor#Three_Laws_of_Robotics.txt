@@ -1,1 +1,0 @@
-[["Dartmoor", "Edward_III_of_England", "French_language", "Three_Laws_of_Robotics"], ["Dartmoor", "England", "French_language", "Three_Laws_of_Robotics"], ["Dartmoor", "Geology", "French_language", "Three_Laws_of_Robotics"], ["Dartmoor", "England", "Frankenstein", "Three_Laws_of_Robotics"], ["Dartmoor", "England", "Star_Wars", "Three_Laws_of_Robotics"]]

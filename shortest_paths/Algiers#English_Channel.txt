@@ -1,1 +1,0 @@
-[["Algiers", "Ancient_Rome", "English_Channel"], ["Algiers", "England", "English_Channel"], ["Algiers", "France", "English_Channel"], ["Algiers", "French_language", "English_Channel"], ["Algiers", "London", "English_Channel"], ["Algiers", "Paris", "English_Channel"], ["Algiers", "United_Kingdom", "English_Channel"]]

@@ -1,1 +1,0 @@
-[["House_Sparrow", "Animal", "African_Darter"], ["House_Sparrow", "Binomial_nomenclature", "African_Darter"], ["House_Sparrow", "Chordate", "African_Darter"], ["House_Sparrow", "Scientific_classification", "African_Darter"]]

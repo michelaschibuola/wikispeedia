@@ -1,1 +1,0 @@
-[["Bonobo", "Chimpanzee", "War"], ["Bonobo", "United_States", "War"], ["Bonobo", "History_of_Earth", "War"], ["Bonobo", "Mountain_Gorilla", "War"]]

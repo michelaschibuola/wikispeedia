@@ -1,1 +1,0 @@
-[["Rwanda", "English_language", "Boston%2C_Massachusetts"], ["Rwanda", "Haiti", "Boston%2C_Massachusetts"], ["Rwanda", "Tea", "Boston%2C_Massachusetts"], ["Rwanda", "Time_zone", "Boston%2C_Massachusetts"]]

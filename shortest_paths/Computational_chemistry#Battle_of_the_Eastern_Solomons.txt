@@ -1,1 +1,0 @@
-[["Computational_chemistry", "Chemistry", "World_War_II", "Battle_of_the_Eastern_Solomons"], ["Computational_chemistry", "Electric_charge", "Radio", "Battle_of_the_Eastern_Solomons"], ["Computational_chemistry", "Energy", "Communication", "Battle_of_the_Eastern_Solomons"], ["Computational_chemistry", "Science", "United_States", "Battle_of_the_Eastern_Solomons"]]

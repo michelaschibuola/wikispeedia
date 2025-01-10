@@ -1,1 +1,0 @@
-[["Iceland_hotspot", "Water", "Mars_Exploration_Rover", "Microsoft_Windows"]]

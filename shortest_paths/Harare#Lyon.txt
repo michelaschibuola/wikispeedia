@@ -1,1 +1,0 @@
-[["Harare", "Global_city", "Lyon"], ["Harare", "Capital", "Lyon"], ["Harare", "Italy", "Lyon"]]

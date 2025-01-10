@@ -1,1 +1,0 @@
-[["Bacteria", "Hydrogen", "Optical_fiber"], ["Bacteria", "Oxygen", "Optical_fiber"], ["Bacteria", "Germanium", "Optical_fiber"], ["Bacteria", "Ultraviolet", "Optical_fiber"]]

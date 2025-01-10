@@ -1,1 +1,0 @@
-[["Iodine", "Earth%27s_atmosphere", "Plasma_%28physics%29"], ["Iodine", "Helium", "Plasma_%28physics%29"], ["Iodine", "Electron", "Plasma_%28physics%29"], ["Iodine", "Phase_%28matter%29", "Plasma_%28physics%29"], ["Iodine", "Solar_System", "Plasma_%28physics%29"], ["Iodine", "Ozone", "Plasma_%28physics%29"]]

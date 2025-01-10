@@ -1,1 +1,0 @@
-[["Agriculture", "Ethanol", "CS_gas"], ["Agriculture", "Nitrogen", "CS_gas"], ["Agriculture", "Iran", "CS_gas"], ["Agriculture", "Italy", "CS_gas"], ["Agriculture", "South_Africa", "CS_gas"], ["Agriculture", "United_States", "CS_gas"], ["Agriculture", "Water", "CS_gas"]]

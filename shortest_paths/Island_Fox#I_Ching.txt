@@ -1,1 +1,0 @@
-[["Island_Fox", "Genetics", "Archaeology", "I_Ching"], ["Island_Fox", "United_States", "Archaeology", "I_Ching"], ["Island_Fox", "Genetics", "Ethics", "I_Ching"], ["Island_Fox", "United_States", "Philosophy", "I_Ching"], ["Island_Fox", "United_States", "Virgil", "I_Ching"]]

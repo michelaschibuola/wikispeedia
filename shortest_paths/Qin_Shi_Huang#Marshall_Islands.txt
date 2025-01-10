@@ -1,1 +1,0 @@
-[["Qin_Shi_Huang", "Currency", "Marshall_Islands"], ["Qin_Shi_Huang", "Europe", "Marshall_Islands"], ["Qin_Shi_Huang", "Japan", "Marshall_Islands"], ["Qin_Shi_Huang", "World_War_II", "Marshall_Islands"]]

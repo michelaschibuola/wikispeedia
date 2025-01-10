@@ -1,1 +1,0 @@
-[["David_Livingstone", "Civilization", "Technology"], ["David_Livingstone", "Medicine", "Technology"], ["David_Livingstone", "Scotland", "Technology"], ["David_Livingstone", "Slavery", "Technology"]]

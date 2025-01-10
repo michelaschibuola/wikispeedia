@@ -1,1 +1,0 @@
-[["Monty_Python", "Middle_Ages", "Stock"], ["Monty_Python", "United_Kingdom", "Stock"], ["Monty_Python", "United_States", "Stock"]]

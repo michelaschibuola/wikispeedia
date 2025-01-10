@@ -1,1 +1,0 @@
-[["Water_polo", "Greece", "River_Thames"]]

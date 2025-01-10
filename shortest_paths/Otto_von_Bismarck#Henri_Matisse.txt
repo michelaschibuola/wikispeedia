@@ -1,1 +1,0 @@
-[["Otto_von_Bismarck", "Cancer", "Henri_Matisse"], ["Otto_von_Bismarck", "France", "Henri_Matisse"], ["Otto_von_Bismarck", "Paris", "Henri_Matisse"], ["Otto_von_Bismarck", "World_War_I", "Henri_Matisse"]]

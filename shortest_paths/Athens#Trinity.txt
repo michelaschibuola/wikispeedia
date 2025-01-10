@@ -1,1 +1,0 @@
-[["Athens", "Greece", "Trinity"], ["Athens", "Plato", "Trinity"], ["Athens", "Rome", "Trinity"], ["Athens", "Paul_of_Tarsus", "Trinity"]]

@@ -1,1 +1,0 @@
-[["Helmeted_Guineafowl", "Africa", "Muhammad_ibn_Musa_al-Khwarizmi"], ["Helmeted_Guineafowl", "Europe", "Muhammad_ibn_Musa_al-Khwarizmi"]]

@@ -1,1 +1,0 @@
-[["Mother_Teresa", "United_States", "Mickey_Mantle"], ["Mother_Teresa", "Washington%2C_D.C.", "Mickey_Mantle"]]

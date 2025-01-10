@@ -1,1 +1,0 @@
-[["Zebra", "Mammal", "Giant_Panda"], ["Zebra", "Animal", "Giant_Panda"], ["Zebra", "Scientific_classification", "Giant_Panda"]]

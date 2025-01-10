@@ -1,1 +1,0 @@
-[["Insulin", "Germany", "AK-47"], ["Insulin", "Romania", "AK-47"]]

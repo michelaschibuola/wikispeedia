@@ -1,1 +1,0 @@
-[["Fire", "United_States", "Gypsum"], ["Fire", "Volcano", "Gypsum"]]

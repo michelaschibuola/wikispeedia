@@ -1,1 +1,0 @@
-[["Benjamin_Franklin", "Boston%2C_Massachusetts", "Solar_System"], ["Benjamin_Franklin", "Extraterrestrial_life", "Solar_System"], ["Benjamin_Franklin", "Physics", "Solar_System"], ["Benjamin_Franklin", "Plate_tectonics", "Solar_System"]]

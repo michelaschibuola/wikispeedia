@@ -1,1 +1,0 @@
-[["Martinique", "England", "Manchester_United_F.C."], ["Martinique", "Europe", "Manchester_United_F.C."], ["Martinique", "World_War_II", "Manchester_United_F.C."], ["Martinique", "United_States", "Manchester_United_F.C."], ["Martinique", "Vodafone", "Manchester_United_F.C."]]

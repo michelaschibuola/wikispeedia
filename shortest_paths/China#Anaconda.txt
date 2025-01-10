@@ -1,1 +1,0 @@
-[["China", "Argentina", "Anaconda"], ["China", "Asia", "Anaconda"], ["China", "Chicken", "Anaconda"], ["China", "Frog", "Anaconda"], ["China", "Guyana", "Anaconda"], ["China", "Paraguay", "Anaconda"], ["China", "Peru", "Anaconda"]]

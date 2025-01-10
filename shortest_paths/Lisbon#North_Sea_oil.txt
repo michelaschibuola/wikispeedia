@@ -1,1 +1,0 @@
-[["Lisbon", "Europe", "North_Sea_oil"], ["Lisbon", "England", "North_Sea_oil"], ["Lisbon", "Germany", "North_Sea_oil"]]

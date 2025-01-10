@@ -1,1 +1,0 @@
-[["Florida", "England", "Joan_of_Arc"], ["Florida", "France", "Joan_of_Arc"], ["Florida", "Roman_Catholic_Church", "Joan_of_Arc"], ["Florida", "World_War_II", "Joan_of_Arc"]]

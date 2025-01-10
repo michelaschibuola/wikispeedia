@@ -1,1 +1,0 @@
-[["Tropical_cyclone", "Seychelles", "Rupee"], ["Tropical_cyclone", "India", "Rupee"], ["Tropical_cyclone", "Indonesia", "Rupee"], ["Tropical_cyclone", "Mauritius", "Rupee"], ["Tropical_cyclone", "Pakistan", "Rupee"], ["Tropical_cyclone", "Sri_Lanka", "Rupee"]]

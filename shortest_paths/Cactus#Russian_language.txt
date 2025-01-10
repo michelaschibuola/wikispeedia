@@ -1,1 +1,0 @@
-[["Cactus", "Canada", "Russian_language"], ["Cactus", "Israel", "Russian_language"], ["Cactus", "Jew", "Russian_language"], ["Cactus", "Mexico", "Russian_language"], ["Cactus", "North_America", "Russian_language"], ["Cactus", "United_States", "Russian_language"]]

@@ -1,1 +1,0 @@
-[["Tobacco_smoking", "Bertrand_Russell", "Newspaper"], ["Tobacco_smoking", "Honduras", "Newspaper"], ["Tobacco_smoking", "Italy", "Newspaper"], ["Tobacco_smoking", "United_Kingdom", "Newspaper"], ["Tobacco_smoking", "United_States", "Newspaper"], ["Tobacco_smoking", "Wall_Street", "Newspaper"]]

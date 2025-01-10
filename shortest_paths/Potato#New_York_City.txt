@@ -1,1 +1,0 @@
-[["Potato", "Portuguese_language", "New_York_City"], ["Potato", "Europe", "New_York_City"], ["Potato", "Italy", "New_York_City"], ["Potato", "United_States", "New_York_City"]]

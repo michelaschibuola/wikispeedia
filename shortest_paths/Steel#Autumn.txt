@@ -1,1 +1,0 @@
-[["Steel", "Japan", "Autumn"], ["Steel", "16th_century", "Autumn"], ["Steel", "North_America", "Autumn"], ["Steel", "Sumer", "Autumn"], ["Steel", "United_States", "Autumn"]]

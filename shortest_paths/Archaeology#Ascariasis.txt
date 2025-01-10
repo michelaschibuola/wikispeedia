@@ -1,1 +1,0 @@
-[["Archaeology", "United_States", "Ascariasis"], ["Archaeology", "Human", "Ascariasis"]]

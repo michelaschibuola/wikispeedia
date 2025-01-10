@@ -1,1 +1,0 @@
-[["Star_Trek__The_Original_Series", "Cold_War", "Iran"], ["Star_Trek__The_Original_Series", "United_States", "Iran"], ["Star_Trek__The_Original_Series", "World_War_II", "Iran"]]

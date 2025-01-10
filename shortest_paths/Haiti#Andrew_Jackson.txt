@@ -1,1 +1,0 @@
-[["Haiti", "American_Revolutionary_War", "Andrew_Jackson"], ["Haiti", "Anthropology", "Andrew_Jackson"], ["Haiti", "Bill_Clinton", "Andrew_Jackson"], ["Haiti", "Florida", "Andrew_Jackson"], ["Haiti", "Napoleon_I_of_France", "Andrew_Jackson"], ["Haiti", "Spain", "Andrew_Jackson"], ["Haiti", "Southern_United_States", "Andrew_Jackson"]]

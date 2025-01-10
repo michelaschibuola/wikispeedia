@@ -1,1 +1,0 @@
-[["Akrotiri_and_Dhekelia", "British_Empire", "Vancouver"], ["Akrotiri_and_Dhekelia", "Time_zone", "Vancouver"], ["Akrotiri_and_Dhekelia", "United_Kingdom", "Vancouver"]]

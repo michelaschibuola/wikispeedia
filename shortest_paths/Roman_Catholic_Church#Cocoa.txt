@@ -1,1 +1,0 @@
-[["Roman_Catholic_Church", "Belgium", "Cocoa"], ["Roman_Catholic_Church", "Ecuador", "Cocoa"], ["Roman_Catholic_Church", "Philippines", "Cocoa"], ["Roman_Catholic_Church", "Africa", "Cocoa"], ["Roman_Catholic_Church", "South_America", "Cocoa"]]

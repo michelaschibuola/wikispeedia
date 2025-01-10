@@ -1,1 +1,0 @@
-[["Ethnic_group", "DNA", "Tiger"], ["Ethnic_group", "Iran", "Tiger"], ["Ethnic_group", "Human", "Tiger"]]

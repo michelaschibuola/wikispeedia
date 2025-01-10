@@ -1,1 +1,0 @@
-[["Sucre", "South_America", "Mammal", "African_Wild_Dog"], ["Sucre", "South_America", "Africa", "African_Wild_Dog"], ["Sucre", "Capital", "Africa", "African_Wild_Dog"], ["Sucre", "Philip_II_of_Spain", "Africa", "African_Wild_Dog"], ["Sucre", "Spain", "Africa", "African_Wild_Dog"], ["Sucre", "Peru", "Dog", "African_Wild_Dog"]]

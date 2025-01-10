@@ -1,1 +1,0 @@
-[["Alternating_current", "Germany", "Economy_of_India"], ["Alternating_current", "Indian_Railways", "Economy_of_India"], ["Alternating_current", "Rail_transport_in_India", "Economy_of_India"]]

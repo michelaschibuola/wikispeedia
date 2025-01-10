@@ -1,1 +1,0 @@
-[["Hurricane_Katrina", "Bangladesh", "Bhutan"], ["Hurricane_Katrina", "India", "Bhutan"], ["Hurricane_Katrina", "Kuwait", "Bhutan"], ["Hurricane_Katrina", "People%27s_Republic_of_China", "Bhutan"]]

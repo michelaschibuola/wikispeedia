@@ -1,1 +1,0 @@
-[["Stephen_Hawking", "French_language", "Central_African_Republic"], ["Stephen_Hawking", "Germany", "Central_African_Republic"], ["Stephen_Hawking", "United_Kingdom", "Central_African_Republic"]]

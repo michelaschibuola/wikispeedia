@@ -1,1 +1,0 @@
-[["Ludwig_van_Beethoven", "Germany", "Adolf_Hitler"], ["Ludwig_van_Beethoven", "Austria", "Adolf_Hitler"], ["Ludwig_van_Beethoven", "Democracy", "Adolf_Hitler"], ["Ludwig_van_Beethoven", "Opera", "Adolf_Hitler"], ["Ludwig_van_Beethoven", "Vienna", "Adolf_Hitler"]]

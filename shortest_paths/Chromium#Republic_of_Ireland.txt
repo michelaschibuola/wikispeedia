@@ -1,1 +1,0 @@
-[["Chromium", "Aluminium", "Republic_of_Ireland"], ["Chromium", "Lead", "Republic_of_Ireland"], ["Chromium", "Turkey", "Republic_of_Ireland"], ["Chromium", "United_States_dollar", "Republic_of_Ireland"], ["Chromium", "Glass", "Republic_of_Ireland"], ["Chromium", "Steel", "Republic_of_Ireland"]]

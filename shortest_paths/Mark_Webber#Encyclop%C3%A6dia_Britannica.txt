@@ -1,1 +1,0 @@
-[["Mark_Webber", "England", "Encyclop%C3%A6dia_Britannica"], ["Mark_Webber", "United_Kingdom", "Encyclop%C3%A6dia_Britannica"], ["Mark_Webber", "United_States", "Encyclop%C3%A6dia_Britannica"], ["Mark_Webber", "United_States_dollar", "Encyclop%C3%A6dia_Britannica"]]

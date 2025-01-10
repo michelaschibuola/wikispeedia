@@ -1,1 +1,0 @@
-[["Edgar_Allan_Poe", "19th_century", "Jesus"], ["Edgar_Allan_Poe", "Ancient_history", "Jesus"], ["Edgar_Allan_Poe", "Art", "Jesus"], ["Edgar_Allan_Poe", "Romanticism", "Jesus"], ["Edgar_Allan_Poe", "The_Brothers_Karamazov", "Jesus"], ["Edgar_Allan_Poe", "Sgt._Pepper%27s_Lonely_Hearts_Club_Band", "Jesus"], ["Edgar_Allan_Poe", "Thomas_Jefferson", "Jesus"]]

@@ -1,1 +1,0 @@
-[["Qatar", "Douglas_Adams", "Bob_Dylan"], ["Qatar", "BBC", "Bob_Dylan"], ["Qatar", "United_States", "Bob_Dylan"]]

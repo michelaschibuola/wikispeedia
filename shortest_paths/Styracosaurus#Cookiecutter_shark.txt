@@ -1,1 +1,0 @@
-[["Styracosaurus", "Animal", "Cookiecutter_shark"], ["Styracosaurus", "Scientific_classification", "Cookiecutter_shark"]]

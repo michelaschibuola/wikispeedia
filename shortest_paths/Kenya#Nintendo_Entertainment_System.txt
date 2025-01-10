@@ -1,1 +1,0 @@
-[["Kenya", "Australia", "Nintendo_Entertainment_System"], ["Kenya", "Brazil", "Nintendo_Entertainment_System"], ["Kenya", "Europe", "Nintendo_Entertainment_System"], ["Kenya", "Japan", "Nintendo_Entertainment_System"], ["Kenya", "United_States", "Nintendo_Entertainment_System"]]

@@ -1,1 +1,0 @@
-[["Andy_Warhol", "New_York_City", "Kurt_Cobain"], ["Andy_Warhol", "United_States", "Kurt_Cobain"]]

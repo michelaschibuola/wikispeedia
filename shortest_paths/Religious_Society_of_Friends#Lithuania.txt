@@ -1,1 +1,0 @@
-[["Religious_Society_of_Friends", "Ireland", "Lithuania"], ["Religious_Society_of_Friends", "United_States", "Lithuania"]]

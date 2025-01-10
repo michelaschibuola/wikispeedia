@@ -1,1 +1,0 @@
-[["Shanghai", "Istanbul", "Liverpool_F.C."], ["Shanghai", "Liverpool", "Liverpool_F.C."], ["Shanghai", "England", "Liverpool_F.C."], ["Shanghai", "Europe", "Liverpool_F.C."], ["Shanghai", "World_War_II", "Liverpool_F.C."]]

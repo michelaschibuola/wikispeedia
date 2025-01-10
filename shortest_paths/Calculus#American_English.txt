@@ -1,1 +1,0 @@
-[["Calculus", "Mathematics", "American_English"], ["Calculus", "Medicine", "American_English"], ["Calculus", "Trigonometric_function", "American_English"]]

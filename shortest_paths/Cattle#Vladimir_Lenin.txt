@@ -1,1 +1,0 @@
-[["Cattle", "Azerbaijan", "Vladimir_Lenin"], ["Cattle", "Brain", "Vladimir_Lenin"], ["Cattle", "Europe", "Vladimir_Lenin"], ["Cattle", "Sweden", "Vladimir_Lenin"], ["Cattle", "English_language", "Vladimir_Lenin"]]

@@ -1,1 +1,0 @@
-[["Lilongwe", "Africa", "Language", "Cerebellum"], ["Lilongwe", "South_Africa", "Language", "Cerebellum"], ["Lilongwe", "Africa", "Latin", "Cerebellum"], ["Lilongwe", "Capital", "Latin", "Cerebellum"], ["Lilongwe", "South_Africa", "Music", "Cerebellum"], ["Lilongwe", "Taipei", "Tree", "Cerebellum"]]

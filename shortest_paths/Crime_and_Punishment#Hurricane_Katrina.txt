@@ -1,1 +1,0 @@
-[["Crime_and_Punishment", "France", "Hurricane_Katrina"], ["Crime_and_Punishment", "Russia", "Hurricane_Katrina"]]

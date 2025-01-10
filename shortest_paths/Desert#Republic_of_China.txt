@@ -1,1 +1,0 @@
-[["Desert", "Australia", "Republic_of_China"], ["Desert", "Chad", "Republic_of_China"], ["Desert", "China", "Republic_of_China"], ["Desert", "Asia", "Republic_of_China"], ["Desert", "United_States", "Republic_of_China"], ["Desert", "People%27s_Republic_of_China", "Republic_of_China"], ["Desert", "Saudi_Arabia", "Republic_of_China"]]

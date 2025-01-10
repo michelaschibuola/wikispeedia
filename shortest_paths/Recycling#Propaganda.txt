@@ -1,1 +1,0 @@
-[["Recycling", "Gold", "Propaganda"], ["Recycling", "Television", "Propaganda"], ["Recycling", "World_War_II", "Propaganda"], ["Recycling", "San_Jose%2C_California", "Propaganda"]]

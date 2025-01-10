@@ -1,1 +1,0 @@
-[["Milky_Way", "Astronomy", "Aristotle"], ["Milky_Way", "Comet", "Aristotle"], ["Milky_Way", "Galileo_Galilei", "Aristotle"], ["Milky_Way", "Gottfried_Leibniz", "Aristotle"], ["Milky_Way", "Johannes_Kepler", "Aristotle"], ["Milky_Way", "Human", "Aristotle"], ["Milky_Way", "Light", "Aristotle"], ["Milky_Way", "Rome", "Aristotle"]]

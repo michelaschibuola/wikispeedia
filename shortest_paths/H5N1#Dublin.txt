@@ -1,1 +1,0 @@
-[["H5N1", "Europe", "Dublin"], ["H5N1", "Hong_Kong", "Dublin"], ["H5N1", "Japan", "Dublin"], ["H5N1", "People%27s_Republic_of_China", "Dublin"], ["H5N1", "United_States", "Dublin"]]

@@ -1,1 +1,0 @@
-[["Boston%2C_Massachusetts", "Capital", "Lima"], ["Boston%2C_Massachusetts", "Global_city", "Lima"], ["Boston%2C_Massachusetts", "Time_zone", "Lima"]]

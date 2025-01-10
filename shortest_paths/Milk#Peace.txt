@@ -1,1 +1,0 @@
-[["Milk", "Canada", "Peace"], ["Milk", "Japan", "Peace"], ["Milk", "New_Zealand", "Peace"], ["Milk", "Sweden", "Peace"], ["Milk", "United_States", "Peace"]]

@@ -1,1 +1,0 @@
-[["Elvis_Presley", "Football_%28soccer%29", "Belfast"], ["Elvis_Presley", "George_W._Bush", "Belfast"], ["Elvis_Presley", "People%27s_Republic_of_China", "Belfast"], ["Elvis_Presley", "United_Kingdom", "Belfast"], ["Elvis_Presley", "United_States", "Belfast"], ["Elvis_Presley", "World_War_II", "Belfast"]]

@@ -1,1 +1,0 @@
-[["Actor", "Latin", "Renaissance"], ["Actor", "Middle_Ages", "Renaissance"], ["Actor", "Opera", "Renaissance"], ["Actor", "William_Shakespeare", "Renaissance"], ["Actor", "Humanities", "Renaissance"]]

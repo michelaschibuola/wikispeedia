@@ -1,1 +1,0 @@
-[["Battle_of_Britain", "Australia", "Extinction"], ["Battle_of_Britain", "New_Zealand", "Extinction"]]

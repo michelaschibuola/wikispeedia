@@ -1,1 +1,0 @@
-[["Hepatocellular_carcinoma", "Protein", "Planetary_habitability"]]

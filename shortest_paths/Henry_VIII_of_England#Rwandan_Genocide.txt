@@ -1,1 +1,0 @@
-[["Henry_VIII_of_England", "France", "Rwandan_Genocide"], ["Henry_VIII_of_England", "Roman_Catholic_Church", "Rwandan_Genocide"], ["Henry_VIII_of_England", "United_States", "Rwandan_Genocide"], ["Henry_VIII_of_England", "United_Kingdom", "Rwandan_Genocide"]]

@@ -1,1 +1,0 @@
-[["Curium", "Helium", "Gas_giant"], ["Curium", "Oxygen", "Gas_giant"]]

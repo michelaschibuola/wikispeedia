@@ -1,1 +1,0 @@
-[["Hydrology", "Geography", "Lebanon"], ["Hydrology", "Agriculture", "Lebanon"], ["Hydrology", "Computer", "Lebanon"], ["Hydrology", "Industry", "Lebanon"], ["Hydrology", "Mediterranean_Sea", "Lebanon"], ["Hydrology", "Water", "Lebanon"]]

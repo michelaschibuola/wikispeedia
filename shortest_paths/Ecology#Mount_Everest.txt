@@ -1,1 +1,0 @@
-[["Ecology", "Biosphere", "Mount_Everest"], ["Ecology", "Earth%27s_atmosphere", "Mount_Everest"], ["Ecology", "Global_warming", "Mount_Everest"], ["Ecology", "Oxygen", "Mount_Everest"], ["Ecology", "Edmund_Hillary", "Mount_Everest"]]

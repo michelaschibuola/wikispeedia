@@ -1,1 +1,0 @@
-[["David_Copperfield_%28novel%29", "English_language", "Goa", "Humus"], ["David_Copperfield_%28novel%29", "United_Kingdom", "Dune", "Humus"], ["David_Copperfield_%28novel%29", "United_Kingdom", "Rain", "Humus"]]

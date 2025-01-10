@@ -1,1 +1,0 @@
-[["Garden", "Art", "Cubism"], ["Garden", "Sculpture", "Cubism"], ["Garden", "History_of_painting", "Cubism"]]

@@ -1,1 +1,0 @@
-[["Bat", "United_Kingdom", "Ice_hockey"]]

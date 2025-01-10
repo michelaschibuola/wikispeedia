@@ -1,1 +1,0 @@
-[["Vampire", "Silver", "Copper"], ["Vampire", "Ancient_Egypt", "Copper"], ["Vampire", "Ancient_Rome", "Copper"], ["Vampire", "China", "Copper"], ["Vampire", "Mexico", "Copper"], ["Vampire", "South_America", "Copper"], ["Vampire", "Sumer", "Copper"]]

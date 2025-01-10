@@ -1,1 +1,0 @@
-[["Train", "Tornado", "Energy"], ["Train", "Coal", "Energy"], ["Train", "Electricity", "Energy"], ["Train", "Food", "Energy"], ["Train", "Switzerland", "Energy"], ["Train", "Transport", "Energy"]]

@@ -1,1 +1,0 @@
-[["Cornell_University", "Canada", "Snowy_Owl"], ["Cornell_University", "United_Kingdom", "Snowy_Owl"]]

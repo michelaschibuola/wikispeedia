@@ -1,1 +1,0 @@
-[["Cuba", "20th_century", "Stonehenge"], ["Cuba", "United_States", "Stonehenge"], ["Cuba", "Madagascar", "Stonehenge"]]

@@ -1,1 +1,0 @@
-[["Arthropod", "Animal", "Indian_Peafowl"], ["Arthropod", "Scientific_classification", "Indian_Peafowl"]]

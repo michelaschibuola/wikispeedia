@@ -1,1 +1,0 @@
-[["Juice", "New_Zealand", "Human_rights"], ["Juice", "Norway", "Human_rights"]]

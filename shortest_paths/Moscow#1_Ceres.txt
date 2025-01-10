@@ -1,1 +1,0 @@
-[["Moscow", "Germany", "1_Ceres"], ["Moscow", "Paris", "1_Ceres"], ["Moscow", "Palladium", "1_Ceres"]]

@@ -1,1 +1,0 @@
-[["Thorax", "Crustacean", "Europe", "Chelsea_F.C."], ["Thorax", "Human", "Europe", "Chelsea_F.C."], ["Thorax", "Animal", "Lion", "Chelsea_F.C."], ["Thorax", "Human", "Law", "Chelsea_F.C."]]

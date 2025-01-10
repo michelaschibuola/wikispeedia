@@ -1,1 +1,0 @@
-[["Scotland", "Germany", "Pablo_Picasso"], ["Scotland", "Modernist_poetry_in_English", "Pablo_Picasso"], ["Scotland", "Paul_McCartney", "Pablo_Picasso"], ["Scotland", "Princeton_University", "Pablo_Picasso"], ["Scotland", "Moscow", "Pablo_Picasso"], ["Scotland", "Poland", "Pablo_Picasso"], ["Scotland", "World_War_II", "Pablo_Picasso"]]

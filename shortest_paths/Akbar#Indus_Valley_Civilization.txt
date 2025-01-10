@@ -1,1 +1,0 @@
-[["Akbar", "Afghanistan", "Indus_Valley_Civilization"], ["Akbar", "Malwa_%28Madhya_Pradesh%29", "Indus_Valley_Civilization"], ["Akbar", "Hinduism", "Indus_Valley_Civilization"]]

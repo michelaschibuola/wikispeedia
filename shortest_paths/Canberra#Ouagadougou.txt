@@ -1,1 +1,0 @@
-[["Canberra", "Football_%28soccer%29", "Ouagadougou"], ["Canberra", "France", "Ouagadougou"], ["Canberra", "Italy", "Ouagadougou"], ["Canberra", "Capital", "Ouagadougou"]]

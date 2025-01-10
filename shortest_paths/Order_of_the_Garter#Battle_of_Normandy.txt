@@ -1,1 +1,0 @@
-[["Order_of_the_Garter", "England", "Battle_of_Normandy"], ["Order_of_the_Garter", "Russia", "Battle_of_Normandy"], ["Order_of_the_Garter", "World_War_I", "Battle_of_Normandy"], ["Order_of_the_Garter", "World_War_II", "Battle_of_Normandy"], ["Order_of_the_Garter", "Winston_Churchill", "Battle_of_Normandy"]]

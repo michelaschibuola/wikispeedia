@@ -1,1 +1,0 @@
-[["Sony", "Italy", "Northern_Pacific_Railway"], ["Sony", "San_Francisco%2C_California", "Northern_Pacific_Railway"], ["Sony", "United_States_dollar", "Northern_Pacific_Railway"]]

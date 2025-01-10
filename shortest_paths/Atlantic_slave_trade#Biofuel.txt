@@ -1,1 +1,0 @@
-[["Atlantic_slave_trade", "Brazil", "Biofuel"], ["Atlantic_slave_trade", "Germany", "Biofuel"], ["Atlantic_slave_trade", "Sweden", "Biofuel"], ["Atlantic_slave_trade", "United_States", "Biofuel"], ["Atlantic_slave_trade", "Palm_oil", "Biofuel"]]

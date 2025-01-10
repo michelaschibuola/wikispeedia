@@ -1,1 +1,0 @@
-[["Saffron", "Greece", "Antimony"], ["Saffron", "Latin", "Antimony"], ["Saffron", "Medicine", "Antimony"], ["Saffron", "Mineral", "Antimony"]]

@@ -1,1 +1,0 @@
-[["Oligarchy", "Capitalism", "Globalization"], ["Oligarchy", "Civilization", "Globalization"], ["Oligarchy", "Democracy", "Globalization"], ["Oligarchy", "Economics", "Globalization"]]

@@ -1,1 +1,0 @@
-[["Mao_Zedong", "Capitalism", "Shining_Path"], ["Mao_Zedong", "Communism", "Shining_Path"], ["Mao_Zedong", "China", "Shining_Path"], ["Mao_Zedong", "Marxism", "Shining_Path"], ["Mao_Zedong", "Socialism", "Shining_Path"]]

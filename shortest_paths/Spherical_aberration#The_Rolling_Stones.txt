@@ -1,1 +1,0 @@
-[["Spherical_aberration", "Hubble_Space_Telescope", "Munich", "The_Rolling_Stones"], ["Spherical_aberration", "Hubble_Space_Telescope", "United_Kingdom", "The_Rolling_Stones"], ["Spherical_aberration", "Hubble_Space_Telescope", "United_States", "The_Rolling_Stones"], ["Spherical_aberration", "Telescope", "France", "The_Rolling_Stones"]]

@@ -1,1 +1,0 @@
-[["21st_century", "18th_century", "Common_cold"], ["21st_century", "19th_century", "Common_cold"], ["21st_century", "Germany", "Common_cold"], ["21st_century", "United_Kingdom", "Common_cold"], ["21st_century", "United_States", "Common_cold"]]

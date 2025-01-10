@@ -1,1 +1,0 @@
-[["Athanasius_Kircher", "France", "Erwin_Rommel"], ["Athanasius_Kircher", "Germany", "Erwin_Rommel"]]

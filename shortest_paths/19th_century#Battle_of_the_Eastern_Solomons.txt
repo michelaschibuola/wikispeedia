@@ -1,1 +1,0 @@
-[["19th_century", "Australia", "Battle_of_the_Eastern_Solomons"], ["19th_century", "United_States", "Battle_of_the_Eastern_Solomons"], ["19th_century", "Pacific_Ocean", "Battle_of_the_Eastern_Solomons"], ["19th_century", "Ship", "Battle_of_the_Eastern_Solomons"]]

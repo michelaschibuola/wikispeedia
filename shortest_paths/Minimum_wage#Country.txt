@@ -1,1 +1,0 @@
-[["Minimum_wage", "Law", "Country"], ["Minimum_wage", "Australia", "Country"], ["Minimum_wage", "Austria", "Country"], ["Minimum_wage", "Germany", "Country"], ["Minimum_wage", "Latin_America", "Country"], ["Minimum_wage", "United_Kingdom", "Country"], ["Minimum_wage", "United_States", "Country"]]

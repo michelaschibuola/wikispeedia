@@ -1,1 +1,0 @@
-[["Amarillo%2C_Texas", "Automobile", "Thailand"], ["Amarillo%2C_Texas", "English_language", "Thailand"], ["Amarillo%2C_Texas", "Las_Vegas%2C_Nevada", "Thailand"], ["Amarillo%2C_Texas", "Natural_gas", "Thailand"], ["Amarillo%2C_Texas", "Time_zone", "Thailand"], ["Amarillo%2C_Texas", "United_States", "Thailand"], ["Amarillo%2C_Texas", "World_War_II", "Thailand"]]

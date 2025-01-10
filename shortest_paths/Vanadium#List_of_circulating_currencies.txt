@@ -1,1 +1,0 @@
-[["Vanadium", "Human", "List_of_circulating_currencies"], ["Vanadium", "Spain", "List_of_circulating_currencies"], ["Vanadium", "Sweden", "List_of_circulating_currencies"]]

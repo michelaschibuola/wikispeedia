@@ -1,1 +1,0 @@
-[["Karl_Marx", "19th_century", "Louis_Pasteur"], ["Karl_Marx", "History_of_science", "Louis_Pasteur"], ["Karl_Marx", "Europe", "Louis_Pasteur"]]

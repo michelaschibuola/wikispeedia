@@ -1,1 +1,0 @@
-[["Sikkim", "Autumn", "Weather"], ["Sikkim", "Snow", "Weather"], ["Sikkim", "Spring_%28season%29", "Weather"], ["Sikkim", "Summer", "Weather"], ["Sikkim", "Temperate", "Weather"], ["Sikkim", "Winter", "Weather"]]

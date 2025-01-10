@@ -1,1 +1,0 @@
-[["Homer", "History_of_science", "Mathematical_analysis"], ["Homer", "19th_century", "Mathematical_analysis"]]

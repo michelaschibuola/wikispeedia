@@ -1,1 +1,0 @@
-[["55_Cancri_b", "Cloud", "Arctic", "Troodon"], ["55_Cancri_b", "Gravitation", "Evolution", "Troodon"], ["55_Cancri_b", "Sun", "Reptile", "Troodon"]]

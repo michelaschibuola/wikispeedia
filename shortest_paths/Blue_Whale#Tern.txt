@@ -1,1 +1,0 @@
-[["Blue_Whale", "Animal", "Tern"], ["Blue_Whale", "Scientific_classification", "Tern"]]

@@ -1,1 +1,0 @@
-[["Thrush_%28bird%29", "Animal", "Vole"], ["Thrush_%28bird%29", "Chordate", "Vole"], ["Thrush_%28bird%29", "Scientific_classification", "Vole"]]

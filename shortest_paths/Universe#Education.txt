@@ -1,1 +1,0 @@
-[["Universe", "Human", "Education"], ["Universe", "Physics", "Education"], ["Universe", "Plato", "Education"], ["Universe", "Time", "Education"], ["Universe", "Albert_Einstein", "Education"], ["Universe", "German_language", "Education"], ["Universe", "History", "Education"]]

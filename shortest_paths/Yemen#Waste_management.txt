@@ -1,1 +1,0 @@
-[["Yemen", "France", "Waste_management"], ["Yemen", "Israel", "Waste_management"], ["Yemen", "Australia", "Waste_management"], ["Yemen", "Japan", "Waste_management"], ["Yemen", "United_States", "Waste_management"]]

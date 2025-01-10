@@ -1,1 +1,0 @@
-[["Redshift", "Netherlands", "United_States", "Ragtime"], ["Redshift", "Speed_of_light", "United_States", "Ragtime"], ["Redshift", "Sun", "United_States", "Ragtime"], ["Redshift", "Netherlands", "North_America", "Ragtime"], ["Redshift", "Netherlands", "The_Beatles", "Ragtime"], ["Redshift", "Radio", "The_Beatles", "Ragtime"], ["Redshift", "Radio", "Jazz", "Ragtime"]]

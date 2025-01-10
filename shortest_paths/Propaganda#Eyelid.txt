@@ -1,1 +1,0 @@
-[["Propaganda", "Human", "Cornea", "Eyelid"], ["Propaganda", "Human", "Eye", "Eyelid"], ["Propaganda", "Sigmund_Freud", "Eye", "Eyelid"], ["Propaganda", "Human", "Vertebrate", "Eyelid"], ["Propaganda", "Germany", "Contact_lens", "Eyelid"], ["Propaganda", "United_States", "Contact_lens", "Eyelid"]]

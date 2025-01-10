@@ -1,1 +1,0 @@
-[["Indonesia", "Asia", "Jerusalem"], ["Indonesia", "Chicken", "Jerusalem"], ["Indonesia", "Christianity", "Jerusalem"], ["Indonesia", "Europe", "Jerusalem"], ["Indonesia", "Islam", "Jerusalem"], ["Indonesia", "Mecca", "Jerusalem"], ["Indonesia", "Terrorism", "Jerusalem"], ["Indonesia", "Israel", "Jerusalem"]]

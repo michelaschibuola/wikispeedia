@@ -1,1 +1,0 @@
-[["Whale", "19th_century", "Police"], ["Whale", "Canada", "Police"], ["Whale", "Japan", "Police"], ["Whale", "Norway", "Police"], ["Whale", "United_States", "Police"]]

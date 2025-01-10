@@ -1,1 +1,0 @@
-[["Cadmium", "Germany", "J._R._R._Tolkien"], ["Cadmium", "Latin", "J._R._R._Tolkien"], ["Cadmium", "United_States", "J._R._R._Tolkien"], ["Cadmium", "World_War_I", "J._R._R._Tolkien"]]

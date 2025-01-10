@@ -1,1 +1,0 @@
-[["Dune", "2004_Indian_Ocean_earthquake", "Mexico"], ["Dune", "Brazil", "Mexico"], ["Dune", "California", "Mexico"], ["Dune", "England", "Mexico"], ["Dune", "River", "Mexico"], ["Dune", "Oenothera", "Mexico"]]

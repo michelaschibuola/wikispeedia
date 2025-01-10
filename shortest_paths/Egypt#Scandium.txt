@@ -1,1 +1,0 @@
-[["Egypt", "Latin", "Scandium"], ["Egypt", "United_States", "Scandium"], ["Egypt", "Madagascar", "Scandium"]]

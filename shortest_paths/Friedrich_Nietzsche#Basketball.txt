@@ -1,1 +1,0 @@
-[["Friedrich_Nietzsche", "France", "Basketball"], ["Friedrich_Nietzsche", "Germany", "Basketball"], ["Friedrich_Nietzsche", "Italy", "Basketball"], ["Friedrich_Nietzsche", "Switzerland", "Basketball"]]

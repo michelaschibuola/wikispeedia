@@ -1,1 +1,0 @@
-[["Mount_Pinatubo", "Chile", "Minneapolis%2C_Minnesota"], ["Mount_Pinatubo", "United_States", "Minneapolis%2C_Minnesota"], ["Mount_Pinatubo", "Vietnam", "Minneapolis%2C_Minnesota"]]

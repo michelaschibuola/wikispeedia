@@ -1,1 +1,0 @@
-[["10th_century", "Sweden", "Tiger_Woods"], ["10th_century", "Vietnam", "Tiger_Woods"]]

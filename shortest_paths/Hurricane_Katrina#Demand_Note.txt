@@ -1,1 +1,0 @@
-[["Hurricane_Katrina", "United_States", "Demand_Note"], ["Hurricane_Katrina", "United_States_Congress", "Demand_Note"], ["Hurricane_Katrina", "United_States_dollar", "Demand_Note"]]

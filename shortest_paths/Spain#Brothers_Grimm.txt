@@ -1,1 +1,0 @@
-[["Spain", "19th_century", "Brothers_Grimm"], ["Spain", "Berlin", "Brothers_Grimm"], ["Spain", "Constitutional_monarchy", "Brothers_Grimm"], ["Spain", "German_language", "Brothers_Grimm"], ["Spain", "Germany", "Brothers_Grimm"], ["Spain", "Nationalism", "Brothers_Grimm"], ["Spain", "Revolution", "Brothers_Grimm"]]

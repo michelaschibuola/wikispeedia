@@ -1,1 +1,0 @@
-[["Lebanon", "Germany", "Monopoly_%28game%29"], ["Lebanon", "Canada", "Monopoly_%28game%29"], ["Lebanon", "Economics", "Monopoly_%28game%29"], ["Lebanon", "Mathematics", "Monopoly_%28game%29"], ["Lebanon", "United_Kingdom", "Monopoly_%28game%29"], ["Lebanon", "United_States", "Monopoly_%28game%29"], ["Lebanon", "World_War_II", "Monopoly_%28game%29"]]

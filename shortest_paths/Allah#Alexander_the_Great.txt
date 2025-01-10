@@ -1,1 +1,0 @@
-[["Allah", "Arabic_language", "Alexander_the_Great"], ["Allah", "English_language", "Alexander_the_Great"], ["Allah", "Hebrew_language", "Alexander_the_Great"], ["Allah", "Qur%27an", "Alexander_the_Great"], ["Allah", "Gold_standard", "Alexander_the_Great"]]

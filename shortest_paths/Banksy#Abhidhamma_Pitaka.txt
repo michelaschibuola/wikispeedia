@@ -1,1 +1,0 @@
-[["Banksy", "Anarchism", "Buddhism", "Abhidhamma_Pitaka"], ["Banksy", "Mexico", "Buddhism", "Abhidhamma_Pitaka"], ["Banksy", "Bristol", "University_of_Bristol", "Abhidhamma_Pitaka"], ["Banksy", "England", "University_of_Bristol", "Abhidhamma_Pitaka"]]

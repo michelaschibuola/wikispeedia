@@ -1,1 +1,0 @@
-[["Eurasian_Eagle_Owl", "Bird", "Color", "Berkelium"], ["Eurasian_Eagle_Owl", "England", "Neutron", "Berkelium"], ["Eurasian_Eagle_Owl", "Europe", "Day", "Berkelium"]]

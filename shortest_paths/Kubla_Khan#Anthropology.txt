@@ -1,1 +1,0 @@
-[["Kubla_Khan", "Canada", "Anthropology"], ["Kubla_Khan", "China", "Anthropology"]]

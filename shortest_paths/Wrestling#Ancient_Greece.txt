@@ -1,1 +1,0 @@
-[["Wrestling", "Ancient_Rome", "Ancient_Greece"], ["Wrestling", "Azerbaijani_people", "Ancient_Greece"], ["Wrestling", "Bulgaria", "Ancient_Greece"], ["Wrestling", "Mesopotamia", "Ancient_Greece"], ["Wrestling", "Plato", "Ancient_Greece"], ["Wrestling", "Europe", "Ancient_Greece"], ["Wrestling", "Turkey", "Ancient_Greece"]]

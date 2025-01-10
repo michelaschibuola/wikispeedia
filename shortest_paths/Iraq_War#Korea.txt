@@ -1,1 +1,0 @@
-[["Iraq_War", "Australia", "Korea"], ["Iraq_War", "Canada", "Korea"], ["Iraq_War", "Japan", "Korea"], ["Iraq_War", "Mongolia", "Korea"], ["Iraq_War", "Philippines", "Korea"], ["Iraq_War", "South_Korea", "Korea"], ["Iraq_War", "United_States", "Korea"]]

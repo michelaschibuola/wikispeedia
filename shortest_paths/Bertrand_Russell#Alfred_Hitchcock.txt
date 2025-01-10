@@ -1,1 +1,0 @@
-[["Bertrand_Russell", "Germany", "Alfred_Hitchcock"], ["Bertrand_Russell", "United_States", "Alfred_Hitchcock"], ["Bertrand_Russell", "Nazism", "Alfred_Hitchcock"], ["Bertrand_Russell", "University_of_Chicago", "Alfred_Hitchcock"]]

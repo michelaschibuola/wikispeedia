@@ -1,1 +1,0 @@
-[["Pigment", "South_America", "Jamaica"], ["Pigment", "United_Kingdom", "Jamaica"]]

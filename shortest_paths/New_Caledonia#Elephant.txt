@@ -1,1 +1,0 @@
-[["New_Caledonia", "Sri_Lanka", "Elephant"], ["New_Caledonia", "United_Kingdom", "Elephant"]]

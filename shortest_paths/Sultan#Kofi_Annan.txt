@@ -1,1 +1,0 @@
-[["Sultan", "Darfur_conflict", "Kofi_Annan"], ["Sultan", "Islam", "Kofi_Annan"], ["Sultan", "Egypt", "Kofi_Annan"], ["Sultan", "Nigeria", "Kofi_Annan"], ["Sultan", "Sudan", "Kofi_Annan"]]

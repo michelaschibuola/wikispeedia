@@ -1,1 +1,0 @@
-[["British_Indian_Ocean_Territory", "Europe", "Guild"], ["British_Indian_Ocean_Territory", "France", "Guild"], ["British_Indian_Ocean_Territory", "United_States", "Guild"]]

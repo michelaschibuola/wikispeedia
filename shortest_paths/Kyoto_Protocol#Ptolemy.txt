@@ -1,1 +1,0 @@
-[["Kyoto_Protocol", "China", "Ptolemy"], ["Kyoto_Protocol", "Earth", "Ptolemy"], ["Kyoto_Protocol", "India", "Ptolemy"]]

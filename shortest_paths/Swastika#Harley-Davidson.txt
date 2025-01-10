@@ -1,1 +1,0 @@
-[["Swastika", "Asia", "Harley-Davidson"], ["Swastika", "England", "Harley-Davidson"], ["Swastika", "Japan", "Harley-Davidson"], ["Swastika", "United_States", "Harley-Davidson"], ["Swastika", "World_War_I", "Harley-Davidson"], ["Swastika", "World_War_II", "Harley-Davidson"]]

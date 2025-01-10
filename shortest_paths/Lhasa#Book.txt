@@ -1,1 +1,0 @@
-[["Lhasa", "20th_century", "Book"], ["Lhasa", "China", "Book"]]

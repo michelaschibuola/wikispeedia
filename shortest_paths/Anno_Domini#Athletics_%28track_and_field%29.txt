@@ -1,1 +1,0 @@
-[["Anno_Domini", "Greece", "Athletics_%28track_and_field%29"], ["Anno_Domini", "Israel", "Athletics_%28track_and_field%29"], ["Anno_Domini", "Middle_Ages", "Athletics_%28track_and_field%29"], ["Anno_Domini", "Russia", "Athletics_%28track_and_field%29"]]

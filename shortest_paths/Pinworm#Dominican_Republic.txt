@@ -1,1 +1,0 @@
-[["Pinworm", "Animal", "Ant", "Dominican_Republic"], ["Pinworm", "Scientific_classification", "Ant", "Dominican_Republic"], ["Pinworm", "Animal", "Costa_Rica", "Dominican_Republic"], ["Pinworm", "Scientific_classification", "Sugarcane", "Dominican_Republic"]]

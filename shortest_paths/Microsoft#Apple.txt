@@ -1,1 +1,0 @@
-[["Microsoft", "United_States", "Apple"]]

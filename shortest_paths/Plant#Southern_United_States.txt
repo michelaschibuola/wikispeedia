@@ -1,1 +1,0 @@
-[["Plant", "Cotton", "Southern_United_States"], ["Plant", "Evolution", "Southern_United_States"], ["Plant", "Rice", "Southern_United_States"], ["Plant", "Temperate", "Southern_United_States"], ["Plant", "Tobacco", "Southern_United_States"]]

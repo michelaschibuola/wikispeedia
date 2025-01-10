@@ -1,1 +1,0 @@
-[["Eocene", "Australia", "List_of_circulating_currencies"], ["Eocene", "Egypt", "List_of_circulating_currencies"], ["Eocene", "India", "List_of_circulating_currencies"], ["Eocene", "United_States", "List_of_circulating_currencies"], ["Eocene", "Trinidad_and_Tobago", "List_of_circulating_currencies"]]

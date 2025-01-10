@@ -1,1 +1,0 @@
-[["Famine", "21st_century", "Linux", "GNU_Project"], ["Famine", "21st_century", "Richard_Stallman", "GNU_Project"]]

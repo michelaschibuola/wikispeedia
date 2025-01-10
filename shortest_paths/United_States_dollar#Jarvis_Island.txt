@@ -1,1 +1,0 @@
-[["United_States_dollar", "United_Kingdom", "Jarvis_Island"], ["United_States_dollar", "United_States", "Jarvis_Island"]]

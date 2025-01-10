@@ -1,1 +1,0 @@
-[["Recycling", "European_Union", "Sugar"], ["Recycling", "Carbon_dioxide", "Sugar"], ["Recycling", "China", "Sugar"], ["Recycling", "Chromium", "Sugar"], ["Recycling", "India", "Sugar"]]

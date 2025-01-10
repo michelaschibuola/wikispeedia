@@ -1,1 +1,0 @@
-[["Lerwick", "Petroleum", "Comet", "Great_Comet_of_1882"], ["Lerwick", "Petroleum", "South_Africa", "Great_Comet_of_1882"], ["Lerwick", "United_Kingdom", "South_Africa", "Great_Comet_of_1882"], ["Lerwick", "Petroleum", "Sun", "Great_Comet_of_1882"]]

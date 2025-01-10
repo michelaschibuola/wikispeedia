@@ -1,1 +1,0 @@
-[["Castra", "Barcelona", "Spanish_Inquisition"], ["Castra", "England", "Spanish_Inquisition"], ["Castra", "France", "Spanish_Inquisition"], ["Castra", "Spain", "Spanish_Inquisition"]]

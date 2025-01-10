@@ -1,1 +1,0 @@
-[["Tripitaka", "Buddhism", "Maldives"], ["Tripitaka", "Sanskrit", "Maldives"]]

@@ -1,1 +1,0 @@
-[["Science", "19th_century", "Romanticism"], ["Science", "Alchemy", "Romanticism"], ["Science", "Art", "Romanticism"], ["Science", "Modernist_poetry_in_English", "Romanticism"], ["Science", "Age_of_Enlightenment", "Romanticism"], ["Science", "United_States", "Romanticism"]]

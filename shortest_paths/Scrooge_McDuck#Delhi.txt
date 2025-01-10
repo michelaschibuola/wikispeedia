@@ -1,1 +1,0 @@
-[["Scrooge_McDuck", "English_language", "Delhi"], ["Scrooge_McDuck", "Himalayas", "Delhi"], ["Scrooge_McDuck", "India", "Delhi"]]

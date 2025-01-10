@@ -1,1 +1,0 @@
-[["Information", "Astronomy", "Archaeology"], ["Information", "Humanities", "Archaeology"], ["Information", "Physics", "Archaeology"], ["Information", "Library", "Archaeology"], ["Information", "Sociocultural_evolution", "Archaeology"], ["Information", "Writing", "Archaeology"]]

@@ -1,1 +1,0 @@
-[["Bolivia", "Spain", "Flag_of_Mexico"], ["Bolivia", "Spanish_language", "Flag_of_Mexico"], ["Bolivia", "Cactus", "Flag_of_Mexico"], ["Bolivia", "List_of_sovereign_states", "Flag_of_Mexico"]]

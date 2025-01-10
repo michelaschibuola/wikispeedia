@@ -1,1 +1,0 @@
-[["Esperanto", "Computer", "Trigonometry"], ["Esperanto", "Science", "Trigonometry"]]

@@ -1,1 +1,0 @@
-[["Thunderstorm", "Baltimore%2C_Maryland", "Houston%2C_Texas"], ["Thunderstorm", "Galveston_Hurricane_of_1900", "Houston%2C_Texas"], ["Thunderstorm", "Natural_disaster", "Houston%2C_Texas"], ["Thunderstorm", "Tornado", "Houston%2C_Texas"], ["Thunderstorm", "United_States", "Houston%2C_Texas"]]

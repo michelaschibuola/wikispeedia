@@ -1,1 +1,0 @@
-[["Moscow", "Abraham_Goldfaden", "Piano"], ["Moscow", "Paris", "Piano"], ["Moscow", "World_War_II", "Piano"], ["Moscow", "Pyotr_Ilyich_Tchaikovsky", "Piano"]]

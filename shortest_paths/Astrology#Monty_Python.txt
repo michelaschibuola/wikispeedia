@@ -1,1 +1,0 @@
-[["Astrology", "China", "Monty_Python"], ["Astrology", "Middle_Ages", "Monty_Python"], ["Astrology", "Music", "Monty_Python"]]

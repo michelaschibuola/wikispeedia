@@ -1,1 +1,0 @@
-[["Horse", "Agriculture", "Moldova"], ["Horse", "Asia", "Moldova"], ["Horse", "Berlin", "Moldova"], ["Horse", "Europe", "Moldova"], ["Horse", "Kyrgyzstan", "Moldova"], ["Horse", "Romania", "Moldova"], ["Horse", "Russia", "Moldova"], ["Horse", "Tobacco", "Moldova"]]

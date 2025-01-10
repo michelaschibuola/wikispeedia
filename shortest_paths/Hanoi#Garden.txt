@@ -1,1 +1,0 @@
-[["Hanoi", "Japan", "Garden"], ["Hanoi", "Tourism", "Garden"]]

@@ -1,1 +1,0 @@
-[["Namibia", "Chad", "Ivory"], ["Namibia", "Democratic_Republic_of_the_Congo", "Ivory"], ["Namibia", "Kenya", "Ivory"], ["Namibia", "United_Nations", "Ivory"], ["Namibia", "Zimbabwe", "Ivory"], ["Namibia", "Scramble_for_Africa", "Ivory"], ["Namibia", "Second_Congo_War", "Ivory"]]

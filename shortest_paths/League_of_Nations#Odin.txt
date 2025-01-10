@@ -1,1 +1,0 @@
-[["League_of_Nations", "Sweden", "Odin"], ["League_of_Nations", "War", "Odin"]]

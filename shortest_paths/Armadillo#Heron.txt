@@ -1,1 +1,0 @@
-[["Armadillo", "Animal", "Heron"], ["Armadillo", "Chordate", "Heron"], ["Armadillo", "Scientific_classification", "Heron"]]

@@ -1,1 +1,0 @@
-[["Trinity", "Islam", "Abkhazia"], ["Trinity", "Christianity", "Abkhazia"]]

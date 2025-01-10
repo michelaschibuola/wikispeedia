@@ -1,1 +1,0 @@
-[["Tern", "Animal", "Nature", "Metric_expansion_of_space"], ["Tern", "Australia", "Nature", "Metric_expansion_of_space"], ["Tern", "Australia", "Speed_of_light", "Metric_expansion_of_space"], ["Tern", "River_Thames", "London", "Metric_expansion_of_space"]]

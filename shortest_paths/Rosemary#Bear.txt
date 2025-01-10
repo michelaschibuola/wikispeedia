@@ -1,1 +1,0 @@
-[["Rosemary", "Latin", "Bear"], ["Rosemary", "Scientific_classification", "Bear"]]

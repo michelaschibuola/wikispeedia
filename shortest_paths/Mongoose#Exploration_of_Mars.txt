@@ -1,1 +1,0 @@
-[["Mongoose", "Europe", "Exploration_of_Mars"], ["Mongoose", "Japan", "Exploration_of_Mars"], ["Mongoose", "United_States", "Exploration_of_Mars"]]

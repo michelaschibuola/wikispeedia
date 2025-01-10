@@ -1,1 +1,0 @@
-[["Pope", "Henry_VIII_of_England", "War_of_the_League_of_Cambrai"], ["Pope", "Holy_Roman_Empire", "War_of_the_League_of_Cambrai"], ["Pope", "Italy", "War_of_the_League_of_Cambrai"], ["Pope", "Papal_conclave", "War_of_the_League_of_Cambrai"], ["Pope", "Spain", "War_of_the_League_of_Cambrai"]]

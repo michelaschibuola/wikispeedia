@@ -1,1 +1,0 @@
-[["Carbon_dioxide", "Earth%27s_atmosphere", "Binary_star"], ["Carbon_dioxide", "Earth", "Binary_star"], ["Carbon_dioxide", "History_of_Earth", "Binary_star"], ["Carbon_dioxide", "Planetary_habitability", "Binary_star"], ["Carbon_dioxide", "Sun", "Binary_star"]]

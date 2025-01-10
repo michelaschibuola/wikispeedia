@@ -1,1 +1,0 @@
-[["Aristotle", "Democracy", "Social_capital"], ["Aristotle", "Political_science", "Social_capital"]]

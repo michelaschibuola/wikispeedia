@@ -1,1 +1,0 @@
-[["2005_Atlantic_hurricane_season", "Florida", "Indian_Peafowl"], ["2005_Atlantic_hurricane_season", "Mexico", "Indian_Peafowl"]]

@@ -1,1 +1,0 @@
-[["Gibraltar", "Europe", "H5N1"], ["Gibraltar", "Tower_of_London", "H5N1"], ["Gibraltar", "United_States", "H5N1"]]

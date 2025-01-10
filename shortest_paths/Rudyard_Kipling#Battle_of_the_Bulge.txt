@@ -1,1 +1,0 @@
-[["Rudyard_Kipling", "BBC", "Battle_of_the_Bulge"], ["Rudyard_Kipling", "Chicago", "Battle_of_the_Bulge"], ["Rudyard_Kipling", "English_language", "Battle_of_the_Bulge"], ["Rudyard_Kipling", "Nazi_Germany", "Battle_of_the_Bulge"], ["Rudyard_Kipling", "Novel", "Battle_of_the_Bulge"], ["Rudyard_Kipling", "United_Kingdom", "Battle_of_the_Bulge"]]

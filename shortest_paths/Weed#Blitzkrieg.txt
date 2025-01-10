@@ -1,1 +1,0 @@
-[["Weed", "Agriculture", "France", "Blitzkrieg"], ["Weed", "Rice", "France", "Blitzkrieg"], ["Weed", "Agriculture", "Germany", "Blitzkrieg"], ["Weed", "Fennel", "Germany", "Blitzkrieg"], ["Weed", "Greenhouse_effect", "Germany", "Blitzkrieg"], ["Weed", "Agriculture", "Poland", "Blitzkrieg"], ["Weed", "Domestic_goat", "German_language", "Blitzkrieg"]]

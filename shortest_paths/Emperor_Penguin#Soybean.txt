@@ -1,1 +1,0 @@
-[["Emperor_Penguin", "Binomial_nomenclature", "Soybean"], ["Emperor_Penguin", "Scientific_classification", "Soybean"]]

@@ -1,1 +1,0 @@
-[["Whale_shark", "Belize", "Banana"], ["Whale_shark", "Mexico", "Banana"], ["Whale_shark", "Philippines", "Banana"], ["Whale_shark", "Puerto_Rico", "Banana"], ["Whale_shark", "Scientific_classification", "Banana"], ["Whale_shark", "Thailand", "Banana"]]

@@ -1,1 +1,0 @@
-[["Henry_II_of_England", "France", "Nuclear_weapon", "Einsteinium"], ["Henry_II_of_England", "Jerusalem", "Albert_Einstein", "Einsteinium"]]

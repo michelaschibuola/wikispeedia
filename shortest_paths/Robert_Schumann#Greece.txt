@@ -1,1 +1,0 @@
-[["Robert_Schumann", "Germany", "Greece"], ["Robert_Schumann", "Belgium", "Greece"], ["Robert_Schumann", "Berlin", "Greece"], ["Robert_Schumann", "Switzerland", "Greece"]]

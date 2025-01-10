@@ -1,1 +1,0 @@
-[["Ice_hockey", "Canada", "Sunflower"], ["Ice_hockey", "French_language", "Sunflower"], ["Ice_hockey", "Japan", "Sunflower"], ["Ice_hockey", "Russia", "Sunflower"], ["Ice_hockey", "Switzerland", "Sunflower"], ["Ice_hockey", "United_States", "Sunflower"]]

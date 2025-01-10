@@ -1,1 +1,0 @@
-[["Super_Mario_64", "Europe", "George_W._Bush"], ["Super_Mario_64", "Japan", "George_W._Bush"]]

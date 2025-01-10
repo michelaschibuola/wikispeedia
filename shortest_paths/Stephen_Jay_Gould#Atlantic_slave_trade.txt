@@ -1,1 +1,0 @@
-[["Stephen_Jay_Gould", "Race", "Atlantic_slave_trade"], ["Stephen_Jay_Gould", "United_Kingdom", "Atlantic_slave_trade"], ["Stephen_Jay_Gould", "United_States", "Atlantic_slave_trade"]]

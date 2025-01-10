@@ -1,1 +1,0 @@
-[["Telephone", "Argentina", "Turtle"], ["Telephone", "Atlantic_Ocean", "Turtle"], ["Telephone", "History_of_New_Jersey", "Turtle"]]

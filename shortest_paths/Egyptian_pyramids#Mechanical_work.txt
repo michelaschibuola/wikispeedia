@@ -1,1 +1,0 @@
-[["Egyptian_pyramids", "Ancient_Egypt", "Electricity", "Mechanical_work"], ["Egyptian_pyramids", "Archaeology", "Physics", "Mechanical_work"]]

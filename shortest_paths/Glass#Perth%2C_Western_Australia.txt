@@ -1,1 +1,0 @@
-[["Glass", "Gold", "Perth%2C_Western_Australia"], ["Glass", "Iron", "Perth%2C_Western_Australia"], ["Glass", "Nickel", "Perth%2C_Western_Australia"], ["Glass", "Natural_gas", "Perth%2C_Western_Australia"], ["Glass", "Zimbabwe", "Perth%2C_Western_Australia"]]

@@ -1,1 +1,0 @@
-[["Edward_VIII_of_the_United_Kingdom", "London", "Temperate"], ["Edward_VIII_of_the_United_Kingdom", "United_Kingdom", "Temperate"]]

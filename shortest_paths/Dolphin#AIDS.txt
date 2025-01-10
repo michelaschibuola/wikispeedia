@@ -1,1 +1,0 @@
-[["Dolphin", "United_States", "AIDS"], ["Dolphin", "Europe", "AIDS"], ["Dolphin", "Human", "AIDS"]]

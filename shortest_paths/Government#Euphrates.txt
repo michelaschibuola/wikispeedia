@@ -1,1 +1,0 @@
-[["Government", "Babylonia", "Euphrates"], ["Government", "Civilization", "Euphrates"], ["Government", "Middle_East", "Euphrates"], ["Government", "Turkey", "Euphrates"]]

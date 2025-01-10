@@ -1,1 +1,0 @@
-[["Madrid", "Europe", "Calgary"], ["Madrid", "Global_city", "Calgary"], ["Madrid", "Asia", "Calgary"], ["Madrid", "Mexico", "Calgary"], ["Madrid", "New_York_City", "Calgary"]]

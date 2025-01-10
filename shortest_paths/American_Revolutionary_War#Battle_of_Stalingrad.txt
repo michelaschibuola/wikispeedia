@@ -1,1 +1,0 @@
-[["American_Revolutionary_War", "United_States", "Battle_of_Stalingrad"], ["American_Revolutionary_War", "Invasion", "Battle_of_Stalingrad"]]

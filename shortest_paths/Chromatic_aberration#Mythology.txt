@@ -1,1 +1,0 @@
-[["Chromatic_aberration", "Glass", "Alchemy", "Mythology"], ["Chromatic_aberration", "Glass", "Painting", "Mythology"], ["Chromatic_aberration", "Photography", "Painting", "Mythology"], ["Chromatic_aberration", "Glass", "Water", "Mythology"], ["Chromatic_aberration", "Light", "Solar_System", "Mythology"], ["Chromatic_aberration", "Light", "Star", "Mythology"]]

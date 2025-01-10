@@ -1,1 +1,0 @@
-[["Hurricane_Ivan", "Atlantic_Ocean", "Baltic_Sea"], ["Hurricane_Ivan", "River", "Baltic_Sea"]]

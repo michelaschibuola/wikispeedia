@@ -1,1 +1,0 @@
-[["Beijing", "Asia", "Vulture"], ["Beijing", "Egypt", "Vulture"], ["Beijing", "Europe", "Vulture"]]

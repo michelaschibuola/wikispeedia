@@ -1,1 +1,0 @@
-[["Montreal", "California", "Computer"], ["Montreal", "Electronics", "Computer"], ["Montreal", "Great_Britain", "Computer"], ["Montreal", "United_States", "Computer"]]

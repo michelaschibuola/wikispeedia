@@ -1,1 +1,0 @@
-[["American_Samoa", "Europe", "Refrigerator_car"], ["American_Samoa", "Germany", "Refrigerator_car"], ["American_Samoa", "United_States", "Refrigerator_car"]]

@@ -1,1 +1,0 @@
-[["Soil_structure", "Fertilizer", "Fishing", "Marseille"], ["Soil_structure", "Fertilizer", "Petroleum", "Marseille"], ["Soil_structure", "Soil", "Sugar", "Marseille"], ["Soil_structure", "Garden", "Israel", "Marseille"], ["Soil_structure", "Garden", "Italy", "Marseille"], ["Soil_structure", "Garden", "Portugal", "Marseille"], ["Soil_structure", "Garden", "Paris", "Marseille"]]

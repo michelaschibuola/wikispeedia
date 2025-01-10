@@ -1,1 +1,0 @@
-[["Clothing", "19th_century", "Confucianism"], ["Clothing", "20th_century", "Confucianism"], ["Clothing", "Buddhism", "Confucianism"], ["Clothing", "China", "Confucianism"], ["Clothing", "Culture", "Confucianism"], ["Clothing", "Japan", "Confucianism"], ["Clothing", "Republic_of_China", "Confucianism"], ["Clothing", "Macau", "Confucianism"]]

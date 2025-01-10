@@ -1,1 +1,0 @@
-[["Football", "English_language", "Penguin"], ["Football", "Japan", "Penguin"], ["Football", "Latin", "Penguin"], ["Football", "New_Zealand", "Penguin"], ["Football", "Sweden", "Penguin"]]

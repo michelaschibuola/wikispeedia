@@ -1,1 +1,0 @@
-[["Internet", "Germany", "Carrot"], ["Internet", "Google", "Carrot"]]

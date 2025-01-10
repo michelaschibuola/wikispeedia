@@ -1,1 +1,0 @@
-[["Ununoctium", "Radon", "Lung_cancer"], ["Ununoctium", "Gas", "Lung_cancer"], ["Ununoctium", "Uranium", "Lung_cancer"]]

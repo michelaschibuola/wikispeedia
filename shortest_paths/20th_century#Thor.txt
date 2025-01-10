@@ -1,1 +1,0 @@
-[["20th_century", "10th_century", "Thor"], ["20th_century", "Germany", "Thor"], ["20th_century", "Swastika", "Thor"]]

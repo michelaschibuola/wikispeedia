@@ -1,1 +1,0 @@
-[["Firearm", "Leonardo_da_Vinci", "Oil_painting"], ["Firearm", "Renaissance", "Oil_painting"]]

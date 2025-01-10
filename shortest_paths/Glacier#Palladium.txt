@@ -1,1 +1,0 @@
-[["Glacier", "North_America", "Palladium"], ["Glacier", "South_America", "Palladium"]]

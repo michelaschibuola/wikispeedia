@@ -1,1 +1,0 @@
-[["15th_century", "21st_century", "Fidel_Castro"], ["15th_century", "Poland", "Fidel_Castro"], ["15th_century", "Spain", "Fidel_Castro"], ["15th_century", "English_language", "Fidel_Castro"], ["15th_century", "Italy", "Fidel_Castro"]]

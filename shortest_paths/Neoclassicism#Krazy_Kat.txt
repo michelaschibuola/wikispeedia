@@ -1,1 +1,0 @@
-[["Neoclassicism", "Dada", "Krazy_Kat"], ["Neoclassicism", "France", "Krazy_Kat"], ["Neoclassicism", "Prague", "Krazy_Kat"]]

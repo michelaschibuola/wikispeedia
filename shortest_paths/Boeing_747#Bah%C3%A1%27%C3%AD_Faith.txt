@@ -1,1 +1,0 @@
-[["Boeing_747", "Addis_Ababa", "Bah%C3%A1%27%C3%AD_Faith"], ["Boeing_747", "Hong_Kong", "Bah%C3%A1%27%C3%AD_Faith"], ["Boeing_747", "Iran", "Bah%C3%A1%27%C3%AD_Faith"], ["Boeing_747", "Nairobi", "Bah%C3%A1%27%C3%AD_Faith"], ["Boeing_747", "Tehran", "Bah%C3%A1%27%C3%AD_Faith"], ["Boeing_747", "United_States", "Bah%C3%A1%27%C3%AD_Faith"]]

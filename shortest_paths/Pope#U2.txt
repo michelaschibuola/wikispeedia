@@ -1,1 +1,0 @@
-[["Pope", "Church_of_Ireland", "U2"], ["Pope", "Human_rights", "U2"], ["Pope", "Bible", "U2"], ["Pope", "Ireland", "U2"], ["Pope", "Pope_John_Paul_II", "U2"]]

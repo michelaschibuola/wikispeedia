@@ -1,1 +1,0 @@
-[["Olympic_Games", "Belgium", "Michelangelo"], ["Olympic_Games", "France", "Michelangelo"], ["Olympic_Games", "Italy", "Michelangelo"], ["Olympic_Games", "Rome", "Michelangelo"]]

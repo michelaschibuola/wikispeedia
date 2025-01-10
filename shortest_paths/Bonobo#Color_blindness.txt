@@ -1,1 +1,0 @@
-[["Bonobo", "DNA", "Color_blindness"], ["Bonobo", "Human", "Color_blindness"]]

@@ -1,1 +1,0 @@
-[["Civil_rights", "United_States", "Rhode_Island"], ["Civil_rights", "Ireland", "Rhode_Island"], ["Civil_rights", "Ronald_Reagan", "Rhode_Island"]]

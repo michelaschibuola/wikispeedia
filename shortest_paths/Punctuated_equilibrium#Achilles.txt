@@ -1,1 +1,0 @@
-[["Punctuated_equilibrium", "Creationism", "Greece", "Achilles"], ["Punctuated_equilibrium", "Earth", "Zeus", "Achilles"], ["Punctuated_equilibrium", "History_of_science", "Homer", "Achilles"], ["Punctuated_equilibrium", "History_of_science", "Plato", "Achilles"]]

@@ -1,1 +1,0 @@
-[["Eastern_Orthodox_Church", "Atlanta%2C_Georgia", "Woodrow_Wilson"], ["Eastern_Orthodox_Church", "Russia", "Woodrow_Wilson"], ["Eastern_Orthodox_Church", "France", "Woodrow_Wilson"]]

@@ -1,1 +1,0 @@
-[["Electronics", "20th_century", "Thomas_Edison"], ["Electronics", "Electrical_engineering", "Thomas_Edison"], ["Electronics", "Electricity", "Thomas_Edison"], ["Electronics", "Telephone", "Thomas_Edison"], ["Electronics", "Typewriter", "Thomas_Edison"], ["Electronics", "United_States", "Thomas_Edison"]]

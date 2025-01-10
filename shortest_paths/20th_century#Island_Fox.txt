@@ -1,1 +1,0 @@
-[["20th_century", "United_States", "Island_Fox"], ["20th_century", "Binomial_nomenclature", "Island_Fox"], ["20th_century", "Mammal", "Island_Fox"], ["20th_century", "Rainforest", "Island_Fox"]]

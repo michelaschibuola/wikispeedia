@@ -1,1 +1,0 @@
-[["Northern_Pacific_Railway", "Chicago", "Cereal"], ["Northern_Pacific_Railway", "Europe", "Cereal"], ["Northern_Pacific_Railway", "United_States", "Cereal"]]

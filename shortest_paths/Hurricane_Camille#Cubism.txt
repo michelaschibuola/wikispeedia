@@ -1,1 +1,0 @@
-[["Hurricane_Camille", "Frank_Lloyd_Wright", "Cubism"], ["Hurricane_Camille", "20th_century", "Cubism"]]

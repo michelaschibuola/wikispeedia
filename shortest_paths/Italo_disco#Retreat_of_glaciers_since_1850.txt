@@ -1,1 +1,0 @@
-[["Italo_disco", "Canada", "Retreat_of_glaciers_since_1850"], ["Italo_disco", "Italy", "Retreat_of_glaciers_since_1850"], ["Italo_disco", "North_America", "Retreat_of_glaciers_since_1850"]]

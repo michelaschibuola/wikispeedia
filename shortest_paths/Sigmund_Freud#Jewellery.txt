@@ -1,1 +1,0 @@
-[["Sigmund_Freud", "Human", "Jewellery"], ["Sigmund_Freud", "England", "Jewellery"]]

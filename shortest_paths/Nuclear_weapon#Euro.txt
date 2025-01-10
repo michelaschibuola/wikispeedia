@@ -1,1 +1,0 @@
-[["Nuclear_weapon", "20th_century", "Euro"], ["Nuclear_weapon", "France", "Euro"], ["Nuclear_weapon", "Japan", "Euro"], ["Nuclear_weapon", "United_Kingdom", "Euro"], ["Nuclear_weapon", "United_States", "Euro"]]

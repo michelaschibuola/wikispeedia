@@ -1,1 +1,0 @@
-[["Isaac_Newton", "Smallpox", "Latin_America"], ["Isaac_Newton", "Religion", "Latin_America"]]

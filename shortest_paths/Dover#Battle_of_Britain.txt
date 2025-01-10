@@ -1,1 +1,0 @@
-[["Dover", "England", "Battle_of_Britain"], ["Dover", "United_Kingdom", "Battle_of_Britain"], ["Dover", "World_War_I", "Battle_of_Britain"], ["Dover", "World_War_II", "Battle_of_Britain"]]

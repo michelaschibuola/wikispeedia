@@ -1,1 +1,0 @@
-[["Eric_Clapton", "Canada", "Nintendo"], ["Eric_Clapton", "France", "Nintendo"], ["Eric_Clapton", "Japan", "Nintendo"], ["Eric_Clapton", "London", "Nintendo"], ["Eric_Clapton", "United_States", "Nintendo"]]

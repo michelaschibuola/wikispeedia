@@ -1,1 +1,0 @@
-[["Communism", "Europe", "Pond"], ["Communism", "United_States", "Pond"]]

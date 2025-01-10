@@ -1,1 +1,0 @@
-[["Richard_Stallman", "English_language", "Timbuktu"], ["Richard_Stallman", "French_language", "Timbuktu"]]

@@ -1,1 +1,0 @@
-[["Automobile", "Hydrogen", "Ozone"], ["Automobile", "Oxygen", "Ozone"], ["Automobile", "Gas_metal_arc_welding", "Ozone"], ["Automobile", "Iron", "Ozone"], ["Automobile", "Platinum", "Ozone"], ["Automobile", "Smog", "Ozone"], ["Automobile", "Sulfuric_acid", "Ozone"], ["Automobile", "Volt", "Ozone"]]

@@ -1,1 +1,0 @@
-[["Barcelona", "Germany", "Tower_of_London"], ["Barcelona", "Roman_Empire", "Tower_of_London"], ["Barcelona", "United_States", "Tower_of_London"]]

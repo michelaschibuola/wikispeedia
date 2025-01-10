@@ -1,1 +1,0 @@
-[["The_Anarchy", "12th_century", "Paris"], ["The_Anarchy", "Hundred_Years%27_War", "Paris"], ["The_Anarchy", "Bristol", "Paris"], ["The_Anarchy", "England", "Paris"], ["The_Anarchy", "London", "Paris"]]

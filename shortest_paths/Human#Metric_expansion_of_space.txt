@@ -1,1 +1,0 @@
-[["Human", "Science", "Metric_expansion_of_space"], ["Human", "Time", "Metric_expansion_of_space"], ["Human", "Universe", "Metric_expansion_of_space"], ["Human", "Milky_Way", "Metric_expansion_of_space"], ["Human", "Nature", "Metric_expansion_of_space"]]

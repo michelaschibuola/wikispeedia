@@ -1,1 +1,0 @@
-[["Brandon_Routh", "Actor", "Cairo"], ["Brandon_Routh", "New_York_City", "Cairo"], ["Brandon_Routh", "United_States", "Cairo"]]

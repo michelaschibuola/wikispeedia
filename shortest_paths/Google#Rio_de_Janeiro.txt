@@ -1,1 +1,0 @@
-[["Google", "France", "Rio_de_Janeiro"], ["Google", "Germany", "Rio_de_Janeiro"], ["Google", "United_States", "Rio_de_Janeiro"], ["Google", "Hamburg", "Rio_de_Janeiro"]]

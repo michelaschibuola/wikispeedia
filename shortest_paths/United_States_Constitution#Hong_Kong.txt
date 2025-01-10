@@ -1,1 +1,0 @@
-[["United_States_Constitution", "Election", "Hong_Kong"], ["United_States_Constitution", "New_York_City", "Hong_Kong"], ["United_States_Constitution", "United_States", "Hong_Kong"], ["United_States_Constitution", "England", "Hong_Kong"], ["United_States_Constitution", "United_States_dollar", "Hong_Kong"]]

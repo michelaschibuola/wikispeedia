@@ -1,1 +1,0 @@
-[["The_Beatles_discography", "United_Kingdom", "Hubble_Space_Telescope", "PSR_B1620-26c"], ["The_Beatles_discography", "United_States", "Hubble_Space_Telescope", "PSR_B1620-26c"], ["The_Beatles_discography", "United_States", "Sun", "PSR_B1620-26c"]]

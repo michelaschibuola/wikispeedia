@@ -1,1 +1,0 @@
-[["Richard_Wagner", "19th_century", "Niels_Bohr"], ["Richard_Wagner", "Nazi_Germany", "Niels_Bohr"], ["Richard_Wagner", "London", "Niels_Bohr"], ["Richard_Wagner", "Philosophy", "Niels_Bohr"]]

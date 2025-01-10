@@ -1,1 +1,0 @@
-[["Speed_of_light", "Electron", "Indium"], ["Speed_of_light", "Magnetism", "Indium"], ["Speed_of_light", "Neutron", "Indium"], ["Speed_of_light", "Glass", "Indium"], ["Speed_of_light", "Japan", "Indium"]]

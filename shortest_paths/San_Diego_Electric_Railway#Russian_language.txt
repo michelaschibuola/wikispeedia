@@ -1,1 +1,0 @@
-[["San_Diego_Electric_Railway", "Mexico", "Russian_language"], ["San_Diego_Electric_Railway", "New_York_City", "Russian_language"], ["San_Diego_Electric_Railway", "United_States", "Russian_language"], ["San_Diego_Electric_Railway", "World_War_II", "Russian_language"]]

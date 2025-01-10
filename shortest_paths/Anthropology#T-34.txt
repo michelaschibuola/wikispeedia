@@ -1,1 +1,0 @@
-[["Anthropology", "Egypt", "T-34"], ["Anthropology", "Vietnam_War", "T-34"]]

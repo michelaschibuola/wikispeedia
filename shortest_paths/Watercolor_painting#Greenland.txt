@@ -1,1 +1,0 @@
-[["Watercolor_painting", "Germany", "Greenland"], ["Watercolor_painting", "India", "Greenland"]]

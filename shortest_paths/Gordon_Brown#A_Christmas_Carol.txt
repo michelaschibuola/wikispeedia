@@ -1,1 +1,0 @@
-[["Gordon_Brown", "English_language", "A_Christmas_Carol"], ["Gordon_Brown", "Poverty", "A_Christmas_Carol"], ["Gordon_Brown", "United_Kingdom", "A_Christmas_Carol"]]

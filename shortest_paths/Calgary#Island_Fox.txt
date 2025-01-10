@@ -1,1 +1,0 @@
-[["Calgary", "United_States", "Island_Fox"]]

@@ -1,1 +1,0 @@
-[["Tree", "California", "Theodore_Roosevelt"]]

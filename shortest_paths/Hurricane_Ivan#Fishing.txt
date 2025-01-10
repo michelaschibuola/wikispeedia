@@ -1,1 +1,0 @@
-[["Hurricane_Ivan", "Caribbean_Sea", "Fishing"], ["Hurricane_Ivan", "North_America", "Fishing"], ["Hurricane_Ivan", "United_States", "Fishing"]]

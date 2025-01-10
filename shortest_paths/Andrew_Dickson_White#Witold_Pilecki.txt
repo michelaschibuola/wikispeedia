@@ -1,1 +1,0 @@
-[["Andrew_Dickson_White", "Germany", "Witold_Pilecki"], ["Andrew_Dickson_White", "Russia", "Witold_Pilecki"]]

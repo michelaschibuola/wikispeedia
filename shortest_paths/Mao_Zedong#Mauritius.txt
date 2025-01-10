@@ -1,1 +1,0 @@
-[["Mao_Zedong", "China", "Mauritius"], ["Mao_Zedong", "France", "Mauritius"], ["Mao_Zedong", "United_States", "Mauritius"]]

@@ -1,1 +1,0 @@
-[["Coconut_crab", "Animal", "Common_Cuckoo"], ["Coconut_crab", "Binomial_nomenclature", "Common_Cuckoo"], ["Coconut_crab", "Carolus_Linnaeus", "Common_Cuckoo"], ["Coconut_crab", "Insect", "Common_Cuckoo"], ["Coconut_crab", "Scientific_classification", "Common_Cuckoo"]]

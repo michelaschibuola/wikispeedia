@@ -1,1 +1,0 @@
-[["Zeus", "Ancient_Rome", "Archaeology"], ["Zeus", "Humanities", "Archaeology"], ["Zeus", "Trojan_War", "Archaeology"], ["Zeus", "Culture", "Archaeology"], ["Zeus", "Egypt", "Archaeology"], ["Zeus", "Latin", "Archaeology"]]

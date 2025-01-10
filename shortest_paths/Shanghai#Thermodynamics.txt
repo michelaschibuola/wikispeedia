@@ -1,1 +1,0 @@
-[["Shanghai", "19th_century", "Thermodynamics"], ["Shanghai", "20th_century", "Thermodynamics"]]

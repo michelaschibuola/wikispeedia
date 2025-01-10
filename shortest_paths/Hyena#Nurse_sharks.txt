@@ -1,1 +1,0 @@
-[["Hyena", "Animal", "Nurse_sharks"], ["Hyena", "Scientific_classification", "Nurse_sharks"]]

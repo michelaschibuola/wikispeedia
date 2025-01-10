@@ -1,1 +1,0 @@
-[["George_Washington", "France", "Henry_V_of_England"]]

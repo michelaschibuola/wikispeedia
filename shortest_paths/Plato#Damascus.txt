@@ -1,1 +1,0 @@
-[["Plato", "Arabic_language", "Damascus"], ["Plato", "Christianity", "Damascus"], ["Plato", "Egypt", "Damascus"], ["Plato", "Sassanid_Empire", "Damascus"]]

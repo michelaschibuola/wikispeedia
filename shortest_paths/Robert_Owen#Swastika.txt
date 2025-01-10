@@ -1,1 +1,0 @@
-[["Robert_Owen", "Ireland", "Swastika"], ["Robert_Owen", "United_States", "Swastika"]]

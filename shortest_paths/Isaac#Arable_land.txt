@@ -1,1 +1,0 @@
-[["Isaac", "Euphrates", "Arable_land"]]

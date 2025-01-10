@@ -1,1 +1,0 @@
-[["Food", "Armenia", "Gold"], ["Food", "Chlorine", "Gold"], ["Food", "Chemistry", "Gold"], ["Food", "Computer", "Gold"], ["Food", "Heat", "Gold"], ["Food", "Nitrogen", "Gold"], ["Food", "South_Africa", "Gold"], ["Food", "Uranium", "Gold"]]

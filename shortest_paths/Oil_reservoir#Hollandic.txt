@@ -1,1 +1,0 @@
-[["Oil_reservoir", "Middle_East", "French_language", "Hollandic"], ["Oil_reservoir", "South_America", "French_language", "Hollandic"], ["Oil_reservoir", "North_Sea", "Antwerp", "Hollandic"], ["Oil_reservoir", "South_America", "Dutch_language", "Hollandic"]]

@@ -1,1 +1,0 @@
-[["Beer", "B_vitamins", "Thiamine"], ["Beer", "Japan", "Thiamine"], ["Beer", "Magnesium", "Thiamine"], ["Beer", "Nitrogen", "Thiamine"], ["Beer", "Rice", "Thiamine"], ["Beer", "Sugar", "Thiamine"], ["Beer", "Water", "Thiamine"]]

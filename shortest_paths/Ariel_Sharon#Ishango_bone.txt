@@ -1,1 +1,0 @@
-[["Ariel_Sharon", "Africa", "Ishango_bone"], ["Ariel_Sharon", "Belgium", "Ishango_bone"], ["Ariel_Sharon", "Brussels", "Ishango_bone"]]

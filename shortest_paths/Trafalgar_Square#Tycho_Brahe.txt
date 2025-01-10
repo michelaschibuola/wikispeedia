@@ -1,1 +1,0 @@
-[["Trafalgar_Square", "Germany", "Tycho_Brahe"], ["Trafalgar_Square", "Norway", "Tycho_Brahe"]]

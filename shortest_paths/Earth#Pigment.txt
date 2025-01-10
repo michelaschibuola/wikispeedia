@@ -1,1 +1,0 @@
-[["Earth", "Biology", "Pigment"], ["Earth", "Carbon", "Pigment"], ["Earth", "Dead_Sea", "Pigment"], ["Earth", "Food", "Pigment"], ["Earth", "Human", "Pigment"], ["Earth", "Photosynthesis", "Pigment"], ["Earth", "South_America", "Pigment"], ["Earth", "Sunlight", "Pigment"], ["Earth", "Titanium", "Pigment"], ["Earth", "United_Kingdom", "Pigment"]]

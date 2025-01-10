@@ -1,1 +1,0 @@
-[["Common_Tern", "Animal", "Carbon_dioxide"], ["Common_Tern", "Scotland", "Carbon_dioxide"]]

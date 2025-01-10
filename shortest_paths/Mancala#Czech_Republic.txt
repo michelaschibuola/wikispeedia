@@ -1,1 +1,0 @@
-[["Mancala", "17th_century", "Czech_Republic"], ["Mancala", "Europe", "Czech_Republic"], ["Mancala", "Lebanon", "Czech_Republic"]]

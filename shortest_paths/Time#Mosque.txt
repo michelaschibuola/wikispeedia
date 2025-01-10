@@ -1,1 +1,0 @@
-[["Time", "11th_century", "Mosque"], ["Time", "15th_century", "Mosque"], ["Time", "16th_century", "Mosque"], ["Time", "17th_century", "Mosque"], ["Time", "18th_century", "Mosque"], ["Time", "Bible", "Mosque"], ["Time", "Egypt", "Mosque"], ["Time", "God", "Mosque"], ["Time", "Hinduism", "Mosque"], ["Time", "Rome", "Mosque"]]

@@ -1,1 +1,0 @@
-[["Gossypium", "Egypt", "Adolf_Hitler"], ["Gossypium", "South_America", "Adolf_Hitler"], ["Gossypium", "United_States", "Adolf_Hitler"]]

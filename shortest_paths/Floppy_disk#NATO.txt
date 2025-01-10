@@ -1,1 +1,0 @@
-[["Floppy_disk", "Japan", "NATO"]]

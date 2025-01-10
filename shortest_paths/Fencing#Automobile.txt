@@ -1,1 +1,0 @@
-[["Fencing", "20th_century", "Automobile"], ["Fencing", "Europe", "Automobile"], ["Fencing", "Germany", "Automobile"], ["Fencing", "Italy", "Automobile"], ["Fencing", "Spain", "Automobile"], ["Fencing", "Turin", "Automobile"]]

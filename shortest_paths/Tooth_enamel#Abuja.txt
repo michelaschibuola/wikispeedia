@@ -1,1 +1,0 @@
-[["Tooth_enamel", "Cheese", "Brazil", "Abuja"], ["Tooth_enamel", "Coffee", "Brazil", "Abuja"], ["Tooth_enamel", "Drinking_water", "Brazil", "Abuja"], ["Tooth_enamel", "Tobacco", "Brazil", "Abuja"], ["Tooth_enamel", "Coffee", "Africa", "Abuja"], ["Tooth_enamel", "Drinking_water", "Africa", "Abuja"], ["Tooth_enamel", "Drinking_water", "Nigeria", "Abuja"]]

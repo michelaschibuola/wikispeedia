@@ -1,1 +1,0 @@
-[["World_Health_Organization", "Chromium", "Manganese"], ["World_Health_Organization", "Ozone", "Manganese"]]

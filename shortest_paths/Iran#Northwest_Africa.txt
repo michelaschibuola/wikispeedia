@@ -1,1 +1,0 @@
-[["Iran", "Asia", "Northwest_Africa"], ["Iran", "Europe", "Northwest_Africa"], ["Iran", "Indian_Ocean", "Northwest_Africa"], ["Iran", "Libya", "Northwest_Africa"], ["Iran", "North_America", "Northwest_Africa"], ["Iran", "South_America", "Northwest_Africa"]]

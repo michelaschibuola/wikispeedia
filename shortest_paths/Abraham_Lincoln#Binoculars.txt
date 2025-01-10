@@ -1,1 +1,0 @@
-[["Abraham_Lincoln", "United_Kingdom", "Binoculars"], ["Abraham_Lincoln", "United_States", "Binoculars"]]

@@ -1,1 +1,0 @@
-[["Che_Guevara", "DNA", "Genetic_code"], ["Che_Guevara", "Malaria", "Genetic_code"]]

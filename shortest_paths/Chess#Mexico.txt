@@ -1,1 +1,0 @@
-[["Chess", "Che_Guevara", "Mexico"], ["Chess", "Islam", "Mexico"], ["Chess", "Italy", "Mexico"], ["Chess", "Japan", "Mexico"], ["Chess", "Olympic_Games", "Mexico"], ["Chess", "Russia", "Mexico"], ["Chess", "Spanish_language", "Mexico"], ["Chess", "Ukraine", "Mexico"], ["Chess", "Computer_and_video_games", "Mexico"], ["Chess", "Pope_John_Paul_II", "Mexico"]]

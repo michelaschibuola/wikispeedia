@@ -1,1 +1,0 @@
-[["Bangkok", "Russia", "Data_Encryption_Standard"], ["Bangkok", "United_States", "Data_Encryption_Standard"]]

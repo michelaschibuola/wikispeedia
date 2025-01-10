@@ -1,1 +1,0 @@
-[["Lom%C3%A9", "Atlantic_Ocean", "Aberdeen"], ["Lom%C3%A9", "European_Union", "Aberdeen"], ["Lom%C3%A9", "Germany", "Aberdeen"], ["Lom%C3%A9", "United_Kingdom", "Aberdeen"]]

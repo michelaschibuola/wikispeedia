@@ -1,1 +1,0 @@
-[["Roman_law", "Germany", "Frankfurt"], ["Roman_law", "Europe", "Frankfurt"], ["Roman_law", "European_Union", "Frankfurt"], ["Roman_law", "Holy_Roman_Empire", "Frankfurt"]]

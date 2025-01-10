@@ -1,1 +1,0 @@
-[["Californium", "California", "18th_century", "Despotism"], ["Californium", "Gold", "Africa", "Despotism"], ["Californium", "Gold", "Economy_of_Africa", "Despotism"], ["Californium", "Petroleum", "Economy_of_Africa", "Despotism"], ["Californium", "Gold", "Egypt", "Despotism"]]

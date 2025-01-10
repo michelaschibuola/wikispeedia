@@ -1,1 +1,0 @@
-[["Bangladesh", "Arsenic", "Electricity"], ["Bangladesh", "Natural_gas", "Electricity"], ["Bangladesh", "Hurricane_Katrina", "Electricity"], ["Bangladesh", "Somalia", "Electricity"], ["Bangladesh", "Water", "Electricity"]]

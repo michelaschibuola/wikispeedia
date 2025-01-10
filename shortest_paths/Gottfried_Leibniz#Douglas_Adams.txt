@@ -1,1 +1,0 @@
-[["Gottfried_Leibniz", "God", "Douglas_Adams"], ["Gottfried_Leibniz", "London", "Douglas_Adams"], ["Gottfried_Leibniz", "World_Wide_Web", "Douglas_Adams"]]

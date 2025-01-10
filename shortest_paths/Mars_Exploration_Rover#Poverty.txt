@@ -1,1 +1,0 @@
-[["Mars_Exploration_Rover", "21st_century", "Poverty"], ["Mars_Exploration_Rover", "Water", "Poverty"]]

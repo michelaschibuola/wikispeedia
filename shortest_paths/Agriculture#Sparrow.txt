@@ -1,1 +1,0 @@
-[["Agriculture", "Africa", "Sparrow"], ["Agriculture", "South_America", "Sparrow"], ["Agriculture", "Bird", "Sparrow"]]

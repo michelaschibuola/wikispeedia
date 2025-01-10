@@ -1,1 +1,0 @@
-[["Battle_of_Amiens", "Canada", "George_W._Bush"], ["Battle_of_Amiens", "France", "George_W._Bush"], ["Battle_of_Amiens", "United_Kingdom", "George_W._Bush"], ["Battle_of_Amiens", "United_States", "George_W._Bush"]]

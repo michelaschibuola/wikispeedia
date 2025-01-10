@@ -1,1 +1,0 @@
-[["Dakar", "Africa", "Atlantis"], ["Dakar", "Atlantic_Ocean", "Atlantis"], ["Dakar", "Portugal", "Atlantis"]]

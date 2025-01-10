@@ -1,1 +1,0 @@
-[["Emu", "Animal", "Nurse_sharks"], ["Emu", "Chordate", "Nurse_sharks"], ["Emu", "Scientific_classification", "Nurse_sharks"]]

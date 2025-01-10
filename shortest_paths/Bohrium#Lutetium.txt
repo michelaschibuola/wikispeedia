@@ -1,1 +1,0 @@
-[["Bohrium", "Chemical_element", "Lutetium"], ["Bohrium", "Color", "Lutetium"], ["Bohrium", "Electron", "Lutetium"], ["Bohrium", "List_of_elements_by_name", "Lutetium"], ["Bohrium", "Periodic_table", "Lutetium"], ["Bohrium", "Phase_%28matter%29", "Lutetium"], ["Bohrium", "Periodic_table_%28large_version%29", "Lutetium"]]

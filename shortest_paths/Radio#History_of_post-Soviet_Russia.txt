@@ -1,1 +1,0 @@
-[["Radio", "Television", "History_of_post-Soviet_Russia"], ["Radio", "World_War_I", "History_of_post-Soviet_Russia"], ["Radio", "Telecommunication", "History_of_post-Soviet_Russia"]]

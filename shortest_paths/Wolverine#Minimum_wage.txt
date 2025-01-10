@@ -1,1 +1,0 @@
-[["Wolverine", "California", "Minimum_wage"], ["Wolverine", "United_States", "Minimum_wage"]]

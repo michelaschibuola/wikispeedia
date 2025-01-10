@@ -1,1 +1,0 @@
-[["Intel_Corporation", "Israel", "West_Bank"], ["Intel_Corporation", "United_States", "West_Bank"]]

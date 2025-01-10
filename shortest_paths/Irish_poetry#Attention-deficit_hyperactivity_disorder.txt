@@ -1,1 +1,0 @@
-[["Irish_poetry", "Ireland", "Zinc", "Attention-deficit_hyperactivity_disorder"], ["Irish_poetry", "English_language", "Hippocrates", "Attention-deficit_hyperactivity_disorder"], ["Irish_poetry", "Princeton_University", "Albert_Einstein", "Attention-deficit_hyperactivity_disorder"], ["Irish_poetry", "Samuel_Beckett", "Kurt_Cobain", "Attention-deficit_hyperactivity_disorder"]]

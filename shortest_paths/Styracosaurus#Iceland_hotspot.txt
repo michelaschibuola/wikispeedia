@@ -1,1 +1,0 @@
-[["Styracosaurus", "Animal", "Water", "Iceland_hotspot"], ["Styracosaurus", "Canada", "Water", "Iceland_hotspot"]]

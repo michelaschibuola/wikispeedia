@@ -1,1 +1,0 @@
-[["Aesthetics", "Architecture", "Munich"], ["Aesthetics", "German_language", "Munich"], ["Aesthetics", "Germany", "Munich"], ["Aesthetics", "Japan", "Munich"], ["Aesthetics", "Park", "Munich"], ["Aesthetics", "Renaissance", "Munich"], ["Aesthetics", "Kitsch", "Munich"], ["Aesthetics", "Richard_Wagner", "Munich"]]

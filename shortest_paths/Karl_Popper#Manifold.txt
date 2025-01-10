@@ -1,1 +1,0 @@
-[["Karl_Popper", "Mathematics", "Manifold"], ["Karl_Popper", "String_theory", "Manifold"]]

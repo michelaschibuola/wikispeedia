@@ -1,1 +1,0 @@
-[["Superman", "Human", "Meat"], ["Superman", "Judaism", "Meat"], ["Superman", "United_States", "Meat"]]

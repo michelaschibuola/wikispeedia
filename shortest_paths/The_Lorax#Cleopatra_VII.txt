@@ -1,1 +1,0 @@
-[["The_Lorax", "Dr._Seuss", "William_Shakespeare", "Cleopatra_VII"], ["The_Lorax", "Company_%28law%29", "Ancient_Rome", "Cleopatra_VII"], ["The_Lorax", "Corporation", "Ancient_Rome", "Cleopatra_VII"], ["The_Lorax", "Corporation", "Roman_Empire", "Cleopatra_VII"], ["The_Lorax", "Smog", "London", "Cleopatra_VII"], ["The_Lorax", "Theodore_Roosevelt", "France", "Cleopatra_VII"]]

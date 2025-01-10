@@ -1,1 +1,0 @@
-[["Electricity", "Baghdad", "International_Red_Cross_and_Red_Crescent_Movement"], ["Electricity", "Geneva", "International_Red_Cross_and_Red_Crescent_Movement"], ["Electricity", "Mexico", "International_Red_Cross_and_Red_Crescent_Movement"], ["Electricity", "Sweden", "International_Red_Cross_and_Red_Crescent_Movement"]]

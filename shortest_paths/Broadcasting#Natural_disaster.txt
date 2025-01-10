@@ -1,1 +1,0 @@
-[["Broadcasting", "Germany", "Natural_disaster"], ["Broadcasting", "United_States", "Natural_disaster"]]

@@ -1,1 +1,0 @@
-[["Johannesburg", "History_of_South_Africa", "Anthropology"], ["Johannesburg", "Art", "Anthropology"], ["Johannesburg", "North_America", "Anthropology"], ["Johannesburg", "United_Kingdom", "Anthropology"], ["Johannesburg", "Scramble_for_Africa", "Anthropology"]]

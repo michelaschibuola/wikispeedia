@@ -1,1 +1,0 @@
-[["North_America", "Airbus_A380", "Brisbane"], ["North_America", "Cereal", "Brisbane"], ["North_America", "Los_Angeles%2C_California", "Brisbane"], ["North_America", "Pacific_Ocean", "Brisbane"], ["North_America", "Petroleum", "Brisbane"], ["North_America", "Sugar", "Brisbane"]]

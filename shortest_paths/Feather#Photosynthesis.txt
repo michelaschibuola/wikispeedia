@@ -1,1 +1,0 @@
-[["Feather", "Cell_%28biology%29", "Photosynthesis"], ["Feather", "Heat", "Photosynthesis"], ["Feather", "Pollution", "Photosynthesis"]]

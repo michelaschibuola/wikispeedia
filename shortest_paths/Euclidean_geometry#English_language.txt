@@ -1,1 +1,0 @@
-[["Euclidean_geometry", "Mathematics", "English_language"], ["Euclidean_geometry", "Pi", "English_language"]]

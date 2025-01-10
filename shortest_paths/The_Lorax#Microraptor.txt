@@ -1,1 +1,0 @@
-[["The_Lorax", "Dr._Seuss", "New_York_City", "Microraptor"], ["The_Lorax", "Corporation", "New_York_City", "Microraptor"], ["The_Lorax", "Theodore_Roosevelt", "New_York_City", "Microraptor"], ["The_Lorax", "Biodiversity", "Bird", "Microraptor"], ["The_Lorax", "Smog", "Beijing", "Microraptor"]]

@@ -1,1 +1,0 @@
-[["Planetary_nebula", "Astronomy", "Full_moon"], ["Planetary_nebula", "Crab_Nebula", "Full_moon"], ["Planetary_nebula", "Sun", "Full_moon"]]

@@ -1,1 +1,0 @@
-[["Luftwaffe", "London", "Niels_Bohr"], ["Luftwaffe", "England", "Niels_Bohr"], ["Luftwaffe", "United_States", "Niels_Bohr"], ["Luftwaffe", "World_War_II", "Niels_Bohr"], ["Luftwaffe", "Nazi_Germany", "Niels_Bohr"]]

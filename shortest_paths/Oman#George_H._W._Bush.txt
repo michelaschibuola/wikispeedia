@@ -1,1 +1,0 @@
-[["Oman", "Iran", "George_H._W._Bush"], ["Oman", "George_W._Bush", "George_H._W._Bush"], ["Oman", "Saudi_Arabia", "George_H._W._Bush"]]

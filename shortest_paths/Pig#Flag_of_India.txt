@@ -1,1 +1,0 @@
-[["Pig", "Islam", "Flag_of_India"], ["Pig", "Hinduism", "Flag_of_India"]]

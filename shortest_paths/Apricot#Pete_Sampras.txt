@@ -1,1 +1,0 @@
-[["Apricot", "Anemia", "Pete_Sampras"], ["Apricot", "Australia", "Pete_Sampras"], ["Apricot", "California", "Pete_Sampras"], ["Apricot", "China", "Pete_Sampras"], ["Apricot", "United_States", "Pete_Sampras"], ["Apricot", "San_Jose%2C_California", "Pete_Sampras"]]

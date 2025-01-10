@@ -1,1 +1,0 @@
-[["Scouting", "Argentina", "Snow"], ["Scouting", "Chile", "Snow"], ["Scouting", "England", "Snow"], ["Scouting", "Finland", "Snow"], ["Scouting", "South_Africa", "Snow"], ["Scouting", "United_States", "Snow"]]

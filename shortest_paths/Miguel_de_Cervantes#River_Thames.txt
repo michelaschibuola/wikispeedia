@@ -1,1 +1,0 @@
-[["Miguel_de_Cervantes", "20th_century", "River_Thames"], ["Miguel_de_Cervantes", "Charles_Dickens", "River_Thames"], ["Miguel_de_Cervantes", "Renaissance", "River_Thames"], ["Miguel_de_Cervantes", "Spanish_Armada", "River_Thames"]]

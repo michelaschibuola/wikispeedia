@@ -1,1 +1,0 @@
-[["Mary_Seacole", "London", "Wernher_von_Braun"], ["Mary_Seacole", "United_States", "Wernher_von_Braun"]]

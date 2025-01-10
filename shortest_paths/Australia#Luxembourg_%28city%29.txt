@@ -1,1 +1,0 @@
-[["Australia", "France", "Luxembourg_%28city%29"], ["Australia", "United_Kingdom", "Luxembourg_%28city%29"], ["Australia", "World_War_I", "Luxembourg_%28city%29"], ["Australia", "German_language", "Luxembourg_%28city%29"], ["Australia", "Gibraltar", "Luxembourg_%28city%29"], ["Australia", "Paris", "Luxembourg_%28city%29"], ["Australia", "Spain", "Luxembourg_%28city%29"]]

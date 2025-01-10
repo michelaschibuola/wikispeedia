@@ -1,1 +1,0 @@
-[["Myanmar", "Asia", "Louis_XIV_of_France"], ["Myanmar", "China", "Louis_XIV_of_France"], ["Myanmar", "France", "Louis_XIV_of_France"], ["Myanmar", "Qing_Dynasty", "Louis_XIV_of_France"], ["Myanmar", "United_States", "Louis_XIV_of_France"]]

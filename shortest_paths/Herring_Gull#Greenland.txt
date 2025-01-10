@@ -1,1 +1,0 @@
-[["Herring_Gull", "Arctic_Tern", "Greenland"], ["Herring_Gull", "Europe", "Greenland"], ["Herring_Gull", "North_America", "Greenland"]]

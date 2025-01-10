@@ -1,1 +1,0 @@
-[["Bill_Gates", "Brazil", "Atlanta%2C_Georgia"], ["Bill_Gates", "Dallas%2C_Texas", "Atlanta%2C_Georgia"], ["Bill_Gates", "Japan", "Atlanta%2C_Georgia"], ["Bill_Gates", "Seattle%2C_Washington", "Atlanta%2C_Georgia"], ["Bill_Gates", "United_Kingdom", "Atlanta%2C_Georgia"], ["Bill_Gates", "United_States", "Atlanta%2C_Georgia"]]

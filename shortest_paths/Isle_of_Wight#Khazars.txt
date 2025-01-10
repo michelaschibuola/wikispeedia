@@ -1,1 +1,0 @@
-[["Isle_of_Wight", "Great_Britain", "Khazars"], ["Isle_of_Wight", "Christianity", "Khazars"], ["Isle_of_Wight", "Latin", "Khazars"]]

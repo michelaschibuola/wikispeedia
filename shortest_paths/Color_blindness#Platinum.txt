@@ -1,1 +1,0 @@
-[["Color_blindness", "Color", "Platinum"], ["Color_blindness", "18th_century", "Platinum"], ["Color_blindness", "DNA", "Platinum"]]

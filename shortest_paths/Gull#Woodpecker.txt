@@ -1,1 +1,0 @@
-[["Gull", "Bird", "Woodpecker"], ["Gull", "Extinct_birds", "Woodpecker"], ["Gull", "Animal", "Woodpecker"], ["Gull", "Chordate", "Woodpecker"], ["Gull", "Scientific_classification", "Woodpecker"], ["Gull", "United_States", "Woodpecker"]]

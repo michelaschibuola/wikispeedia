@@ -1,1 +1,0 @@
-[["Cryptography", "Germany", "AK-47"], ["Cryptography", "People%27s_Republic_of_China", "AK-47"], ["Cryptography", "Russia", "AK-47"], ["Cryptography", "United_Kingdom", "AK-47"], ["Cryptography", "World_War_II", "AK-47"]]

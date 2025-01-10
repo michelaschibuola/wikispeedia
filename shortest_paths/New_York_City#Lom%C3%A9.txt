@@ -1,1 +1,0 @@
-[["New_York_City", "Atlantic_Ocean", "Lom%C3%A9"], ["New_York_City", "United_Kingdom", "Lom%C3%A9"], ["New_York_City", "United_States", "Lom%C3%A9"]]

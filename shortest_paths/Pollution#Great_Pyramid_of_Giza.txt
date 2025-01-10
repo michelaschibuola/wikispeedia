@@ -1,1 +1,0 @@
-[["Pollution", "Egypt", "Great_Pyramid_of_Giza"], ["Pollution", "Greece", "Great_Pyramid_of_Giza"], ["Pollution", "Mexico", "Great_Pyramid_of_Giza"]]

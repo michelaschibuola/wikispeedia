@@ -1,1 +1,0 @@
-[["Portuguese_language", "Africa", "Fauna_of_Australia"], ["Portuguese_language", "North_America", "Fauna_of_Australia"], ["Portuguese_language", "India", "Fauna_of_Australia"], ["Portuguese_language", "Indonesia", "Fauna_of_Australia"], ["Portuguese_language", "South_America", "Fauna_of_Australia"]]

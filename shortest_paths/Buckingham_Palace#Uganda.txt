@@ -1,1 +1,0 @@
-[["Buckingham_Palace", "British_Empire", "Uganda"], ["Buckingham_Palace", "France", "Uganda"], ["Buckingham_Palace", "Russia", "Uganda"], ["Buckingham_Palace", "Commonwealth_Games", "Uganda"], ["Buckingham_Palace", "United_Kingdom", "Uganda"]]

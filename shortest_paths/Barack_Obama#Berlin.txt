@@ -1,1 +1,0 @@
-[["Barack_Obama", "Indonesia", "Berlin"], ["Barack_Obama", "Jakarta", "Berlin"], ["Barack_Obama", "Jew", "Berlin"], ["Barack_Obama", "Russia", "Berlin"], ["Barack_Obama", "United_Nations", "Berlin"], ["Barack_Obama", "World_War_II", "Berlin"]]

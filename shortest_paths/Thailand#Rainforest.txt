@@ -1,1 +1,0 @@
-[["Thailand", "Asia", "Rainforest"], ["Thailand", "Georgia_%28country%29", "Rainforest"], ["Thailand", "Myanmar", "Rainforest"], ["Thailand", "Arable_land", "Rainforest"], ["Thailand", "Climate", "Rainforest"], ["Thailand", "Europe", "Rainforest"], ["Thailand", "United_States", "Rainforest"]]

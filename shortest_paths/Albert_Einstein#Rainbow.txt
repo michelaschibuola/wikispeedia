@@ -1,1 +1,0 @@
-[["Albert_Einstein", "Alan_Turing", "Rainbow"], ["Albert_Einstein", "Italy", "Rainbow"], ["Albert_Einstein", "Light", "Rainbow"], ["Albert_Einstein", "Speed_of_light", "Rainbow"], ["Albert_Einstein", "Wave", "Rainbow"], ["Albert_Einstein", "Sun", "Rainbow"], ["Albert_Einstein", "Wave%E2%80%93particle_duality", "Rainbow"]]

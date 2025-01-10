@@ -1,1 +1,0 @@
-[["Mestizo", "Canada", "Moon"], ["Mestizo", "Japan", "Moon"], ["Mestizo", "People%27s_Republic_of_China", "Moon"], ["Mestizo", "United_States", "Moon"]]

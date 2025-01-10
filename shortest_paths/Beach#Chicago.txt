@@ -1,1 +1,0 @@
-[["Beach", "Athens", "Chicago"], ["Beach", "Paris", "Chicago"], ["Beach", "Park", "Chicago"], ["Beach", "Los_Angeles%2C_California", "Chicago"]]

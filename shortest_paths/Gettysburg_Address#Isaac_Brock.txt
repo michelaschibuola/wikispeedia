@@ -1,1 +1,0 @@
-[["Gettysburg_Address", "President_of_the_United_States", "Isaac_Brock"], ["Gettysburg_Address", "United_States", "Isaac_Brock"], ["Gettysburg_Address", "Manifest_Destiny", "Isaac_Brock"]]

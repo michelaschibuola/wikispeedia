@@ -1,1 +1,0 @@
-[["Basel", "France", "Thomas_Edison"], ["Basel", "Germany", "Thomas_Edison"]]

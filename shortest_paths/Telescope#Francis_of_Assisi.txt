@@ -1,1 +1,0 @@
-[["Telescope", "France", "Francis_of_Assisi"], ["Telescope", "Spain", "Francis_of_Assisi"]]

@@ -1,1 +1,0 @@
-[["Formula_One", "France", "Claudius"], ["Formula_One", "World_War_II", "Claudius"]]

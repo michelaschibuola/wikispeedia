@@ -1,1 +1,0 @@
-[["Topology", "Geometry", "Light"], ["Topology", "Leonhard_Euler", "Light"], ["Topology", "Latin", "Light"]]

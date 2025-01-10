@@ -1,1 +1,0 @@
-[["Sea", "Caribbean_Sea", "India"], ["Sea", "Flood", "India"], ["Sea", "Geography_of_India", "India"], ["Sea", "River", "India"], ["Sea", "Bay_of_Bengal", "India"], ["Sea", "Turkey", "India"], ["Sea", "Sino-Roman_relations", "India"], ["Sea", "Water", "India"]]

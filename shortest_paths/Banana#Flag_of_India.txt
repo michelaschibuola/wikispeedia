@@ -1,1 +1,0 @@
-[["Banana", "India", "Flag_of_India"], ["Banana", "Islam", "Flag_of_India"], ["Banana", "United_States", "Flag_of_India"]]

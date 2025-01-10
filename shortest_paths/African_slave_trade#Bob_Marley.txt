@@ -1,1 +1,0 @@
-[["African_slave_trade", "United_Kingdom", "Bob_Marley"], ["African_slave_trade", "United_States", "Bob_Marley"]]

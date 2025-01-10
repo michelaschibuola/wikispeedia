@@ -1,1 +1,0 @@
-[["Barbary_Macaque", "Animal", "Elephant_shrew"], ["Barbary_Macaque", "Mammal", "Elephant_shrew"], ["Barbary_Macaque", "Scientific_classification", "Elephant_shrew"]]

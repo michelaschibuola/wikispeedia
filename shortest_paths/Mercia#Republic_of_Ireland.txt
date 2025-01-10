@@ -1,1 +1,0 @@
-[["Mercia", "British_Isles", "Republic_of_Ireland"], ["Mercia", "British_monarchy", "Republic_of_Ireland"], ["Mercia", "England", "Republic_of_Ireland"], ["Mercia", "United_Kingdom", "Republic_of_Ireland"]]

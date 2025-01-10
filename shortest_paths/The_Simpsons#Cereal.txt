@@ -1,1 +1,0 @@
-[["The_Simpsons", "Doom", "Cereal"], ["The_Simpsons", "Australia", "Cereal"], ["The_Simpsons", "Europe", "Cereal"], ["The_Simpsons", "New_Zealand", "Cereal"], ["The_Simpsons", "North_America", "Cereal"], ["The_Simpsons", "United_Kingdom", "Cereal"], ["The_Simpsons", "United_Nations", "Cereal"], ["The_Simpsons", "United_States", "Cereal"]]

@@ -1,1 +1,0 @@
-[["Spanish_Armada", "18th_century", "Religious_Society_of_Friends"], ["Spanish_Armada", "England", "Religious_Society_of_Friends"], ["Spanish_Armada", "Ireland", "Religious_Society_of_Friends"]]

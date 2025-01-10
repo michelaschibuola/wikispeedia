@@ -1,1 +1,0 @@
-[["Vietnam", "French_language", "Edward_VII_of_the_United_Kingdom"], ["Vietnam", "Perth%2C_Western_Australia", "Edward_VII_of_the_United_Kingdom"], ["Vietnam", "France", "Edward_VII_of_the_United_Kingdom"]]

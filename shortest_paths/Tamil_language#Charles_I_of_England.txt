@@ -1,1 +1,0 @@
-[["Tamil_language", "England", "Charles_I_of_England"], ["Tamil_language", "Australia", "Charles_I_of_England"], ["Tamil_language", "Canada", "Charles_I_of_England"], ["Tamil_language", "United_States", "Charles_I_of_England"]]

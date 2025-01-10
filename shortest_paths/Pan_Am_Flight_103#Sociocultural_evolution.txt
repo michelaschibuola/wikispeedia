@@ -1,1 +1,0 @@
-[["Pan_Am_Flight_103", "England", "Sociocultural_evolution"], ["Pan_Am_Flight_103", "United_States", "Sociocultural_evolution"]]

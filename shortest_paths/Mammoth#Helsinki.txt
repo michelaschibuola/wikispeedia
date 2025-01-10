@@ -1,1 +1,0 @@
-[["Mammoth", "Europe", "Helsinki"], ["Mammoth", "North_America", "Helsinki"], ["Mammoth", "Saint_Petersburg", "Helsinki"], ["Mammoth", "World_War_II", "Helsinki"]]

@@ -1,1 +1,0 @@
-[["Automobile", "Aluminium", "Bromine"], ["Automobile", "Alcohol", "Bromine"], ["Automobile", "United_States", "Bromine"], ["Automobile", "Industry", "Bromine"]]

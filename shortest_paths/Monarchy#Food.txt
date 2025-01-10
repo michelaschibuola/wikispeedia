@@ -1,1 +1,0 @@
-[["Monarchy", "Judaism", "Food"], ["Monarchy", "Agriculture", "Food"], ["Monarchy", "Andorra", "Food"], ["Monarchy", "Religion", "Food"], ["Monarchy", "South_Africa", "Food"], ["Monarchy", "War", "Food"], ["Monarchy", "Politics", "Food"], ["Monarchy", "Poverty", "Food"]]

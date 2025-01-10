@@ -1,1 +1,0 @@
-[["Oxygen", "Baltic_Sea", "Moscow"], ["Oxygen", "Diamond_simulant", "Moscow"], ["Oxygen", "Palladium", "Moscow"], ["Oxygen", "Pan_Am_Flight_103", "Moscow"], ["Oxygen", "Titanium", "Moscow"]]

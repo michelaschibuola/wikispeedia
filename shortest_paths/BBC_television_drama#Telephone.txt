@@ -1,1 +1,0 @@
-[["BBC_television_drama", "London", "Telephone"], ["BBC_television_drama", "Radio", "Telephone"], ["BBC_television_drama", "United_States", "Telephone"]]

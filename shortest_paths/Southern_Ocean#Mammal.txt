@@ -1,1 +1,0 @@
-[["Southern_Ocean", "Albatross", "Mammal"], ["Southern_Ocean", "Australia", "Mammal"], ["Southern_Ocean", "Earth", "Mammal"], ["Southern_Ocean", "Murray_River", "Mammal"], ["Southern_Ocean", "Right_whale", "Mammal"]]

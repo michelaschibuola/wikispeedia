@@ -1,1 +1,0 @@
-[["Bison", "Europe", "2005_Atlantic_hurricane_season", "Tropical_Storm_Zeta_%282005%29"], ["Bison", "Europe", "Tropical_cyclone", "Tropical_Storm_Zeta_%282005%29"], ["Bison", "North_America", "Bermuda", "Tropical_Storm_Zeta_%282005%29"]]

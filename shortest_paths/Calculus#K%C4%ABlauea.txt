@@ -1,1 +1,0 @@
-[["Calculus", "17th_century", "Pacific_Ocean", "K%C4%ABlauea"], ["Calculus", "Latin", "Pacific_Ocean", "K%C4%ABlauea"], ["Calculus", "Latin", "Volcano", "K%C4%ABlauea"]]

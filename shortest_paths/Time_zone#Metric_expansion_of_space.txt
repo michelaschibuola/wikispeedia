@@ -1,1 +1,0 @@
-[["Time_zone", "Time", "Metric_expansion_of_space"]]

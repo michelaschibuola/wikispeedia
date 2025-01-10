@@ -1,1 +1,0 @@
-[["Pope_Pius_XII", "France", "Tim_Henman"], ["Pope_Pius_XII", "Portugal", "Tim_Henman"], ["Pope_Pius_XII", "Vienna", "Tim_Henman"]]

@@ -1,1 +1,0 @@
-[["NATO", "France", "J._M._W._Turner"], ["NATO", "Paris", "J._M._W._Turner"], ["NATO", "Switzerland", "J._M._W._Turner"], ["NATO", "United_Kingdom", "J._M._W._Turner"]]

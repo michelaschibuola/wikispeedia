@@ -1,1 +1,0 @@
-[["Neil_Young", "Australia", "Natural_disaster"], ["Neil_Young", "Japan", "Natural_disaster"]]

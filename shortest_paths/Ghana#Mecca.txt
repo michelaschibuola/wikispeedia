@@ -1,1 +1,0 @@
-[["Ghana", "Ethiopia", "Mecca"], ["Ghana", "Malcolm_X", "Mecca"]]

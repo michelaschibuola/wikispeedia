@@ -1,1 +1,0 @@
-[["Lebanon", "English_language", "Pride_and_Prejudice"], ["Lebanon", "United_Kingdom", "Pride_and_Prejudice"]]

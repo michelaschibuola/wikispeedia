@@ -1,1 +1,0 @@
-[["Great_Lakes", "Atlantic_Ocean", "Concorde"], ["Great_Lakes", "Scotland", "Concorde"], ["Great_Lakes", "United_States", "Concorde"], ["Great_Lakes", "New_York_City", "Concorde"]]

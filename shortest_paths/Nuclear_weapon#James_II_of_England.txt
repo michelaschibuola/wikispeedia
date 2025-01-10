@@ -1,1 +1,0 @@
-[["Nuclear_weapon", "France", "James_II_of_England"], ["Nuclear_weapon", "Trafalgar_Square", "James_II_of_England"]]

@@ -1,1 +1,0 @@
-[["Dunnock", "Asia", "Egypt", "Hatshepsut"], ["Dunnock", "Europe", "Egypt", "Hatshepsut"], ["Dunnock", "Asia", "Syria", "Hatshepsut"], ["Dunnock", "Europe", "Syria", "Hatshepsut"], ["Dunnock", "Bird", "Garden", "Hatshepsut"], ["Dunnock", "Bird", "Minoan_civilization", "Hatshepsut"], ["Dunnock", "Europe", "New_York_City", "Hatshepsut"]]

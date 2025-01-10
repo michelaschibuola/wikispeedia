@@ -1,1 +1,0 @@
-[["Bee", "Agriculture", "Society", "Social_capital"], ["Bee", "Animal", "Community", "Social_capital"], ["Bee", "Plant", "Community", "Social_capital"], ["Bee", "Evolution", "Sociology", "Social_capital"], ["Bee", "Spider", "Guild", "Social_capital"]]

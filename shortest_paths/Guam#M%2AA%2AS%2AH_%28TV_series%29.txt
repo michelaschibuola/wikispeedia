@@ -1,1 +1,0 @@
-[["Guam", "Korea", "M%2AA%2AS%2AH_%28TV_series%29"], ["Guam", "United_States", "M%2AA%2AS%2AH_%28TV_series%29"], ["Guam", "World_War_II", "M%2AA%2AS%2AH_%28TV_series%29"], ["Guam", "Seoul", "M%2AA%2AS%2AH_%28TV_series%29"]]

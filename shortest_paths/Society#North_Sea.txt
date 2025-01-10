@@ -1,1 +1,0 @@
-[["Society", "Modern_history", "North_Sea"], ["Society", "Petroleum", "North_Sea"], ["Society", "France", "North_Sea"], ["Society", "United_Kingdom", "North_Sea"]]

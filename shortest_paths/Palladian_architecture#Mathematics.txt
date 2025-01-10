@@ -1,1 +1,0 @@
-[["Palladian_architecture", "Bath%2C_Somerset", "Mathematics"], ["Palladian_architecture", "Architecture", "Mathematics"], ["Palladian_architecture", "Renaissance", "Mathematics"]]

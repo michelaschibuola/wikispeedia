@@ -1,1 +1,0 @@
-[["Salvador_Dal%C3%AD", "Paris", "Western_Front_%28World_War_I%29"], ["Salvador_Dal%C3%AD", "France", "Western_Front_%28World_War_I%29"], ["Salvador_Dal%C3%AD", "Russia", "Western_Front_%28World_War_I%29"], ["Salvador_Dal%C3%AD", "United_States", "Western_Front_%28World_War_I%29"]]

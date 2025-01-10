@@ -1,1 +1,0 @@
-[["Wall_Street", "17th_century", "Zambia"], ["Wall_Street", "Jew", "Zambia"], ["Wall_Street", "United_Kingdom", "Zambia"]]

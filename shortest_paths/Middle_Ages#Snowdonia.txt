@@ -1,1 +1,0 @@
-[["Middle_Ages", "Agriculture", "Snowdonia"], ["Middle_Ages", "England", "Snowdonia"], ["Middle_Ages", "Llandudno", "Snowdonia"], ["Middle_Ages", "English_language", "Snowdonia"]]

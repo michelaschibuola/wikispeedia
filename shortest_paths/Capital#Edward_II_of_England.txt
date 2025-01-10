@@ -1,1 +1,0 @@
-[["Capital", "France", "Edward_II_of_England"], ["Capital", "Scotland", "Edward_II_of_England"]]

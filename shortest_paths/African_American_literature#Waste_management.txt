@@ -1,1 +1,0 @@
-[["African_American_literature", "Aesthetics", "Waste_management"], ["African_American_literature", "France", "Waste_management"], ["African_American_literature", "United_States", "Waste_management"]]

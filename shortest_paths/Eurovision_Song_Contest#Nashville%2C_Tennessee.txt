@@ -1,1 +1,0 @@
-[["Eurovision_Song_Contest", "Australia", "Nashville%2C_Tennessee"], ["Eurovision_Song_Contest", "Canada", "Nashville%2C_Tennessee"], ["Eurovision_Song_Contest", "Germany", "Nashville%2C_Tennessee"], ["Eurovision_Song_Contest", "United_Kingdom", "Nashville%2C_Tennessee"], ["Eurovision_Song_Contest", "United_States", "Nashville%2C_Tennessee"]]

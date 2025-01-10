@@ -1,1 +1,0 @@
-[["Culture", "Europe", "Flood"], ["Culture", "Korea", "Flood"], ["Culture", "United_States", "Flood"], ["Culture", "Egypt", "Flood"], ["Culture", "England", "Flood"], ["Culture", "London", "Flood"]]

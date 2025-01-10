@@ -1,1 +1,0 @@
-[["Timur", "China", "Taipei"], ["Timur", "Russia", "Taipei"]]

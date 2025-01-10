@@ -1,1 +1,0 @@
-[["London", "Football_%28soccer%29", "Diego_Maradona"], ["London", "Internet", "Diego_Maradona"]]

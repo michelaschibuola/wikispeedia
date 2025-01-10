@@ -1,1 +1,0 @@
-[["Christian_monasticism", "Latin", "Geneva"], ["Christian_monasticism", "Marseille", "Geneva"], ["Christian_monasticism", "Syria", "Geneva"]]

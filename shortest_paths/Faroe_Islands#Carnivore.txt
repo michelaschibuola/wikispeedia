@@ -1,1 +1,0 @@
-[["Faroe_Islands", "Europe", "Carnivore"], ["Faroe_Islands", "Fish", "Carnivore"]]

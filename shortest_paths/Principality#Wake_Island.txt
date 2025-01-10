@@ -1,1 +1,0 @@
-[["Principality", "Germany", "Wake_Island"], ["Principality", "World_War_II", "Wake_Island"]]

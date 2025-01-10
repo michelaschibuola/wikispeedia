@@ -1,1 +1,0 @@
-[["Computer_science", "Brain", "Animal", "Harrier_Hawk"], ["Computer_science", "DNA", "Animal", "Harrier_Hawk"], ["Computer_science", "Psychology", "Animal", "Harrier_Hawk"], ["Computer_science", "Brain", "Chordate", "Harrier_Hawk"], ["Computer_science", "Abacus", "Africa", "Harrier_Hawk"], ["Computer_science", "Language", "Africa", "Harrier_Hawk"]]

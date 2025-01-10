@@ -1,1 +1,0 @@
-[["Qatar", "Helium", "Tiger_Woods"], ["Qatar", "United_States", "Tiger_Woods"]]

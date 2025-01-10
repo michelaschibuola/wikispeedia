@@ -1,1 +1,0 @@
-[["Bob_Dylan", "Australia", "Kiribati"], ["Bob_Dylan", "United_States", "Kiribati"]]

@@ -1,1 +1,0 @@
-[["Scouting", "Canada", "Peace"], ["Scouting", "Japan", "Peace"], ["Scouting", "New_Zealand", "Peace"], ["Scouting", "Norway", "Peace"], ["Scouting", "Sweden", "Peace"], ["Scouting", "United_States", "Peace"], ["Scouting", "World_War_II", "Peace"]]

@@ -1,1 +1,0 @@
-[["Boron", "California", "1980_eruption_of_Mount_St._Helens"], ["Boron", "Energy", "1980_eruption_of_Mount_St._Helens"], ["Boron", "Ocean", "1980_eruption_of_Mount_St._Helens"], ["Boron", "United_States", "1980_eruption_of_Mount_St._Helens"], ["Boron", "Volcano", "1980_eruption_of_Mount_St._Helens"], ["Boron", "Carbon_dioxide", "1980_eruption_of_Mount_St._Helens"]]

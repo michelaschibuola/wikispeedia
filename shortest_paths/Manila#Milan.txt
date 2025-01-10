@@ -1,1 +1,0 @@
-[["Manila", "Global_city", "Milan"], ["Manila", "England", "Milan"], ["Manila", "France", "Milan"], ["Manila", "Paris", "Milan"], ["Manila", "Shanghai", "Milan"], ["Manila", "Tokyo", "Milan"], ["Manila", "Osaka", "Milan"]]

@@ -1,1 +1,0 @@
-[["BASIC", "Computer", "Energy", "Superconductivity"], ["BASIC", "Computer", "Gold", "Superconductivity"], ["BASIC", "Computer", "Physics", "Superconductivity"], ["BASIC", "Computer", "Quantum_mechanics", "Superconductivity"], ["BASIC", "Computer", "Semiconductor", "Superconductivity"]]

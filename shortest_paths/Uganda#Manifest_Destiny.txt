@@ -1,1 +1,0 @@
-[["Uganda", "British_Empire", "Manifest_Destiny"], ["Uganda", "Canada", "Manifest_Destiny"], ["Uganda", "Democracy", "Manifest_Destiny"], ["Uganda", "Spain", "Manifest_Destiny"], ["Uganda", "United_States", "Manifest_Destiny"]]

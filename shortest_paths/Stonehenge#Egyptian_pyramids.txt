@@ -1,1 +1,0 @@
-[["Stonehenge", "Archaeoastronomy", "Egyptian_pyramids"], ["Stonehenge", "Archaeology", "Egyptian_pyramids"]]

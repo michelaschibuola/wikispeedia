@@ -1,1 +1,0 @@
-[["Language", "Animal_rights", "Paul_McCartney"], ["Language", "Bertrand_Russell", "Paul_McCartney"], ["Language", "William_Shakespeare", "Paul_McCartney"]]

@@ -1,1 +1,0 @@
-[["Niger", "Iraq_and_weapons_of_mass_destruction", "Bill_Clinton", "Dennis_Ritchie"], ["Niger", "United_Nations", "Bill_Clinton", "Dennis_Ritchie"], ["Niger", "United_States", "Bill_Clinton", "Dennis_Ritchie"], ["Niger", "Gold", "Physics", "Dennis_Ritchie"], ["Niger", "Italy", "Physics", "Dennis_Ritchie"]]

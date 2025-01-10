@@ -1,1 +1,0 @@
-[["Leonhard_Euler", "Basel", "Rotterdam"], ["Leonhard_Euler", "Saint_Petersburg", "Rotterdam"]]

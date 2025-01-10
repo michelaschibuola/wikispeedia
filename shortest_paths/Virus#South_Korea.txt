@@ -1,1 +1,0 @@
-[["Virus", "Global_spread_of_H5N1", "South_Korea"], ["Virus", "Shrimp_farm", "South_Korea"], ["Virus", "Football_%28soccer%29", "South_Korea"], ["Virus", "World_Health_Organization", "South_Korea"]]

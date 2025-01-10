@@ -1,1 +1,0 @@
-[["T-34", "Berlin", "Poison_gas_in_World_War_I"], ["T-34", "Ethiopia", "Poison_gas_in_World_War_I"], ["T-34", "Germany", "Poison_gas_in_World_War_I"], ["T-34", "Iraq", "Poison_gas_in_World_War_I"], ["T-34", "Libya", "Poison_gas_in_World_War_I"], ["T-34", "Pneumonia", "Poison_gas_in_World_War_I"]]

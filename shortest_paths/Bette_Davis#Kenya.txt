@@ -1,1 +1,0 @@
-[["Bette_Davis", "Australia", "Kenya"], ["Bette_Davis", "England", "Kenya"], ["Bette_Davis", "Europe", "Kenya"], ["Bette_Davis", "France", "Kenya"], ["Bette_Davis", "United_States", "Kenya"]]

@@ -1,1 +1,0 @@
-[["Common_cold", "Chicken", "Buddha"], ["Common_cold", "Honey", "Buddha"]]

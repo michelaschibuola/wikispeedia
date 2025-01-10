@@ -1,1 +1,0 @@
-[["Ringed_Plover", "Africa", "Vole"], ["Ringed_Plover", "Animal", "Vole"], ["Ringed_Plover", "Chordate", "Vole"], ["Ringed_Plover", "Europe", "Vole"], ["Ringed_Plover", "Scientific_classification", "Vole"]]

@@ -1,1 +1,0 @@
-[["Mount_Everest", "China", "Zionism"], ["Mount_Everest", "South_Africa", "Zionism"], ["Mount_Everest", "Switzerland", "Zionism"], ["Mount_Everest", "United_Kingdom", "Zionism"], ["Mount_Everest", "United_States", "Zionism"]]

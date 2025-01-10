@@ -1,1 +1,0 @@
-[["Chicken", "Animal", "Giant_Panda"], ["Chicken", "China", "Giant_Panda"], ["Chicken", "Chordate", "Giant_Panda"], ["Chicken", "Egg_%28food%29", "Giant_Panda"], ["Chicken", "France", "Giant_Panda"], ["Chicken", "Japan", "Giant_Panda"], ["Chicken", "Scientific_classification", "Giant_Panda"], ["Chicken", "United_States", "Giant_Panda"]]

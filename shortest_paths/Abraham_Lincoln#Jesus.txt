@@ -1,1 +1,0 @@
-[["Abraham_Lincoln", "19th_century", "Jesus"], ["Abraham_Lincoln", "American_Civil_War", "Jesus"], ["Abraham_Lincoln", "Bible", "Jesus"], ["Abraham_Lincoln", "Thomas_Jefferson", "Jesus"]]

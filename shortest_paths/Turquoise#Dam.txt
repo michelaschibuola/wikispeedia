@@ -1,1 +1,0 @@
-[["Turquoise", "France", "Dam"], ["Turquoise", "Indus_Valley_Civilization", "Dam"], ["Turquoise", "Iran", "Dam"], ["Turquoise", "Mining", "Dam"]]

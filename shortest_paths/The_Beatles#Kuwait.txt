@@ -1,1 +1,0 @@
-[["The_Beatles", "Argentina", "Kuwait"], ["The_Beatles", "India", "Kuwait"], ["The_Beatles", "United_Kingdom", "Kuwait"], ["The_Beatles", "United_States", "Kuwait"]]

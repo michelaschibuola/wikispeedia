@@ -1,1 +1,0 @@
-[["Butter", "Asia", "Computer"], ["Butter", "Middle_Ages", "Computer"], ["Butter", "United_Kingdom", "Computer"]]

@@ -1,1 +1,0 @@
-[["Sulfuric_acid", "Birmingham", "The_Lord_of_the_Rings"], ["Sulfuric_acid", "United_States", "The_Lord_of_the_Rings"]]

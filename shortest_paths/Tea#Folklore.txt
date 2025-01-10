@@ -1,1 +1,0 @@
-[["Tea", "Tamil_people", "Folklore"], ["Tea", "Europe", "Folklore"], ["Tea", "Nepal", "Folklore"]]

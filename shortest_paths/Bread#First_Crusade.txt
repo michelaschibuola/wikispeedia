@@ -1,1 +1,0 @@
-[["Bread", "Europe", "First_Crusade"], ["Bread", "Jew", "First_Crusade"], ["Bread", "Middle_Ages", "First_Crusade"]]

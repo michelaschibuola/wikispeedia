@@ -1,1 +1,0 @@
-[["Eldfell", "Europe", "London"], ["Eldfell", "Paris", "London"], ["Eldfell", "Tourism", "London"], ["Eldfell", "United_States_dollar", "London"], ["Eldfell", "Viking", "London"]]

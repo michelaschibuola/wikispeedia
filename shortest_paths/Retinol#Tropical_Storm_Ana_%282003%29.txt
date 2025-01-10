@@ -1,1 +1,0 @@
-[["Retinol", "Antarctica", "Atlantic_Ocean", "Tropical_Storm_Ana_%282003%29"], ["Retinol", "Fruit", "Florida", "Tropical_Storm_Ana_%282003%29"]]

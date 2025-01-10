@@ -1,1 +1,0 @@
-[["Electric_charge", "Glass", "Carbon_dioxide"], ["Electric_charge", "Helium", "Carbon_dioxide"], ["Electric_charge", "Michael_Faraday", "Carbon_dioxide"], ["Electric_charge", "Energy", "Carbon_dioxide"], ["Electric_charge", "Photon", "Carbon_dioxide"]]

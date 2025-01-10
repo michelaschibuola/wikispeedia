@@ -1,1 +1,0 @@
-[["Middle_East", "George_W._Bush", "John_Adams"], ["Middle_East", "Jimmy_Carter", "John_Adams"], ["Middle_East", "Manifest_Destiny", "John_Adams"], ["Middle_East", "Democracy", "John_Adams"], ["Middle_East", "France", "John_Adams"], ["Middle_East", "United_States", "John_Adams"]]

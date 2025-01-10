@@ -1,1 +1,0 @@
-[["Hurricane_Vince_%282005%29", "Portugal", "China", "Jiaogulan"], ["Hurricane_Vince_%282005%29", "Tropical_cyclone", "China", "Jiaogulan"], ["Hurricane_Vince_%282005%29", "Portugal", "Japan", "Jiaogulan"], ["Hurricane_Vince_%282005%29", "Tropical_cyclone", "Japan", "Jiaogulan"], ["Hurricane_Vince_%282005%29", "Portugal", "Tea", "Jiaogulan"]]

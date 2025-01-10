@@ -1,1 +1,0 @@
-[["Guinea-Bissau", "18th_century", "Tibet"], ["Guinea-Bissau", "19th_century", "Tibet"]]

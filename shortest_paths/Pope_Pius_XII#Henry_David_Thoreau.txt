@@ -1,1 +1,0 @@
-[["Pope_Pius_XII", "Evolution", "Henry_David_Thoreau"], ["Pope_Pius_XII", "Philosophy", "Henry_David_Thoreau"], ["Pope_Pius_XII", "United_States", "Henry_David_Thoreau"]]

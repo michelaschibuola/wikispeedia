@@ -1,1 +1,0 @@
-[["Cricket", "English_language", "Deity"], ["Cricket", "Isan", "Deity"], ["Cricket", "Tuatara", "Deity"]]

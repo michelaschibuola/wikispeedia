@@ -1,1 +1,0 @@
-[["Season", "England", "Edward_the_Confessor"], ["Season", "Denmark", "Edward_the_Confessor"]]

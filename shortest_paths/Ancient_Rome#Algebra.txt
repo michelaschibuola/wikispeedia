@@ -1,1 +1,0 @@
-[["Ancient_Rome", "Ancient_Egypt", "Algebra"], ["Ancient_Rome", "Age_of_Enlightenment", "Algebra"], ["Ancient_Rome", "Iran", "Algebra"], ["Ancient_Rome", "Latin", "Algebra"]]

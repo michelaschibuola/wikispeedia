@@ -1,1 +1,0 @@
-[["Giant_Panda", "20th_century", "Book"], ["Giant_Panda", "China", "Book"]]

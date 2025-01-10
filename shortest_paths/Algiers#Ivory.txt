@@ -1,1 +1,0 @@
-[["Algiers", "Ancient_Rome", "Ivory"]]

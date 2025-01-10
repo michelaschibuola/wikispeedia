@@ -1,1 +1,0 @@
-[["Bolivia", "Football_%28soccer%29", "Norwich"], ["Bolivia", "Painting", "Norwich"], ["Bolivia", "Spain", "Norwich"], ["Bolivia", "United_States", "Norwich"], ["Bolivia", "Nicaragua", "Norwich"], ["Bolivia", "Religious_Society_of_Friends", "Norwich"]]

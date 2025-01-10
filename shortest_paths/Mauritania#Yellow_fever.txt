@@ -1,1 +1,0 @@
-[["Mauritania", "Africa", "Yellow_fever"], ["Mauritania", "Atlantic_Ocean", "Yellow_fever"], ["Mauritania", "France", "Yellow_fever"], ["Mauritania", "United_States", "Yellow_fever"]]

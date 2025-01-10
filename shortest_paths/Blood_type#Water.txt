@@ -1,1 +1,0 @@
-[["Blood_type", "Bacteria", "Water"], ["Blood_type", "Cholera", "Water"]]

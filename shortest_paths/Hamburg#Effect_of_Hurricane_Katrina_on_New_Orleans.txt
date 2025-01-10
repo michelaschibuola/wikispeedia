@@ -1,1 +1,0 @@
-[["Hamburg", "France", "Effect_of_Hurricane_Katrina_on_New_Orleans"], ["Hamburg", "United_States", "Effect_of_Hurricane_Katrina_on_New_Orleans"]]

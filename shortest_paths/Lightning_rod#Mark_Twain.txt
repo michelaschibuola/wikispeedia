@@ -1,1 +1,0 @@
-[["Lightning_rod", "19th_century", "Mark_Twain"], ["Lightning_rod", "Philadelphia", "Mark_Twain"], ["Lightning_rod", "United_States", "Mark_Twain"]]

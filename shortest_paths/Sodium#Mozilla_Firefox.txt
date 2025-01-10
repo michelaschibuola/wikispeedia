@@ -1,1 +1,0 @@
-[["Sodium", "Europe", "Mozilla_Firefox"]]

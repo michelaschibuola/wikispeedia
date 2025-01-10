@@ -1,1 +1,0 @@
-[["Clifton_Suspension_Bridge", "Egypt", "Ancient_Greece", "Perfect_number"], ["Clifton_Suspension_Bridge", "United_Kingdom", "Prime_number", "Perfect_number"]]

@@ -1,1 +1,0 @@
-[["3rd_century", "20th_century", "Swastika"], ["3rd_century", "Buddhism", "Swastika"], ["3rd_century", "India", "Swastika"], ["3rd_century", "Japan", "Swastika"], ["3rd_century", "North_America", "Swastika"], ["3rd_century", "Roman_Empire", "Swastika"], ["3rd_century", "Ukraine", "Swastika"], ["3rd_century", "Ancient_Greece", "Swastika"], ["3rd_century", "Jesus", "Swastika"]]

@@ -1,1 +1,0 @@
-[["Political_economy", "Capitalism", "Geography"], ["Political_economy", "Economics", "Geography"], ["Political_economy", "18th_century", "Geography"], ["Political_economy", "Anthropology", "Geography"], ["Political_economy", "Ecology", "Geography"], ["Political_economy", "Law", "Geography"], ["Political_economy", "Sociology", "Geography"]]

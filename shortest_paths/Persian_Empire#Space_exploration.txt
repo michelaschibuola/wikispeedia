@@ -1,1 +1,0 @@
-[["Persian_Empire", "Astronomy", "Space_exploration"], ["Persian_Empire", "History_of_the_world", "Space_exploration"], ["Persian_Empire", "Cold_War", "Space_exploration"], ["Persian_Empire", "Soviet_Union", "Space_exploration"]]

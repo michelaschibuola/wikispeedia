@@ -1,1 +1,0 @@
-[["Japanese_yen", "United_Kingdom", "Tony_Blair"], ["Japanese_yen", "United_States", "Tony_Blair"], ["Japanese_yen", "World_War_II", "Tony_Blair"]]

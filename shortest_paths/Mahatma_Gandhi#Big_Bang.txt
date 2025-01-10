@@ -1,1 +1,0 @@
-[["Mahatma_Gandhi", "Albert_Einstein", "Big_Bang"], ["Mahatma_Gandhi", "Hinduism", "Big_Bang"], ["Mahatma_Gandhi", "Buddhism", "Big_Bang"], ["Mahatma_Gandhi", "Christianity", "Big_Bang"], ["Mahatma_Gandhi", "God", "Big_Bang"], ["Mahatma_Gandhi", "Islam", "Big_Bang"], ["Mahatma_Gandhi", "Qur%27an", "Big_Bang"], ["Mahatma_Gandhi", "Religion", "Big_Bang"]]

@@ -1,1 +1,0 @@
-[["Sichuan_Pepper", "Fruit", "Oregon"], ["Sichuan_Pepper", "United_States", "Oregon"]]

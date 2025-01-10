@@ -1,1 +1,0 @@
-[["13th_century", "Hungary", "Color_blindness"], ["13th_century", "Scotland", "Color_blindness"], ["13th_century", "18th_century", "Color_blindness"], ["13th_century", "Finland", "Color_blindness"]]

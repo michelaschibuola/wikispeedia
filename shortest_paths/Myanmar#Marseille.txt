@@ -1,1 +1,0 @@
-[["Myanmar", "Amber", "Marseille"], ["Myanmar", "Armenia", "Marseille"], ["Myanmar", "France", "Marseille"], ["Myanmar", "Israel", "Marseille"], ["Myanmar", "List_of_countries", "Marseille"], ["Myanmar", "English_language", "Marseille"], ["Myanmar", "European_Union", "Marseille"], ["Myanmar", "World_War_II", "Marseille"]]

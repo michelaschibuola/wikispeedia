@@ -1,1 +1,0 @@
-[["Slavery", "19th_century", "Camel"], ["Slavery", "African_slave_trade", "Camel"], ["Slavery", "Radhanite", "Camel"], ["Slavery", "Scotland_in_the_High_Middle_Ages", "Camel"], ["Slavery", "Africa", "Camel"], ["Slavery", "Ancient_Greece", "Camel"], ["Slavery", "Ancient_Rome", "Camel"], ["Slavery", "Asia", "Camel"], ["Slavery", "Egypt", "Camel"], ["Slavery", "India", "Camel"]]

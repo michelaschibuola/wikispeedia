@@ -1,1 +1,0 @@
-[["Postage_stamp", "Europe", "Cairo"], ["Postage_stamp", "United_States", "Cairo"]]

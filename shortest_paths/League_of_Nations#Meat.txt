@@ -1,1 +1,0 @@
-[["League_of_Nations", "Ethiopia", "Meat"], ["League_of_Nations", "History_of_South_Africa", "Meat"], ["League_of_Nations", "Japan", "Meat"], ["League_of_Nations", "Finland", "Meat"], ["League_of_Nations", "Sweden", "Meat"], ["League_of_Nations", "United_States", "Meat"]]

@@ -1,1 +1,0 @@
-[["Slavery", "Rice", "Bran"], ["Slavery", "United_States", "Bran"]]

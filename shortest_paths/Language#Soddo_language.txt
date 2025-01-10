@@ -1,1 +1,0 @@
-[["Language", "English_language", "Soddo_language"], ["Language", "Vowel", "Soddo_language"]]

@@ -1,1 +1,0 @@
-[["BBC", "Europe", "Berlin_Wall"], ["BBC", "United_Kingdom", "Berlin_Wall"], ["BBC", "United_States", "Berlin_Wall"], ["BBC", "World_War_II", "Berlin_Wall"], ["BBC", "Condoleezza_Rice", "Berlin_Wall"], ["BBC", "Marshall_Plan", "Berlin_Wall"]]

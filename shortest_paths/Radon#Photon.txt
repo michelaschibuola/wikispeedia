@@ -1,1 +1,0 @@
-[["Radon", "Electron", "Photon"], ["Radon", "Magnetism", "Photon"], ["Radon", "Phase_%28matter%29", "Photon"]]

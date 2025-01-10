@@ -1,1 +1,0 @@
-[["Sulfuric_acid", "Ammonia", "Upsilon_Andromedae_d"], ["Sulfuric_acid", "Cloud", "Upsilon_Andromedae_d"], ["Sulfuric_acid", "Jupiter", "Upsilon_Andromedae_d"], ["Sulfuric_acid", "Water", "Upsilon_Andromedae_d"]]

@@ -1,1 +1,0 @@
-[["Rock_Pigeon", "House_Sparrow", "Automobile"], ["Rock_Pigeon", "Asia", "Automobile"], ["Rock_Pigeon", "Europe", "Automobile"], ["Rock_Pigeon", "Italy", "Automobile"]]

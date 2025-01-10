@@ -1,1 +1,0 @@
-[["Mauthausen-Gusen_concentration_camp", "German_language", "Chicago"], ["Mauthausen-Gusen_concentration_camp", "Germany", "Chicago"], ["Mauthausen-Gusen_concentration_camp", "Prague", "Chicago"], ["Mauthausen-Gusen_concentration_camp", "World_War_II", "Chicago"]]

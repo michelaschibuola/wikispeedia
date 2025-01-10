@@ -1,1 +1,0 @@
-[["Adenosine_triphosphate", "Mitochondrion", "Star_Wars", "DVD"], ["Adenosine_triphosphate", "Oxygen", "The_Temptations", "DVD"], ["Adenosine_triphosphate", "Oxygen", "The_West_Wing_%28TV_series%29", "DVD"], ["Adenosine_triphosphate", "Extraterrestrial_life", "Quatermass_and_the_Pit", "DVD"], ["Adenosine_triphosphate", "Extraterrestrial_life", "The_X-Files", "DVD"]]

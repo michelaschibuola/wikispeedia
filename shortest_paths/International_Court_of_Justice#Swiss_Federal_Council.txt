@@ -1,1 +1,0 @@
-[["International_Court_of_Justice", "French_language", "Swiss_Federal_Council"], ["International_Court_of_Justice", "Corporation", "Swiss_Federal_Council"], ["International_Court_of_Justice", "Switzerland", "Swiss_Federal_Council"]]

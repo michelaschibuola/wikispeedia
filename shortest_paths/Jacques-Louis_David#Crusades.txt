@@ -1,1 +1,0 @@
-[["Jacques-Louis_David", "Egypt", "Crusades"], ["Jacques-Louis_David", "France", "Crusades"], ["Jacques-Louis_David", "Napoleon_I_of_France", "Crusades"]]

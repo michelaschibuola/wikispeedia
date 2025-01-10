@@ -1,1 +1,0 @@
-[["Harare", "Capital", "Nauru"], ["Harare", "Time_zone", "Nauru"], ["Harare", "United_Kingdom", "Nauru"]]

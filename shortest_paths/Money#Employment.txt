@@ -1,1 +1,0 @@
-[["Money", "Business", "Employment"], ["Money", "Capitalism", "Employment"], ["Money", "Economics", "Employment"], ["Money", "Government", "Employment"]]

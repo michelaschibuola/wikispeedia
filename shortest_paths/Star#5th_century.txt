@@ -1,1 +1,0 @@
-[["Star", "2nd_century", "5th_century"], ["Star", "Light", "5th_century"]]

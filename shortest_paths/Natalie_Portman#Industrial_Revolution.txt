@@ -1,1 +1,0 @@
-[["Natalie_Portman", "Austria", "Industrial_Revolution"], ["Natalie_Portman", "England", "Industrial_Revolution"], ["Natalie_Portman", "Russia", "Industrial_Revolution"], ["Natalie_Portman", "United_States", "Industrial_Revolution"]]

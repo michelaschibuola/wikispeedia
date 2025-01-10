@@ -1,1 +1,0 @@
-[["Television", "Quatermass_and_the_Pit", "Genetics"], ["Television", "Iceland", "Genetics"], ["Television", "United_Kingdom", "Genetics"]]

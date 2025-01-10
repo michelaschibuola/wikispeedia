@@ -1,1 +1,0 @@
-[["Military_dictatorship", "China", "D%C3%BCsseldorf"], ["Military_dictatorship", "Israel", "D%C3%BCsseldorf"], ["Military_dictatorship", "Japan", "D%C3%BCsseldorf"]]

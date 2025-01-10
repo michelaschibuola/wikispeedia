@@ -1,1 +1,0 @@
-[["Absolute_zero", "Albert_Einstein", "Microscope", "Blood_type"], ["Absolute_zero", "Galileo_Galilei", "Microscope", "Blood_type"], ["Absolute_zero", "Atom", "Microscope", "Blood_type"]]

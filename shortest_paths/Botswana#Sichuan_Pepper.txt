@@ -1,1 +1,0 @@
-[["Botswana", "Africa", "Sichuan_Pepper"], ["Botswana", "United_States", "Sichuan_Pepper"]]

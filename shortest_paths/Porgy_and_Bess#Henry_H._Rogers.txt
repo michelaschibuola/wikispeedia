@@ -1,1 +1,0 @@
-[["Porgy_and_Bess", "Boston%2C_Massachusetts", "Henry_H._Rogers"], ["Porgy_and_Bess", "New_York_City", "Henry_H._Rogers"], ["Porgy_and_Bess", "United_States", "Henry_H._Rogers"]]

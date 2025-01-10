@@ -1,1 +1,0 @@
-[["Avro_Lancaster", "Australia", "Elvis_Presley"], ["Avro_Lancaster", "France", "Elvis_Presley"], ["Avro_Lancaster", "New_Zealand", "Elvis_Presley"], ["Avro_Lancaster", "United_Kingdom", "Elvis_Presley"], ["Avro_Lancaster", "World_War_II", "Elvis_Presley"]]

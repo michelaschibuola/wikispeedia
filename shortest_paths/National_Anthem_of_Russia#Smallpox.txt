@@ -1,1 +1,0 @@
-[["National_Anthem_of_Russia", "Joseph_Stalin", "Smallpox"], ["National_Anthem_of_Russia", "Russia", "Smallpox"], ["National_Anthem_of_Russia", "Soviet_Union", "Smallpox"], ["National_Anthem_of_Russia", "United_Kingdom", "Smallpox"]]

@@ -1,1 +1,0 @@
-[["Halloween", "George_W._Bush", "Hurricane_Charley"], ["Halloween", "United_States", "Hurricane_Charley"]]

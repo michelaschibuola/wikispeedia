@@ -1,1 +1,0 @@
-[["Francis_Bacon", "London", "Music_of_Ireland"]]

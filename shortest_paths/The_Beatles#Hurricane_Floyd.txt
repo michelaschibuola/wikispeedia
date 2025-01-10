@@ -1,1 +1,0 @@
-[["The_Beatles", "Canada", "Hurricane_Floyd"], ["The_Beatles", "The_Bahamas", "Hurricane_Floyd"], ["The_Beatles", "United_States", "Hurricane_Floyd"]]

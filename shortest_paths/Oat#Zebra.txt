@@ -1,1 +1,0 @@
-[["Oat", "Animal", "Zebra"], ["Oat", "Horse", "Zebra"], ["Oat", "Scientific_classification", "Zebra"]]

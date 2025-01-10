@@ -1,1 +1,0 @@
-[["Addis_Ababa", "Jew", "Latin_America"], ["Addis_Ababa", "Africa", "Latin_America"], ["Addis_Ababa", "Bah%C3%A1%27%C3%AD_Faith", "Latin_America"]]

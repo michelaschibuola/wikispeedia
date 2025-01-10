@@ -1,1 +1,0 @@
-[["Great_Britain", "United_Kingdom", "Wall_Street"], ["Great_Britain", "Netherlands", "Wall_Street"], ["Great_Britain", "Woodrow_Wilson", "Wall_Street"]]

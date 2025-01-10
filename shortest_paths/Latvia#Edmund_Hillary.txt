@@ -1,1 +1,0 @@
-[["Latvia", "United_Kingdom", "Edmund_Hillary"], ["Latvia", "World_War_II", "Edmund_Hillary"]]

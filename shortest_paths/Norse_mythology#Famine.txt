@@ -1,1 +1,0 @@
-[["Norse_mythology", "History_of_Greenland", "Famine"], ["Norse_mythology", "Iceland", "Famine"], ["Norse_mythology", "United_States", "Famine"]]

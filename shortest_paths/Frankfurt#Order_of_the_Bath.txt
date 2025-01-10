@@ -1,1 +1,0 @@
-[["Frankfurt", "France", "Order_of_the_Bath"], ["Frankfurt", "Napoleonic_Wars", "Order_of_the_Bath"], ["Frankfurt", "United_Kingdom", "Order_of_the_Bath"], ["Frankfurt", "World_War_II", "Order_of_the_Bath"]]

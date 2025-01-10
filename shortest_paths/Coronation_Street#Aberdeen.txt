@@ -1,1 +1,0 @@
-[["Coronation_Street", "England", "Aberdeen"], ["Coronation_Street", "Netherlands", "Aberdeen"], ["Coronation_Street", "United_Kingdom", "Aberdeen"], ["Coronation_Street", "Shetland", "Aberdeen"]]

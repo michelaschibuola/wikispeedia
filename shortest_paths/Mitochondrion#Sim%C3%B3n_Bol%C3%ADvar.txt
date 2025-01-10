@@ -1,1 +1,0 @@
-[["Mitochondrion", "Bacteria", "Tuberculosis", "Sim%C3%B3n_Bol%C3%ADvar"], ["Mitochondrion", "Evolution", "South_America", "Sim%C3%B3n_Bol%C3%ADvar"], ["Mitochondrion", "History_of_Earth", "South_America", "Sim%C3%B3n_Bol%C3%ADvar"]]

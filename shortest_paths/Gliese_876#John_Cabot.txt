@@ -1,1 +1,0 @@
-[["Gliese_876", "Day", "English_language", "John_Cabot"], ["Gliese_876", "Earth", "Canada", "John_Cabot"], ["Gliese_876", "Earth", "North_America", "John_Cabot"], ["Gliese_876", "Gravitation", "England", "John_Cabot"], ["Gliese_876", "Telescope", "Spain", "John_Cabot"]]

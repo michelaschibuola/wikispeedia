@@ -1,1 +1,0 @@
-[["Bald_Eagle", "Atlantic_Ocean", "Isles_of_Scilly"], ["Bald_Eagle", "Bird", "Isles_of_Scilly"], ["Bald_Eagle", "North_America", "Isles_of_Scilly"]]

@@ -1,1 +1,0 @@
-[["Constitutional_monarchy", "Charles_I_of_England", "Palladian_architecture"], ["Constitutional_monarchy", "England", "Palladian_architecture"], ["Constitutional_monarchy", "France", "Palladian_architecture"], ["Constitutional_monarchy", "Italy", "Palladian_architecture"]]

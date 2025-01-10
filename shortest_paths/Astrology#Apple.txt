@@ -1,1 +1,0 @@
-[["Astrology", "Albrecht_D%C3%BCrer", "Apple"], ["Astrology", "Asia", "Apple"], ["Astrology", "China", "Apple"], ["Astrology", "Europe", "Apple"], ["Astrology", "Gravitation", "Apple"], ["Astrology", "Isaac_Newton", "Apple"]]

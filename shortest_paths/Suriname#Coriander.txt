@@ -1,1 +1,0 @@
-[["Suriname", "Hindi", "Coriander"], ["Suriname", "Latin_America", "Coriander"], ["Suriname", "Africa", "Coriander"], ["Suriname", "China", "Coriander"], ["Suriname", "Europe", "Coriander"], ["Suriname", "India", "Coriander"], ["Suriname", "Latin", "Coriander"], ["Suriname", "Spanish_language", "Coriander"], ["Suriname", "United_States", "Coriander"]]

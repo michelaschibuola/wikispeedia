@@ -1,1 +1,0 @@
-[["Ape", "Asia", "Republic_of_China"], ["Ape", "Christianity", "Republic_of_China"]]

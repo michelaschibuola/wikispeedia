@@ -1,1 +1,0 @@
-[["Eskimo", "Canada", "German_language"], ["Eskimo", "Russia", "German_language"], ["Eskimo", "Scrooge_McDuck", "German_language"]]

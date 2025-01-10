@@ -1,1 +1,0 @@
-[["Haiti", "Alexander_Hamilton", "Mercantilism"], ["Haiti", "French_Revolution", "Mercantilism"], ["Haiti", "Germany", "Mercantilism"], ["Haiti", "Government", "Mercantilism"], ["Haiti", "Louis_XIV_of_France", "Mercantilism"]]

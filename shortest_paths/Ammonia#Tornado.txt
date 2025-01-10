@@ -1,1 +1,0 @@
-[["Ammonia", "Germany", "Tornado"], ["Ammonia", "India", "Tornado"], ["Ammonia", "Russia", "Tornado"], ["Ammonia", "United_States", "Tornado"], ["Ammonia", "Cloud", "Tornado"]]

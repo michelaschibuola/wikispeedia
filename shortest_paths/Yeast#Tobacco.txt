@@ -1,1 +1,0 @@
-[["Yeast", "Protein", "Tobacco"], ["Yeast", "Tea", "Tobacco"], ["Yeast", "Wine", "Tobacco"], ["Yeast", "Cheese", "Tobacco"], ["Yeast", "Scientific_classification", "Tobacco"], ["Yeast", "United_Kingdom", "Tobacco"]]

@@ -1,1 +1,0 @@
-[["Malaria", "Extinction", "Ammolite"], ["Malaria", "Protein", "Ammolite"], ["Malaria", "United_States", "Ammolite"]]

@@ -1,1 +1,0 @@
-[["Canada", "Gold", "Statue_of_Zeus_at_Olympia"], ["Canada", "Olympic_Games", "Statue_of_Zeus_at_Olympia"]]

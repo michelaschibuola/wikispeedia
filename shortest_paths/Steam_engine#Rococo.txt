@@ -1,1 +1,0 @@
-[["Steam_engine", "18th_century", "Rococo"], ["Steam_engine", "19th_century", "Rococo"], ["Steam_engine", "Sanssouci", "Rococo"], ["Steam_engine", "Germany", "Rococo"]]

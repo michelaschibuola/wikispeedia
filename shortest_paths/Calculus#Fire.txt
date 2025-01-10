@@ -1,1 +1,0 @@
-[["Calculus", "Europe", "Fire"], ["Calculus", "Technology", "Fire"], ["Calculus", "Chemistry", "Fire"]]

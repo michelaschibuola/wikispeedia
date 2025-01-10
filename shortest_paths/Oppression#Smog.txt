@@ -1,1 +1,0 @@
-[["Oppression", "Civilization", "Athens", "Smog"], ["Oppression", "Invasion", "Beijing", "Smog"], ["Oppression", "Psychology", "Linus_Pauling", "Smog"], ["Oppression", "Psychology", "19th_century", "Smog"], ["Oppression", "Poverty", "Mexico_City", "Smog"], ["Oppression", "Poverty", "Indonesia", "Smog"]]

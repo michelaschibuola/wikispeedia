@@ -1,1 +1,0 @@
-[["Thailand", "Los_Angeles%2C_California", "Oliver_Twist"], ["Thailand", "English_language", "Oliver_Twist"], ["Thailand", "United_States", "Oliver_Twist"]]

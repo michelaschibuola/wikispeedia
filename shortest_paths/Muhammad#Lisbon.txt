@@ -1,1 +1,0 @@
-[["Muhammad", "Islam", "Lisbon"], ["Muhammad", "Jew", "Lisbon"], ["Muhammad", "Mosque", "Lisbon"], ["Muhammad", "Arabic_language", "Lisbon"], ["Muhammad", "Christianity", "Lisbon"], ["Muhammad", "Portuguese_language", "Lisbon"]]

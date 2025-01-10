@@ -1,1 +1,0 @@
-[["Birth_control", "Germany", "Liverpool"], ["Birth_control", "Islam", "Liverpool"], ["Birth_control", "Jew", "Liverpool"]]

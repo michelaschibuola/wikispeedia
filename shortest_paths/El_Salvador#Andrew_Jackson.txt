@@ -1,1 +1,0 @@
-[["El_Salvador", "19th_century", "Andrew_Jackson"], ["El_Salvador", "Spain", "Andrew_Jackson"], ["El_Salvador", "United_States_dollar", "Andrew_Jackson"]]

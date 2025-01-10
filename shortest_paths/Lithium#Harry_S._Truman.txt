@@ -1,1 +1,0 @@
-[["Lithium", "History_of_nuclear_weapons", "Harry_S._Truman"], ["Lithium", "Nuclear_weapon", "Harry_S._Truman"], ["Lithium", "United_States", "Harry_S._Truman"], ["Lithium", "World_War_II", "Harry_S._Truman"]]

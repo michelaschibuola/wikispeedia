@@ -1,1 +1,0 @@
-[["Fluorine", "Atom", "Electromagnetic_radiation"], ["Fluorine", "Color", "Electromagnetic_radiation"], ["Fluorine", "Electron", "Electromagnetic_radiation"], ["Fluorine", "Eye", "Electromagnetic_radiation"], ["Fluorine", "Hydrogen", "Electromagnetic_radiation"], ["Fluorine", "Magnetism", "Electromagnetic_radiation"], ["Fluorine", "Ozone", "Electromagnetic_radiation"]]

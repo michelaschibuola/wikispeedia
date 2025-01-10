@@ -1,1 +1,0 @@
-[["Science", "Biology", "Drosophila_melanogaster"], ["Science", "Genetics", "Drosophila_melanogaster"], ["Science", "Human", "Drosophila_melanogaster"]]

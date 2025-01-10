@@ -1,1 +1,0 @@
-[["Richard_Francis_Burton", "Africa", "Vole"], ["Richard_Francis_Burton", "Asia", "Vole"], ["Richard_Francis_Burton", "Europe", "Vole"]]

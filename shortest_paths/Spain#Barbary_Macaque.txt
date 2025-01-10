@@ -1,1 +1,0 @@
-[["Spain", "Algeria", "Barbary_Macaque"], ["Spain", "Europe", "Barbary_Macaque"], ["Spain", "Gibraltar", "Barbary_Macaque"], ["Spain", "Morocco", "Barbary_Macaque"]]

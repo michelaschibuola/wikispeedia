@@ -1,1 +1,0 @@
-[["Diamond_simulant", "Copper", "Coin"], ["Diamond_simulant", "Gold", "Coin"], ["Diamond_simulant", "Japan", "Coin"], ["Diamond_simulant", "United_States", "Coin"]]

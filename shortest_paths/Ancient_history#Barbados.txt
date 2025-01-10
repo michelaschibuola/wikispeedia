@@ -1,1 +1,0 @@
-[["Ancient_history", "Europe", "Barbados"], ["Ancient_history", "Jew", "Barbados"], ["Ancient_history", "Monarchy", "Barbados"], ["Ancient_history", "North_America", "Barbados"], ["Ancient_history", "United_States", "Barbados"]]

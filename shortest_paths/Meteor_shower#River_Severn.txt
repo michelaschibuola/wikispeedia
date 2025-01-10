@@ -1,1 +1,0 @@
-[["Meteor_shower", "Archaeoastronomy", "British_Isles", "River_Severn"], ["Meteor_shower", "Comet", "England", "River_Severn"], ["Meteor_shower", "Sun", "England", "River_Severn"], ["Meteor_shower", "Sun", "Iron", "River_Severn"], ["Meteor_shower", "Sun", "Tide", "River_Severn"]]

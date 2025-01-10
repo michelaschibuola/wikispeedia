@@ -1,1 +1,0 @@
-[["Quartz", "Gold", "Africa", "Ishango_bone"], ["Quartz", "Earth", "Africa", "Ishango_bone"], ["Quartz", "Mineral", "Democratic_Republic_of_the_Congo", "Ishango_bone"], ["Quartz", "Mineral", "Uganda", "Ishango_bone"], ["Quartz", "Mining", "Swaziland", "Ishango_bone"]]

@@ -1,1 +1,0 @@
-[["Conakry", "Africa", "20th_century", "Alzheimer%27s_disease"], ["Conakry", "Banana", "20th_century", "Alzheimer%27s_disease"], ["Conakry", "France", "20th_century", "Alzheimer%27s_disease"], ["Conakry", "Banana", "Vitamin_C", "Alzheimer%27s_disease"], ["Conakry", "France", "Medicine", "Alzheimer%27s_disease"]]

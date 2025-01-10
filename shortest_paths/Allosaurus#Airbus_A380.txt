@@ -1,1 +1,0 @@
-[["Allosaurus", "Australia", "Airbus_A380"], ["Allosaurus", "Japan", "Airbus_A380"], ["Allosaurus", "North_America", "Airbus_A380"]]

@@ -1,1 +1,0 @@
-[["Quatermass_and_the_Pit", "London", "Plymouth"], ["Quatermass_and_the_Pit", "United_Kingdom", "Plymouth"], ["Quatermass_and_the_Pit", "United_States", "Plymouth"], ["Quatermass_and_the_Pit", "World_War_II", "Plymouth"]]

@@ -1,1 +1,0 @@
-[["Joan_of_Arc", "Nazism", "Nuclear_fission"], ["Joan_of_Arc", "Paris", "Nuclear_fission"], ["Joan_of_Arc", "World_War_II", "Nuclear_fission"]]

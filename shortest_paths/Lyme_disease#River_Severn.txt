@@ -1,1 +1,0 @@
-[["Lyme_disease", "England", "River_Severn"], ["Lyme_disease", "Global_warming", "River_Severn"]]

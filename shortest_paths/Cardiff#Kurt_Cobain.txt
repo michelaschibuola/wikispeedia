@@ -1,1 +1,0 @@
-[["Cardiff", "Germany", "Kurt_Cobain"], ["Cardiff", "Rome", "Kurt_Cobain"]]

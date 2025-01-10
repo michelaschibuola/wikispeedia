@@ -1,1 +1,0 @@
-[["Fire", "Energy", "Black_hole"], ["Fire", "Gravitation", "Black_hole"], ["Fire", "Photon", "Black_hole"], ["Fire", "Sun", "Black_hole"]]

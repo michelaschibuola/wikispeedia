@@ -1,1 +1,0 @@
-[["Louis_Armstrong", "Chicago", "Passenger_Pigeon"], ["Louis_Armstrong", "New_York_City", "Passenger_Pigeon"], ["Louis_Armstrong", "United_States", "Passenger_Pigeon"]]

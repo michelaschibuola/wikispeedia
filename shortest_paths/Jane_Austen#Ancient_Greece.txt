@@ -1,1 +1,0 @@
-[["Jane_Austen", "19th_century", "Ancient_Greece"], ["Jane_Austen", "Law", "Ancient_Greece"], ["Jane_Austen", "Novel", "Ancient_Greece"]]

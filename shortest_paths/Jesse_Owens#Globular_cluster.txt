@@ -1,1 +1,0 @@
-[["Jesse_Owens", "Chicago", "Latin", "Globular_cluster"], ["Jesse_Owens", "Germany", "Latin", "Globular_cluster"], ["Jesse_Owens", "Propaganda", "Latin", "Globular_cluster"], ["Jesse_Owens", "Olympic_Games", "Latin", "Globular_cluster"]]

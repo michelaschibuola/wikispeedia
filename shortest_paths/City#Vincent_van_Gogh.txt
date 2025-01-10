@@ -1,1 +1,0 @@
-[["City", "Antwerp", "Vincent_van_Gogh"], ["City", "Amsterdam", "Vincent_van_Gogh"], ["City", "London", "Vincent_van_Gogh"], ["City", "Moscow", "Vincent_van_Gogh"], ["City", "Netherlands", "Vincent_van_Gogh"], ["City", "New_York_City", "Vincent_van_Gogh"], ["City", "Paris", "Vincent_van_Gogh"], ["City", "Tehran", "Vincent_van_Gogh"]]

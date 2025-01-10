@@ -1,1 +1,0 @@
-[["Howards_End", "Country", "Zambia", "Chinyingi"], ["Howards_End", "English_language", "Zambia", "Chinyingi"], ["Howards_End", "United_Kingdom", "Zambia", "Chinyingi"], ["Howards_End", "Cyprus", "Copper", "Chinyingi"], ["Howards_End", "Cyprus", "Mining", "Chinyingi"], ["Howards_End", "United_Kingdom", "AIDS", "Chinyingi"]]

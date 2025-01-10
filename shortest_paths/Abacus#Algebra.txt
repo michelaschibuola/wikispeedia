@@ -1,1 +1,0 @@
-[["Abacus", "Arithmetic", "Algebra"], ["Abacus", "Latin", "Algebra"], ["Abacus", "Algorithm", "Algebra"], ["Abacus", "Computer_science", "Algebra"], ["Abacus", "Elementary_arithmetic", "Algebra"], ["Abacus", "Mathematics", "Algebra"]]

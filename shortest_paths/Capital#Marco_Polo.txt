@@ -1,1 +1,0 @@
-[["Capital", "Byzantine_Empire", "Marco_Polo"], ["Capital", "Beijing", "Marco_Polo"], ["Capital", "China", "Marco_Polo"], ["Capital", "Ottoman_Empire", "Marco_Polo"], ["Capital", "Genghis_Khan", "Marco_Polo"], ["Capital", "Grand_Canal_of_China", "Marco_Polo"], ["Capital", "Japan", "Marco_Polo"], ["Capital", "Philippines", "Marco_Polo"]]

@@ -1,1 +1,0 @@
-[["Zirconium", "India", "Timur"], ["Zirconium", "Iron", "Timur"], ["Zirconium", "Russia", "Timur"]]

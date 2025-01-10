@@ -1,1 +1,0 @@
-[["Cairo", "Europe", "Semiconductor_device"], ["Cairo", "United_States", "Semiconductor_device"]]

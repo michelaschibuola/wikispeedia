@@ -1,1 +1,0 @@
-[["Bromine", "Agriculture", "Society"], ["Bromine", "Industry", "Society"], ["Bromine", "United_States", "Society"]]

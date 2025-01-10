@@ -1,1 +1,0 @@
-[["African_American_literature", "Africa", "Uganda"], ["African_American_literature", "France", "Uganda"], ["African_American_literature", "Jamaica", "Uganda"], ["African_American_literature", "Senegal", "Uganda"], ["African_American_literature", "The_Gambia", "Uganda"], ["African_American_literature", "United_States", "Uganda"]]

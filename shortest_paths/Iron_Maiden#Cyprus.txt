@@ -1,1 +1,0 @@
-[["Iron_Maiden", "Australia", "Cyprus"], ["Iron_Maiden", "Canada", "Cyprus"], ["Iron_Maiden", "Israel", "Cyprus"], ["Iron_Maiden", "United_States", "Cyprus"], ["Iron_Maiden", "United_Kingdom", "Cyprus"]]

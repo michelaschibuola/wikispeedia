@@ -1,1 +1,0 @@
-[["Australian_rules_football", "Beer", "Tibet"], ["Australian_rules_football", "World_War_I", "Tibet"]]

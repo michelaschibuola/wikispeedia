@@ -1,1 +1,0 @@
-[["Banksy", "England", "Creation-evolution_controversy", "Precambrian"], ["Banksy", "England", "Scottish_Highlands", "Precambrian"], ["Banksy", "London", "Glacier", "Precambrian"], ["Banksy", "London_Zoo", "Animal", "Precambrian"], ["Banksy", "Mexico", "Geography_of_Texas", "Precambrian"], ["Banksy", "Mexico", "Rocky_Mountains", "Precambrian"]]

@@ -1,1 +1,0 @@
-[["Columbia_River", "Canada", "Milk"], ["Columbia_River", "North_America", "Milk"], ["Columbia_River", "Oregon", "Milk"], ["Columbia_River", "Russia", "Milk"], ["Columbia_River", "United_States", "Milk"]]

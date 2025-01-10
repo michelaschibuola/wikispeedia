@@ -1,1 +1,0 @@
-[["Missouri_River", "Minnesota", "Ocean"], ["Missouri_River", "North_America", "Ocean"], ["Missouri_River", "Pacific_Ocean", "Ocean"], ["Missouri_River", "Rocky_Mountains", "Ocean"], ["Missouri_River", "River", "Ocean"]]

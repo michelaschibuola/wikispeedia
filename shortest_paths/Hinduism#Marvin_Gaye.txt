@@ -1,1 +1,0 @@
-[["Hinduism", "United_Kingdom", "Marvin_Gaye"], ["Hinduism", "United_States", "Marvin_Gaye"], ["Hinduism", "Los_Angeles%2C_California", "Marvin_Gaye"]]

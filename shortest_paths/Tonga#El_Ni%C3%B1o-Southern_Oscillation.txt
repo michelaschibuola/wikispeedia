@@ -1,1 +1,0 @@
-[["Tonga", "Pacific_Ocean", "El_Ni%C3%B1o-Southern_Oscillation"], ["Tonga", "Australia", "El_Ni%C3%B1o-Southern_Oscillation"], ["Tonga", "English_language", "El_Ni%C3%B1o-Southern_Oscillation"]]

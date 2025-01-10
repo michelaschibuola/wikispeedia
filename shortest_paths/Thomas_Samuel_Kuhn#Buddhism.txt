@@ -1,1 +1,0 @@
-[["Thomas_Samuel_Kuhn", "Humanities", "Buddhism"], ["Thomas_Samuel_Kuhn", "Jew", "Buddhism"]]

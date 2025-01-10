@@ -1,1 +1,0 @@
-[["Augustine_of_Hippo", "4th_century", "Mozambique"], ["Augustine_of_Hippo", "Algeria", "Mozambique"], ["Augustine_of_Hippo", "Europe", "Mozambique"], ["Augustine_of_Hippo", "Italy", "Mozambique"], ["Augustine_of_Hippo", "Slavery", "Mozambique"]]

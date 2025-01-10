@@ -1,1 +1,0 @@
-[["ASCII", "Astrophysics_Data_System", "Russia", "Avacha_Volcano"], ["ASCII", "ROT13", "Russia", "Avacha_Volcano"], ["ASCII", "Astrophysics_Data_System", "United_Nations", "Avacha_Volcano"], ["ASCII", "Esperanto", "United_Nations", "Avacha_Volcano"], ["ASCII", "Esperanto", "Russian_language", "Avacha_Volcano"], ["ASCII", "Hebrew_language", "Russian_language", "Avacha_Volcano"]]

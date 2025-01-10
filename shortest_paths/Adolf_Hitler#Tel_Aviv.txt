@@ -1,1 +1,0 @@
-[["Adolf_Hitler", "German_language", "Tel_Aviv"], ["Adolf_Hitler", "Jew", "Tel_Aviv"], ["Adolf_Hitler", "Moscow", "Tel_Aviv"], ["Adolf_Hitler", "Vienna", "Tel_Aviv"], ["Adolf_Hitler", "Warsaw", "Tel_Aviv"], ["Adolf_Hitler", "Zionism", "Tel_Aviv"]]

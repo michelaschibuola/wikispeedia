@@ -1,1 +1,0 @@
-[["Measles", "India", "Mary_Seacole"], ["Measles", "United_Kingdom", "Mary_Seacole"]]

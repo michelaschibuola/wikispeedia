@@ -1,1 +1,0 @@
-[["Star_Trek", "Space_Shuttle_program", "Space_exploration"], ["Star_Trek", "Space_station", "Space_exploration"], ["Star_Trek", "Technology", "Space_exploration"], ["Star_Trek", "United_States", "Space_exploration"]]

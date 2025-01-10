@@ -1,1 +1,0 @@
-[["Double-decker_bus", "London", "Henry_VI_of_England"]]

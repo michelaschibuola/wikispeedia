@@ -1,1 +1,0 @@
-[["BBC", "Birmingham", "Frankfurt"], ["BBC", "Europe", "Frankfurt"], ["BBC", "London", "Frankfurt"], ["BBC", "United_Kingdom", "Frankfurt"], ["BBC", "United_States", "Frankfurt"], ["BBC", "World_War_II", "Frankfurt"], ["BBC", "Global_city", "Frankfurt"]]

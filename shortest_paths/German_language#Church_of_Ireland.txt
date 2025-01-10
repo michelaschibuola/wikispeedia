@@ -1,1 +1,0 @@
-[["German_language", "United_Kingdom", "Church_of_Ireland"], ["German_language", "League_of_Nations", "Church_of_Ireland"]]

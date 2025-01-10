@@ -1,1 +1,0 @@
-[["Elementary_arithmetic", "Computer", "20th_century", "Renormalization"], ["Elementary_arithmetic", "Computer", "Physics", "Renormalization"], ["Elementary_arithmetic", "Mathematics", "Physics", "Renormalization"], ["Elementary_arithmetic", "Mathematics", "String_theory", "Renormalization"], ["Elementary_arithmetic", "Mathematics", "Paul_Dirac", "Renormalization"]]

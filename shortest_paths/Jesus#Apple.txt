@@ -1,1 +1,0 @@
-[["Jesus", "Bible", "Apple"], ["Jesus", "China", "Apple"], ["Jesus", "Christianity", "Apple"], ["Jesus", "Isaac_Newton", "Apple"], ["Jesus", "Europe", "Apple"]]

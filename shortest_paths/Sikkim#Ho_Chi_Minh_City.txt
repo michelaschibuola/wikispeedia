@@ -1,1 +1,0 @@
-[["Sikkim", "Buddhism", "Ho_Chi_Minh_City"], ["Sikkim", "Hinduism", "Ho_Chi_Minh_City"]]

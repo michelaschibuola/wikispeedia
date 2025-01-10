@@ -1,1 +1,0 @@
-[["Acorn_Computers", "England", "New_York_City"], ["Acorn_Computers", "United_Kingdom", "New_York_City"]]

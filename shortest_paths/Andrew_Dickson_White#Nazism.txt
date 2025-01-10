@@ -1,1 +1,0 @@
-[["Andrew_Dickson_White", "Europe", "Nazism"], ["Andrew_Dickson_White", "Germany", "Nazism"], ["Andrew_Dickson_White", "United_States", "Nazism"]]

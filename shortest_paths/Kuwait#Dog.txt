@@ -1,1 +1,0 @@
-[["Kuwait", "Global_spread_of_H5N1", "Dog"], ["Kuwait", "English_language", "Dog"], ["Kuwait", "Middle_East", "Dog"]]

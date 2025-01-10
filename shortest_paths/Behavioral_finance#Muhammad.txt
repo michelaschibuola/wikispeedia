@@ -1,1 +1,0 @@
-[["Behavioral_finance", "Adam_Smith", "Political_philosophy", "Muhammad"], ["Behavioral_finance", "Finance", "Princeton_University", "Muhammad"], ["Behavioral_finance", "Finance", "Syria", "Muhammad"]]

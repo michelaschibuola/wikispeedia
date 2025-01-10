@@ -1,1 +1,0 @@
-[["Second_Crusade", "Frankfurt", "Afghanistan"], ["Second_Crusade", "Islam", "Afghanistan"], ["Second_Crusade", "Jew", "Afghanistan"], ["Second_Crusade", "Vienna", "Afghanistan"]]

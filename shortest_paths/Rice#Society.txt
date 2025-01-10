@@ -1,1 +1,0 @@
-[["Rice", "Agriculture", "Society"], ["Rice", "British_Empire", "Society"], ["Rice", "History_of_South_Carolina", "Society"], ["Rice", "Archaeology", "Society"], ["Rice", "France", "Society"], ["Rice", "Human", "Society"], ["Rice", "Latin", "Society"], ["Rice", "Latin_America", "Society"], ["Rice", "United_States", "Society"], ["Rice", "Toraja", "Society"]]

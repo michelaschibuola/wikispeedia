@@ -1,1 +1,0 @@
-[["National_Hockey_League", "Canada", "Slovenia"], ["National_Hockey_League", "Cleveland%2C_Ohio", "Slovenia"], ["National_Hockey_League", "Ice_hockey", "Slovenia"], ["National_Hockey_League", "Europe", "Slovenia"], ["National_Hockey_League", "World_War_II", "Slovenia"]]

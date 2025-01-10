@@ -1,1 +1,0 @@
-[["Folic_acid", "Soviet_Union", "Language", "Markup_language"], ["Folic_acid", "United_Kingdom", "Donald_Knuth", "Markup_language"]]

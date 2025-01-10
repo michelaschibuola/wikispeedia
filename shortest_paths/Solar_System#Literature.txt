@@ -1,1 +1,0 @@
-[["Solar_System", "History_of_science", "Literature"], ["Solar_System", "Nature", "Literature"], ["Solar_System", "Latin", "Literature"], ["Solar_System", "Mythology", "Literature"], ["Solar_System", "Water", "Literature"]]

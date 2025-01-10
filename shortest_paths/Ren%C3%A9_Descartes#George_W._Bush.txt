@@ -1,1 +1,0 @@
-[["Ren%C3%A9_Descartes", "Philosophy", "George_W._Bush"], ["Ren%C3%A9_Descartes", "France", "George_W._Bush"]]

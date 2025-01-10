@@ -1,1 +1,0 @@
-[["Margaret_Thatcher", "England", "William_Hogarth"], ["Margaret_Thatcher", "London", "William_Hogarth"]]

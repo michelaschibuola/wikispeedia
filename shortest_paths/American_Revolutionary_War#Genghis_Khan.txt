@@ -1,1 +1,0 @@
-[["American_Revolutionary_War", "India", "Genghis_Khan"], ["American_Revolutionary_War", "Capital", "Genghis_Khan"]]

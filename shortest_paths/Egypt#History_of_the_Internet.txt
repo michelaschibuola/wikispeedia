@@ -1,1 +1,0 @@
-[["Egypt", "Europe", "History_of_the_Internet"], ["Egypt", "Madagascar", "History_of_the_Internet"], ["Egypt", "Mozambique", "History_of_the_Internet"], ["Egypt", "Rwanda", "History_of_the_Internet"]]

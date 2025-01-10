@@ -1,1 +1,0 @@
-[["Iran", "Dam", "Mount_St._Helens"], ["Iran", "Jimmy_Carter", "Mount_St._Helens"], ["Iran", "President_of_the_United_States", "Mount_St._Helens"], ["Iran", "United_States", "Mount_St._Helens"], ["Iran", "Ronald_Reagan", "Mount_St._Helens"]]

@@ -1,1 +1,0 @@
-[["Pupil", "Ancient_Rome", "Democracy", "Social_capital"], ["Pupil", "Human", "Democracy", "Social_capital"], ["Pupil", "Animal", "Community", "Social_capital"], ["Pupil", "Human", "Community", "Social_capital"], ["Pupil", "Human", "Society", "Social_capital"], ["Pupil", "Human", "Sociology", "Social_capital"]]

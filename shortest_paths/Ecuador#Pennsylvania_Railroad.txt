@@ -1,1 +1,0 @@
-[["Ecuador", "World_War_II", "Pennsylvania_Railroad"], ["Ecuador", "United_States", "Pennsylvania_Railroad"]]

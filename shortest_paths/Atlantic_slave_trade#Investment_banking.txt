@@ -1,1 +1,0 @@
-[["Atlantic_slave_trade", "United_Kingdom", "Investment_banking"], ["Atlantic_slave_trade", "United_States", "Investment_banking"]]

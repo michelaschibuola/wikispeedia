@@ -1,1 +1,0 @@
-[["Superman", "Communism", "C._S._Lewis"], ["Superman", "Film", "C._S._Lewis"], ["Superman", "Radio", "C._S._Lewis"], ["Superman", "Television", "C._S._Lewis"], ["Superman", "World_War_I", "C._S._Lewis"]]

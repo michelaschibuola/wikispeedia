@@ -1,1 +1,0 @@
-[["George_II_of_Great_Britain", "Canada", "Rwandan_Genocide"], ["George_II_of_Great_Britain", "France", "Rwandan_Genocide"], ["George_II_of_Great_Britain", "French_language", "Rwandan_Genocide"], ["George_II_of_Great_Britain", "Russia", "Rwandan_Genocide"]]

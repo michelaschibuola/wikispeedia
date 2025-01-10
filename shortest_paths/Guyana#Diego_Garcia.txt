@@ -1,1 +1,0 @@
-[["Guyana", "India", "Diego_Garcia"], ["Guyana", "United_Kingdom", "Diego_Garcia"], ["Guyana", "United_States", "Diego_Garcia"], ["Guyana", "Saudi_Arabia", "Diego_Garcia"]]

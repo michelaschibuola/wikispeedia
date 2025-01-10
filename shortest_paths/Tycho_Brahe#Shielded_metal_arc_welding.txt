@@ -1,1 +1,0 @@
-[["Tycho_Brahe", "Copper", "Shielded_metal_arc_welding"]]

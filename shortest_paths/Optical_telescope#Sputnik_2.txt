@@ -1,1 +1,0 @@
-[["Optical_telescope", "Asteroid", "Earth", "Sputnik_2"], ["Optical_telescope", "Telescope", "Earth", "Sputnik_2"], ["Optical_telescope", "Light", "Ultraviolet", "Sputnik_2"], ["Optical_telescope", "Photon", "Ultraviolet", "Sputnik_2"], ["Optical_telescope", "Telescope", "Ultraviolet", "Sputnik_2"]]

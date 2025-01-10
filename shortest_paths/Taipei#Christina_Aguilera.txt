@@ -1,1 +1,0 @@
-[["Taipei", "Australia", "Christina_Aguilera"], ["Taipei", "Johannesburg", "Christina_Aguilera"], ["Taipei", "South_Africa", "Christina_Aguilera"], ["Taipei", "South_Korea", "Christina_Aguilera"]]

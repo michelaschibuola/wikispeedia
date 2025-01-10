@@ -1,1 +1,0 @@
-[["Europe", "Austria", "Harlem_Globetrotters"], ["Europe", "Chicago", "Harlem_Globetrotters"], ["Europe", "Vatican_City", "Harlem_Globetrotters"], ["Europe", "Vienna", "Harlem_Globetrotters"]]

@@ -1,1 +1,0 @@
-[["Vladimir_Lenin", "Dada", "Aesthetics"], ["Vladimir_Lenin", "English_language", "Aesthetics"], ["Vladimir_Lenin", "German_language", "Aesthetics"], ["Vladimir_Lenin", "Philosophy", "Aesthetics"]]

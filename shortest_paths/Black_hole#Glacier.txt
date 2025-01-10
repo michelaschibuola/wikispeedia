@@ -1,1 +1,0 @@
-[["Black_hole", "Earth", "Glacier"], ["Black_hole", "Gravitation", "Glacier"]]

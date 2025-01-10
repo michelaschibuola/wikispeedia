@@ -1,1 +1,0 @@
-[["Thomas_More", "London", "Automated_teller_machine"]]

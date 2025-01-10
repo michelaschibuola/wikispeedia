@@ -1,1 +1,0 @@
-[["Women%27s_rights", "Fascism", "Communism"], ["Women%27s_rights", "Genghis_Khan", "Communism"], ["Women%27s_rights", "Human_rights", "Communism"], ["Women%27s_rights", "Poverty", "Communism"], ["Women%27s_rights", "India", "Communism"], ["Women%27s_rights", "Mexico", "Communism"], ["Women%27s_rights", "Property", "Communism"], ["Women%27s_rights", "United_States", "Communism"]]

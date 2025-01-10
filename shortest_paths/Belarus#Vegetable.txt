@@ -1,1 +1,0 @@
-[["Belarus", "Azerbaijan", "Vegetable"], ["Belarus", "Agriculture", "Vegetable"], ["Belarus", "English_language", "Vegetable"], ["Belarus", "Finland", "Vegetable"], ["Belarus", "Potato", "Vegetable"], ["Belarus", "Summer", "Vegetable"], ["Belarus", "Winter", "Vegetable"]]

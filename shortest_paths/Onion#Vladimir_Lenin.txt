@@ -1,1 +1,0 @@
-[["Onion", "Cuba", "Vladimir_Lenin"], ["Onion", "English_language", "Vladimir_Lenin"], ["Onion", "United_States", "Vladimir_Lenin"]]

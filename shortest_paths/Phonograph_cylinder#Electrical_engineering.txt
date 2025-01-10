@@ -1,1 +1,0 @@
-[["Phonograph_cylinder", "Thomas_Edison", "Electrical_engineering"]]

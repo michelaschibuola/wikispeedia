@@ -1,1 +1,0 @@
-[["Buffy_the_Vampire_Slayer", "Psychology", "Esperanto"], ["Buffy_the_Vampire_Slayer", "Vampire", "Esperanto"]]

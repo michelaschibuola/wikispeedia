@@ -1,1 +1,0 @@
-[["Time", "Acceleration", "Jupiter"], ["Time", "Nikola_Tesla", "Jupiter"], ["Time", "Star", "Jupiter"], ["Time", "Astronomy", "Jupiter"]]

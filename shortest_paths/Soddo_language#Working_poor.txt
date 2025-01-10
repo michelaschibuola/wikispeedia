@@ -1,1 +1,0 @@
-[["Soddo_language", "Ethiopia", "United_States", "Working_poor"], ["Soddo_language", "English_language", "United_States", "Working_poor"]]

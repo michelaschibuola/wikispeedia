@@ -1,1 +1,0 @@
-[["Ethics", "Art", "Modernist_poetry_in_English"], ["Ethics", "Economics", "Modernist_poetry_in_English"], ["Ethics", "Philosophy", "Modernist_poetry_in_English"], ["Ethics", "Politics", "Modernist_poetry_in_English"], ["Ethics", "Science", "Modernist_poetry_in_English"], ["Ethics", "The_Cantos", "Modernist_poetry_in_English"]]

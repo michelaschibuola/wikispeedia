@@ -1,1 +1,0 @@
-[["Finland", "Europe", "Maya_mythology"], ["Finland", "Christianity", "Maya_mythology"]]

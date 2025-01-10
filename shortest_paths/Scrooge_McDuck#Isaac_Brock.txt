@@ -1,1 +1,0 @@
-[["Scrooge_McDuck", "Netherlands", "Isaac_Brock"], ["Scrooge_McDuck", "United_States", "Isaac_Brock"]]

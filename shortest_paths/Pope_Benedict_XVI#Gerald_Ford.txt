@@ -1,1 +1,0 @@
-[["Pope_Benedict_XVI", "Poland", "Gerald_Ford"], ["Pope_Benedict_XVI", "Stroke", "Gerald_Ford"]]

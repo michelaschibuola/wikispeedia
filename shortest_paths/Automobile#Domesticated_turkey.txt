@@ -1,1 +1,0 @@
-[["Automobile", "Canada", "Domesticated_turkey"], ["Automobile", "Europe", "Domesticated_turkey"], ["Automobile", "United_States", "Domesticated_turkey"]]

@@ -1,1 +1,0 @@
-[["River_Thames", "Charles_II_of_England", "Norwich"], ["River_Thames", "England", "Norwich"], ["River_Thames", "London", "Norwich"], ["River_Thames", "17th_century", "Norwich"], ["River_Thames", "18th_century", "Norwich"], ["River_Thames", "Cambridge", "Norwich"], ["River_Thames", "Roman_Britain", "Norwich"], ["River_Thames", "Tourism", "Norwich"]]

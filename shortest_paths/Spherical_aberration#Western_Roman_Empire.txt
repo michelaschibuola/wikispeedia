@@ -1,1 +1,0 @@
-[["Spherical_aberration", "Hubble_Space_Telescope", "Europe", "Western_Roman_Empire"], ["Spherical_aberration", "Telescope", "France", "Western_Roman_Empire"], ["Spherical_aberration", "Telescope", "Netherlands", "Western_Roman_Empire"], ["Spherical_aberration", "Telescope", "Spain", "Western_Roman_Empire"]]

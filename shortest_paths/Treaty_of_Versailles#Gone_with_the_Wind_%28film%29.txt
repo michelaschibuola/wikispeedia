@@ -1,1 +1,0 @@
-[["Treaty_of_Versailles", "Denmark", "Gone_with_the_Wind_%28film%29"], ["Treaty_of_Versailles", "Austria", "Gone_with_the_Wind_%28film%29"], ["Treaty_of_Versailles", "Belgium", "Gone_with_the_Wind_%28film%29"], ["Treaty_of_Versailles", "France", "Gone_with_the_Wind_%28film%29"]]

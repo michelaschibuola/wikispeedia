@@ -1,1 +1,0 @@
-[["Yeti", "India", "History_of_democracy"], ["Yeti", "Tibet", "History_of_democracy"]]

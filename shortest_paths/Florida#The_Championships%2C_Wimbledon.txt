@@ -1,1 +1,0 @@
-[["Florida", "Boris_Becker", "The_Championships%2C_Wimbledon"], ["Florida", "Chris_Evert", "The_Championships%2C_Wimbledon"], ["Florida", "United_Kingdom", "The_Championships%2C_Wimbledon"], ["Florida", "John_McEnroe", "The_Championships%2C_Wimbledon"]]

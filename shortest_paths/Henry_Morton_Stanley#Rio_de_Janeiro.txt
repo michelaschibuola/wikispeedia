@@ -1,1 +1,0 @@
-[["Henry_Morton_Stanley", "Africa", "Rio_de_Janeiro"], ["Henry_Morton_Stanley", "London", "Rio_de_Janeiro"]]

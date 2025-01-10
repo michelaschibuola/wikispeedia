@@ -1,1 +1,0 @@
-[["Bat", "Fruit", "Palm_oil"], ["Bat", "Malaysia", "Palm_oil"], ["Bat", "Solomon_Islands", "Palm_oil"], ["Bat", "United_Kingdom", "Palm_oil"]]

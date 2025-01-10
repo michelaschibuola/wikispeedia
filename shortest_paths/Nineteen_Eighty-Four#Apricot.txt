@@ -1,1 +1,0 @@
-[["Nineteen_Eighty-Four", "Australia", "Apricot"], ["Nineteen_Eighty-Four", "China", "Apricot"], ["Nineteen_Eighty-Four", "England", "Apricot"], ["Nineteen_Eighty-Four", "Europe", "Apricot"], ["Nineteen_Eighty-Four", "Russia", "Apricot"], ["Nineteen_Eighty-Four", "United_States", "Apricot"], ["Nineteen_Eighty-Four", "Wine", "Apricot"]]

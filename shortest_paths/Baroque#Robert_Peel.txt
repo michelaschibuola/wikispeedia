@@ -1,1 +1,0 @@
-[["Baroque", "England", "Robert_Peel"], ["Baroque", "National_Gallery%2C_London", "Robert_Peel"]]

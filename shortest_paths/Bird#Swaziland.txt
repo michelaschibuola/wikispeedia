@@ -1,1 +1,0 @@
-[["Bird", "19th_century", "Swaziland"], ["Bird", "Agriculture", "Swaziland"], ["Bird", "Human", "Swaziland"], ["Bird", "Rainforest", "Swaziland"], ["Bird", "Taipei", "Swaziland"]]

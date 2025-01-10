@@ -1,1 +1,0 @@
-[["Sri_Lanka", "English_language", "Cheetah"], ["Sri_Lanka", "India", "Cheetah"], ["Sri_Lanka", "Kenya", "Cheetah"], ["Sri_Lanka", "Portuguese_language", "Cheetah"], ["Sri_Lanka", "Sanskrit", "Cheetah"], ["Sri_Lanka", "Pakistan", "Cheetah"], ["Sri_Lanka", "United_States", "Cheetah"], ["Sri_Lanka", "Tanzania", "Cheetah"]]

@@ -1,1 +1,0 @@
-[["Political_economy", "18th_century", "Time"], ["Political_economy", "History", "Time"], ["Political_economy", "Technology", "Time"]]

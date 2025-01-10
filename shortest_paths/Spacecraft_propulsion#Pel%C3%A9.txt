@@ -1,1 +1,0 @@
-[["Spacecraft_propulsion", "Earth", "Hebrew_language", "Pel%C3%A9"], ["Spacecraft_propulsion", "Earth", "United_Nations", "Pel%C3%A9"], ["Spacecraft_propulsion", "Sun", "Mexico", "Pel%C3%A9"]]

@@ -1,1 +1,0 @@
-[["Darfur_conflict", "George_W._Bush", "Latin_America"], ["Darfur_conflict", "Islam", "Latin_America"], ["Darfur_conflict", "United_Nations", "Latin_America"]]

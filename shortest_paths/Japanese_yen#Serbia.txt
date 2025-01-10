@@ -1,1 +1,0 @@
-[["Japanese_yen", "Asia", "Serbia"], ["Japanese_yen", "Currency", "Serbia"], ["Japanese_yen", "English_language", "Serbia"], ["Japanese_yen", "Euro", "Serbia"], ["Japanese_yen", "Europe", "Serbia"], ["Japanese_yen", "United_Kingdom", "Serbia"], ["Japanese_yen", "World_War_II", "Serbia"], ["Japanese_yen", "List_of_circulating_currencies", "Serbia"]]

@@ -1,1 +1,0 @@
-[["Beijing", "China", "Khazars"], ["Beijing", "Iran", "Khazars"], ["Beijing", "Israel", "Khazars"], ["Beijing", "Kiev", "Khazars"], ["Beijing", "Russia", "Khazars"], ["Beijing", "Spain", "Khazars"], ["Beijing", "Ukraine", "Khazars"], ["Beijing", "Military_history_of_the_Soviet_Union", "Khazars"]]

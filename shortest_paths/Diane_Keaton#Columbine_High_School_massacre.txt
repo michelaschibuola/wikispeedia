@@ -1,1 +1,0 @@
-[["Diane_Keaton", "New_York_City", "Columbine_High_School_massacre"], ["Diane_Keaton", "United_States", "Columbine_High_School_massacre"]]

@@ -1,1 +1,0 @@
-[["Eskimo", "Canada", "Copper", "Chinyingi"], ["Eskimo", "Russia", "Copper", "Chinyingi"], ["Eskimo", "Vitamin_C", "Copper", "Chinyingi"], ["Eskimo", "Vitamin_C", "AIDS", "Chinyingi"]]

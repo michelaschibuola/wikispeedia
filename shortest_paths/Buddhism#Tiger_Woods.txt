@@ -1,1 +1,0 @@
-[["Buddhism", "Thailand", "Tiger_Woods"], ["Buddhism", "Vietnam", "Tiger_Woods"], ["Buddhism", "United_States", "Tiger_Woods"]]

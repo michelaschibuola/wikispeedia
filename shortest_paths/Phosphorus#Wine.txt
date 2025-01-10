@@ -1,1 +1,0 @@
-[["Phosphorus", "Beer", "Wine"], ["Phosphorus", "Cheese", "Wine"], ["Phosphorus", "Latin", "Wine"], ["Phosphorus", "Salt", "Wine"], ["Phosphorus", "Sulfur", "Wine"], ["Phosphorus", "Plant", "Wine"]]

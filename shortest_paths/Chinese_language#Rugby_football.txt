@@ -1,1 +1,0 @@
-[["Chinese_language", "Australia", "Rugby_football"], ["Chinese_language", "20th_century", "Rugby_football"], ["Chinese_language", "England", "Rugby_football"]]

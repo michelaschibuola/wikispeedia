@@ -1,1 +1,0 @@
-[["Swaziland", "Africa", "Amazon_River"], ["Swaziland", "Agriculture", "Amazon_River"], ["Swaziland", "Rainforest", "Amazon_River"]]

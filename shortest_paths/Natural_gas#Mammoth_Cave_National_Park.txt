@@ -1,1 +1,0 @@
-[["Natural_gas", "Louisville%2C_Kentucky", "Mammoth_Cave_National_Park"], ["Natural_gas", "Nitrogen", "Mammoth_Cave_National_Park"], ["Natural_gas", "United_States", "Mammoth_Cave_National_Park"]]

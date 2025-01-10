@@ -1,1 +1,0 @@
-[["Ayaan_Hirsi_Ali", "Canada", "Ice"], ["Ayaan_Hirsi_Ali", "Iran", "Ice"]]

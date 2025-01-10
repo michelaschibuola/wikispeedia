@@ -1,1 +1,0 @@
-[["Clothing", "Japan", "Suffrage"], ["Clothing", "Macau", "Suffrage"], ["Clothing", "Republic_of_Ireland", "Suffrage"]]

@@ -1,1 +1,0 @@
-[["Mount_Vesuvius", "13th_century", "Manorialism"], ["Mount_Vesuvius", "Europe", "Manorialism"]]

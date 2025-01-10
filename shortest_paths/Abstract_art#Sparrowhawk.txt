@@ -1,1 +1,0 @@
-[["Abstract_art", "20th_century", "Binomial_nomenclature", "Sparrowhawk"], ["Abstract_art", "History_of_painting", "India", "Sparrowhawk"], ["Abstract_art", "Painting", "India", "Sparrowhawk"], ["Abstract_art", "Taj_Mahal", "India", "Sparrowhawk"], ["Abstract_art", "Western_painting", "India", "Sparrowhawk"], ["Abstract_art", "Nazi_Germany", "Eagle", "Sparrowhawk"]]

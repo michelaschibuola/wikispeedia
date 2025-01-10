@@ -1,1 +1,0 @@
-[["Speech_synthesis", "Spanish_language", "Vanilla"]]

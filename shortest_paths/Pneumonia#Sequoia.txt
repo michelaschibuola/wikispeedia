@@ -1,1 +1,0 @@
-[["Pneumonia", "Fungus", "Sequoia"], ["Pneumonia", "United_States", "Sequoia"]]

@@ -1,1 +1,0 @@
-[["Rail_transport_in_India", "Bangladesh", "Malaria"], ["Rail_transport_in_India", "India", "Malaria"], ["Rail_transport_in_India", "World_War_II", "Malaria"]]

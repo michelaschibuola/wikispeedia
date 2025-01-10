@@ -1,1 +1,0 @@
-[["Vladimir_Lenin", "Russia", "Helium"], ["Vladimir_Lenin", "Electricity", "Helium"], ["Vladimir_Lenin", "United_States", "Helium"], ["Vladimir_Lenin", "World_War_I", "Helium"]]

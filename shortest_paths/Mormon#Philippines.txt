@@ -1,1 +1,0 @@
-[["Mormon", "Las_Vegas%2C_Nevada", "Philippines"], ["Mormon", "Los_Angeles%2C_California", "Philippines"], ["Mormon", "Mark_Twain", "Philippines"], ["Mormon", "Christianity", "Philippines"], ["Mormon", "Mexico", "Philippines"], ["Mormon", "Spanish_language", "Philippines"]]

@@ -1,1 +1,0 @@
-[["Geography_of_Ireland", "Clay", "Irrigation"], ["Geography_of_Ireland", "Desert", "Irrigation"], ["Geography_of_Ireland", "Egypt", "Irrigation"], ["Geography_of_Ireland", "Rain", "Irrigation"], ["Geography_of_Ireland", "Soil", "Irrigation"]]

@@ -1,1 +1,0 @@
-[["Missouri_River", "Germany", "Columbus%2C_Ohio"], ["Missouri_River", "Spain", "Columbus%2C_Ohio"], ["Missouri_River", "United_States", "Columbus%2C_Ohio"], ["Missouri_River", "World_War_II", "Columbus%2C_Ohio"]]

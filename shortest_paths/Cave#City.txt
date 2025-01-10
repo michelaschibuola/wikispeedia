@@ -1,1 +1,0 @@
-[["Cave", "Africa", "City"], ["Cave", "Asia", "City"], ["Cave", "Austria", "City"], ["Cave", "China", "City"], ["Cave", "Europe", "City"], ["Cave", "Italy", "City"], ["Cave", "United_Kingdom", "City"], ["Cave", "United_States", "City"], ["Cave", "Wales", "City"]]

@@ -1,1 +1,0 @@
-[["Jordan_River", "God", "Famine"], ["Jordan_River", "Slavery", "Famine"]]

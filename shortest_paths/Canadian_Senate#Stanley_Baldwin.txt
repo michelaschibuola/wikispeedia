@@ -1,1 +1,0 @@
-[["Canadian_Senate", "British_House_of_Commons", "Stanley_Baldwin"], ["Canadian_Senate", "House_of_Lords", "Stanley_Baldwin"]]

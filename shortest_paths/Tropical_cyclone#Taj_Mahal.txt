@@ -1,1 +1,0 @@
-[["Tropical_cyclone", "China", "Taj_Mahal"], ["Tropical_cyclone", "English_language", "Taj_Mahal"], ["Tropical_cyclone", "India", "Taj_Mahal"], ["Tropical_cyclone", "Sri_Lanka", "Taj_Mahal"]]

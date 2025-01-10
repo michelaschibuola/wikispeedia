@@ -1,1 +1,0 @@
-[["Bromine", "Electron", "Richard_Feynman"], ["Bromine", "Neutron", "Richard_Feynman"], ["Bromine", "United_States", "Richard_Feynman"]]

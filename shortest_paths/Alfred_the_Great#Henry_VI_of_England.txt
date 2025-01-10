@@ -1,1 +1,0 @@
-[["Alfred_the_Great", "Ireland", "Henry_VI_of_England"], ["Alfred_the_Great", "London", "Henry_VI_of_England"], ["Alfred_the_Great", "British_monarchy", "Henry_VI_of_England"], ["Alfred_the_Great", "Gallery_of_the_Kings_and_Queens_of_England", "Henry_VI_of_England"], ["Alfred_the_Great", "List_of_monarchs_in_the_British_Isles", "Henry_VI_of_England"]]

@@ -1,1 +1,0 @@
-[["Feldspar", "Earth", "The_Brothers_Karamazov", "Sermon_on_the_Mount"], ["Feldspar", "German_language", "Martin_Luther", "Sermon_on_the_Mount"], ["Feldspar", "Oregon", "Christianity", "Sermon_on_the_Mount"], ["Feldspar", "Turquoise", "Roman_Catholic_Church", "Sermon_on_the_Mount"]]

@@ -1,1 +1,0 @@
-[["Weymouth", "Tourism", "Jamaica"], ["Weymouth", "Europe", "Jamaica"], ["Weymouth", "List_of_sovereign_states", "Jamaica"], ["Weymouth", "United_Kingdom", "Jamaica"]]

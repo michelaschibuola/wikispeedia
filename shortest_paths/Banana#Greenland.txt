@@ -1,1 +1,0 @@
-[["Banana", "15th_century", "Greenland"], ["Banana", "English_language", "Greenland"], ["Banana", "European_Union", "Greenland"], ["Banana", "India", "Greenland"], ["Banana", "United_States", "Greenland"]]

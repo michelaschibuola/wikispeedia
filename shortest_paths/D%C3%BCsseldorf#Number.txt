@@ -1,1 +1,0 @@
-[["D%C3%BCsseldorf", "18th_century", "Number"], ["D%C3%BCsseldorf", "China", "Number"]]

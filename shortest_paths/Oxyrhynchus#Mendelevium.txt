@@ -1,1 +1,0 @@
-[["Oxyrhynchus", "Ancient_Egypt", "Day", "Mendelevium"], ["Oxyrhynchus", "Aristotle", "Color", "Mendelevium"], ["Oxyrhynchus", "Fish", "Color", "Mendelevium"], ["Oxyrhynchus", "Ultraviolet", "Color", "Mendelevium"], ["Oxyrhynchus", "Astrology", "Metal", "Mendelevium"], ["Oxyrhynchus", "Ultraviolet", "Metal", "Mendelevium"], ["Oxyrhynchus", "World_War_I", "Helium", "Mendelevium"]]

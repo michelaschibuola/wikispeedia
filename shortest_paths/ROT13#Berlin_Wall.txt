@@ -1,1 +1,0 @@
-[["ROT13", "Mathematics", "Berlin_Wall"], ["ROT13", "United_States", "Berlin_Wall"]]

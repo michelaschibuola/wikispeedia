@@ -1,1 +1,0 @@
-[["HIV", "United_States", "Peaceful_coexistence"], ["HIV", "Pope_John_Paul_II", "Peaceful_coexistence"]]

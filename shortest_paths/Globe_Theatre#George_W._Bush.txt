@@ -1,1 +1,0 @@
-[["Globe_Theatre", "Chicago", "George_W._Bush"], ["Globe_Theatre", "England", "George_W._Bush"]]

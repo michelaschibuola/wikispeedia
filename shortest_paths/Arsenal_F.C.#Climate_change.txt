@@ -1,1 +1,0 @@
-[["Arsenal_F.C.", "Europe", "Climate_change"], ["Arsenal_F.C.", "United_States", "Climate_change"]]

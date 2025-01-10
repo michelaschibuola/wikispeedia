@@ -1,1 +1,0 @@
-[["Mediterranean_Sea", "Volcano", "Iceland_hotspot"]]

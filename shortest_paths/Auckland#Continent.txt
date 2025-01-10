@@ -1,1 +1,0 @@
-[["Auckland", "Europe", "Continent"], ["Auckland", "New_Zealand", "Continent"], ["Auckland", "Volcano", "Continent"]]

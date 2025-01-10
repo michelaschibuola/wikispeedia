@@ -1,1 +1,0 @@
-[["Flower", "United_Kingdom", "Natural_gas"], ["Flower", "Iran", "Natural_gas"], ["Flower", "Seattle%2C_Washington", "Natural_gas"]]

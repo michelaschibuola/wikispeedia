@@ -1,1 +1,0 @@
-[["Amber", "Canada", "Domesticated_turkey"], ["Amber", "North_America", "Domesticated_turkey"], ["Amber", "Turkey", "Domesticated_turkey"], ["Amber", "United_States", "Domesticated_turkey"]]

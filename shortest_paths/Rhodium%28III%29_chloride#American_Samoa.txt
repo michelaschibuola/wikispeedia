@@ -1,1 +1,0 @@
-[["Rhodium%28III%29_chloride", "Nitrogen", "Coal", "American_Samoa"], ["Rhodium%28III%29_chloride", "Zinc", "Coal", "American_Samoa"], ["Rhodium%28III%29_chloride", "Zinc", "Europe", "American_Samoa"]]

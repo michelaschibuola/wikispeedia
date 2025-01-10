@@ -1,1 +1,0 @@
-[["Marshall_Plan", "Germany", "Florida"], ["Marshall_Plan", "Greece", "Florida"], ["Marshall_Plan", "France", "Florida"], ["Marshall_Plan", "United_Kingdom", "Florida"], ["Marshall_Plan", "United_States", "Florida"], ["Marshall_Plan", "United_States_Congress", "Florida"], ["Marshall_Plan", "World_War_II", "Florida"]]

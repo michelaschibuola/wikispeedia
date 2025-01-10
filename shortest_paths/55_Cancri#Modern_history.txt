@@ -1,1 +1,0 @@
-[["55_Cancri", "Earth", "Modern_history"], ["55_Cancri", "Iron", "Modern_history"]]

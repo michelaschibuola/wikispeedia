@@ -1,1 +1,0 @@
-[["Dingo", "Australia", "Mining", "Obi-Wan_Kenobi"], ["Dingo", "Australia", "Star_Wars", "Obi-Wan_Kenobi"], ["Dingo", "Sydney", "Star_Wars", "Obi-Wan_Kenobi"], ["Dingo", "Australia", "Tony_Blair", "Obi-Wan_Kenobi"], ["Dingo", "Sydney", "Natalie_Portman", "Obi-Wan_Kenobi"], ["Dingo", "Vietnam", "Shanghai", "Obi-Wan_Kenobi"]]

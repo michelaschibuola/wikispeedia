@@ -1,1 +1,0 @@
-[["Globalization", "Trade_union", "United_States_Congress"], ["Globalization", "United_Kingdom", "United_States_Congress"], ["Globalization", "United_States", "United_States_Congress"], ["Globalization", "World_War_II", "United_States_Congress"], ["Globalization", "Law", "United_States_Congress"]]

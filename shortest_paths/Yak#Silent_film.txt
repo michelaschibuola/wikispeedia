@@ -1,1 +1,0 @@
-[["Yak", "Kyrgyzstan", "20th_century", "Silent_film"], ["Yak", "Binomial_nomenclature", "20th_century", "Silent_film"], ["Yak", "Mammal", "20th_century", "Silent_film"], ["Yak", "Carolus_Linnaeus", "Paris", "Silent_film"], ["Yak", "India", "Jane_Eyre", "Silent_film"], ["Yak", "India", "Vampire", "Silent_film"]]

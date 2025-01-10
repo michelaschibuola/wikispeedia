@@ -1,1 +1,0 @@
-[["Nickel", "Australia", "Tennis"], ["Nickel", "European_Union", "Tennis"], ["Nickel", "Russia", "Tennis"], ["Nickel", "Switzerland", "Tennis"]]

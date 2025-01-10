@@ -1,1 +1,0 @@
-[["Australia", "New_Zealand", "Beach"], ["Australia", "Perth%2C_Western_Australia", "Beach"], ["Australia", "Sport", "Beach"], ["Australia", "United_Kingdom", "Beach"], ["Australia", "Box_jellyfish", "Beach"], ["Australia", "Los_Angeles%2C_California", "Beach"], ["Australia", "Paris", "Beach"], ["Australia", "Park", "Beach"], ["Australia", "Tern", "Beach"]]

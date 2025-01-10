@@ -1,1 +1,0 @@
-[["Charlie_Chaplin", "London", "Uranus"]]

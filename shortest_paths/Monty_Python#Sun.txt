@@ -1,1 +1,0 @@
-[["Monty_Python", "Asteroid", "Sun"], ["Monty_Python", "Cancer", "Sun"], ["Monty_Python", "England", "Sun"], ["Monty_Python", "United_States", "Sun"]]

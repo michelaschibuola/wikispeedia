@@ -1,1 +1,0 @@
-[["Differential_equation", "Algebra", "Iran", "Islamic_republic"], ["Differential_equation", "Mathematics", "Iran", "Islamic_republic"], ["Differential_equation", "Algebra", "Islam", "Islamic_republic"], ["Differential_equation", "Mathematics", "Islam", "Islamic_republic"], ["Differential_equation", "Biology", "Africa", "Islamic_republic"]]

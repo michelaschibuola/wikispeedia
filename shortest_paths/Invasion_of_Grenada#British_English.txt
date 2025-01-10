@@ -1,1 +1,0 @@
-[["Invasion_of_Grenada", "Canada", "British_English"], ["Invasion_of_Grenada", "United_Kingdom", "British_English"]]

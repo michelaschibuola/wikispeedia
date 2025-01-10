@@ -1,1 +1,0 @@
-[["Blackpool", "20th_century", "Opera"], ["Blackpool", "Glasgow", "Opera"]]

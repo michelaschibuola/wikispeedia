@@ -1,1 +1,0 @@
-[["Ernest_Rutherford", "Earth", "Argon"], ["Ernest_Rutherford", "Neutron", "Argon"], ["Ernest_Rutherford", "Nitrogen", "Argon"], ["Ernest_Rutherford", "Oxygen", "Argon"], ["Ernest_Rutherford", "Helium", "Argon"]]

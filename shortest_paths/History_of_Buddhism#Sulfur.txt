@@ -1,1 +1,0 @@
-[["History_of_Buddhism", "Arabic_language", "Sulfur"], ["History_of_Buddhism", "China", "Sulfur"], ["History_of_Buddhism", "India", "Sulfur"], ["History_of_Buddhism", "Indonesia", "Sulfur"], ["History_of_Buddhism", "Japan", "Sulfur"], ["History_of_Buddhism", "Latin", "Sulfur"], ["History_of_Buddhism", "Sanskrit", "Sulfur"], ["History_of_Buddhism", "Turkmenistan", "Sulfur"]]

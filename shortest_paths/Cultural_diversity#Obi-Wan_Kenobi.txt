@@ -1,1 +1,0 @@
-[["Cultural_diversity", "Biodiversity", "Mining", "Obi-Wan_Kenobi"], ["Cultural_diversity", "Multiculturalism", "BBC", "Obi-Wan_Kenobi"], ["Cultural_diversity", "Multiculturalism", "Poland", "Obi-Wan_Kenobi"], ["Cultural_diversity", "Multiculturalism", "Slavery", "Obi-Wan_Kenobi"]]

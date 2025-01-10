@@ -1,1 +1,0 @@
-[["God", "Hinduism", "Pig"], ["God", "Islam", "Pig"], ["God", "Judaism", "Pig"], ["God", "Sumer", "Pig"]]

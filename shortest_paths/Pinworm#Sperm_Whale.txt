@@ -1,1 +1,0 @@
-[["Pinworm", "Animal", "Sperm_Whale"], ["Pinworm", "Scientific_classification", "Sperm_Whale"]]

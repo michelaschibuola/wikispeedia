@@ -1,1 +1,0 @@
-[["Bible", "Chicken", "Egg_%28food%29"], ["Bible", "John_Calvin", "Egg_%28food%29"], ["Bible", "Sulfur", "Egg_%28food%29"]]

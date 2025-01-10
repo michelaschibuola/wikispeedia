@@ -1,1 +1,0 @@
-[["Mount_Unzen", "Japan", "Carolus_Linnaeus", "Sumac"], ["Mount_Unzen", "Japan", "Rudyard_Kipling", "Sumac"], ["Mount_Unzen", "River", "Africa", "Sumac"], ["Mount_Unzen", "Tsunami", "Africa", "Sumac"], ["Mount_Unzen", "United_Nations", "Africa", "Sumac"]]

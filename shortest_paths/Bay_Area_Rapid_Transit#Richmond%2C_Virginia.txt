@@ -1,1 +1,0 @@
-[["Bay_Area_Rapid_Transit", "Amtrak", "Richmond%2C_Virginia"], ["Bay_Area_Rapid_Transit", "San_Francisco%2C_California", "Richmond%2C_Virginia"], ["Bay_Area_Rapid_Transit", "United_States", "Richmond%2C_Virginia"]]

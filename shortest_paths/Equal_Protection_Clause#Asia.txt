@@ -1,1 +1,0 @@
-[["Equal_Protection_Clause", "Rail_transport", "Asia"], ["Equal_Protection_Clause", "Slavery", "Asia"], ["Equal_Protection_Clause", "World_War_II", "Asia"]]

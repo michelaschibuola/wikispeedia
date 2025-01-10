@@ -1,1 +1,0 @@
-[["Coal", "Argentina", "History_of_post-Soviet_Russia"], ["Coal", "People%27s_Republic_of_China", "History_of_post-Soviet_Russia"], ["Coal", "World_War_I", "History_of_post-Soviet_Russia"], ["Coal", "Energy", "History_of_post-Soviet_Russia"], ["Coal", "Modern_history", "History_of_post-Soviet_Russia"], ["Coal", "Poland", "History_of_post-Soviet_Russia"]]

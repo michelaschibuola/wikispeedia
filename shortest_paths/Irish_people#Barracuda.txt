@@ -1,1 +1,0 @@
-[["Irish_people", "Florida", "Barracuda"], ["Irish_people", "Brazil", "Barracuda"], ["Irish_people", "Mexico", "Barracuda"]]

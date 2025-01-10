@@ -1,1 +1,0 @@
-[["Cornell_University", "India", "Sri_Lanka"], ["Cornell_University", "Israel", "Sri_Lanka"], ["Cornell_University", "Japan", "Sri_Lanka"], ["Cornell_University", "Middle_East", "Sri_Lanka"], ["Cornell_University", "United_Kingdom", "Sri_Lanka"], ["Cornell_University", "United_States", "Sri_Lanka"], ["Cornell_University", "World_War_II", "Sri_Lanka"]]

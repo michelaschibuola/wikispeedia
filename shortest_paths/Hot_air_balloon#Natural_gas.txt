@@ -1,1 +1,0 @@
-[["Hot_air_balloon", "India", "Natural_gas"], ["Hot_air_balloon", "Japan", "Natural_gas"], ["Hot_air_balloon", "United_Kingdom", "Natural_gas"], ["Hot_air_balloon", "Louisville%2C_Kentucky", "Natural_gas"]]

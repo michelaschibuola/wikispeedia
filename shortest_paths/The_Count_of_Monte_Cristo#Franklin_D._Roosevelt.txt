@@ -1,1 +1,0 @@
-[["The_Count_of_Monte_Cristo", "France", "Franklin_D._Roosevelt"], ["The_Count_of_Monte_Cristo", "French_language", "Franklin_D._Roosevelt"], ["The_Count_of_Monte_Cristo", "Italy", "Franklin_D._Roosevelt"], ["The_Count_of_Monte_Cristo", "Mediterranean_Sea", "Franklin_D._Roosevelt"], ["The_Count_of_Monte_Cristo", "Paris", "Franklin_D._Roosevelt"]]

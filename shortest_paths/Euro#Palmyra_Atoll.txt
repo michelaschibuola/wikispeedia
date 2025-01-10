@@ -1,1 +1,0 @@
-[["Euro", "United_Kingdom", "Palmyra_Atoll"], ["Euro", "United_States", "Palmyra_Atoll"], ["Euro", "United_States_dollar", "Palmyra_Atoll"]]

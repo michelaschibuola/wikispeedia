@@ -1,1 +1,0 @@
-[["Thomas_Jefferson", "Liberalism", "Lithuania"], ["Thomas_Jefferson", "Europe", "Lithuania"], ["Thomas_Jefferson", "World_Heritage_Site", "Lithuania"], ["Thomas_Jefferson", "United_States", "Lithuania"]]

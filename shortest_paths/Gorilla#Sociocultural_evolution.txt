@@ -1,1 +1,0 @@
-[["Gorilla", "Evolution", "Sociocultural_evolution"], ["Gorilla", "Human", "Sociocultural_evolution"], ["Gorilla", "Language", "Sociocultural_evolution"]]

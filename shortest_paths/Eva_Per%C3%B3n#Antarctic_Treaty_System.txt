@@ -1,1 +1,0 @@
-[["Eva_Per%C3%B3n", "Antarctica", "Antarctic_Treaty_System"], ["Eva_Per%C3%B3n", "Argentina", "Antarctic_Treaty_System"], ["Eva_Per%C3%B3n", "Chile", "Antarctic_Treaty_System"], ["Eva_Per%C3%B3n", "Cuba", "Antarctic_Treaty_System"], ["Eva_Per%C3%B3n", "Spain", "Antarctic_Treaty_System"], ["Eva_Per%C3%B3n", "United_States", "Antarctic_Treaty_System"]]

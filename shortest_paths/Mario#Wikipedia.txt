@@ -1,1 +1,0 @@
-[["Mario", "Japan", "Wikipedia"], ["Mario", "English_language", "Wikipedia"]]

@@ -1,1 +1,0 @@
-[["Saint_Petersburg", "Los_Angeles%2C_California", "Guatemala"], ["Saint_Petersburg", "People%27s_Republic_of_China", "Guatemala"], ["Saint_Petersburg", "Time_zone", "Guatemala"], ["Saint_Petersburg", "United_Kingdom", "Guatemala"]]

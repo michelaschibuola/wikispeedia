@@ -1,1 +1,0 @@
-[["London_Underground", "Driving_on_the_left_or_right", "Switzerland"], ["London_Underground", "World_War_II", "Switzerland"]]

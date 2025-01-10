@@ -1,1 +1,0 @@
-[["Mammal", "Craters_of_the_Moon_National_Monument_and_Preserve", "Earthquake"], ["Mammal", "Earth", "Earthquake"], ["Mammal", "Kerala", "Earthquake"], ["Mammal", "Papua_New_Guinea", "Earthquake"]]

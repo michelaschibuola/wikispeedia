@@ -1,1 +1,0 @@
-[["Bolivia", "English_language", "West_Virginia"], ["Bolivia", "Football_%28soccer%29", "West_Virginia"], ["Bolivia", "Mining", "West_Virginia"], ["Bolivia", "United_States", "West_Virginia"], ["Bolivia", "List_of_lakes", "West_Virginia"]]

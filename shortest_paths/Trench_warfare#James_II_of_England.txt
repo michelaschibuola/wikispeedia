@@ -1,1 +1,0 @@
-[["Trench_warfare", "France", "James_II_of_England"], ["Trench_warfare", "French_Revolution", "James_II_of_England"]]

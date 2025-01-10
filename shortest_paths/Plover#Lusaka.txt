@@ -1,1 +1,0 @@
-[["Plover", "African_Black_Oystercatcher", "Africa", "Lusaka"], ["Plover", "Eurasian_Oystercatcher", "Africa", "Lusaka"], ["Plover", "Ringed_Plover", "Africa", "Lusaka"], ["Plover", "Eurasian_Oystercatcher", "Europe", "Lusaka"], ["Plover", "Herring_Gull", "Europe", "Lusaka"], ["Plover", "Ringed_Plover", "Europe", "Lusaka"], ["Plover", "Bird", "Zambezi", "Lusaka"]]

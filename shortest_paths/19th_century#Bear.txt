@@ -1,1 +1,0 @@
-[["19th_century", "Finland", "Bear"], ["19th_century", "United_States", "Bear"], ["19th_century", "Bicycle", "Bear"], ["19th_century", "Biology", "Bear"], ["19th_century", "Dutch_language", "Bear"], ["19th_century", "Winter", "Bear"]]

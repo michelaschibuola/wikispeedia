@@ -1,1 +1,0 @@
-[["Pony", "Brush", "Domestic_goat", "Pupil"], ["Pony", "Horse", "Domestic_goat", "Pupil"], ["Pony", "Horse", "Ancient_Rome", "Pupil"], ["Pony", "Horse", "Cat", "Pupil"], ["Pony", "Horse", "Animal", "Pupil"], ["Pony", "Horse", "Human", "Pupil"]]

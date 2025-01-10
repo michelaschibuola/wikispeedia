@@ -1,1 +1,0 @@
-[["La_Paz", "Mining", "Electrical_engineering"]]

@@ -1,1 +1,0 @@
-[["Abhidhamma_Pitaka", "Buddhism", "Los_Angeles%2C_California", "Marvin_Gaye"], ["Abhidhamma_Pitaka", "Buddhism", "United_States", "Marvin_Gaye"], ["Abhidhamma_Pitaka", "University_of_Bristol", "United_Kingdom", "Marvin_Gaye"]]

@@ -1,1 +1,0 @@
-[["Ptolemy", "British_Isles", "James_I_of_England"], ["Ptolemy", "British_Isles_%28terminology%29", "James_I_of_England"], ["Ptolemy", "England", "James_I_of_England"], ["Ptolemy", "Great_Britain", "James_I_of_England"], ["Ptolemy", "Ireland", "James_I_of_England"], ["Ptolemy", "France", "James_I_of_England"]]

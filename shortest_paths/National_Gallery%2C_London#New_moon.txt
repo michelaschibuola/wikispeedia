@@ -1,1 +1,0 @@
-[["National_Gallery%2C_London", "London", "Tide", "New_moon"], ["National_Gallery%2C_London", "England", "Sun", "New_moon"], ["National_Gallery%2C_London", "United_Kingdom", "Iran", "New_moon"], ["National_Gallery%2C_London", "World_War_II", "Iran", "New_moon"], ["National_Gallery%2C_London", "United_Kingdom", "Saudi_Arabia", "New_moon"]]

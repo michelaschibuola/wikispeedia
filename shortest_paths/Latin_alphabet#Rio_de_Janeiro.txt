@@ -1,1 +1,0 @@
-[["Latin_alphabet", "English_language", "Rio_de_Janeiro"], ["Latin_alphabet", "Africa", "Rio_de_Janeiro"], ["Latin_alphabet", "Portuguese_language", "Rio_de_Janeiro"], ["Latin_alphabet", "Turkey", "Rio_de_Janeiro"]]

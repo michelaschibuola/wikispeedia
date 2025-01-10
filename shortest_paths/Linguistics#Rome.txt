@@ -1,1 +1,0 @@
-[["Linguistics", "Alchemy", "Rome"], ["Linguistics", "Cornell_University", "Rome"], ["Linguistics", "East-West_Schism", "Rome"], ["Linguistics", "England", "Rome"], ["Linguistics", "History_of_science", "Rome"], ["Linguistics", "Japan", "Rome"], ["Linguistics", "Middle_East", "Rome"], ["Linguistics", "Rabindranath_Tagore", "Rome"], ["Linguistics", "The_Cantos", "Rome"]]

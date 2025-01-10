@@ -1,1 +1,0 @@
-[["Acid_rain", "Forest", "Ganges_River"], ["Acid_rain", "Oxygen", "Ganges_River"], ["Acid_rain", "Pollution", "Ganges_River"], ["Acid_rain", "River", "Ganges_River"]]

@@ -1,1 +1,0 @@
-[["Louis_Pasteur", "France", "Battle_of_France"], ["Louis_Pasteur", "Paris", "Battle_of_France"]]

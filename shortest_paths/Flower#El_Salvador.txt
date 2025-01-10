@@ -1,1 +1,0 @@
-[["Flower", "Canada", "El_Salvador"], ["Flower", "Los_Angeles%2C_California", "El_Salvador"], ["Flower", "Taipei", "El_Salvador"]]

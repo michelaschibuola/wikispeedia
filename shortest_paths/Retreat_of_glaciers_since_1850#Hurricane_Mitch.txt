@@ -1,1 +1,0 @@
-[["Retreat_of_glaciers_since_1850", "Africa", "Hurricane_Mitch"], ["Retreat_of_glaciers_since_1850", "North_America", "Hurricane_Mitch"]]

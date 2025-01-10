@@ -1,1 +1,0 @@
-[["Shanghai", "League_of_Nations", "Woodrow_Wilson"], ["Shanghai", "Chicago", "Woodrow_Wilson"], ["Shanghai", "France", "Woodrow_Wilson"], ["Shanghai", "Germany", "Woodrow_Wilson"], ["Shanghai", "London", "Woodrow_Wilson"], ["Shanghai", "Russia", "Woodrow_Wilson"]]

@@ -1,1 +1,0 @@
-[["Peafowl", "Africa", "Ostrich"], ["Peafowl", "Animal", "Ostrich"], ["Peafowl", "Bird", "Ostrich"], ["Peafowl", "Carolus_Linnaeus", "Ostrich"], ["Peafowl", "Chordate", "Ostrich"], ["Peafowl", "Scientific_classification", "Ostrich"]]

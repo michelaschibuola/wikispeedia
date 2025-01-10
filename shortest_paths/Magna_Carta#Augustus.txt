@@ -1,1 +1,0 @@
-[["Magna_Carta", "History_of_democracy", "Augustus"], ["Magna_Carta", "Latin", "Augustus"], ["Magna_Carta", "Rome", "Augustus"]]

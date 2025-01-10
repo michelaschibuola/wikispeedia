@@ -1,1 +1,0 @@
-[["Cultivar", "English_language", "Lesotho"], ["Cultivar", "Sorghum", "Lesotho"]]

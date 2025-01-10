@@ -1,1 +1,0 @@
-[["Andromeda_Galaxy", "European_Space_Agency", "South_America", "Amazon_parrot"], ["Andromeda_Galaxy", "Sun", "South_America", "Amazon_parrot"], ["Andromeda_Galaxy", "Sun", "Mexico", "Amazon_parrot"], ["Andromeda_Galaxy", "Ultraviolet", "Bird", "Amazon_parrot"]]

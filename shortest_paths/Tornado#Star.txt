@@ -1,1 +1,0 @@
-[["Tornado", "Astronomy", "Star"], ["Tornado", "Earth", "Star"], ["Tornado", "Energy", "Star"], ["Tornado", "Physical_science", "Star"]]

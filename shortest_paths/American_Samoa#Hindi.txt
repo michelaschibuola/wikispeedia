@@ -1,1 +1,0 @@
-[["American_Samoa", "English_language", "Hindi"], ["American_Samoa", "Germany", "Hindi"], ["American_Samoa", "United_States", "Hindi"]]

@@ -1,1 +1,0 @@
-[["Hepatocellular_carcinoma", "Cancer", "Bird", "Amazon_parrot"], ["Hepatocellular_carcinoma", "Peanut", "Bird", "Amazon_parrot"], ["Hepatocellular_carcinoma", "Peanut", "Scientific_classification", "Amazon_parrot"], ["Hepatocellular_carcinoma", "Peanut", "South_America", "Amazon_parrot"], ["Hepatocellular_carcinoma", "Sub-Saharan_Africa", "South_America", "Amazon_parrot"]]

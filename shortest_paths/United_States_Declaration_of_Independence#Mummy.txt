@@ -1,1 +1,0 @@
-[["United_States_Declaration_of_Independence", "United_States", "Mummy"], ["United_States_Declaration_of_Independence", "Ho_Chi_Minh", "Mummy"]]

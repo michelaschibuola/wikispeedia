@@ -1,1 +1,0 @@
-[["Kakapo", "Binomial_nomenclature", "Wasabi"], ["Kakapo", "New_Zealand", "Wasabi"], ["Kakapo", "Plant", "Wasabi"], ["Kakapo", "Scientific_classification", "Wasabi"]]

@@ -1,1 +1,0 @@
-[["Latin", "Color", "Fermium"], ["Latin", "Neutron", "Fermium"], ["Latin", "Radon", "Fermium"]]

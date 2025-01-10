@@ -1,1 +1,0 @@
-[["Imperial_Japanese_Navy", "Christianity", "Sudan"], ["Imperial_Japanese_Navy", "Egypt", "Sudan"], ["Imperial_Japanese_Navy", "France", "Sudan"], ["Imperial_Japanese_Navy", "Malta", "Sudan"], ["Imperial_Japanese_Navy", "Russia", "Sudan"], ["Imperial_Japanese_Navy", "United_Kingdom", "Sudan"], ["Imperial_Japanese_Navy", "United_States", "Sudan"]]

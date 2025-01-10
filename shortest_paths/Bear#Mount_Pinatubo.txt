@@ -1,1 +1,0 @@
-[["Bear", "Forest", "Mount_Pinatubo"], ["Bear", "United_States", "Mount_Pinatubo"]]

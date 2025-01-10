@@ -1,1 +1,0 @@
-[["Global_warming", "Amazon_Rainforest", "Ecuador"], ["Global_warming", "Earth", "Ecuador"], ["Global_warming", "El_Ni%C3%B1o-Southern_Oscillation", "Ecuador"], ["Global_warming", "Retreat_of_glaciers_since_1850", "Ecuador"], ["Global_warming", "United_States", "Ecuador"], ["Global_warming", "Mount_Everest", "Ecuador"], ["Global_warming", "Petroleum", "Ecuador"]]

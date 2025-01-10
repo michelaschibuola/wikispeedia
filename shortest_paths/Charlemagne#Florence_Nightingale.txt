@@ -1,1 +1,0 @@
-[["Charlemagne", "England", "Florence_Nightingale"], ["Charlemagne", "Germany", "Florence_Nightingale"], ["Charlemagne", "Italy", "Florence_Nightingale"], ["Charlemagne", "Rome", "Florence_Nightingale"]]

@@ -1,1 +1,0 @@
-[["Badger", "Animal", "Golden_Eagle"], ["Badger", "Mammal", "Golden_Eagle"], ["Badger", "Scientific_classification", "Golden_Eagle"], ["Badger", "Glacier_National_Park_%28US%29", "Golden_Eagle"], ["Badger", "Ireland", "Golden_Eagle"]]

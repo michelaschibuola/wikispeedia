@@ -1,1 +1,0 @@
-[["Rocky_Mountains", "Canada", "Platinum"], ["Rocky_Mountains", "Copper", "Platinum"], ["Rocky_Mountains", "Gold", "Platinum"], ["Rocky_Mountains", "Igneous_rock", "Platinum"], ["Rocky_Mountains", "Silver", "Platinum"], ["Rocky_Mountains", "United_States", "Platinum"], ["Rocky_Mountains", "Shoshone_National_Forest", "Platinum"]]

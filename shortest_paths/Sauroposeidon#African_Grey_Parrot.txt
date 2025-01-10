@@ -1,1 +1,0 @@
-[["Sauroposeidon", "Africa", "African_Grey_Parrot"], ["Sauroposeidon", "Animal", "African_Grey_Parrot"], ["Sauroposeidon", "Bird", "African_Grey_Parrot"], ["Sauroposeidon", "Chordate", "African_Grey_Parrot"], ["Sauroposeidon", "Scientific_classification", "African_Grey_Parrot"]]

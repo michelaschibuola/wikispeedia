@@ -1,1 +1,0 @@
-[["Hopman_Cup", "Germany", "Carbon_dioxide"], ["Hopman_Cup", "United_States", "Carbon_dioxide"]]

@@ -1,1 +1,0 @@
-[["Europium", "Euro", "History_of_Greece"], ["Europium", "Europe", "History_of_Greece"], ["Europium", "France", "History_of_Greece"]]

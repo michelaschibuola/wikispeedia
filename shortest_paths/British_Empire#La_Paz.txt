@@ -1,1 +1,0 @@
-[["British_Empire", "English_language", "La_Paz"], ["British_Empire", "Capital", "La_Paz"]]

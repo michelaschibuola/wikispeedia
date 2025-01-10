@@ -1,1 +1,0 @@
-[["Tourism", "English_Channel", "Tank"], ["Tourism", "France", "Tank"], ["Tourism", "Peru", "Tank"], ["Tourism", "United_States", "Tank"]]

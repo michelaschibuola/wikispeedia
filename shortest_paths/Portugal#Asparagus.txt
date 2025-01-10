@@ -1,1 +1,0 @@
-[["Portugal", "China", "Asparagus"], ["Portugal", "Europe", "Asparagus"], ["Portugal", "European_Union", "Asparagus"], ["Portugal", "Guangzhou", "Asparagus"], ["Portugal", "Japan", "Asparagus"], ["Portugal", "Olive_oil", "Asparagus"], ["Portugal", "United_States", "Asparagus"], ["Portugal", "Wine", "Asparagus"]]

@@ -1,1 +1,0 @@
-[["Judaism", "Brazil", "Roman_law"], ["Judaism", "Europe", "Roman_law"], ["Judaism", "European_Union", "Roman_law"], ["Judaism", "Germany", "Roman_law"], ["Judaism", "Roman_Empire", "Roman_law"], ["Judaism", "South_Africa", "Roman_law"], ["Judaism", "Law", "Roman_law"], ["Judaism", "Rome", "Roman_law"]]

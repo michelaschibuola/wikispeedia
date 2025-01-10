@@ -1,1 +1,0 @@
-[["Evolution", "Anthropology", "Paraguay"], ["Evolution", "Agriculture", "Paraguay"], ["Evolution", "South_America", "Paraguay"]]

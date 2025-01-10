@@ -1,1 +1,0 @@
-[["Stonehenge", "Japan", "Darth_Vader"], ["Stonehenge", "King_Arthur", "Darth_Vader"]]

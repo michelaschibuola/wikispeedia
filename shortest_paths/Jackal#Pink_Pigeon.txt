@@ -1,1 +1,0 @@
-[["Jackal", "Animal", "Pink_Pigeon"], ["Jackal", "Bird", "Pink_Pigeon"], ["Jackal", "Chordate", "Pink_Pigeon"], ["Jackal", "Scientific_classification", "Pink_Pigeon"]]

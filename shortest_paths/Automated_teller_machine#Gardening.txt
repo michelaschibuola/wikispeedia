@@ -1,1 +1,0 @@
-[["Automated_teller_machine", "Canada", "Gardening"], ["Automated_teller_machine", "United_States", "Gardening"]]

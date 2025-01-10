@@ -1,1 +1,0 @@
-[["Mahjong", "China", "Clock"], ["Mahjong", "Computer", "Clock"]]

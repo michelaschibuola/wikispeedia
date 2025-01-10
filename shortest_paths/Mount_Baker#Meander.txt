@@ -1,1 +1,0 @@
-[["Mount_Baker", "Glacier", "River", "Meander"], ["Mount_Baker", "United_States", "River", "Meander"], ["Mount_Baker", "Glacier", "Landform", "Meander"], ["Mount_Baker", "Volcano", "Landform", "Meander"], ["Mount_Baker", "Glacier", "Sandur", "Meander"], ["Mount_Baker", "Volcano", "Sandur", "Meander"], ["Mount_Baker", "United_States", "Oxbow_lake", "Meander"]]

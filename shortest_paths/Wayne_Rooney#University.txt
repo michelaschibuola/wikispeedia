@@ -1,1 +1,0 @@
-[["Wayne_Rooney", "England", "University"], ["Wayne_Rooney", "Liverpool", "University"], ["Wayne_Rooney", "Portugal", "University"]]

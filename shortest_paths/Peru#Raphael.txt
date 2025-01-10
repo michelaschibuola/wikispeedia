@@ -1,1 +1,0 @@
-[["Peru", "Painting", "Raphael"], ["Peru", "Renaissance", "Raphael"], ["Peru", "Rome", "Raphael"]]

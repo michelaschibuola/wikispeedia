@@ -1,1 +1,0 @@
-[["Apple", "France", "Harry_Potter"], ["Apple", "Halloween", "Harry_Potter"], ["Apple", "United_States", "Harry_Potter"]]

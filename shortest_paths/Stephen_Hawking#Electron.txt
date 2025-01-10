@@ -1,1 +1,0 @@
-[["Stephen_Hawking", "Paul_Dirac", "Electron"], ["Stephen_Hawking", "Gravitation", "Electron"], ["Stephen_Hawking", "Physics", "Electron"], ["Stephen_Hawking", "United_Kingdom", "Electron"], ["Stephen_Hawking", "University_of_Cambridge", "Electron"]]

@@ -1,1 +1,0 @@
-[["Magnet", "Aluminium", "Acetic_acid"], ["Magnet", "Cobalt", "Acetic_acid"], ["Magnet", "Gas", "Acetic_acid"], ["Magnet", "Iron", "Acetic_acid"], ["Magnet", "Phase_%28matter%29", "Acetic_acid"]]

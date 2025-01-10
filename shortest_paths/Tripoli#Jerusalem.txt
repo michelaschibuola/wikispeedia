@@ -1,1 +1,0 @@
-[["Tripoli", "Richard_O%27Connor", "Jerusalem"], ["Tripoli", "Arabic_language", "Jerusalem"], ["Tripoli", "Capital", "Jerusalem"], ["Tripoli", "City", "Jerusalem"], ["Tripoli", "Egypt", "Jerusalem"], ["Tripoli", "Football_%28soccer%29", "Jerusalem"], ["Tripoli", "Mediterranean_Sea", "Jerusalem"], ["Tripoli", "Ottoman_Empire", "Jerusalem"], ["Tripoli", "Spain", "Jerusalem"]]

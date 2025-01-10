@@ -1,1 +1,0 @@
-[["Gadolinium", "Color", "Retina"]]

@@ -1,1 +1,0 @@
-[["Nash_equilibrium", "John_von_Neumann", "Earth", "Shark"]]

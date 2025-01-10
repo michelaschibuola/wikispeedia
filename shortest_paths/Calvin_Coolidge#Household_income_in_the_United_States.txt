@@ -1,1 +1,0 @@
-[["Calvin_Coolidge", "Germany", "Household_income_in_the_United_States"], ["Calvin_Coolidge", "United_Kingdom", "Household_income_in_the_United_States"]]

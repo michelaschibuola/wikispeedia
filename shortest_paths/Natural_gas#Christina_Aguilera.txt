@@ -1,1 +1,0 @@
-[["Natural_gas", "Argentina", "Christina_Aguilera"], ["Natural_gas", "Germany", "Christina_Aguilera"], ["Natural_gas", "Ireland", "Christina_Aguilera"], ["Natural_gas", "Hurricane_Katrina", "Christina_Aguilera"], ["Natural_gas", "United_Kingdom", "Christina_Aguilera"], ["Natural_gas", "United_States", "Christina_Aguilera"]]

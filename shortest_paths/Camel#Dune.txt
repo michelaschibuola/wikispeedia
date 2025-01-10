@@ -1,1 +1,0 @@
-[["Camel", "Desert", "Dune"], ["Camel", "Egypt", "Dune"], ["Camel", "Iran", "Dune"], ["Camel", "Namibia", "Dune"], ["Camel", "Western_Sahara", "Dune"]]

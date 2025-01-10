@@ -1,1 +1,0 @@
-[["Taj_Mahal", "Diamond", "Botswana"], ["Taj_Mahal", "English_language", "Botswana"], ["Taj_Mahal", "United_Kingdom", "Botswana"], ["Taj_Mahal", "Tourism", "Botswana"]]

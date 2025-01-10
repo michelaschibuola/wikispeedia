@@ -1,1 +1,0 @@
-[["Spain", "21st_century", "Energy"], ["Spain", "Albatross", "Energy"], ["Spain", "Automobile", "Energy"], ["Spain", "BP", "Energy"], ["Spain", "Petroleum", "Energy"], ["Spain", "Syria", "Energy"], ["Spain", "Tornado", "Energy"], ["Spain", "Tropical_cyclone", "Energy"], ["Spain", "Volcano", "Energy"]]

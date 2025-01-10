@@ -1,1 +1,0 @@
-[["Pi", "China", "Copper", "Chinyingi"], ["Pi", "United_States", "Copper", "Chinyingi"], ["Pi", "English_language", "Zambia", "Chinyingi"], ["Pi", "Gottfried_Leibniz", "Mining", "Chinyingi"], ["Pi", "United_States", "Mining", "Chinyingi"], ["Pi", "United_States", "AIDS", "Chinyingi"]]

@@ -1,1 +1,0 @@
-[["Kargil_War", "India", "Aircraft_carrier"], ["Kargil_War", "Afghanistan", "Aircraft_carrier"], ["Kargil_War", "Pakistan", "Aircraft_carrier"], ["Kargil_War", "People%27s_Republic_of_China", "Aircraft_carrier"], ["Kargil_War", "Soviet_Union", "Aircraft_carrier"], ["Kargil_War", "United_States", "Aircraft_carrier"]]

@@ -1,1 +1,0 @@
-[["Bhutan", "Beer", "Cider"], ["Bhutan", "European_Union", "Cider"], ["Bhutan", "Japan", "Cider"], ["Bhutan", "United_Kingdom", "Cider"]]

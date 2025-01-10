@@ -1,1 +1,0 @@
-[["Galileo_Galilei", "Charlemagne", "Franks"], ["Galileo_Galilei", "Italy", "Franks"], ["Galileo_Galilei", "Latin", "Franks"], ["Galileo_Galilei", "Netherlands", "Franks"]]

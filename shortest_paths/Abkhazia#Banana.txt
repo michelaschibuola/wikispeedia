@@ -1,1 +1,0 @@
-[["Abkhazia", "European_Union", "Banana"], ["Abkhazia", "Fruit", "Banana"], ["Abkhazia", "Islam", "Banana"]]

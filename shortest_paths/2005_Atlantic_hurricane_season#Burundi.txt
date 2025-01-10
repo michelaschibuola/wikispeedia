@@ -1,1 +1,0 @@
-[["2005_Atlantic_hurricane_season", "Banana", "Burundi"], ["2005_Atlantic_hurricane_season", "Coffee", "Burundi"], ["2005_Atlantic_hurricane_season", "United_States_dollar", "Burundi"]]

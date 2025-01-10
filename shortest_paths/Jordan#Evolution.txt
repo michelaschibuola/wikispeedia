@@ -1,1 +1,0 @@
-[["Jordan", "Global_spread_of_H5N1", "Evolution"], ["Jordan", "Religion", "Evolution"], ["Jordan", "United_States", "Evolution"]]

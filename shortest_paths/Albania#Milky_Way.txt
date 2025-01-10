@@ -1,1 +1,0 @@
-[["Albania", "Armenia", "Milky_Way"], ["Albania", "Spain", "Milky_Way"], ["Albania", "Rome", "Milky_Way"]]

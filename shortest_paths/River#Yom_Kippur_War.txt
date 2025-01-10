@@ -1,1 +1,0 @@
-[["River", "Jordan", "Yom_Kippur_War"], ["River", "Africa", "Yom_Kippur_War"], ["River", "Egypt", "Yom_Kippur_War"], ["River", "Iraq", "Yom_Kippur_War"], ["River", "Israel", "Yom_Kippur_War"], ["River", "Netherlands", "Yom_Kippur_War"], ["River", "Pakistan", "Yom_Kippur_War"]]

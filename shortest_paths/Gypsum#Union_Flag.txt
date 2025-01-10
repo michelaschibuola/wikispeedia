@@ -1,1 +1,0 @@
-[["Gypsum", "Canada", "Union_Flag"], ["Gypsum", "England", "Union_Flag"], ["Gypsum", "Ireland", "Union_Flag"], ["Gypsum", "United_States", "Union_Flag"]]

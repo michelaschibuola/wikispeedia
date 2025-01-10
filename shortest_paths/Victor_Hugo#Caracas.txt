@@ -1,1 +1,0 @@
-[["Victor_Hugo", "Colombia", "Caracas"], ["Victor_Hugo", "French_Revolution", "Caracas"], ["Victor_Hugo", "Italy", "Caracas"], ["Victor_Hugo", "Portugal", "Caracas"], ["Victor_Hugo", "Roman_Catholic_Church", "Caracas"], ["Victor_Hugo", "Spain", "Caracas"]]

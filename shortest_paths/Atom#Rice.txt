@@ -1,1 +1,0 @@
-[["Atom", "Water", "Rice"], ["Atom", "Fatty_acid", "Rice"]]

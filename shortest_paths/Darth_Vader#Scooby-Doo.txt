@@ -1,1 +1,0 @@
-[["Darth_Vader", "Frankenstein", "Scooby-Doo"]]

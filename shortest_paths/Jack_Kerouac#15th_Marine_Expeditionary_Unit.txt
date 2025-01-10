@@ -1,1 +1,0 @@
-[["Jack_Kerouac", "California", "15th_Marine_Expeditionary_Unit"], ["Jack_Kerouac", "United_States", "15th_Marine_Expeditionary_Unit"], ["Jack_Kerouac", "World_War_II", "15th_Marine_Expeditionary_Unit"]]

@@ -1,1 +1,0 @@
-[["Mallard", "Asia", "North_Korea"], ["Mallard", "Australia", "North_Korea"], ["Mallard", "Europe", "North_Korea"]]

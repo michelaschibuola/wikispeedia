@@ -1,1 +1,0 @@
-[["Anarchism", "Agriculture", "Cereal"], ["Anarchism", "United_Kingdom", "Cereal"], ["Anarchism", "Polish-Lithuanian_Commonwealth", "Cereal"]]

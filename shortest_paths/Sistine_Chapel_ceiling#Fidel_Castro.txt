@@ -1,1 +1,0 @@
-[["Sistine_Chapel_ceiling", "Africa", "Fidel_Castro"], ["Sistine_Chapel_ceiling", "Pope_John_Paul_II", "Fidel_Castro"]]

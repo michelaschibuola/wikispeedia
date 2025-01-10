@@ -1,1 +1,0 @@
-[["Politics", "Ancient_history", "Pericles"], ["Politics", "Aristotle", "Pericles"], ["Politics", "Philosophy", "Pericles"], ["Politics", "Plato", "Pericles"], ["Politics", "Ancient_Greece", "Pericles"]]

@@ -1,1 +1,0 @@
-[["United_States_dollar", "Republic_of_Ireland", "Geography_of_Ireland"], ["United_States_dollar", "South_Africa", "Geography_of_Ireland"]]

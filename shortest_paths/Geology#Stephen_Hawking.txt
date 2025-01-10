@@ -1,1 +1,0 @@
-[["Geology", "Biology", "Stephen_Hawking"], ["Geology", "China", "Stephen_Hawking"], ["Geology", "French_language", "Stephen_Hawking"], ["Geology", "Physics", "Stephen_Hawking"]]

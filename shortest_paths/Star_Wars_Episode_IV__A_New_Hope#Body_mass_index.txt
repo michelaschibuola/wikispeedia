@@ -1,1 +1,0 @@
-[["Star_Wars_Episode_IV__A_New_Hope", "20th_century", "Rugby_football", "Body_mass_index"], ["Star_Wars_Episode_IV__A_New_Hope", "Japan", "World_Health_Organization", "Body_mass_index"], ["Star_Wars_Episode_IV__A_New_Hope", "Tunisia", "World_Health_Organization", "Body_mass_index"], ["Star_Wars_Episode_IV__A_New_Hope", "Stargate_SG-1", "Belgium", "Body_mass_index"]]

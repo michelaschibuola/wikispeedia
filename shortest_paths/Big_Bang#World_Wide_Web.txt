@@ -1,1 +1,0 @@
-[["Big_Bang", "Science", "World_Wide_Web"], ["Big_Bang", "Stephen_Hawking", "World_Wide_Web"]]

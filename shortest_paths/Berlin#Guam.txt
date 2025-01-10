@@ -1,1 +1,0 @@
-[["Berlin", "English_language", "Guam"], ["Berlin", "Japan", "Guam"], ["Berlin", "Mexico", "Guam"], ["Berlin", "People%27s_Republic_of_China", "Guam"], ["Berlin", "Spain", "Guam"], ["Berlin", "United_States", "Guam"], ["Berlin", "World_War_II", "Guam"], ["Berlin", "Los_Angeles%2C_California", "Guam"]]

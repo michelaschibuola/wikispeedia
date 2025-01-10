@@ -1,1 +1,0 @@
-[["History_of_Greece", "19th_century", "Archbishop_of_Canterbury"], ["History_of_Greece", "Christianity", "Archbishop_of_Canterbury"], ["History_of_Greece", "England", "Archbishop_of_Canterbury"], ["History_of_Greece", "Latin", "Archbishop_of_Canterbury"], ["History_of_Greece", "Rome", "Archbishop_of_Canterbury"]]

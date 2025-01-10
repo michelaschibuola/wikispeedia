@@ -1,1 +1,0 @@
-[["D%C3%BCsseldorf", "18th_century", "4th_century"], ["D%C3%BCsseldorf", "China", "4th_century"], ["D%C3%BCsseldorf", "Roman_Empire", "4th_century"]]

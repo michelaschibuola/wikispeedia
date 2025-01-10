@@ -1,1 +1,0 @@
-[["Genghis_Khan", "China", "Alphabet"], ["Genghis_Khan", "Mongol_Empire", "Alphabet"], ["Genghis_Khan", "Julius_Caesar", "Alphabet"]]

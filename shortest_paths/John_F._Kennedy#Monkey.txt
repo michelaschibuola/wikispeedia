@@ -1,1 +1,0 @@
-[["John_F._Kennedy", "Coconut", "Monkey"], ["John_F._Kennedy", "Boston%2C_Massachusetts", "Monkey"], ["John_F._Kennedy", "United_States", "Monkey"]]

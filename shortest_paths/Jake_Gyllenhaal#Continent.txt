@@ -1,1 +1,0 @@
-[["Jake_Gyllenhaal", "Climate_change", "Continent"], ["Jake_Gyllenhaal", "United_States", "Continent"]]

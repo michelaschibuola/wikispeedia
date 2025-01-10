@@ -1,1 +1,0 @@
-[["Weimar_Republic", "Berlin", "Frank_Lloyd_Wright"], ["Weimar_Republic", "United_States", "Frank_Lloyd_Wright"], ["Weimar_Republic", "World_War_I", "Frank_Lloyd_Wright"]]

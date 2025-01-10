@@ -1,1 +1,0 @@
-[["Bread", "Carbon_dioxide", "Carbon"], ["Bread", "Dutch_language", "Carbon"], ["Bread", "Fatty_acid", "Carbon"], ["Bread", "Fruit", "Carbon"], ["Bread", "German_language", "Carbon"], ["Bread", "India", "Carbon"], ["Bread", "Latin", "Carbon"], ["Bread", "Mexico", "Carbon"], ["Bread", "Nutrition", "Carbon"], ["Bread", "United_States", "Carbon"]]

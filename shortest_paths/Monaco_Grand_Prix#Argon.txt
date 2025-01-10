@@ -1,1 +1,0 @@
-[["Monaco_Grand_Prix", "Brabham", "Aluminium", "Argon"], ["Monaco_Grand_Prix", "France", "Gallium", "Argon"], ["Monaco_Grand_Prix", "France", "Zinc", "Argon"]]

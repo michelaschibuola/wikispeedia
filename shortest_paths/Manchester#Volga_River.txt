@@ -1,1 +1,0 @@
-[["Manchester", "Europe", "Volga_River"], ["Manchester", "Russia", "Volga_River"], ["Manchester", "Saint_Petersburg", "Volga_River"]]

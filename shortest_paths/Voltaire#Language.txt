@@ -1,1 +1,0 @@
-[["Voltaire", "Age_of_Enlightenment", "Language"], ["Voltaire", "Sociocultural_evolution", "Language"], ["Voltaire", "The_Cantos", "Language"], ["Voltaire", "Poetry", "Language"], ["Voltaire", "William_Shakespeare", "Language"]]

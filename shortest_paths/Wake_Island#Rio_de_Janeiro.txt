@@ -1,1 +1,0 @@
-[["Wake_Island", "United_States", "Rio_de_Janeiro"], ["Wake_Island", "Germany", "Rio_de_Janeiro"], ["Wake_Island", "Japan", "Rio_de_Janeiro"]]

@@ -1,1 +1,0 @@
-[["Second_Boer_War", "Australia", "Economy_of_India"], ["Second_Boer_War", "China", "Economy_of_India"], ["Second_Boer_War", "India", "Economy_of_India"], ["Second_Boer_War", "United_States", "Economy_of_India"]]

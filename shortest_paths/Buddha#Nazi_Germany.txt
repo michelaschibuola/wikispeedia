@@ -1,1 +1,0 @@
-[["Buddha", "Japan", "Nazi_Germany"], ["Buddha", "Roman_Vishniac", "Nazi_Germany"]]

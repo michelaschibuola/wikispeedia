@@ -1,1 +1,0 @@
-[["Nile", "Amazon_River", "Denmark"], ["Nile", "Continent", "Denmark"], ["Nile", "Agriculture", "Denmark"], ["Nile", "Tanzania", "Denmark"], ["Nile", "Water", "Denmark"]]

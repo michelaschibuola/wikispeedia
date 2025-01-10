@@ -1,1 +1,0 @@
-[["Greek_mythology", "Paris", "Caravaggio"], ["Greek_mythology", "Rome", "Caravaggio"]]

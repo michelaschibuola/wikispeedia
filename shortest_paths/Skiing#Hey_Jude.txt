@@ -1,1 +1,0 @@
-[["Skiing", "Canada", "Hey_Jude"], ["Skiing", "Germany", "Hey_Jude"], ["Skiing", "United_States", "Hey_Jude"]]

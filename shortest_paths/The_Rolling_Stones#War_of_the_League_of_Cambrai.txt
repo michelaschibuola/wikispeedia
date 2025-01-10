@@ -1,1 +1,0 @@
-[["The_Rolling_Stones", "England", "War_of_the_League_of_Cambrai"], ["The_Rolling_Stones", "Brussels", "War_of_the_League_of_Cambrai"], ["The_Rolling_Stones", "France", "War_of_the_League_of_Cambrai"]]

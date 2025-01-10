@@ -1,1 +1,0 @@
-[["Cattle", "Indus_Valley_Civilization", "Lead"], ["Cattle", "Mendip_Hills", "Lead"], ["Cattle", "Wales", "Lead"]]

@@ -1,1 +1,0 @@
-[["Button", "Europe", "Super_Mario_Bros."]]

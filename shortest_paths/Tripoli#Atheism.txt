@@ -1,1 +1,0 @@
-[["Tripoli", "Brazil", "Atheism"], ["Tripoli", "France", "Atheism"], ["Tripoli", "United_States", "Atheism"]]

@@ -1,1 +1,0 @@
-[["Stanley%2C_Falkland_Islands", "South_America", "Continent"], ["Stanley%2C_Falkland_Islands", "Antarctica", "Continent"], ["Stanley%2C_Falkland_Islands", "Argentina", "Continent"], ["Stanley%2C_Falkland_Islands", "New_Zealand", "Continent"]]

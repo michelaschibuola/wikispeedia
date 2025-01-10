@@ -1,1 +1,0 @@
-[["Mercia", "England", "Vodafone"], ["Mercia", "Denmark", "Vodafone"], ["Mercia", "United_Kingdom", "Vodafone"]]

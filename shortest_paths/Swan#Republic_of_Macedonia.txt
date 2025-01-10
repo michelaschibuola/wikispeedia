@@ -1,1 +1,0 @@
-[["Swan", "Asia", "Republic_of_Macedonia"], ["Swan", "Europe", "Republic_of_Macedonia"], ["Swan", "Iceland", "Republic_of_Macedonia"], ["Swan", "Malta", "Republic_of_Macedonia"], ["Swan", "Russia", "Republic_of_Macedonia"]]

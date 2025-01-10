@@ -1,1 +1,0 @@
-[["Lutetium", "Chlorine", "Volcano"], ["Lutetium", "Earth%27s_atmosphere", "Volcano"], ["Lutetium", "Fire", "Volcano"], ["Lutetium", "Latin", "Volcano"]]

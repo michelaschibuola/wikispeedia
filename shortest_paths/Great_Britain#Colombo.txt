@@ -1,1 +1,0 @@
-[["Great_Britain", "United_Kingdom", "Colombo"], ["Great_Britain", "Netherlands", "Colombo"], ["Great_Britain", "Time_zone", "Colombo"]]

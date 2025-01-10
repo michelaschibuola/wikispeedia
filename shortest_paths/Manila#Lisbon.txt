@@ -1,1 +1,0 @@
-[["Manila", "Global_city", "Lisbon"], ["Manila", "Habsburg_Spain", "Lisbon"], ["Manila", "Capital", "Lisbon"], ["Manila", "England", "Lisbon"], ["Manila", "France", "Lisbon"], ["Manila", "India", "Lisbon"], ["Manila", "Paris", "Lisbon"], ["Manila", "Philip_II_of_Spain", "Lisbon"], ["Manila", "Spain", "Lisbon"], ["Manila", "United_States", "Lisbon"]]

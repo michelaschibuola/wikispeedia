@@ -1,1 +1,0 @@
-[["Nuclear_weapon", "Cold_War", "Radon"], ["Nuclear_weapon", "Einsteinium", "Radon"], ["Nuclear_weapon", "Moon", "Radon"], ["Nuclear_weapon", "Japan", "Radon"], ["Nuclear_weapon", "Plutonium", "Radon"], ["Nuclear_weapon", "United_States", "Radon"], ["Nuclear_weapon", "Uranium", "Radon"], ["Nuclear_weapon", "Polonium", "Radon"]]

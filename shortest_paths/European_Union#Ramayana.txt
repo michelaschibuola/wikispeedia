@@ -1,1 +1,0 @@
-[["European_Union", "Hindi", "Ramayana"], ["European_Union", "Hinduism", "Ramayana"], ["European_Union", "India", "Ramayana"], ["European_Union", "Myanmar", "Ramayana"], ["European_Union", "Tamil_people", "Ramayana"]]

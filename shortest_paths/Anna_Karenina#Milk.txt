@@ -1,1 +1,0 @@
-[["Anna_Karenina", "Europe", "Milk"], ["Anna_Karenina", "Russia", "Milk"], ["Anna_Karenina", "Turkey", "Milk"]]

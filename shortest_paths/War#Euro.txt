@@ -1,1 +1,0 @@
-[["War", "20th_century", "Euro"], ["War", "Law", "Euro"], ["War", "Pope_John_Paul_II", "Euro"], ["War", "Sweden", "Euro"], ["War", "United_States", "Euro"]]

@@ -1,1 +1,0 @@
-[["Theatre", "Ancient_history", "Africa"], ["Theatre", "Libya", "Africa"], ["Theatre", "Lusaka", "Africa"], ["Theatre", "Brazil", "Africa"], ["Theatre", "France", "Africa"], ["Theatre", "India", "Africa"], ["Theatre", "Paris", "Africa"], ["Theatre", "United_Kingdom", "Africa"], ["Theatre", "United_States", "Africa"]]

@@ -1,1 +1,0 @@
-[["Sesame_Street", "Australia", "George_II_of_Great_Britain"], ["Sesame_Street", "French_language", "George_II_of_Great_Britain"], ["Sesame_Street", "India", "George_II_of_Great_Britain"], ["Sesame_Street", "New_Zealand", "George_II_of_Great_Britain"], ["Sesame_Street", "Russia", "George_II_of_Great_Britain"]]

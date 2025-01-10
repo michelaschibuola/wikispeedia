@@ -1,1 +1,0 @@
-[["Emotion", "Blade_Runner", "Religion"], ["Emotion", "Human", "Religion"], ["Emotion", "Latin", "Religion"], ["Emotion", "Logic", "Religion"], ["Emotion", "Fashion", "Religion"], ["Emotion", "Love", "Religion"], ["Emotion", "Philosophy_of_mind", "Religion"], ["Emotion", "S%C3%B8ren_Kierkegaard", "Religion"]]

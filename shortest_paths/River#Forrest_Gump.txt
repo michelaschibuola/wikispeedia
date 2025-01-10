@@ -1,1 +1,0 @@
-[["River", "United_States", "Forrest_Gump"], ["River", "Yangtze_River", "Forrest_Gump"]]

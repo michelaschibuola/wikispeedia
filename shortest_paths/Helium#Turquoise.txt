@@ -1,1 +1,0 @@
-[["Helium", "Copper", "Turquoise"], ["Helium", "Crystal", "Turquoise"], ["Helium", "India", "Turquoise"], ["Helium", "Mineral", "Turquoise"], ["Helium", "Sodium", "Turquoise"], ["Helium", "United_States", "Turquoise"]]

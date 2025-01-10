@@ -1,1 +1,0 @@
-[["Nobelium", "List_of_elements_by_name", "Protactinium"], ["Nobelium", "Color", "Protactinium"], ["Nobelium", "Electron", "Protactinium"], ["Nobelium", "Periodic_table", "Protactinium"], ["Nobelium", "Phase_%28matter%29", "Protactinium"], ["Nobelium", "Radon", "Protactinium"], ["Nobelium", "Periodic_table_%28large_version%29", "Protactinium"]]

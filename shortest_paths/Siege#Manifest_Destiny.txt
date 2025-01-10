@@ -1,1 +1,0 @@
-[["Siege", "Pontiac%27s_Rebellion", "Manifest_Destiny"], ["Siege", "American_Civil_War", "Manifest_Destiny"], ["Siege", "Middle_East", "Manifest_Destiny"], ["Siege", "North_America", "Manifest_Destiny"], ["Siege", "United_States", "Manifest_Destiny"], ["Siege", "World_War_I", "Manifest_Destiny"], ["Siege", "World_War_II", "Manifest_Destiny"]]

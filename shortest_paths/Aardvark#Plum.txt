@@ -1,1 +1,0 @@
-[["Aardvark", "Fruit", "Plum"], ["Aardvark", "Scientific_classification", "Plum"]]

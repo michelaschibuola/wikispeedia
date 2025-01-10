@@ -1,1 +1,0 @@
-[["Badminton", "France", "Vincent_van_Gogh"]]

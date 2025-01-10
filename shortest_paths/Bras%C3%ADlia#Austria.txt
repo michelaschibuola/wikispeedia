@@ -1,1 +1,0 @@
-[["Bras%C3%ADlia", "Capital", "Austria"], ["Bras%C3%ADlia", "English_language", "Austria"], ["Bras%C3%ADlia", "Time_zone", "Austria"]]

@@ -1,1 +1,0 @@
-[["Guadeloupe", "Atlantic_Ocean", "Rocky_Mountains"], ["Guadeloupe", "Agriculture", "Rocky_Mountains"], ["Guadeloupe", "Canada", "Rocky_Mountains"], ["Guadeloupe", "United_States", "Rocky_Mountains"], ["Guadeloupe", "North_America", "Rocky_Mountains"]]

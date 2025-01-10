@@ -1,1 +1,0 @@
-[["Black_hole", "21st_century", "2nd_century"], ["Black_hole", "Star", "2nd_century"]]

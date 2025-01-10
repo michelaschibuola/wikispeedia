@@ -1,1 +1,0 @@
-[["Science", "19th_century", "Great_Lakes"], ["Science", "Minnesota", "Great_Lakes"], ["Science", "United_States", "Great_Lakes"], ["Science", "Scotland", "Great_Lakes"]]

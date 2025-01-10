@@ -1,1 +1,0 @@
-[["Badger", "Animal", "Bat"], ["Badger", "Mammal", "Bat"], ["Badger", "Rabies", "Bat"], ["Badger", "Scientific_classification", "Bat"], ["Badger", "United_Kingdom", "Bat"], ["Badger", "Glacier_National_Park_%28US%29", "Bat"], ["Badger", "Winter", "Bat"]]

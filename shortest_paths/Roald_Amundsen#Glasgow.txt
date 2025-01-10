@@ -1,1 +1,0 @@
-[["Roald_Amundsen", "Atlantic_Ocean", "Glasgow"], ["Roald_Amundsen", "Germany", "Glasgow"]]

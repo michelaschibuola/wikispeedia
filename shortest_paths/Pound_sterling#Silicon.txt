@@ -1,1 +1,0 @@
-[["Pound_sterling", "Latin", "Silicon"], ["Pound_sterling", "World_War_II", "Silicon"]]

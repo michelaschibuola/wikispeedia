@@ -1,1 +1,0 @@
-[["Ptolemy", "15th_century", "Diamond_cut"], ["Ptolemy", "Europe", "Diamond_cut"], ["Ptolemy", "India", "Diamond_cut"]]

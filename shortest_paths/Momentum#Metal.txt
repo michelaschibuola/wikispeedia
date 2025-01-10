@@ -1,1 +1,0 @@
-[["Momentum", "Electron", "Metal"], ["Momentum", "Semiconductor", "Metal"], ["Momentum", "Thermodynamic_temperature", "Metal"]]

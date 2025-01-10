@@ -1,1 +1,0 @@
-[["Monarchy", "Communication", "Sony"], ["Monarchy", "European_Union", "Sony"], ["Monarchy", "Italy", "Sony"], ["Monarchy", "Japan", "Sony"]]

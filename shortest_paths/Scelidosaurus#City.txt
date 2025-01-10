@@ -1,1 +1,0 @@
-[["Scelidosaurus", "England", "City"], ["Scelidosaurus", "United_States", "City"]]

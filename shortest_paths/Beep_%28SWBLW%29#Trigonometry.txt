@@ -1,1 +1,0 @@
-[["Beep_%28SWBLW%29", "North_America", "James_Cook", "Trigonometry"], ["Beep_%28SWBLW%29", "North_America", "Meteorology", "Trigonometry"], ["Beep_%28SWBLW%29", "Steel", "Ancient_Egypt", "Trigonometry"], ["Beep_%28SWBLW%29", "Steel", "Chemistry", "Trigonometry"], ["Beep_%28SWBLW%29", "Steel", "Mesopotamia", "Trigonometry"]]

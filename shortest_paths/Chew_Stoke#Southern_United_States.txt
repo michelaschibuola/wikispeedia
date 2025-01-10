@@ -1,1 +1,0 @@
-[["Chew_Stoke", "World_War_I", "Southern_United_States"], ["Chew_Stoke", "World_War_II", "Southern_United_States"]]

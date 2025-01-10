@@ -1,1 +1,0 @@
-[["House_Sparrow", "Europe", "Western_Roman_Empire"], ["House_Sparrow", "Netherlands", "Western_Roman_Empire"]]

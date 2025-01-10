@@ -1,1 +1,0 @@
-[["Steel", "Amtrak", "United_States_Senate"], ["Steel", "Cleveland%2C_Ohio", "United_States_Senate"], ["Steel", "United_States", "United_States_Senate"]]

@@ -1,1 +1,0 @@
-[["Apricot", "Binomial_nomenclature", "Giant_Panda"], ["Apricot", "China", "Giant_Panda"], ["Apricot", "Chinese_language", "Giant_Panda"], ["Apricot", "Scientific_classification", "Giant_Panda"], ["Apricot", "United_States", "Giant_Panda"]]

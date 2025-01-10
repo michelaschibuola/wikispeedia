@@ -1,1 +1,0 @@
-[["History_of_slavery", "Canada", "Flower"], ["History_of_slavery", "Guadeloupe", "Flower"], ["History_of_slavery", "Maize", "Flower"], ["History_of_slavery", "United_Kingdom", "Flower"]]

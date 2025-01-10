@@ -1,1 +1,0 @@
-[["Winter", "England", "The_Beatles"], ["Winter", "Hong_Kong", "The_Beatles"], ["Winter", "Europe", "The_Beatles"], ["Winter", "Germany", "The_Beatles"], ["Winter", "Ireland", "The_Beatles"], ["Winter", "United_Kingdom", "The_Beatles"], ["Winter", "United_States", "The_Beatles"]]

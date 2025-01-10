@@ -1,1 +1,0 @@
-[["Solomon_Islands", "John_F._Kennedy", "Andrew_Robinson"], ["Solomon_Islands", "World_War_II", "Andrew_Robinson"]]

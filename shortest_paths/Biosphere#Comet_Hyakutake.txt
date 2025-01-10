@@ -1,1 +1,0 @@
-[["Biosphere", "Earth", "Comet_Hyakutake"], ["Biosphere", "Ocean", "Comet_Hyakutake"], ["Biosphere", "Water", "Comet_Hyakutake"], ["Biosphere", "Carbon", "Comet_Hyakutake"]]

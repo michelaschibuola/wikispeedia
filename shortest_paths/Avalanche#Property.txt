@@ -1,1 +1,0 @@
-[["Avalanche", "Europe", "Property"], ["Avalanche", "United_States", "Property"]]

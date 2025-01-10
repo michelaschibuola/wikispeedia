@@ -1,1 +1,0 @@
-[["Chicago_Bears", "United_States", "Space_Shuttle_program"]]

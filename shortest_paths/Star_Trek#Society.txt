@@ -1,1 +1,0 @@
-[["Star_Trek", "Technology", "Society"], ["Star_Trek", "United_States", "Society"], ["Star_Trek", "Stargate_SG-1", "Society"]]

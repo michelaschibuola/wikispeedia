@@ -1,1 +1,0 @@
-[["Sultan", "Leonardo_da_Vinci", "Lion"], ["Sultan", "Central_African_Republic", "Lion"], ["Sultan", "Kenya", "Lion"], ["Sultan", "Tanzania", "Lion"], ["Sultan", "Yemen", "Lion"]]

@@ -1,1 +1,0 @@
-[["Ice_hockey", "Canada", "The_Rolling_Stones"], ["Ice_hockey", "Chicago", "The_Rolling_Stones"], ["Ice_hockey", "Toronto", "The_Rolling_Stones"], ["Ice_hockey", "United_Kingdom", "The_Rolling_Stones"], ["Ice_hockey", "United_States", "The_Rolling_Stones"], ["Ice_hockey", "Munich", "The_Rolling_Stones"]]

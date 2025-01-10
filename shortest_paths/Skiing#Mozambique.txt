@@ -1,1 +1,0 @@
-[["Skiing", "20th_century", "Mozambique"], ["Skiing", "English_language", "Mozambique"], ["Skiing", "Europe", "Mozambique"], ["Skiing", "France", "Mozambique"], ["Skiing", "Russia", "Mozambique"], ["Skiing", "World_War_II", "Mozambique"]]

@@ -1,1 +1,0 @@
-[["Mahatma_Gandhi", "India", "Alchemy"], ["Mahatma_Gandhi", "Bible", "Alchemy"], ["Mahatma_Gandhi", "China", "Alchemy"], ["Mahatma_Gandhi", "Christianity", "Alchemy"], ["Mahatma_Gandhi", "Islam", "Alchemy"], ["Mahatma_Gandhi", "Poland", "Alchemy"], ["Mahatma_Gandhi", "Philosophy", "Alchemy"]]

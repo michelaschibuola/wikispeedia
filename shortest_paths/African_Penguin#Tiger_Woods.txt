@@ -1,1 +1,0 @@
-[["African_Penguin", "Pacific_Ocean", "Tiger_Woods"]]

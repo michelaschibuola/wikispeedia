@@ -1,1 +1,0 @@
-[["Franz_Kafka", "David_Copperfield_%28novel%29", "London"], ["Franz_Kafka", "Berlin", "London"], ["Franz_Kafka", "Charles_Dickens", "London"], ["Franz_Kafka", "Jew", "London"], ["Franz_Kafka", "Marxism", "London"], ["Franz_Kafka", "Prague", "London"], ["Franz_Kafka", "Tuberculosis", "London"], ["Franz_Kafka", "Germany", "London"]]

@@ -1,1 +1,0 @@
-[["19th_century", "Germany", "Dog"], ["19th_century", "North_Africa", "Dog"], ["19th_century", "North_America", "Dog"], ["19th_century", "Peru", "Dog"], ["19th_century", "Postage_stamp", "Dog"], ["19th_century", "Russia", "Dog"], ["19th_century", "Bridge", "Dog"], ["19th_century", "Uffington_White_Horse", "Dog"], ["19th_century", "Vietnam", "Dog"]]

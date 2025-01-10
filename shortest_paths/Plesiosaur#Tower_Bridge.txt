@@ -1,1 +1,0 @@
-[["Plesiosaur", "England", "Tower_Bridge"]]

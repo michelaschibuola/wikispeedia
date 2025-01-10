@@ -1,1 +1,0 @@
-[["United_States_Constitution", "George_W._Bush", "Philippines"], ["United_States_Constitution", "Military_history_of_Puerto_Rico", "Philippines"], ["United_States_Constitution", "United_States", "Philippines"], ["United_States_Constitution", "San_Marino", "Philippines"], ["United_States_Constitution", "William_Howard_Taft", "Philippines"]]

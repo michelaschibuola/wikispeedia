@@ -1,1 +1,0 @@
-[["Ununquadium", "Electron", "United_Kingdom", "White_cliffs_of_Dover"], ["Ununquadium", "Russia", "United_Kingdom", "White_cliffs_of_Dover"], ["Ununquadium", "Russia", "Europe", "White_cliffs_of_Dover"], ["Ununquadium", "Russia", "France", "White_cliffs_of_Dover"], ["Ununquadium", "Russia", "Napoleonic_Wars", "White_cliffs_of_Dover"]]

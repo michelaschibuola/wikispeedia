@@ -1,1 +1,0 @@
-[["Lithium", "Globular_cluster", "Comet_Hale-Bopp"], ["Lithium", "Hydrogen", "Comet_Hale-Bopp"], ["Lithium", "Sodium", "Comet_Hale-Bopp"], ["Lithium", "Telescope", "Comet_Hale-Bopp"], ["Lithium", "United_States", "Comet_Hale-Bopp"], ["Lithium", "Star", "Comet_Hale-Bopp"]]

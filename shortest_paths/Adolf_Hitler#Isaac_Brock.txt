@@ -1,1 +1,0 @@
-[["Adolf_Hitler", "British_Empire", "Isaac_Brock"], ["Adolf_Hitler", "France", "Isaac_Brock"], ["Adolf_Hitler", "London", "Isaac_Brock"], ["Adolf_Hitler", "Netherlands", "Isaac_Brock"], ["Adolf_Hitler", "United_States", "Isaac_Brock"]]

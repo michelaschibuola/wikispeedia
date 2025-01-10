@@ -1,1 +1,0 @@
-[["Sugar_beet", "Plant", "Tarragon"], ["Sugar_beet", "Europe", "Tarragon"], ["Sugar_beet", "Flower", "Tarragon"]]

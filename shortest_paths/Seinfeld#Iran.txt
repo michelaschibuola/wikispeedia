@@ -1,1 +1,0 @@
-[["Seinfeld", "Chicken", "Iran"], ["Seinfeld", "Nazism", "Iran"], ["Seinfeld", "Italy", "Iran"], ["Seinfeld", "United_States", "Iran"]]

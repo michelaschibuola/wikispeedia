@@ -1,1 +1,0 @@
-[["Maize", "Geography_of_India", "Sri_Lanka"], ["Maize", "Carolus_Linnaeus", "Sri_Lanka"], ["Maize", "India", "Sri_Lanka"], ["Maize", "Indonesia", "Sri_Lanka"], ["Maize", "Rice", "Sri_Lanka"], ["Maize", "United_States", "Sri_Lanka"], ["Maize", "Wheat", "Sri_Lanka"], ["Maize", "World_War_II", "Sri_Lanka"], ["Maize", "Somalia", "Sri_Lanka"]]

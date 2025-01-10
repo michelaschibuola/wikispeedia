@@ -1,1 +1,0 @@
-[["Fossil_fuel", "Agriculture", "Indus_Valley_Civilization"], ["Fossil_fuel", "Climate_change", "Indus_Valley_Civilization"]]

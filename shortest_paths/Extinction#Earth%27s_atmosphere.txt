@@ -1,1 +1,0 @@
-[["Extinction", "Earth", "Earth%27s_atmosphere"], ["Extinction", "Evolution", "Earth%27s_atmosphere"], ["Extinction", "Climate_change", "Earth%27s_atmosphere"], ["Extinction", "Ecology", "Earth%27s_atmosphere"], ["Extinction", "Water", "Earth%27s_atmosphere"], ["Extinction", "Nature", "Earth%27s_atmosphere"]]

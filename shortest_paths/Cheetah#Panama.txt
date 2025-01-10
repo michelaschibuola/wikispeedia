@@ -1,1 +1,0 @@
-[["Cheetah", "English_language", "Panama"], ["Cheetah", "Latin", "Panama"], ["Cheetah", "Spanish_language", "Panama"], ["Cheetah", "United_States", "Panama"]]

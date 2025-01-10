@@ -1,1 +1,0 @@
-[["5th_century", "16th_century", "William_Shakespeare"], ["5th_century", "17th_century", "William_Shakespeare"], ["5th_century", "England", "William_Shakespeare"], ["5th_century", "Roman_Empire", "William_Shakespeare"], ["5th_century", "English_language", "William_Shakespeare"], ["5th_century", "Old_English_language", "William_Shakespeare"]]

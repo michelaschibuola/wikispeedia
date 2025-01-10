@@ -1,1 +1,0 @@
-[["Cape_Horn", "Australia", "Malaysia"], ["Cape_Horn", "Netherlands", "Malaysia"], ["Cape_Horn", "New_Zealand", "Malaysia"], ["Cape_Horn", "United_States", "Malaysia"]]

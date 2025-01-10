@@ -1,1 +1,0 @@
-[["Bee", "Agriculture", "Zion_National_Park"], ["Bee", "Animal", "Zion_National_Park"], ["Bee", "Plant", "Zion_National_Park"], ["Bee", "Cactus", "Zion_National_Park"]]

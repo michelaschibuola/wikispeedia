@@ -1,1 +1,0 @@
-[["Dominican_Republic", "English_language", "Nahuatl_language"], ["Dominican_Republic", "Spanish_language", "Nahuatl_language"], ["Dominican_Republic", "El_Salvador", "Nahuatl_language"]]

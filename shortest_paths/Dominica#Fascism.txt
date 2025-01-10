@@ -1,1 +1,0 @@
-[["Dominica", "Croatia", "Fascism"], ["Dominica", "France", "Fascism"], ["Dominica", "Poverty", "Fascism"]]

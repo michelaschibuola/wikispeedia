@@ -1,1 +1,0 @@
-[["Tsunami", "Diego_Garcia", "Rain"], ["Tsunami", "Earth", "Rain"], ["Tsunami", "Energy", "Rain"], ["Tsunami", "Flood", "Rain"], ["Tsunami", "Africa", "Rain"], ["Tsunami", "Dominican_Republic", "Rain"], ["Tsunami", "India", "Rain"], ["Tsunami", "Ocean", "Rain"], ["Tsunami", "United_States", "Rain"]]

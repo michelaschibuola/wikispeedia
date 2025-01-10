@@ -1,1 +1,0 @@
-[["Whooping_Crane", "Animal", "Bee"], ["Whooping_Crane", "Scientific_classification", "Bee"]]

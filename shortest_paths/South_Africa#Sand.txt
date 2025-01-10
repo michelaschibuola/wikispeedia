@@ -1,1 +1,0 @@
-[["South_Africa", "Argentina", "Sand"], ["South_Africa", "Beach", "Sand"], ["South_Africa", "Granite", "Sand"], ["South_Africa", "Mali", "Sand"], ["South_Africa", "Peanut", "Sand"], ["South_Africa", "Desert", "Sand"], ["South_Africa", "Iron", "Sand"], ["South_Africa", "Water", "Sand"]]

@@ -1,1 +1,0 @@
-[["Voting", "Politics", "Nutrition", "Lipid"], ["Voting", "Argentina", "Oat", "Lipid"], ["Voting", "Australia", "Oat", "Lipid"], ["Voting", "Australia", "Carbon", "Lipid"], ["Voting", "Brazil", "Carbon", "Lipid"], ["Voting", "Australia", "Henipavirus", "Lipid"], ["Voting", "Brazil", "Ethanol", "Lipid"], ["Voting", "Brazil", "Organism", "Lipid"]]

@@ -1,1 +1,0 @@
-[["Pope_Pius_XII", "Portugal", "Yes_Minister"], ["Pope_Pius_XII", "Winston_Churchill", "Yes_Minister"]]

@@ -1,1 +1,0 @@
-[["Turkmenistan", "Asia", "Dove"], ["Turkmenistan", "Iran", "Dove"]]

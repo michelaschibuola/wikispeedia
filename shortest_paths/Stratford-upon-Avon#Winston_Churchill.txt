@@ -1,1 +1,0 @@
-[["Stratford-upon-Avon", "England", "Winston_Churchill"], ["Stratford-upon-Avon", "London", "Winston_Churchill"], ["Stratford-upon-Avon", "Vivien_Leigh", "Winston_Churchill"], ["Stratford-upon-Avon", "Westminster_Abbey", "Winston_Churchill"]]

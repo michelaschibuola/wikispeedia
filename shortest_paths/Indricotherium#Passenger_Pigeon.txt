@@ -1,1 +1,0 @@
-[["Indricotherium", "Animal", "Passenger_Pigeon"], ["Indricotherium", "Binomial_nomenclature", "Passenger_Pigeon"], ["Indricotherium", "Chordate", "Passenger_Pigeon"], ["Indricotherium", "Scientific_classification", "Passenger_Pigeon"]]

@@ -1,1 +1,0 @@
-[["Newspaper", "Craters_of_the_Moon_National_Monument_and_Preserve", "Wind"], ["Newspaper", "India", "Wind"], ["Newspaper", "Weather", "Wind"]]

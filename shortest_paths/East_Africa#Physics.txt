@@ -1,1 +1,0 @@
-[["East_Africa", "Earth", "Physics"], ["East_Africa", "19th_century", "Physics"], ["East_Africa", "20th_century", "Physics"], ["East_Africa", "Italy", "Physics"], ["East_Africa", "World_War_II", "Physics"]]

@@ -1,1 +1,0 @@
-[["Paleocene", "Australia", "American_football"], ["Paleocene", "Europe", "American_football"], ["Paleocene", "Mexico", "American_football"]]

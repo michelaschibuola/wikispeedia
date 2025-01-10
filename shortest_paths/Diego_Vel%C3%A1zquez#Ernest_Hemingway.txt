@@ -1,1 +1,0 @@
-[["Diego_Vel%C3%A1zquez", "20th_century", "Ernest_Hemingway"], ["Diego_Vel%C3%A1zquez", "Italy", "Ernest_Hemingway"], ["Diego_Vel%C3%A1zquez", "Milan", "Ernest_Hemingway"], ["Diego_Vel%C3%A1zquez", "New_York_City", "Ernest_Hemingway"], ["Diego_Vel%C3%A1zquez", "Pablo_Picasso", "Ernest_Hemingway"], ["Diego_Vel%C3%A1zquez", "Spain", "Ernest_Hemingway"]]

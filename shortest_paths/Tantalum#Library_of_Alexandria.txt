@@ -1,1 +1,0 @@
-[["Tantalum", "Egypt", "Library_of_Alexandria"], ["Tantalum", "Greek_mythology", "Library_of_Alexandria"]]

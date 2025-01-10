@@ -1,1 +1,0 @@
-[["Sikhism", "Europe", "Dark_Ages"], ["Sikhism", "United_Kingdom", "Dark_Ages"], ["Sikhism", "United_States", "Dark_Ages"]]

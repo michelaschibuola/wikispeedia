@@ -1,1 +1,0 @@
-[["Demand_Note", "Gold", "Sulfuric_acid"], ["Demand_Note", "United_States", "Sulfuric_acid"]]

@@ -1,1 +1,0 @@
-[["Finance", "Michigan_State_University", "Antarctica", "Emperor_Penguin"], ["Finance", "United_States", "Antarctica", "Emperor_Penguin"], ["Finance", "New_York_City", "Penguin", "Emperor_Penguin"]]

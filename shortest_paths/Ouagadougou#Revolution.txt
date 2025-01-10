@@ -1,1 +1,0 @@
-[["Ouagadougou", "Canada", "Revolution"], ["Ouagadougou", "French_language", "Revolution"], ["Ouagadougou", "Italy", "Revolution"]]

@@ -1,1 +1,0 @@
-[["Solar_eclipse", "Mosque", "Parthenon"], ["Solar_eclipse", "Ancient_Greece", "Parthenon"], ["Solar_eclipse", "Athens", "Parthenon"]]

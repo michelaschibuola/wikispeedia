@@ -1,1 +1,0 @@
-[["Mestizo", "Australia", "Community"], ["Mestizo", "Brazil", "Community"], ["Mestizo", "Latin", "Community"], ["Mestizo", "United_States", "Community"]]

@@ -1,1 +1,0 @@
-[["Pluto", "Earth", "Spring_%28season%29"], ["Pluto", "Astronomy", "Spring_%28season%29"], ["Pluto", "Sun", "Spring_%28season%29"]]

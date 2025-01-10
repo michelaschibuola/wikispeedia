@@ -1,1 +1,0 @@
-[["Peanut", "Culture_of_the_Democratic_Republic_of_the_Congo", "Pumpkin"], ["Peanut", "Food", "Pumpkin"], ["Peanut", "Fruit", "Pumpkin"], ["Peanut", "Botany", "Pumpkin"], ["Peanut", "Europe", "Pumpkin"], ["Peanut", "Fungus", "Pumpkin"], ["Peanut", "India", "Pumpkin"], ["Peanut", "United_States", "Pumpkin"]]

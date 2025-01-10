@@ -1,1 +1,0 @@
-[["Jurassic", "France", "Famine"], ["Jurassic", "India", "Famine"], ["Jurassic", "Japan", "Famine"], ["Jurassic", "Russia", "Famine"], ["Jurassic", "United_Kingdom", "Famine"], ["Jurassic", "United_States", "Famine"]]

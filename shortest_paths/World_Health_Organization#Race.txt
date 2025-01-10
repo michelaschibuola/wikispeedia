@@ -1,1 +1,0 @@
-[["World_Health_Organization", "United_States", "Race"], ["World_Health_Organization", "English_language", "Race"], ["World_Health_Organization", "French_language", "Race"], ["World_Health_Organization", "Mediterranean_Sea", "Race"]]

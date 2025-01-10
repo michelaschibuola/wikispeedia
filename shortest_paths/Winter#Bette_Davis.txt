@@ -1,1 +1,0 @@
-[["Winter", "England", "Bette_Davis"], ["Winter", "Los_Angeles%2C_California", "Bette_Davis"], ["Winter", "Europe", "Bette_Davis"], ["Winter", "United_States", "Bette_Davis"]]

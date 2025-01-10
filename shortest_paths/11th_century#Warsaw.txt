@@ -1,1 +1,0 @@
-[["11th_century", "10th_century", "Warsaw"], ["11th_century", "12th_century", "Warsaw"], ["11th_century", "13th_century", "Warsaw"], ["11th_century", "14th_century", "Warsaw"], ["11th_century", "19th_century", "Warsaw"], ["11th_century", "9th_century", "Warsaw"]]

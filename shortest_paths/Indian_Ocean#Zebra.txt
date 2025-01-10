@@ -1,1 +1,0 @@
-[["Indian_Ocean", "Africa", "Zebra"], ["Indian_Ocean", "Kenya", "Zebra"], ["Indian_Ocean", "Somalia", "Zebra"], ["Indian_Ocean", "Zambezi", "Zebra"], ["Indian_Ocean", "Zebra_shark", "Zebra"]]

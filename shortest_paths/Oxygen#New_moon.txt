@@ -1,1 +1,0 @@
-[["Oxygen", "Coconut_crab", "New_moon"], ["Oxygen", "Moon", "New_moon"], ["Oxygen", "Sun", "New_moon"]]

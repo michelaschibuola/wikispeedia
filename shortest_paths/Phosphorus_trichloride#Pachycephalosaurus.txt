@@ -1,1 +1,0 @@
-[["Phosphorus_trichloride", "Phosphorus", "Animal", "Pachycephalosaurus"], ["Phosphorus_trichloride", "European_Union", "North_America", "Pachycephalosaurus"]]

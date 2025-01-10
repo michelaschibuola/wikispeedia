@@ -1,1 +1,0 @@
-[["Nicaragua", "Los_Angeles%2C_California", "Kylie_Minogue"], ["Nicaragua", "Europe", "Kylie_Minogue"], ["Nicaragua", "Japan", "Kylie_Minogue"], ["Nicaragua", "United_Kingdom", "Kylie_Minogue"], ["Nicaragua", "United_States", "Kylie_Minogue"]]

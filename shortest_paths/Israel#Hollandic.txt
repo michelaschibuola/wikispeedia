@@ -1,1 +1,0 @@
-[["Israel", "Antwerp", "Hollandic"], ["Israel", "Dutch_language", "Hollandic"], ["Israel", "French_language", "Hollandic"]]

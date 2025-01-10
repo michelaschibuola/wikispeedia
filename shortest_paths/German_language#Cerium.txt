@@ -1,1 +1,0 @@
-[["German_language", "Germany", "Cerium"], ["German_language", "Sweden", "Cerium"]]

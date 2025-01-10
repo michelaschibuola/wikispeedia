@@ -1,1 +1,0 @@
-[["Abraham_Lincoln", "Chicago", "The_Beatles"], ["Abraham_Lincoln", "Manchester", "The_Beatles"], ["Abraham_Lincoln", "United_Kingdom", "The_Beatles"], ["Abraham_Lincoln", "United_States", "The_Beatles"]]

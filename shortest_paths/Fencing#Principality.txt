@@ -1,1 +1,0 @@
-[["Fencing", "19th_century", "Principality"], ["Fencing", "20th_century", "Principality"], ["Fencing", "Europe", "Principality"], ["Fencing", "Germany", "Principality"], ["Fencing", "Italy", "Principality"], ["Fencing", "Spain", "Principality"]]

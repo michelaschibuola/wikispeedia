@@ -1,1 +1,0 @@
-[["Tobacco_smoking", "Cancer", "Sun"], ["Tobacco_smoking", "Fire", "Sun"], ["Tobacco_smoking", "England", "Sun"], ["Tobacco_smoking", "Maya_civilization", "Sun"], ["Tobacco_smoking", "Mexico", "Sun"], ["Tobacco_smoking", "United_States", "Sun"]]

@@ -1,1 +1,0 @@
-[["Bird_migration", "Australia", "September_11%2C_2001_attacks"], ["Bird_migration", "Canada", "September_11%2C_2001_attacks"], ["Bird_migration", "India", "September_11%2C_2001_attacks"]]

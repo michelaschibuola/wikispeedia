@@ -1,1 +1,0 @@
-[["Igneous_rock", "Pacific_Ocean", "Manila"]]

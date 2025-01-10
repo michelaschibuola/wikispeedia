@@ -1,1 +1,0 @@
-[["4-2-0", "United_States", "19th_century", "Boolean_logic"], ["4-2-0", "United_States", "Electrical_engineering", "Boolean_logic"], ["4-2-0", "United_States", "Google", "Boolean_logic"], ["4-2-0", "United_States", "Computer", "Boolean_logic"]]

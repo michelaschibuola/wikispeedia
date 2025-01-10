@@ -1,1 +1,0 @@
-[["Water_purification", "Ann_Arbor%2C_Michigan", "Dam"], ["Water_purification", "Water", "Dam"], ["Water_purification", "Bacteria", "Dam"]]

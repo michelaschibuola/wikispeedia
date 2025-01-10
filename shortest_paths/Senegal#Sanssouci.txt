@@ -1,1 +1,0 @@
-[["Senegal", "French_language", "Sanssouci"], ["Senegal", "France", "Sanssouci"], ["Senegal", "Portugal", "Sanssouci"]]

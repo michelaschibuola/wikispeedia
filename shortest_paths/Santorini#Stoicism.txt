@@ -1,1 +1,0 @@
-[["Santorini", "Ancient_Rome", "Stoicism"], ["Santorini", "Athens", "Stoicism"], ["Santorini", "Cyprus", "Stoicism"], ["Santorini", "Plato", "Stoicism"]]

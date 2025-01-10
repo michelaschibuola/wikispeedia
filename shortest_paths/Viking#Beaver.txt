@@ -1,1 +1,0 @@
-[["Viking", "Canada", "Beaver"], ["Viking", "Great_Britain", "Beaver"], ["Viking", "Roman_Catholic_Church", "Beaver"], ["Viking", "Europe", "Beaver"], ["Viking", "France", "Beaver"], ["Viking", "Scotland", "Beaver"], ["Viking", "Wales", "Beaver"]]

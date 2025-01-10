@@ -1,1 +1,0 @@
-[["Marshall_Plan", "Germany", "WTA_Tour_Championships"], ["Marshall_Plan", "Spain", "WTA_Tour_Championships"], ["Marshall_Plan", "United_States", "WTA_Tour_Championships"]]

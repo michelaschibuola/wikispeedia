@@ -1,1 +1,0 @@
-[["Philippines", "Andrew_Carnegie", "Theatre"], ["Philippines", "Coconut", "Theatre"], ["Philippines", "Hong_Kong", "Theatre"], ["Philippines", "Brazil", "Theatre"], ["Philippines", "India", "Theatre"], ["Philippines", "Russia", "Theatre"], ["Philippines", "United_States", "Theatre"]]

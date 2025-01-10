@@ -1,1 +1,0 @@
-[["Beer", "China", "God"], ["Beer", "Mesopotamia", "God"], ["Beer", "United_States", "God"], ["Beer", "Sumer", "God"], ["Beer", "William_Hogarth", "God"]]

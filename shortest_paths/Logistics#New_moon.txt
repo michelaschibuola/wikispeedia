@@ -1,1 +1,0 @@
-[["Logistics", "Alexander_the_Great", "Iran", "New_moon"], ["Logistics", "Manufacturing", "Iran", "New_moon"], ["Logistics", "World_War_II", "Iran", "New_moon"], ["Logistics", "Nagorno-Karabakh_War", "Iran", "New_moon"]]

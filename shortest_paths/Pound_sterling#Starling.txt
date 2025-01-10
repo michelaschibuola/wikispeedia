@@ -1,1 +1,0 @@
-[["Pound_sterling", "18th_century", "Starling"], ["Pound_sterling", "Australia", "Starling"], ["Pound_sterling", "New_Zealand", "Starling"]]

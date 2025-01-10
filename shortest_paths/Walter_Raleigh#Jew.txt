@@ -1,1 +1,0 @@
-[["Walter_Raleigh", "British_Empire", "Jew"], ["Walter_Raleigh", "England", "Jew"], ["Walter_Raleigh", "Greece", "Jew"], ["Walter_Raleigh", "Middle_Ages", "Jew"], ["Walter_Raleigh", "South_America", "Jew"]]

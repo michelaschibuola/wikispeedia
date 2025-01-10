@@ -1,1 +1,0 @@
-[["Chimpanzee", "World_War_II", "International_law"], ["Chimpanzee", "War", "International_law"]]

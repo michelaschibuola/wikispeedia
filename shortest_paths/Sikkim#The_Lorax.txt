@@ -1,1 +1,0 @@
-[["Sikkim", "Geography_of_India", "Biodiversity", "The_Lorax"], ["Sikkim", "India", "Biodiversity", "The_Lorax"], ["Sikkim", "Agriculture", "Biodiversity", "The_Lorax"], ["Sikkim", "India", "Dr._Seuss", "The_Lorax"], ["Sikkim", "Coal", "Smog", "The_Lorax"]]

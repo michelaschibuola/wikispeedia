@@ -1,1 +1,0 @@
-[["Ku_Klux_Klan", "History_of_South_Carolina", "Barbados"], ["Ku_Klux_Klan", "Canada", "Barbados"], ["Ku_Klux_Klan", "Roman_Catholic_Church", "Barbados"], ["Ku_Klux_Klan", "Scotland", "Barbados"], ["Ku_Klux_Klan", "United_States", "Barbados"]]

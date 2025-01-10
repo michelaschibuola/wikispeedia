@@ -1,1 +1,0 @@
-[["Quantity", "Mathematics", "Asia", "Lake_Baikal"], ["Quantity", "Aristotle", "Dead_Sea", "Lake_Baikal"], ["Quantity", "Aristotle", "Nature", "Lake_Baikal"], ["Quantity", "Energy", "Nature", "Lake_Baikal"]]

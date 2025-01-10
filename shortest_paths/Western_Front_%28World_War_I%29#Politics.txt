@@ -1,1 +1,0 @@
-[["Western_Front_%28World_War_I%29", "Modern_history", "Politics"], ["Western_Front_%28World_War_I%29", "Adolf_Hitler", "Politics"], ["Western_Front_%28World_War_I%29", "France", "Politics"], ["Western_Front_%28World_War_I%29", "Italy", "Politics"], ["Western_Front_%28World_War_I%29", "United_States", "Politics"]]

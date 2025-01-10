@@ -1,1 +1,0 @@
-[["17th_century", "Galileo_Galilei", "Saturn"], ["17th_century", "Telescope", "Saturn"], ["17th_century", "Gravitation", "Saturn"]]

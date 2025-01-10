@@ -1,1 +1,0 @@
-[["Armadillo", "Rabbit", "Celery"], ["Armadillo", "Scientific_classification", "Celery"]]

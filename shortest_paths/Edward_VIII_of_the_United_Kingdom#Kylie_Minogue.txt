@@ -1,1 +1,0 @@
-[["Edward_VIII_of_the_United_Kingdom", "Canada", "Kylie_Minogue"], ["Edward_VIII_of_the_United_Kingdom", "France", "Kylie_Minogue"], ["Edward_VIII_of_the_United_Kingdom", "Paris", "Kylie_Minogue"], ["Edward_VIII_of_the_United_Kingdom", "United_Kingdom", "Kylie_Minogue"], ["Edward_VIII_of_the_United_Kingdom", "Wales", "Kylie_Minogue"]]

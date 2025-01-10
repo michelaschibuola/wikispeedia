@@ -1,1 +1,0 @@
-[["Church_of_Ireland", "British_Isles", "Tropical_cyclone"], ["Church_of_Ireland", "Africa", "Tropical_cyclone"]]

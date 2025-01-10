@@ -1,1 +1,0 @@
-[["Nepal", "Armenia", "Bronze_Age"], ["Nepal", "Cattle", "Bronze_Age"], ["Nepal", "China", "Bronze_Age"], ["Nepal", "Currency", "Bronze_Age"], ["Nepal", "Germany", "Bronze_Age"], ["Nepal", "Turkey", "Bronze_Age"]]

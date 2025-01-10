@@ -1,1 +1,0 @@
-[["Economics", "Blaise_Pascal", "Creation-evolution_controversy"], ["Economics", "Philosophy", "Creation-evolution_controversy"], ["Economics", "Science", "Creation-evolution_controversy"], ["Economics", "United_States", "Creation-evolution_controversy"], ["Economics", "Human", "Creation-evolution_controversy"]]

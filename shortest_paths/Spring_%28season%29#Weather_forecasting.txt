@@ -1,1 +1,0 @@
-[["Spring_%28season%29", "Meteorology", "Weather_forecasting"], ["Spring_%28season%29", "Weather", "Weather_forecasting"]]

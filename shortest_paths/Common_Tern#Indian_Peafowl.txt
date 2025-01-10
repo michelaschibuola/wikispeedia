@@ -1,1 +1,0 @@
-[["Common_Tern", "Animal", "Indian_Peafowl"], ["Common_Tern", "Binomial_nomenclature", "Indian_Peafowl"], ["Common_Tern", "Bird", "Indian_Peafowl"], ["Common_Tern", "Carolus_Linnaeus", "Indian_Peafowl"], ["Common_Tern", "Chordate", "Indian_Peafowl"], ["Common_Tern", "Scientific_classification", "Indian_Peafowl"]]

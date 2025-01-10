@@ -1,1 +1,0 @@
-[["Anatomy", "Science", "Thomas_Samuel_Kuhn"], ["Anatomy", "Renaissance", "Thomas_Samuel_Kuhn"]]

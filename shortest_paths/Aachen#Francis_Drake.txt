@@ -1,1 +1,0 @@
-[["Aachen", "England", "Francis_Drake"], ["Aachen", "France", "Francis_Drake"], ["Aachen", "Latin", "Francis_Drake"]]

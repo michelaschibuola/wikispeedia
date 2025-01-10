@@ -1,1 +1,0 @@
-[["France", "20th_century", "Planet"], ["France", "Ancient_Rome", "Planet"], ["France", "Ancient_history", "Planet"], ["France", "Antarctica", "Planet"], ["France", "Comet", "Planet"], ["France", "European_Space_Agency", "Planet"], ["France", "Japan", "Planet"], ["France", "Moon", "Planet"], ["France", "Neptune", "Planet"], ["France", "Vietnam", "Planet"]]

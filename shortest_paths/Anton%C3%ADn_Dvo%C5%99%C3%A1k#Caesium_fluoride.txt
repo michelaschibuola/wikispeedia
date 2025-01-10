@@ -1,1 +1,0 @@
-[["Anton%C3%ADn_Dvo%C5%99%C3%A1k", "Moon", "Potassium", "Caesium_fluoride"], ["Anton%C3%ADn_Dvo%C5%99%C3%A1k", "Moon", "Silicon", "Caesium_fluoride"], ["Anton%C3%ADn_Dvo%C5%99%C3%A1k", "Moon", "Sodium", "Caesium_fluoride"]]

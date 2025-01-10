@@ -1,1 +1,0 @@
-[["Irish_people", "12th_century", "Glasses"], ["Irish_people", "United_Kingdom", "Glasses"], ["Irish_people", "United_States", "Glasses"]]

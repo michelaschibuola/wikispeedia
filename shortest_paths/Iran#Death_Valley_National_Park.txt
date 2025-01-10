@@ -1,1 +1,0 @@
-[["Iran", "Dune", "Death_Valley_National_Park"], ["Iran", "Automobile", "Death_Valley_National_Park"], ["Iran", "Climate", "Death_Valley_National_Park"], ["Iran", "Desert", "Death_Valley_National_Park"], ["Iran", "North_America", "Death_Valley_National_Park"], ["Iran", "United_States", "Death_Valley_National_Park"]]

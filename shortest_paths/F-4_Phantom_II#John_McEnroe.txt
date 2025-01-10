@@ -1,1 +1,0 @@
-[["F-4_Phantom_II", "Germany", "John_McEnroe"], ["F-4_Phantom_II", "Spain", "John_McEnroe"], ["F-4_Phantom_II", "United_Kingdom", "John_McEnroe"], ["F-4_Phantom_II", "United_States", "John_McEnroe"], ["F-4_Phantom_II", "United_States_dollar", "John_McEnroe"]]

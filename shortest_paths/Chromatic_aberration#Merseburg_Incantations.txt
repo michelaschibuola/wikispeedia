@@ -1,1 +1,0 @@
-[["Chromatic_aberration", "Light", "Latin", "Merseburg_Incantations"], ["Chromatic_aberration", "Light", "Middle_Ages", "Merseburg_Incantations"]]

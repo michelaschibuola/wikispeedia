@@ -1,1 +1,0 @@
-[["African_American_literature", "United_States", "Malaysia", "Democratic_Action_Party"], ["African_American_literature", "World_War_II", "Malaysia", "Democratic_Action_Party"], ["African_American_literature", "World_War_II", "United_Malays_National_Organisation", "Democratic_Action_Party"]]

@@ -1,1 +1,0 @@
-[["Basketball", "Canada", "Britney_Spears"], ["Basketball", "United_States", "Britney_Spears"], ["Basketball", "Florida", "Britney_Spears"], ["Basketball", "New_York_City", "Britney_Spears"], ["Basketball", "Washington%2C_D.C.", "Britney_Spears"]]

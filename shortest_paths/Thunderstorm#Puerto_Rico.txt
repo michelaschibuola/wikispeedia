@@ -1,1 +1,0 @@
-[["Thunderstorm", "Chicago", "Puerto_Rico"], ["Thunderstorm", "Galveston_Hurricane_of_1900", "Puerto_Rico"], ["Thunderstorm", "United_States", "Puerto_Rico"]]

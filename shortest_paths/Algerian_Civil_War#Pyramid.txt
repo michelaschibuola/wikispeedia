@@ -1,1 +1,0 @@
-[["Algerian_Civil_War", "Paris", "Pyramid"], ["Algerian_Civil_War", "United_States", "Pyramid"]]

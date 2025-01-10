@@ -1,1 +1,0 @@
-[["Indian_Ocean", "15th_century", "Dark_Ages"], ["Indian_Ocean", "Civilization", "Dark_Ages"], ["Indian_Ocean", "Europe", "Dark_Ages"], ["Indian_Ocean", "Pollution", "Dark_Ages"], ["Indian_Ocean", "United_Kingdom", "Dark_Ages"], ["Indian_Ocean", "United_States", "Dark_Ages"]]

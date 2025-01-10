@@ -1,1 +1,0 @@
-[["History_of_Greenland", "Canada", "Refrigerator_car"], ["History_of_Greenland", "Europe", "Refrigerator_car"], ["History_of_Greenland", "North_America", "Refrigerator_car"], ["History_of_Greenland", "Russia", "Refrigerator_car"], ["History_of_Greenland", "United_States", "Refrigerator_car"], ["History_of_Greenland", "World_War_II", "Refrigerator_car"]]

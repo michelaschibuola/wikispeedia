@@ -1,1 +1,0 @@
-[["Gabon", "France", "Bette_Davis"], ["Gabon", "United_States", "Bette_Davis"]]

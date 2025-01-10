@@ -1,1 +1,0 @@
-[["Clock", "China", "Beer"], ["Clock", "14th_century", "Beer"], ["Clock", "15th_century", "Beer"], ["Clock", "17th_century", "Beer"]]

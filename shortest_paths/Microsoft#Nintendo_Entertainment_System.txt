@@ -1,1 +1,0 @@
-[["Microsoft", "United_States", "Nintendo_Entertainment_System"], ["Microsoft", "Nintendo", "Nintendo_Entertainment_System"]]

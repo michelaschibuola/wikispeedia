@@ -1,1 +1,0 @@
-[["Socrates", "Philosophy", "Ludwig_Wittgenstein"], ["Socrates", "S%C3%B8ren_Kierkegaard", "Ludwig_Wittgenstein"]]

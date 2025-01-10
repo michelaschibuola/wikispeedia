@@ -1,1 +1,0 @@
-[["Pollution", "Cold_War", "Berlin_Wall"], ["Pollution", "United_Kingdom", "Berlin_Wall"], ["Pollution", "United_States", "Berlin_Wall"]]

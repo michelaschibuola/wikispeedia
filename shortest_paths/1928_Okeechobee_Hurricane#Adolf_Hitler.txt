@@ -1,1 +1,0 @@
-[["1928_Okeechobee_Hurricane", "Paris", "Adolf_Hitler"], ["1928_Okeechobee_Hurricane", "United_States", "Adolf_Hitler"]]

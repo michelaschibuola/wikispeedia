@@ -1,1 +1,0 @@
-[["Cormorant", "Europe", "Eurovision_Song_Contest"], ["Cormorant", "New_Zealand", "Eurovision_Song_Contest"]]

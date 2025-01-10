@@ -1,1 +1,0 @@
-[["Thomas_Edison", "France", "Jurassic"], ["Thomas_Edison", "Germany", "Jurassic"], ["Thomas_Edison", "United_Kingdom", "Jurassic"], ["Thomas_Edison", "United_States", "Jurassic"]]

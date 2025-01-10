@@ -1,1 +1,0 @@
-[["Flower", "Canada", "George_H._W._Bush"], ["Flower", "Iran", "George_H._W._Bush"], ["Flower", "Wake_Island", "George_H._W._Bush"]]

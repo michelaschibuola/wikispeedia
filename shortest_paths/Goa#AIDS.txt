@@ -1,1 +1,0 @@
-[["Goa", "Europe", "AIDS"], ["Goa", "India", "AIDS"], ["Goa", "Netherlands", "AIDS"], ["Goa", "Roman_Catholic_Church", "AIDS"], ["Goa", "Richard_Francis_Burton", "AIDS"]]

@@ -1,1 +1,0 @@
-[["Judaism", "Africa", "Bermuda"], ["Judaism", "Florida", "Bermuda"], ["Judaism", "Canada", "Bermuda"], ["Judaism", "Monarchy", "Bermuda"], ["Judaism", "Portugal", "Bermuda"], ["Judaism", "Spain", "Bermuda"], ["Judaism", "United_Kingdom", "Bermuda"], ["Judaism", "United_States", "Bermuda"], ["Judaism", "World_War_II", "Bermuda"]]

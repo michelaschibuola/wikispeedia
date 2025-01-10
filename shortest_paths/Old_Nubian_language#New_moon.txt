@@ -1,1 +1,0 @@
-[["Old_Nubian_language", "10th_century", "Iran", "New_moon"], ["Old_Nubian_language", "9th_century", "Iran", "New_moon"], ["Old_Nubian_language", "Christianity", "Iran", "New_moon"]]

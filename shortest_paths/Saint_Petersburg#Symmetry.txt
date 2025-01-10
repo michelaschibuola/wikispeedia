@@ -1,1 +1,0 @@
-[["Saint_Petersburg", "Art", "Symmetry"], ["Saint_Petersburg", "Crime_and_Punishment", "Symmetry"], ["Saint_Petersburg", "Australia", "Symmetry"], ["Saint_Petersburg", "Automobile", "Symmetry"], ["Saint_Petersburg", "Egypt", "Symmetry"], ["Saint_Petersburg", "India", "Symmetry"]]

@@ -1,1 +1,0 @@
-[["Pachycephalosaurus", "Animal", "Aristotle", "Great_Comet_of_1882"], ["Pachycephalosaurus", "Scientific_classification", "Aristotle", "Great_Comet_of_1882"], ["Pachycephalosaurus", "Fossil", "South_Africa", "Great_Comet_of_1882"], ["Pachycephalosaurus", "North_America", "South_Africa", "Great_Comet_of_1882"], ["Pachycephalosaurus", "Reptile", "Sun", "Great_Comet_of_1882"]]

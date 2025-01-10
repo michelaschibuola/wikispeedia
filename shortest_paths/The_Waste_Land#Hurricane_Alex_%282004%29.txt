@@ -1,1 +1,0 @@
-[["The_Waste_Land", "English_language", "The_Bahamas", "Hurricane_Alex_%282004%29"], ["The_Waste_Land", "English_language", "Florida", "Hurricane_Alex_%282004%29"], ["The_Waste_Land", "English_language", "Tropical_cyclone", "Hurricane_Alex_%282004%29"], ["The_Waste_Land", "Switzerland", "Denmark", "Hurricane_Alex_%282004%29"]]

@@ -1,1 +1,0 @@
-[["Liberal_democracy", "Africa", "Lion"], ["Liberal_democracy", "India", "Lion"], ["Liberal_democracy", "19th_century", "Lion"], ["Liberal_democracy", "Europe", "Lion"], ["Liberal_democracy", "South_Africa", "Lion"], ["Liberal_democracy", "Singapore", "Lion"]]

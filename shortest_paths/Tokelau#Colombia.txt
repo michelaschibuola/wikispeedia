@@ -1,1 +1,0 @@
-[["Tokelau", "Driving_on_the_left_or_right", "Colombia"], ["Tokelau", "List_of_countries", "Colombia"], ["Tokelau", "Pacific_Ocean", "Colombia"], ["Tokelau", "Banana", "Colombia"], ["Tokelau", "Currency", "Colombia"], ["Tokelau", "English_language", "Colombia"], ["Tokelau", "Time_zone", "Colombia"], ["Tokelau", "United_States", "Colombia"]]

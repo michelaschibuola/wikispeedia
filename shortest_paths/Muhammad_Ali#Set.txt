@@ -1,1 +1,0 @@
-[["Muhammad_Ali", "United_States", "19th_century", "Set"], ["Muhammad_Ali", "United_States", "Symmetry", "Set"]]

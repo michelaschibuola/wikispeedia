@@ -1,1 +1,0 @@
-[["Franklin_D._Roosevelt", "China", "Astrology"], ["Franklin_D._Roosevelt", "Europe", "Astrology"], ["Franklin_D._Roosevelt", "Mediterranean_Sea", "Astrology"]]

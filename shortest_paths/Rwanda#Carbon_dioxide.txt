@@ -1,1 +1,0 @@
-[["Rwanda", "Mount_Nyiragongo", "Carbon_dioxide"], ["Rwanda", "Cameroon", "Carbon_dioxide"], ["Rwanda", "Coffee", "Carbon_dioxide"], ["Rwanda", "European_Union", "Carbon_dioxide"]]

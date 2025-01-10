@@ -1,1 +1,0 @@
-[["Skiing", "Olympic_Games", "British_Isles_%28terminology%29"], ["Skiing", "Denmark", "British_Isles_%28terminology%29"], ["Skiing", "Europe", "British_Isles_%28terminology%29"], ["Skiing", "France", "British_Isles_%28terminology%29"], ["Skiing", "Russia", "British_Isles_%28terminology%29"]]

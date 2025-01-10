@@ -1,1 +1,0 @@
-[["Electric_field", "Physics", "Italy", "Grape_seed_oil"], ["Electric_field", "Energy", "Switzerland", "Grape_seed_oil"], ["Electric_field", "Light", "Vitamin_D", "Grape_seed_oil"], ["Electric_field", "Ozone", "Vitamin_D", "Grape_seed_oil"]]

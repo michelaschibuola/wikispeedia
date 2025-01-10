@@ -1,1 +1,0 @@
-[["Claude_L%C3%A9vi-Strauss", "Brazil", "Baroque"], ["Claude_L%C3%A9vi-Strauss", "Brussels", "Baroque"]]

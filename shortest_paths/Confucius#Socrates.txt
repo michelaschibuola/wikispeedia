@@ -1,1 +1,0 @@
-[["Confucius", "Confucianism", "Socrates"], ["Confucius", "Ethics", "Socrates"], ["Confucius", "Philosophy", "Socrates"], ["Confucius", "Political_philosophy", "Socrates"]]

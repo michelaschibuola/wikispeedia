@@ -1,1 +1,0 @@
-[["Battle_of_Rennell_Island", "Japan", "Georgia_%28country%29"], ["Battle_of_Rennell_Island", "United_States", "Georgia_%28country%29"], ["Battle_of_Rennell_Island", "Vanuatu", "Georgia_%28country%29"], ["Battle_of_Rennell_Island", "World_War_II", "Georgia_%28country%29"]]

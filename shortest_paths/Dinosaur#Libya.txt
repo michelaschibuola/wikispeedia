@@ -1,1 +1,0 @@
-[["Dinosaur", "India", "Libya"], ["Dinosaur", "Italy", "Libya"], ["Dinosaur", "Madagascar", "Libya"], ["Dinosaur", "Mammoth", "Libya"], ["Dinosaur", "Tanzania", "Libya"], ["Dinosaur", "United_States", "Libya"], ["Dinosaur", "Kenya", "Libya"], ["Dinosaur", "Sahara", "Libya"]]

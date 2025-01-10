@@ -1,1 +1,0 @@
-[["Airbus_A380", "Canada", "Autumn"], ["Airbus_A380", "Hong_Kong", "Autumn"], ["Airbus_A380", "Japan", "Autumn"], ["Airbus_A380", "Montreal", "Autumn"], ["Airbus_A380", "North_America", "Autumn"]]

@@ -1,1 +1,0 @@
-[["ABO_blood_group_system", "Germany", "Azerbaijani_people"], ["ABO_blood_group_system", "Russia", "Azerbaijani_people"]]

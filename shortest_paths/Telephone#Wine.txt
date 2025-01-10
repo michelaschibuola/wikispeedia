@@ -1,1 +1,0 @@
-[["Telephone", "Argentina", "Wine"], ["Telephone", "Great_Britain", "Wine"], ["Telephone", "Sweden", "Wine"], ["Telephone", "United_States", "Wine"]]

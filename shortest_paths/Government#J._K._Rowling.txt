@@ -1,1 +1,0 @@
-[["Government", "Employment", "J._K._Rowling"], ["Government", "People%27s_Republic_of_China", "J._K._Rowling"], ["Government", "Scotland", "J._K._Rowling"]]

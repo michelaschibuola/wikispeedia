@@ -1,1 +1,0 @@
-[["Vladimir_Lenin", "Europe", "Vanilla"], ["Vladimir_Lenin", "Latin", "Vanilla"]]

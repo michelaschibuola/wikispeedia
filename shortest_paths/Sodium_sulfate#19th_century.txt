@@ -1,1 +1,0 @@
-[["Sodium_sulfate", "17th_century", "19th_century"], ["Sodium_sulfate", "Canada", "19th_century"], ["Sodium_sulfate", "Mexico", "19th_century"], ["Sodium_sulfate", "Spain", "19th_century"]]

@@ -1,1 +1,0 @@
-[["Birmingham", "France", "Trench_warfare"], ["Birmingham", "Germany", "Trench_warfare"], ["Birmingham", "United_Kingdom", "Trench_warfare"], ["Birmingham", "United_States", "Trench_warfare"], ["Birmingham", "Weapon", "Trench_warfare"], ["Birmingham", "World_War_II", "Trench_warfare"]]

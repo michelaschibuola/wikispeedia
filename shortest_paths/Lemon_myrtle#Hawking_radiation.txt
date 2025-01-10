@@ -1,1 +1,0 @@
-[["Lemon_myrtle", "Australia", "United_Kingdom", "Hawking_radiation"], ["Lemon_myrtle", "Flower", "United_Kingdom", "Hawking_radiation"], ["Lemon_myrtle", "World_War_II", "United_Kingdom", "Hawking_radiation"], ["Lemon_myrtle", "Australia", "Speed_of_light", "Hawking_radiation"], ["Lemon_myrtle", "World_War_II", "Physics", "Hawking_radiation"]]

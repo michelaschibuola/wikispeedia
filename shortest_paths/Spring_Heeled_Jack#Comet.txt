@@ -1,1 +1,0 @@
-[["Spring_Heeled_Jack", "Earth", "Comet"], ["Spring_Heeled_Jack", "Earth%27s_atmosphere", "Comet"], ["Spring_Heeled_Jack", "England", "Comet"], ["Spring_Heeled_Jack", "English_language", "Comet"], ["Spring_Heeled_Jack", "Nature", "Comet"]]

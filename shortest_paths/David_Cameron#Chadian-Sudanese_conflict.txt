@@ -1,1 +1,0 @@
-[["David_Cameron", "BBC", "Chadian-Sudanese_conflict"], ["David_Cameron", "Libya", "Chadian-Sudanese_conflict"], ["David_Cameron", "Sudan", "Chadian-Sudanese_conflict"], ["David_Cameron", "United_Nations", "Chadian-Sudanese_conflict"]]

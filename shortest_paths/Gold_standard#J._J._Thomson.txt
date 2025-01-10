@@ -1,1 +1,0 @@
-[["Gold_standard", "England", "J._J._Thomson"], ["Gold_standard", "Isaac_Newton", "J._J._Thomson"]]

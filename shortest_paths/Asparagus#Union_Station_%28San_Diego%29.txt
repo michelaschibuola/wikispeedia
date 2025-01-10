@@ -1,1 +1,0 @@
-[["Asparagus", "California", "Union_Station_%28San_Diego%29"], ["Asparagus", "Mexico", "Union_Station_%28San_Diego%29"], ["Asparagus", "United_States", "Union_Station_%28San_Diego%29"]]

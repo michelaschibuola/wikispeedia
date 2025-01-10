@@ -1,1 +1,0 @@
-[["William_the_Silent", "France", "Stefan_Edberg"], ["William_the_Silent", "Germany", "Stefan_Edberg"], ["William_the_Silent", "Spain", "Stefan_Edberg"]]

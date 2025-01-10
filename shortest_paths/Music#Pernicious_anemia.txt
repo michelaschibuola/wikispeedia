@@ -1,1 +1,0 @@
-[["Music", "19th_century", "Vitamin", "Pernicious_anemia"], ["Music", "20th_century", "Vitamin", "Pernicious_anemia"], ["Music", "Schizophrenia", "Vitamin", "Pernicious_anemia"], ["Music", "Scotland", "Vitamin", "Pernicious_anemia"], ["Music", "Culture", "Anemia", "Pernicious_anemia"]]

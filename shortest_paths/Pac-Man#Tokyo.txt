@@ -1,1 +1,0 @@
-[["Pac-Man", "Japan", "Tokyo"], ["Pac-Man", "United_States", "Tokyo"]]

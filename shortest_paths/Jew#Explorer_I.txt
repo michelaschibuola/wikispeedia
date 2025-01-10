@@ -1,1 +1,0 @@
-[["Jew", "Soviet_Union", "Explorer_I"], ["Jew", "United_States", "Explorer_I"], ["Jew", "South_America", "Explorer_I"]]

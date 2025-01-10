@@ -1,1 +1,0 @@
-[["Giant_Panda", "Evolution", "Biodiversity"], ["Giant_Panda", "South_America", "Biodiversity"], ["Giant_Panda", "United_States", "Biodiversity"]]

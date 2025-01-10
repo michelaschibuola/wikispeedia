@@ -1,1 +1,0 @@
-[["Nintendo", "Brazil", "Democratic_Republic_of_the_Congo"], ["Nintendo", "Canada", "Democratic_Republic_of_the_Congo"], ["Nintendo", "France", "Democratic_Republic_of_the_Congo"], ["Nintendo", "Germany", "Democratic_Republic_of_the_Congo"]]

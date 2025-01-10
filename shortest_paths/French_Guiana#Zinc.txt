@@ -1,1 +1,0 @@
-[["French_Guiana", "Armenia", "Zinc"], ["French_Guiana", "Bulgaria", "Zinc"], ["French_Guiana", "Europe", "Zinc"], ["French_Guiana", "France", "Zinc"], ["French_Guiana", "Gold", "Zinc"]]

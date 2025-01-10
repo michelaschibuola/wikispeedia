@@ -1,1 +1,0 @@
-[["Real_tennis", "20th_century", "Giant_Panda"], ["Real_tennis", "France", "Giant_Panda"], ["Real_tennis", "Paris", "Giant_Panda"], ["Real_tennis", "United_States", "Giant_Panda"]]

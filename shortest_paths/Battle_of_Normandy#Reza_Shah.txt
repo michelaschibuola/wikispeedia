@@ -1,1 +1,0 @@
-[["Battle_of_Normandy", "Europe", "Reza_Shah"], ["Battle_of_Normandy", "Nazi_Germany", "Reza_Shah"], ["Battle_of_Normandy", "Soviet_Union", "Reza_Shah"], ["Battle_of_Normandy", "United_Kingdom", "Reza_Shah"], ["Battle_of_Normandy", "World_War_I", "Reza_Shah"], ["Battle_of_Normandy", "World_War_II", "Reza_Shah"]]

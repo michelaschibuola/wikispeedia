@@ -1,1 +1,0 @@
-[["Laurent_Fignon", "France", "Atlantic_Ocean", "Tropical_Storm_Ana_%282003%29"], ["Laurent_Fignon", "Paris", "Atlantic_Ocean", "Tropical_Storm_Ana_%282003%29"], ["Laurent_Fignon", "France", "Florida", "Tropical_Storm_Ana_%282003%29"], ["Laurent_Fignon", "France", "Miami%2C_Florida", "Tropical_Storm_Ana_%282003%29"]]

@@ -1,1 +1,0 @@
-[["Milk", "Japan", "Tuna"], ["Milk", "North_America", "Tuna"], ["Milk", "United_States", "Tuna"], ["Milk", "Vitamin_D", "Tuna"], ["Milk", "Orca", "Tuna"]]

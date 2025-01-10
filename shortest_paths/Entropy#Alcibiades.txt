@@ -1,1 +1,0 @@
-[["Entropy", "Energy", "Aristotle", "Alcibiades"], ["Entropy", "Gravitation", "Aristotle", "Alcibiades"], ["Entropy", "Isaac_Newton", "Aristotle", "Alcibiades"], ["Entropy", "Thermodynamics", "Aristotle", "Alcibiades"], ["Entropy", "Physics", "Aristotle", "Alcibiades"], ["Entropy", "Physics", "Ancient_Greece", "Alcibiades"], ["Entropy", "Physics", "Italy", "Alcibiades"]]

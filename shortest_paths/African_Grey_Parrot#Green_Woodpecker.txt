@@ -1,1 +1,0 @@
-[["African_Grey_Parrot", "Animal", "Green_Woodpecker"], ["African_Grey_Parrot", "Binomial_nomenclature", "Green_Woodpecker"], ["African_Grey_Parrot", "Bird", "Green_Woodpecker"], ["African_Grey_Parrot", "Carolus_Linnaeus", "Green_Woodpecker"], ["African_Grey_Parrot", "Scientific_classification", "Green_Woodpecker"]]

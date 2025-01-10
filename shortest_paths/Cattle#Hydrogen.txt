@@ -1,1 +1,0 @@
-[["Cattle", "Transport", "Hydrogen"], ["Cattle", "Formic_acid", "Hydrogen"], ["Cattle", "Insulin", "Hydrogen"], ["Cattle", "Natural_gas", "Hydrogen"]]

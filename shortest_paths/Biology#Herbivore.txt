@@ -1,1 +1,0 @@
-[["Biology", "Africa", "Herbivore"], ["Biology", "Animal", "Herbivore"], ["Biology", "Bacteria", "Herbivore"], ["Biology", "Human", "Herbivore"], ["Biology", "Lion", "Herbivore"], ["Biology", "Organism", "Herbivore"], ["Biology", "Plant", "Herbivore"], ["Biology", "Dinosaur", "Herbivore"], ["Biology", "Psittacosaurus", "Herbivore"]]

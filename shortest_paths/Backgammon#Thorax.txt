@@ -1,1 +1,0 @@
-[["Backgammon", "19th_century", "Pterosaur", "Thorax"], ["Backgammon", "Ancient_Rome", "Human", "Thorax"], ["Backgammon", "Arabic_language", "Human", "Thorax"], ["Backgammon", "English_language", "Human", "Thorax"], ["Backgammon", "India", "Human", "Thorax"]]

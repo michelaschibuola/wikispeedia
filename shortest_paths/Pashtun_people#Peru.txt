@@ -1,1 +1,0 @@
-[["Pashtun_people", "16th_century", "Peru"], ["Pashtun_people", "Europe", "Peru"], ["Pashtun_people", "India", "Peru"], ["Pashtun_people", "South_America", "Peru"], ["Pashtun_people", "United_States", "Peru"]]

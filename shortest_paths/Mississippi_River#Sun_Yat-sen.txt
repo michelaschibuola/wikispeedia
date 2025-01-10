@@ -1,1 +1,0 @@
-[["Mississippi_River", "Abraham_Lincoln", "Sun_Yat-sen"], ["Mississippi_River", "Canada", "Sun_Yat-sen"], ["Mississippi_River", "Europe", "Sun_Yat-sen"], ["Mississippi_River", "United_States", "Sun_Yat-sen"]]

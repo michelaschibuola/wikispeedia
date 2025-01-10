@@ -1,1 +1,0 @@
-[["Hasekura_Tsunenaga", "Europe", "Tour_de_France"], ["Hasekura_Tsunenaga", "France", "Tour_de_France"], ["Hasekura_Tsunenaga", "Italy", "Tour_de_France"], ["Hasekura_Tsunenaga", "Madrid", "Tour_de_France"], ["Hasekura_Tsunenaga", "Netherlands", "Tour_de_France"], ["Hasekura_Tsunenaga", "Spain", "Tour_de_France"]]

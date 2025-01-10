@@ -1,1 +1,0 @@
-[["Vancouver", "California", "Pyramid"], ["Vancouver", "United_States", "Pyramid"]]

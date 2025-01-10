@@ -1,1 +1,0 @@
-[["Malaysia", "Canada", "Wall_Street"], ["Malaysia", "Netherlands", "Wall_Street"], ["Malaysia", "Philippines", "Wall_Street"], ["Malaysia", "United_Kingdom", "Wall_Street"], ["Malaysia", "United_States", "Wall_Street"], ["Malaysia", "September_11%2C_2001_attacks", "Wall_Street"]]

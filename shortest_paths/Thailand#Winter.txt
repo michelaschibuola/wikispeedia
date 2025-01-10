@@ -1,1 +1,0 @@
-[["Thailand", "Bhutan", "Winter"], ["Thailand", "Los_Angeles%2C_California", "Winter"], ["Thailand", "California", "Winter"], ["Thailand", "Europe", "Winter"], ["Thailand", "United_States", "Winter"]]

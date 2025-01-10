@@ -1,1 +1,0 @@
-[["Pneumonia", "Oxygen", "Tiger_Woods"], ["Pneumonia", "United_States", "Tiger_Woods"]]

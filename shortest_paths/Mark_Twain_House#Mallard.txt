@@ -1,1 +1,0 @@
-[["Mark_Twain_House", "Meningitis", "New_Zealand", "Mallard"], ["Mark_Twain_House", "Ulysses_S._Grant", "North_America", "Mallard"]]

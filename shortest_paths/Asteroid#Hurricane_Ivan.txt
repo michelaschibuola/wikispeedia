@@ -1,1 +1,0 @@
-[["Asteroid", "21st_century", "Hurricane_Ivan"], ["Asteroid", "Gulf_of_Mexico", "Hurricane_Ivan"]]

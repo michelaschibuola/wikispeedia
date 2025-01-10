@@ -1,1 +1,0 @@
-[["Pea", "Evolution", "Education_in_the_United_States"], ["Pea", "English_language", "Education_in_the_United_States"], ["Pea", "Latin", "Education_in_the_United_States"]]

@@ -1,1 +1,0 @@
-[["Uranium", "Coal", "Calcite"], ["Uranium", "Mineral", "Calcite"]]

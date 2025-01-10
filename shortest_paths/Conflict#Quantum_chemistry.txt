@@ -1,1 +1,0 @@
-[["Conflict", "Israel", "Chemistry", "Quantum_chemistry"], ["Conflict", "Psychology", "Linus_Pauling", "Quantum_chemistry"], ["Conflict", "Human", "Physics", "Quantum_chemistry"], ["Conflict", "Switzerland", "Physical_science", "Quantum_chemistry"], ["Conflict", "Switzerland", "Robert_Oppenheimer", "Quantum_chemistry"]]

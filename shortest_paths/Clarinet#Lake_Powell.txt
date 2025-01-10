@@ -1,1 +1,0 @@
-[["Clarinet", "Austria", "List_of_lakes", "Lake_Powell"], ["Clarinet", "Germany", "List_of_lakes", "Lake_Powell"], ["Clarinet", "Germany", "Dwight_D._Eisenhower", "Lake_Powell"], ["Clarinet", "Jazz", "American_Civil_War", "Lake_Powell"]]

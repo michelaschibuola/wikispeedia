@@ -1,1 +1,0 @@
-[["Monkey", "German_language", "Adolf_Hitler"], ["Monkey", "United_States", "Adolf_Hitler"]]

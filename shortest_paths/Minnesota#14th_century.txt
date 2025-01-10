@@ -1,1 +1,0 @@
-[["Minnesota", "Europe", "14th_century"], ["Minnesota", "India", "14th_century"], ["Minnesota", "Islam", "14th_century"]]

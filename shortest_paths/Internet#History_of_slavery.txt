@@ -1,1 +1,0 @@
-[["Internet", "France", "History_of_slavery"], ["Internet", "Germany", "History_of_slavery"], ["Internet", "Europe", "History_of_slavery"], ["Internet", "London", "History_of_slavery"], ["Internet", "United_States", "History_of_slavery"]]

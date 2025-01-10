@@ -1,1 +1,0 @@
-[["Dimetrodon", "Human", "Ancient_history", "Egyptian_pyramids"], ["Dimetrodon", "Human", "Archaeology", "Egyptian_pyramids"], ["Dimetrodon", "Spinosaurus", "Egypt", "Egyptian_pyramids"]]

@@ -1,1 +1,0 @@
-[["90377_Sedna", "Earth", "Sirius"], ["90377_Sedna", "Hubble_Space_Telescope", "Sirius"], ["90377_Sedna", "Sun", "Sirius"]]

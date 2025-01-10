@@ -1,1 +1,0 @@
-[["Trench_warfare", "Ernest_Hemingway", "Henry_James"], ["Trench_warfare", "United_Kingdom", "Henry_James"], ["Trench_warfare", "United_States", "Henry_James"], ["Trench_warfare", "World_War_I", "Henry_James"], ["Trench_warfare", "World_War_II", "Henry_James"]]

@@ -1,1 +1,0 @@
-[["Plover", "Eurasian_Oystercatcher", "China", "Mongol_Empire"], ["Plover", "Eurasian_Oystercatcher", "Europe", "Mongol_Empire"], ["Plover", "Herring_Gull", "Europe", "Mongol_Empire"], ["Plover", "Ringed_Plover", "Europe", "Mongol_Empire"]]

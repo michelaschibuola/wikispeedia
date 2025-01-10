@@ -1,1 +1,0 @@
-[["Alternative_rock", "Philippines", "Stone_Age"], ["Alternative_rock", "Scotland", "Stone_Age"]]

@@ -1,1 +1,0 @@
-[["Film", "Cerium", "Thorium"], ["Film", "Color", "Thorium"], ["Film", "Lanthanum", "Thorium"]]

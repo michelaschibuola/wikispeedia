@@ -1,1 +1,0 @@
-[["Santa_Claus", "Afghanistan", "Ziad_Jarrah"], ["Santa_Claus", "German_language", "Ziad_Jarrah"], ["Santa_Claus", "Germany", "Ziad_Jarrah"], ["Santa_Claus", "New_York_City", "Ziad_Jarrah"], ["Santa_Claus", "Russia", "Ziad_Jarrah"], ["Santa_Claus", "Spain", "Ziad_Jarrah"], ["Santa_Claus", "Turkey", "Ziad_Jarrah"], ["Santa_Claus", "United_States", "Ziad_Jarrah"]]

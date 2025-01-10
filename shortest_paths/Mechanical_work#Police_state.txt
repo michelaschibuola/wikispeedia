@@ -1,1 +1,0 @@
-[["Mechanical_work", "Physics", "Thomas_Hobbes", "Police_state"], ["Mechanical_work", "Physical_science", "United_States", "Police_state"], ["Mechanical_work", "Thermodynamic_temperature", "United_States", "Police_state"]]

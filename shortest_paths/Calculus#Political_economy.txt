@@ -1,1 +1,0 @@
-[["Calculus", "Age_of_Enlightenment", "Political_economy"], ["Calculus", "Economics", "Political_economy"], ["Calculus", "Technology", "Political_economy"], ["Calculus", "History_of_science", "Political_economy"]]

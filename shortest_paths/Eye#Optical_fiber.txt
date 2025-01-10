@@ -1,1 +1,0 @@
-[["Eye", "Electromagnetic_radiation", "Optical_fiber"], ["Eye", "Light", "Optical_fiber"], ["Eye", "Oxygen", "Optical_fiber"], ["Eye", "Ultraviolet", "Optical_fiber"]]

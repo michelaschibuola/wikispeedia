@@ -1,1 +1,0 @@
-[["Sikkim", "Agriculture", "Cheese"], ["Sikkim", "Bhutan", "Cheese"], ["Sikkim", "Milk", "Cheese"], ["Sikkim", "People%27s_Republic_of_China", "Cheese"], ["Sikkim", "Tea", "Cheese"], ["Sikkim", "United_Kingdom", "Cheese"], ["Sikkim", "Yak", "Cheese"]]

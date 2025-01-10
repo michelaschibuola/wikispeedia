@@ -1,1 +1,0 @@
-[["Iceland", "Europe", "Superman"], ["Iceland", "Germany", "Superman"], ["Iceland", "Television", "Superman"], ["Iceland", "United_States", "Superman"]]

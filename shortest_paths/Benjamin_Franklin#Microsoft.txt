@@ -1,1 +1,0 @@
-[["Benjamin_Franklin", "Publishing", "Microsoft"], ["Benjamin_Franklin", "United_States", "Microsoft"], ["Benjamin_Franklin", "Columbus%2C_Ohio", "Microsoft"], ["Benjamin_Franklin", "United_States_dollar", "Microsoft"]]

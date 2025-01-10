@@ -1,1 +1,0 @@
-[["Ragtime", "North_America", "Dog", "Tooth_development"], ["Ragtime", "North_America", "Mammal", "Tooth_development"], ["Ragtime", "North_America", "Shark", "Tooth_development"], ["Ragtime", "United_States", "Calcium", "Tooth_development"], ["Ragtime", "United_States", "Monkey", "Tooth_development"], ["Ragtime", "United_States", "Vitamin_C", "Tooth_development"]]

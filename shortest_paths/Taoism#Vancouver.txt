@@ -1,1 +1,0 @@
-[["Taoism", "China", "Vancouver"], ["Taoism", "Hong_Kong", "Vancouver"], ["Taoism", "Japan", "Vancouver"], ["Taoism", "People%27s_Republic_of_China", "Vancouver"], ["Taoism", "Chinese_language", "Vancouver"]]

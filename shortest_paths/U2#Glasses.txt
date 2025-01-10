@@ -1,1 +1,0 @@
-[["U2", "The_Beatles", "Glasses"], ["U2", "Japan", "Glasses"], ["U2", "United_Kingdom", "Glasses"], ["U2", "United_States", "Glasses"]]

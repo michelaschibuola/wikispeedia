@@ -1,1 +1,0 @@
-[["Louis_Armstrong", "Chicago", "Apollo_8"], ["Louis_Armstrong", "New_York_City", "Apollo_8"], ["Louis_Armstrong", "President_of_the_United_States", "Apollo_8"], ["Louis_Armstrong", "Television", "Apollo_8"]]

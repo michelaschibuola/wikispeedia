@@ -1,1 +1,0 @@
-[["Crust_%28geology%29", "Earth", "Radar"], ["Crust_%28geology%29", "Mercury_%28planet%29", "Radar"], ["Crust_%28geology%29", "Venus", "Radar"]]

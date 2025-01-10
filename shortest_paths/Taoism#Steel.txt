@@ -1,1 +1,0 @@
-[["Taoism", "History_of_the_world", "Steel"], ["Taoism", "Japan", "Steel"], ["Taoism", "People%27s_Republic_of_China", "Steel"], ["Taoism", "Chinese_language", "Steel"]]

@@ -1,1 +1,0 @@
-[["5th_century", "Africa", "Earth"], ["5th_century", "China", "Earth"], ["5th_century", "Middle_Ages", "Earth"], ["5th_century", "Pi", "Earth"]]

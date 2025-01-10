@@ -1,1 +1,0 @@
-[["Woodpecker", "Chew_Valley", "Philosophy", "I_Ching"], ["Woodpecker", "Slovenia", "Philosophy", "I_Ching"], ["Woodpecker", "United_States", "Philosophy", "I_Ching"], ["Woodpecker", "United_States", "Archaeology", "I_Ching"], ["Woodpecker", "United_States", "Virgil", "I_Ching"]]

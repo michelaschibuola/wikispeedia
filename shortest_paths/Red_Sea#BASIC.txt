@@ -1,1 +1,0 @@
-[["Red_Sea", "19th_century", "Programming_language", "BASIC"], ["Red_Sea", "Africa", "BBC", "BASIC"], ["Red_Sea", "Asia", "BBC", "BASIC"], ["Red_Sea", "Mecca", "BBC", "BASIC"], ["Red_Sea", "Arabic_language", "BBC", "BASIC"], ["Red_Sea", "Europe", "BBC", "BASIC"], ["Red_Sea", "Asia", "Computer", "BASIC"]]

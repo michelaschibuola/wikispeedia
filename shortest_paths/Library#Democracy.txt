@@ -1,1 +1,0 @@
-[["Library", "History_of_Earth", "Democracy"], ["Library", "Lebanon", "Democracy"], ["Library", "Liberalism", "Democracy"], ["Library", "Aristotle", "Democracy"], ["Library", "Egypt", "Democracy"], ["Library", "Europe", "Democracy"], ["Library", "Middle_East", "Democracy"], ["Library", "Spain", "Democracy"], ["Library", "United_States", "Democracy"]]

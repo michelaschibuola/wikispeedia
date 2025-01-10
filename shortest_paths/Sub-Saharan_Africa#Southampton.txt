@@ -1,1 +1,0 @@
-[["Sub-Saharan_Africa", "Africa", "Southampton"], ["Sub-Saharan_Africa", "France", "Southampton"], ["Sub-Saharan_Africa", "Middle_Ages", "Southampton"], ["Sub-Saharan_Africa", "Asia", "Southampton"], ["Sub-Saharan_Africa", "Atlantic_Ocean", "Southampton"], ["Sub-Saharan_Africa", "Europe", "Southampton"], ["Sub-Saharan_Africa", "South_Africa", "Southampton"]]

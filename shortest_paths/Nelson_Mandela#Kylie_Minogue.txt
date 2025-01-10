@@ -1,1 +1,0 @@
-[["Nelson_Mandela", "AIDS", "Kylie_Minogue"], ["Nelson_Mandela", "Canada", "Kylie_Minogue"], ["Nelson_Mandela", "Japan", "Kylie_Minogue"]]

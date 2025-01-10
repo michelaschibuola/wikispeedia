@@ -1,1 +1,0 @@
-[["Norse_mythology", "Middle_East", "Siege"], ["Norse_mythology", "United_States", "Siege"]]

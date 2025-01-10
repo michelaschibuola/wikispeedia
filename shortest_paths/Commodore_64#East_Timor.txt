@@ -1,1 +1,0 @@
-[["Commodore_64", "Europe", "East_Timor"], ["Commodore_64", "United_States", "East_Timor"], ["Commodore_64", "United_States_dollar", "East_Timor"]]

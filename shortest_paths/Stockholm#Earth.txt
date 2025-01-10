@@ -1,1 +1,0 @@
-[["Stockholm", "Europe", "Earth"], ["Stockholm", "Holmium", "Earth"], ["Stockholm", "Africa", "Earth"], ["Stockholm", "Arabic_language", "Earth"], ["Stockholm", "Latin_America", "Earth"], ["Stockholm", "Middle_East", "Earth"], ["Stockholm", "Season", "Earth"], ["Stockholm", "Time_zone", "Earth"]]

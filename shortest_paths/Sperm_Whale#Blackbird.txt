@@ -1,1 +1,0 @@
-[["Sperm_Whale", "Animal", "Blackbird"], ["Sperm_Whale", "Binomial_nomenclature", "Blackbird"], ["Sperm_Whale", "Carolus_Linnaeus", "Blackbird"], ["Sperm_Whale", "Chordate", "Blackbird"], ["Sperm_Whale", "New_Zealand", "Blackbird"], ["Sperm_Whale", "Scientific_classification", "Blackbird"]]

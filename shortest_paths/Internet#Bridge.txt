@@ -1,1 +1,0 @@
-[["Internet", "Denmark", "Bridge"], ["Internet", "France", "Bridge"], ["Internet", "Brazil", "Bridge"], ["Internet", "Europe", "Bridge"], ["Internet", "German_language", "Bridge"], ["Internet", "London", "Bridge"], ["Internet", "People%27s_Republic_of_China", "Bridge"], ["Internet", "United_States", "Bridge"], ["Internet", "Vienna", "Bridge"]]

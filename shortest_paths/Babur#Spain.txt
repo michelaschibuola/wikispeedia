@@ -1,1 +1,0 @@
-[["Babur", "16th_century", "Spain"], ["Babur", "India", "Spain"], ["Babur", "Islam", "Spain"], ["Babur", "Principality", "Spain"], ["Babur", "River", "Spain"]]

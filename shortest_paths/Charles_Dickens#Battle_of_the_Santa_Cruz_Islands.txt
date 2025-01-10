@@ -1,1 +1,0 @@
-[["Charles_Dickens", "Australia", "Battle_of_the_Santa_Cruz_Islands"], ["Charles_Dickens", "United_States", "Battle_of_the_Santa_Cruz_Islands"]]

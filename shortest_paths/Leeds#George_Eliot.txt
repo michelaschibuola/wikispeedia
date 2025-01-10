@@ -1,1 +1,0 @@
-[["Leeds", "England", "George_Eliot"], ["Leeds", "Europe", "George_Eliot"], ["Leeds", "London", "George_Eliot"]]

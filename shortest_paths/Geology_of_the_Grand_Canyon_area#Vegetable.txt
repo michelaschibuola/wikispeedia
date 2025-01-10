@@ -1,1 +1,0 @@
-[["Geology_of_the_Grand_Canyon_area", "Japan", "Vegetable"], ["Geology_of_the_Grand_Canyon_area", "Plant", "Vegetable"], ["Geology_of_the_Grand_Canyon_area", "Spring_%28season%29", "Vegetable"], ["Geology_of_the_Grand_Canyon_area", "Summer", "Vegetable"]]

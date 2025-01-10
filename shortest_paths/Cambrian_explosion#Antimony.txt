@@ -1,1 +1,0 @@
-[["Cambrian_explosion", "Sulfur", "Antimony"], ["Cambrian_explosion", "Earth", "Antimony"]]

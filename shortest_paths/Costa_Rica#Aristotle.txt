@@ -1,1 +1,0 @@
-[["Costa_Rica", "Animal", "Aristotle"], ["Costa_Rica", "Christianity", "Aristotle"], ["Costa_Rica", "Democracy", "Aristotle"], ["Costa_Rica", "Jew", "Aristotle"], ["Costa_Rica", "Plant", "Aristotle"]]

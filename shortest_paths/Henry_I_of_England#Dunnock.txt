@@ -1,1 +1,0 @@
-[["Henry_I_of_England", "England", "Bird_migration", "Dunnock"], ["Henry_I_of_England", "England", "Europe", "Dunnock"], ["Henry_I_of_England", "First_Crusade", "Europe", "Dunnock"], ["Henry_I_of_England", "Norman_conquest_of_England", "Europe", "Dunnock"], ["Henry_I_of_England", "Plymouth", "Europe", "Dunnock"]]

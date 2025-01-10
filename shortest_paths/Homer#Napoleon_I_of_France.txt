@@ -1,1 +1,0 @@
-[["Homer", "Europe", "Napoleon_I_of_France"], ["Homer", "Friedrich_Nietzsche", "Napoleon_I_of_France"], ["Homer", "19th_century", "Napoleon_I_of_France"], ["Homer", "Italy", "Napoleon_I_of_France"], ["Homer", "Johann_Wolfgang_Goethe", "Napoleon_I_of_France"], ["Homer", "Slavery", "Napoleon_I_of_France"]]

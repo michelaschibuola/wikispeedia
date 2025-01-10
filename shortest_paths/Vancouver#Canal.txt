@@ -1,1 +1,0 @@
-[["Vancouver", "Canada", "Canal"], ["Vancouver", "Edinburgh", "Canal"], ["Vancouver", "England", "Canal"], ["Vancouver", "Ice_hockey", "Canal"], ["Vancouver", "Panama_Canal", "Canal"], ["Vancouver", "United_States", "Canal"]]

@@ -1,1 +1,0 @@
-[["Korea", "Buenos_Aires", "Mexico_City"], ["Korea", "Europe", "Mexico_City"], ["Korea", "Philippines", "Mexico_City"], ["Korea", "Seoul", "Mexico_City"], ["Korea", "United_States", "Mexico_City"]]

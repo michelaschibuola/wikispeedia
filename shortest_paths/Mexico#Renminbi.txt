@@ -1,1 +1,0 @@
-[["Mexico", "List_of_circulating_currencies", "Renminbi"], ["Mexico", "Currency", "Renminbi"]]

@@ -1,1 +1,0 @@
-[["Myanmar", "Afghanistan", "Ziad_Jarrah"], ["Myanmar", "Lebanon", "Ziad_Jarrah"], ["Myanmar", "United_States", "Ziad_Jarrah"], ["Myanmar", "Turkey", "Ziad_Jarrah"]]

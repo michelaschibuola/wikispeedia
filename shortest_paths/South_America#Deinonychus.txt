@@ -1,1 +1,0 @@
-[["South_America", "Cretaceous", "Deinonychus"], ["South_America", "Dinosaur", "Deinonychus"], ["South_America", "Theropoda", "Deinonychus"]]

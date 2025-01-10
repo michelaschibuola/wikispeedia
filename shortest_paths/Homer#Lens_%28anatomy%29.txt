@@ -1,1 +1,0 @@
-[["Homer", "Elephant", "Eye", "Lens_%28anatomy%29"], ["Homer", "Fire", "Light", "Lens_%28anatomy%29"], ["Homer", "The_Cantos", "Light", "Lens_%28anatomy%29"], ["Homer", "Greece", "Cataract_surgery", "Lens_%28anatomy%29"], ["Homer", "3rd_century", "Glasses", "Lens_%28anatomy%29"], ["Homer", "Italy", "Glasses", "Lens_%28anatomy%29"]]

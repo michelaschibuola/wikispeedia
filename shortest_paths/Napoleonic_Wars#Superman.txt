@@ -1,1 +1,0 @@
-[["Napoleonic_Wars", "Germany", "Superman"], ["Napoleonic_Wars", "Europe", "Superman"], ["Napoleonic_Wars", "United_States", "Superman"], ["Napoleonic_Wars", "World_War_I", "Superman"]]

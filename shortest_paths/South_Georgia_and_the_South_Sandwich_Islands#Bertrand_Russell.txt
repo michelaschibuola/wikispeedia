@@ -1,1 +1,0 @@
-[["South_Georgia_and_the_South_Sandwich_Islands", "English_language", "Bertrand_Russell"], ["South_Georgia_and_the_South_Sandwich_Islands", "Germany", "Bertrand_Russell"], ["South_Georgia_and_the_South_Sandwich_Islands", "United_Kingdom", "Bertrand_Russell"], ["South_Georgia_and_the_South_Sandwich_Islands", "World_War_II", "Bertrand_Russell"]]

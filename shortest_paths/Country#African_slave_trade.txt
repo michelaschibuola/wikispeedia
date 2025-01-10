@@ -1,1 +1,0 @@
-[["Country", "Law", "African_slave_trade"], ["Country", "Scotland", "African_slave_trade"], ["Country", "United_Kingdom", "African_slave_trade"], ["Country", "United_States", "African_slave_trade"], ["Country", "League_of_Nations", "African_slave_trade"], ["Country", "Nigeria", "African_slave_trade"], ["Country", "Sudan", "African_slave_trade"]]

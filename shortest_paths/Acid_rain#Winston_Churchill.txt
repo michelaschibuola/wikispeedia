@@ -1,1 +1,0 @@
-[["Acid_rain", "England", "Winston_Churchill"], ["Acid_rain", "People%27s_Republic_of_China", "Winston_Churchill"], ["Acid_rain", "Russia", "Winston_Churchill"], ["Acid_rain", "Margaret_Thatcher", "Winston_Churchill"]]

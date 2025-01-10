@@ -1,1 +1,0 @@
-[["Computer", "Middle_Ages", "History_of_Russia"], ["Computer", "United_States", "History_of_Russia"]]

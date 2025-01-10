@@ -1,1 +1,0 @@
-[["Meteor_shower", "Archaeoastronomy", "Europe", "Wrestling"], ["Meteor_shower", "Sun", "Asia", "Wrestling"], ["Meteor_shower", "Sun", "Japan", "Wrestling"], ["Meteor_shower", "Sun", "United_States", "Wrestling"]]

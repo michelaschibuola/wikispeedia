@@ -1,1 +1,0 @@
-[["AIDS", "Europe", "Cod"], ["AIDS", "Norway", "Cod"], ["AIDS", "United_Kingdom", "Cod"]]

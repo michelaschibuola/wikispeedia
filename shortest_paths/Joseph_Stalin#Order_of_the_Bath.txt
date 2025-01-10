@@ -1,1 +1,0 @@
-[["Joseph_Stalin", "Dwight_D._Eisenhower", "Order_of_the_Bath"], ["Joseph_Stalin", "France", "Order_of_the_Bath"], ["Joseph_Stalin", "World_War_II", "Order_of_the_Bath"]]

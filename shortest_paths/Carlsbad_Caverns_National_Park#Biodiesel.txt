@@ -1,1 +1,0 @@
-[["Carlsbad_Caverns_National_Park", "Carbon_dioxide", "Biodiesel"], ["Carlsbad_Caverns_National_Park", "Czech_Republic", "Biodiesel"], ["Carlsbad_Caverns_National_Park", "Fertilizer", "Biodiesel"], ["Carlsbad_Caverns_National_Park", "United_States", "Biodiesel"]]

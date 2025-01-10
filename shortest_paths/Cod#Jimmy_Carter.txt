@@ -1,1 +1,0 @@
-[["Cod", "United_Kingdom", "Jimmy_Carter"]]

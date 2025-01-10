@@ -1,1 +1,0 @@
-[["Adolf_Hitler", "India", "Banana"], ["Adolf_Hitler", "United_States", "Banana"]]

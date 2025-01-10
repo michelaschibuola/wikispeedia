@@ -1,1 +1,0 @@
-[["Barracuda", "Animal", "Ascariasis"], ["Barracuda", "Carolus_Linnaeus", "Ascariasis"], ["Barracuda", "Scientific_classification", "Ascariasis"]]

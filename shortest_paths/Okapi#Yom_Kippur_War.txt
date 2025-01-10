@@ -1,1 +1,0 @@
-[["Okapi", "Egypt", "Yom_Kippur_War"], ["Okapi", "Sudan", "Yom_Kippur_War"]]

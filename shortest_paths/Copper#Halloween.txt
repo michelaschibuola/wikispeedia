@@ -1,1 +1,0 @@
-[["Copper", "Australia", "Halloween"], ["Copper", "Canada", "Halloween"], ["Copper", "Mexico", "Halloween"], ["Copper", "United_States", "Halloween"], ["Copper", "Wales", "Halloween"]]

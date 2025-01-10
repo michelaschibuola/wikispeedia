@@ -1,1 +1,0 @@
-[["Chicken", "Cancer", "Barbara_McClintock"], ["Chicken", "United_States", "Barbara_McClintock"]]

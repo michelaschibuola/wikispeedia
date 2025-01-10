@@ -1,1 +1,0 @@
-[["Coffee", "Cancer", "Lung_cancer"], ["Coffee", "Italy", "Lung_cancer"], ["Coffee", "Plant", "Lung_cancer"]]

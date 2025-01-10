@@ -1,1 +1,0 @@
-[["Electricity", "Ancient_Egypt", "Common_cold"], ["Electricity", "Copper", "Common_cold"], ["Electricity", "Multiple_sclerosis", "Common_cold"]]

@@ -1,1 +1,0 @@
-[["Windows_XP", "Asia", "Southern_Africa"], ["Windows_XP", "South_America", "Southern_Africa"]]

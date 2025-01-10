@@ -1,1 +1,0 @@
-[["Astronomy", "Earth", "Technetium"], ["Astronomy", "Red_giant", "Technetium"], ["Astronomy", "Star", "Technetium"], ["Astronomy", "Uranium", "Technetium"], ["Astronomy", "Day", "Technetium"], ["Astronomy", "Metal", "Technetium"]]

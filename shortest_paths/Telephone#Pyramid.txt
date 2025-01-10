@@ -1,1 +1,0 @@
-[["Telephone", "United_States", "Pyramid"]]

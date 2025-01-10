@@ -1,1 +1,0 @@
-[["Chicago_and_North_Western_Railway", "Minnesota", "Amish"], ["Chicago_and_North_Western_Railway", "United_States", "Amish"]]

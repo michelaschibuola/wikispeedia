@@ -1,1 +1,0 @@
-[["Pollution", "People%27s_Republic_of_China", "Grand_Canal_of_China"], ["Pollution", "China", "Grand_Canal_of_China"]]

@@ -1,1 +1,0 @@
-[["North_Korea", "Beijing", "Ming_Dynasty"], ["North_Korea", "Chinese_language", "Ming_Dynasty"], ["North_Korea", "History_of_the_world", "Ming_Dynasty"], ["North_Korea", "Japan", "Ming_Dynasty"], ["North_Korea", "Korea", "Ming_Dynasty"], ["North_Korea", "China", "Ming_Dynasty"], ["North_Korea", "Shanghai", "Ming_Dynasty"]]

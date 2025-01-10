@@ -1,1 +1,0 @@
-[["Ammonite", "Japan", "Military_dictatorship"], ["Ammonite", "Madagascar", "Military_dictatorship"]]

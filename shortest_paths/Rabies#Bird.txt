@@ -1,1 +1,0 @@
-[["Rabies", "Bat", "Bird"], ["Rabies", "Cat", "Bird"], ["Rabies", "Kangaroo", "Bird"], ["Rabies", "Animal", "Bird"], ["Rabies", "Tuberculosis", "Bird"]]

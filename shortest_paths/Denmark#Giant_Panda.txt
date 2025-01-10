@@ -1,1 +1,0 @@
-[["Denmark", "France", "Giant_Panda"], ["Denmark", "Germany", "Giant_Panda"], ["Denmark", "United_States", "Giant_Panda"]]

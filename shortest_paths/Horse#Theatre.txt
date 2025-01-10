@@ -1,1 +1,0 @@
-[["Horse", "Coconut", "Theatre"], ["Horse", "Art", "Theatre"], ["Horse", "Australia", "Theatre"], ["Horse", "Russia", "Theatre"], ["Horse", "United_Kingdom", "Theatre"], ["Horse", "United_States", "Theatre"], ["Horse", "Lisbon", "Theatre"], ["Horse", "Miranda_Otto", "Theatre"]]

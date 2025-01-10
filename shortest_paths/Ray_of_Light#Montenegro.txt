@@ -1,1 +1,0 @@
-[["Ray_of_Light", "Belgium", "Montenegro"], ["Ray_of_Light", "Europe", "Montenegro"], ["Ray_of_Light", "France", "Montenegro"], ["Ray_of_Light", "Germany", "Montenegro"], ["Ray_of_Light", "Switzerland", "Montenegro"], ["Ray_of_Light", "United_Kingdom", "Montenegro"], ["Ray_of_Light", "United_States", "Montenegro"]]

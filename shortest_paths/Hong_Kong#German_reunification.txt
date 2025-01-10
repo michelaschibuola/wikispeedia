@@ -1,1 +1,0 @@
-[["Hong_Kong", "Eurovision_Song_Contest", "German_reunification"], ["Hong_Kong", "United_States", "German_reunification"]]

@@ -1,1 +1,0 @@
-[["Milgram_experiment", "Psychology", "Russia", "Lawrencium"], ["Milgram_experiment", "The_Holocaust", "Russia", "Lawrencium"], ["Milgram_experiment", "United_Kingdom", "Russia", "Lawrencium"], ["Milgram_experiment", "United_Kingdom", "Electron", "Lawrencium"]]

@@ -1,1 +1,0 @@
-[["Football", "16th_century", "Heliocentrism"], ["Football", "17th_century", "Heliocentrism"], ["Football", "19th_century", "Heliocentrism"], ["Football", "Latin", "Heliocentrism"], ["Football", "Middle_Ages", "Heliocentrism"]]

@@ -1,1 +1,0 @@
-[["Jump_rope", "Germany", "Sheffield"], ["Jump_rope", "Japan", "Sheffield"], ["Jump_rope", "United_States", "Sheffield"]]

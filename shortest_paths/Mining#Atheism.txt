@@ -1,1 +1,0 @@
-[["Mining", "Brazil", "Atheism"], ["Mining", "Cuba", "Atheism"], ["Mining", "Australia", "Atheism"], ["Mining", "United_States", "Atheism"]]

@@ -1,1 +1,0 @@
-[["Dance", "Ancient_Egypt", "Wine"], ["Dance", "Civilization", "Wine"], ["Dance", "Europe", "Wine"], ["Dance", "South_Africa", "Wine"]]

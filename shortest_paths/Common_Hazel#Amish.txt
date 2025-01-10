@@ -1,1 +1,0 @@
-[["Common_Hazel", "Canada", "Amish"], ["Common_Hazel", "Europe", "Amish"], ["Common_Hazel", "United_States", "Amish"]]

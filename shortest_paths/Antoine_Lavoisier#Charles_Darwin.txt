@@ -1,1 +1,0 @@
-[["Antoine_Lavoisier", "Biology", "Charles_Darwin"], ["Antoine_Lavoisier", "Botany", "Charles_Darwin"], ["Antoine_Lavoisier", "Germany", "Charles_Darwin"], ["Antoine_Lavoisier", "Mathematics", "Charles_Darwin"], ["Antoine_Lavoisier", "History_of_science", "Charles_Darwin"]]

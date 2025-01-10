@@ -1,1 +1,0 @@
-[["Dallas%2C_Texas", "John_F._Kennedy", "Andrew_Robinson"], ["Dallas%2C_Texas", "United_States", "Andrew_Robinson"], ["Dallas%2C_Texas", "World_War_II", "Andrew_Robinson"], ["Dallas%2C_Texas", "New_York_City", "Andrew_Robinson"]]

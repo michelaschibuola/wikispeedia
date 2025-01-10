@@ -1,1 +1,0 @@
-[["Bretton_Woods_system", "Japan", "Weather"]]

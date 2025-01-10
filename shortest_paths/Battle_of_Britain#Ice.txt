@@ -1,1 +1,0 @@
-[["Battle_of_Britain", "Australia", "Ice"], ["Battle_of_Britain", "Canada", "Ice"]]

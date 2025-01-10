@@ -1,1 +1,0 @@
-[["Wasabi", "Dill", "Asia"], ["Wasabi", "Fennel", "Asia"], ["Wasabi", "Japan", "Asia"], ["Wasabi", "Australia", "Asia"], ["Wasabi", "Chicken", "Asia"], ["Wasabi", "Europe", "Asia"], ["Wasabi", "New_Zealand", "Asia"], ["Wasabi", "Rice", "Asia"], ["Wasabi", "Taiwan", "Asia"], ["Wasabi", "Water", "Asia"]]

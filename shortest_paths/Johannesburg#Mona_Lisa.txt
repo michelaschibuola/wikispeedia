@@ -1,1 +1,0 @@
-[["Johannesburg", "Elvis_Presley", "Mona_Lisa"], ["Johannesburg", "Art", "Mona_Lisa"], ["Johannesburg", "New_York_City", "Mona_Lisa"], ["Johannesburg", "United_States", "Mona_Lisa"]]

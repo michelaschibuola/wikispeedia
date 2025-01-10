@@ -1,1 +1,0 @@
-[["Nuclear_weapon", "Moon", "Hebrew_calendar"], ["Nuclear_weapon", "Israel", "Hebrew_calendar"]]

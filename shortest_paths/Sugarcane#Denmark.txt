@@ -1,1 +1,0 @@
-[["Sugarcane", "Argentina", "Denmark"], ["Sugarcane", "Cheese", "Denmark"], ["Sugarcane", "Europe", "Denmark"], ["Sugarcane", "France", "Denmark"], ["Sugarcane", "Netherlands", "Denmark"], ["Sugarcane", "North_America", "Denmark"], ["Sugarcane", "United_States", "Denmark"], ["Sugarcane", "United_States_Virgin_Islands", "Denmark"]]

@@ -1,1 +1,0 @@
-[["Magnet", "Holmium", "Nuclear_fission"], ["Magnet", "Heat", "Nuclear_fission"]]

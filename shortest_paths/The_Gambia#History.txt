@@ -1,1 +1,0 @@
-[["The_Gambia", "English_language", "History"], ["The_Gambia", "Lebanon", "History"], ["The_Gambia", "Sub-Saharan_Africa", "History"], ["The_Gambia", "15th_century", "History"], ["The_Gambia", "City", "History"]]

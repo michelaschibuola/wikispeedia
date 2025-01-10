@@ -1,1 +1,0 @@
-[["Kigo", "Japan", "Akira_Kurosawa"], ["Kigo", "United_States", "Akira_Kurosawa"]]

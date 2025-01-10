@@ -1,1 +1,0 @@
-[["Market", "Human", "Arabic_language"], ["Market", "Nouakchott", "Arabic_language"]]

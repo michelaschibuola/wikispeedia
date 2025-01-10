@@ -1,1 +1,0 @@
-[["Alliterative_verse", "Denmark", "Donald_Duck"], ["Alliterative_verse", "Finland", "Donald_Duck"], ["Alliterative_verse", "Iceland", "Donald_Duck"]]

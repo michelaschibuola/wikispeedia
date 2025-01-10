@@ -1,1 +1,0 @@
-[["Latin", "Animal", "Nurse_sharks"], ["Latin", "Pacific_Ocean", "Nurse_sharks"], ["Latin", "Scientific_classification", "Nurse_sharks"]]

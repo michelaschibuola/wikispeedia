@@ -1,1 +1,0 @@
-[["James_Joyce", "Ireland", "Great_Auk"], ["James_Joyce", "Norway", "Great_Auk"]]

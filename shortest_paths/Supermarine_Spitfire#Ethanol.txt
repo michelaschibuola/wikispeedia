@@ -1,1 +1,0 @@
-[["Supermarine_Spitfire", "Canada", "Ethanol"], ["Supermarine_Spitfire", "France", "Ethanol"], ["Supermarine_Spitfire", "India", "Ethanol"], ["Supermarine_Spitfire", "United_Kingdom", "Ethanol"]]

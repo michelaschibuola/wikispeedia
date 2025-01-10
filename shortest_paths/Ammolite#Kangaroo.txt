@@ -1,1 +1,0 @@
-[["Ammolite", "Extinction", "Kangaroo"], ["Ammolite", "United_States", "Kangaroo"]]

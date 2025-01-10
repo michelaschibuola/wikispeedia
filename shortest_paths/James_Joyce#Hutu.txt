@@ -1,1 +1,0 @@
-[["James_Joyce", "Roman_Catholic_Church", "Hutu"], ["James_Joyce", "United_States", "Hutu"]]

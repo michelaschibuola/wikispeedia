@@ -1,1 +1,0 @@
-[["Ulysses_S._Grant", "Harry_S._Truman", "Benito_Mussolini"], ["Ulysses_S._Grant", "United_States", "Benito_Mussolini"], ["Ulysses_S._Grant", "World_War_II", "Benito_Mussolini"]]

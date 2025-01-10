@@ -1,1 +1,0 @@
-[["Electric_field", "Electricity", "Sweden", "Odin"], ["Electric_field", "Energy", "Iceland", "Odin"], ["Electric_field", "James_Clerk_Maxwell", "Creation-evolution_controversy", "Odin"], ["Electric_field", "Light", "God", "Odin"], ["Electric_field", "Nikola_Tesla", "War", "Odin"]]

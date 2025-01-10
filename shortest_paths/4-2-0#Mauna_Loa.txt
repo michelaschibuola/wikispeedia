@@ -1,1 +1,0 @@
-[["4-2-0", "United_States", "Carbon_dioxide", "Mauna_Loa"], ["4-2-0", "United_States", "Global_warming", "Mauna_Loa"], ["4-2-0", "United_States", "Sun", "Mauna_Loa"], ["4-2-0", "United_States", "Tsunami", "Mauna_Loa"], ["4-2-0", "United_States", "Volcano", "Mauna_Loa"]]

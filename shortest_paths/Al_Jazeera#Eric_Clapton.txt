@@ -1,1 +1,0 @@
-[["Al_Jazeera", "BBC", "Eric_Clapton"], ["Al_Jazeera", "London", "Eric_Clapton"], ["Al_Jazeera", "United_States", "Eric_Clapton"]]

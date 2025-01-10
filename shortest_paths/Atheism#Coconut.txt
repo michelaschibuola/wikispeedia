@@ -1,1 +1,0 @@
-[["Atheism", "India", "Coconut"], ["Atheism", "New_Zealand", "Coconut"]]

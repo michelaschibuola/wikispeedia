@@ -1,1 +1,0 @@
-[["Ostrich", "Fossil_record", "Triassic"], ["Ostrich", "Morocco", "Triassic"]]

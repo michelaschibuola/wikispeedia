@@ -1,1 +1,0 @@
-[["Tuna", "United_States", "Sesame_Street"]]

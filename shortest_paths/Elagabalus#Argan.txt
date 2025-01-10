@@ -1,1 +1,0 @@
-[["Elagabalus", "Arabic_language", "Morocco", "Argan"], ["Elagabalus", "Italy", "Morocco", "Argan"], ["Elagabalus", "Roman_Empire", "Morocco", "Argan"], ["Elagabalus", "Latin", "Binomial_nomenclature", "Argan"], ["Elagabalus", "Latin", "Flower", "Argan"], ["Elagabalus", "Latin", "Scientific_classification", "Argan"], ["Elagabalus", "Syria", "Fruit", "Argan"]]

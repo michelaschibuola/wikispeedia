@@ -1,1 +1,0 @@
-[["Electron", "Niels_Bohr", "Olympic_Games"], ["Electron", "Gold", "Olympic_Games"], ["Electron", "Silver", "Olympic_Games"], ["Electron", "United_Kingdom", "Olympic_Games"]]

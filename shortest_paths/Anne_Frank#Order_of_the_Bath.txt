@@ -1,1 +1,0 @@
-[["Anne_Frank", "United_Kingdom", "Order_of_the_Bath"], ["Anne_Frank", "World_War_II", "Order_of_the_Bath"], ["Anne_Frank", "Ronald_Reagan", "Order_of_the_Bath"]]

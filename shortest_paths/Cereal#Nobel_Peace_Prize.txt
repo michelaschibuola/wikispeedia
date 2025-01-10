@@ -1,1 +1,0 @@
-[["Cereal", "Canada", "Nobel_Peace_Prize"], ["Cereal", "United_Kingdom", "Nobel_Peace_Prize"], ["Cereal", "United_Nations", "Nobel_Peace_Prize"], ["Cereal", "Egypt", "Nobel_Peace_Prize"], ["Cereal", "Norman_Borlaug", "Nobel_Peace_Prize"]]

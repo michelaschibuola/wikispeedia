@@ -1,1 +1,0 @@
-[["Dog", "English_language", "Aesthetics"], ["Dog", "Germany", "Aesthetics"], ["Dog", "Zeus", "Aesthetics"]]

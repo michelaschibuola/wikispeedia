@@ -1,1 +1,0 @@
-[["Miles_Davis", "France", "Cologne"], ["Miles_Davis", "Japan", "Cologne"], ["Miles_Davis", "World_War_II", "Cologne"]]

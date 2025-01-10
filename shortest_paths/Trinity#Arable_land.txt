@@ -1,1 +1,0 @@
-[["Trinity", "Latin", "Arable_land"]]

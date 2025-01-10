@@ -1,1 +1,0 @@
-[["Eskimo", "Canada", "Latin_America"], ["Eskimo", "Russia", "Latin_America"]]

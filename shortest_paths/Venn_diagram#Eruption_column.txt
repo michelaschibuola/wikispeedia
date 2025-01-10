@@ -1,1 +1,0 @@
-[["Venn_diagram", "Sphere", "Gravitation", "Eruption_column"], ["Venn_diagram", "United_Kingdom", "Gravitation", "Eruption_column"], ["Venn_diagram", "Sphere", "Rain", "Eruption_column"], ["Venn_diagram", "United_Kingdom", "Rain", "Eruption_column"], ["Venn_diagram", "United_Kingdom", "Jakarta", "Eruption_column"]]

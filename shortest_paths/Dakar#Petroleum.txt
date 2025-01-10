@@ -1,1 +1,0 @@
-[["Dakar", "Atlantic_Ocean", "Petroleum"], ["Dakar", "Algeria", "Petroleum"], ["Dakar", "Marseille", "Petroleum"], ["Dakar", "South_Africa", "Petroleum"], ["Dakar", "United_States", "Petroleum"]]

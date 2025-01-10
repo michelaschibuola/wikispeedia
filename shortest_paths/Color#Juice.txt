@@ -1,1 +1,0 @@
-[["Color", "Fruit", "Juice"], ["Color", "Vegetable", "Juice"], ["Color", "Water", "Juice"]]

@@ -1,1 +1,0 @@
-[["Curium", "Marie_Curie", "Paris", "Thomas_Becket"], ["Curium", "Neutron", "Paris", "Thomas_Becket"], ["Curium", "University_of_Chicago", "Paris", "Thomas_Becket"], ["Curium", "University_of_Chicago", "London", "Thomas_Becket"], ["Curium", "University_of_Chicago", "T._S._Eliot", "Thomas_Becket"]]

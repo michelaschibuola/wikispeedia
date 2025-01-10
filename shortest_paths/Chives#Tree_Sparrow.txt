@@ -1,1 +1,0 @@
-[["Chives", "Asia", "Tree_Sparrow"], ["Chives", "Binomial_nomenclature", "Tree_Sparrow"], ["Chives", "Carolus_Linnaeus", "Tree_Sparrow"], ["Chives", "Europe", "Tree_Sparrow"], ["Chives", "Scientific_classification", "Tree_Sparrow"]]

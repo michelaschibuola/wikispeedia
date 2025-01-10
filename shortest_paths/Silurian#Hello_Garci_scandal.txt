@@ -1,1 +1,0 @@
-[["Silurian", "Melbourne", "Philippines", "Hello_Garci_scandal"], ["Silurian", "Natural_gas", "Philippines", "Hello_Garci_scandal"], ["Silurian", "Petroleum", "Philippines", "Hello_Garci_scandal"]]

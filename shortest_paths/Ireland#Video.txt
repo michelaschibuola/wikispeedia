@@ -1,1 +1,0 @@
-[["Ireland", "Acorn_Computers", "Video"], ["Ireland", "Australia", "Video"], ["Ireland", "Latin", "Video"], ["Ireland", "United_Kingdom", "Video"]]

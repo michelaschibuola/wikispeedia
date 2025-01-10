@@ -1,1 +1,0 @@
-[["Ray_of_Light", "Europe", "Palladian_architecture"], ["Ray_of_Light", "France", "Palladian_architecture"], ["Ray_of_Light", "North_America", "Palladian_architecture"], ["Ray_of_Light", "United_States", "Palladian_architecture"]]

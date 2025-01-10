@@ -1,1 +1,0 @@
-[["T._S._Eliot", "Robert_Oppenheimer", "Wernher_von_Braun"], ["T._S._Eliot", "England", "Wernher_von_Braun"], ["T._S._Eliot", "London", "Wernher_von_Braun"], ["T._S._Eliot", "Nazism", "Wernher_von_Braun"], ["T._S._Eliot", "United_States", "Wernher_von_Braun"], ["T._S._Eliot", "World_War_II", "Wernher_von_Braun"]]

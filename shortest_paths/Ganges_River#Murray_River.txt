@@ -1,1 +1,0 @@
-[["Ganges_River", "River", "Murray_River"], ["Ganges_River", "Indian_Ocean", "Murray_River"], ["Ganges_River", "List_of_rivers_by_length", "Murray_River"]]

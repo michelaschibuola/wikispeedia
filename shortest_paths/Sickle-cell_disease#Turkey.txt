@@ -1,1 +1,0 @@
-[["Sickle-cell_disease", "India", "Turkey"], ["Sickle-cell_disease", "Mediterranean_Sea", "Turkey"], ["Sickle-cell_disease", "Middle_East", "Turkey"], ["Sickle-cell_disease", "United_States", "Turkey"]]

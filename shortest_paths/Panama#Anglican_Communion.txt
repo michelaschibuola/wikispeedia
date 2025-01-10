@@ -1,1 +1,0 @@
-[["Panama", "British_Empire", "Anglican_Communion"], ["Panama", "Mozambique", "Anglican_Communion"]]

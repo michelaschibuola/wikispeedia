@@ -1,1 +1,0 @@
-[["Sputnik_2", "Earth", "Middle_Ages", "Allegory_in_the_Middle_Ages"], ["Sputnik_2", "Russian_language", "Middle_Ages", "Allegory_in_the_Middle_Ages"], ["Sputnik_2", "Russian_language", "Poetry", "Allegory_in_the_Middle_Ages"]]

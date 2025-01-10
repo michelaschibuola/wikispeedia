@@ -1,1 +1,0 @@
-[["Hellenistic_Greece", "Christianity", "Philippines"], ["Hellenistic_Greece", "Israel", "Philippines"], ["Hellenistic_Greece", "Rice", "Philippines"]]

@@ -1,1 +1,0 @@
-[["Guitar", "English_language", "Frankenstein"], ["Guitar", "Popular_culture", "Frankenstein"]]

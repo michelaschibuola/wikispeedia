@@ -1,1 +1,0 @@
-[["Persian_Gulf", "Alexander_the_Great", "Oxyrhynchus"], ["Persian_Gulf", "Egypt", "Oxyrhynchus"], ["Persian_Gulf", "Ottoman_Empire", "Oxyrhynchus"], ["Persian_Gulf", "World_War_I", "Oxyrhynchus"]]

@@ -1,1 +1,0 @@
-[["Jordan", "Law", "Equal_Protection_Clause"], ["Jordan", "United_States", "Equal_Protection_Clause"], ["Jordan", "World_War_II", "Equal_Protection_Clause"]]

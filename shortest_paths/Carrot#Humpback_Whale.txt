@@ -1,1 +1,0 @@
-[["Carrot", "Binomial_nomenclature", "Humpback_Whale"], ["Carrot", "New_Zealand", "Humpback_Whale"], ["Carrot", "Scientific_classification", "Humpback_Whale"]]

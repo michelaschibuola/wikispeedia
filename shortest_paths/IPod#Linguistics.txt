@@ -1,1 +1,0 @@
-[["IPod", "Cornell_University", "Linguistics"], ["IPod", "Euro", "Linguistics"]]

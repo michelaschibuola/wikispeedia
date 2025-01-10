@@ -1,1 +1,0 @@
-[["Skiing", "Canada", "Effects_of_global_warming"], ["Skiing", "New_Zealand", "Effects_of_global_warming"], ["Skiing", "Ice", "Effects_of_global_warming"], ["Skiing", "Russia", "Effects_of_global_warming"], ["Skiing", "United_States", "Effects_of_global_warming"]]

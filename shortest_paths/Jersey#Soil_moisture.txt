@@ -1,1 +1,0 @@
-[["Jersey", "Agriculture", "Soil_moisture"]]

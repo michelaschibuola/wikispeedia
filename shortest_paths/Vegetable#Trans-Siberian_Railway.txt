@@ -1,1 +1,0 @@
-[["Vegetable", "Beijing", "Trans-Siberian_Railway"], ["Vegetable", "Japan", "Trans-Siberian_Railway"], ["Vegetable", "Cereal", "Trans-Siberian_Railway"]]

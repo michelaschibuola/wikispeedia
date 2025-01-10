@@ -1,1 +1,0 @@
-[["Elephant_shrew", "Africa", "Amazon_River"]]

@@ -1,1 +1,0 @@
-[["Ice_age", "Great_Britain", "Ordination_of_women"], ["Ice_age", "Switzerland", "Ordination_of_women"]]

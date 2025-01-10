@@ -1,1 +1,0 @@
-[["Data_Encryption_Standard", "Group_%28mathematics%29", "Quantum_mechanics", "Isospin"], ["Data_Encryption_Standard", "Group_%28mathematics%29", "Symmetry", "Isospin"], ["Data_Encryption_Standard", "United_States", "Symmetry", "Isospin"]]

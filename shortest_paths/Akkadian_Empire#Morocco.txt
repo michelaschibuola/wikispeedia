@@ -1,1 +1,0 @@
-[["Akkadian_Empire", "Egypt", "Morocco"], ["Akkadian_Empire", "Europe", "Morocco"], ["Akkadian_Empire", "Mediterranean_Sea", "Morocco"], ["Akkadian_Empire", "Turkey", "Morocco"], ["Akkadian_Empire", "History_of_slavery", "Morocco"]]

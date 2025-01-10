@@ -1,1 +1,0 @@
-[["Ptolemy", "England", "Black_Death"], ["Ptolemy", "History_of_science", "Black_Death"], ["Ptolemy", "Italian_Renaissance", "Black_Death"], ["Ptolemy", "Medicine", "Black_Death"], ["Ptolemy", "China", "Black_Death"], ["Ptolemy", "Europe", "Black_Death"], ["Ptolemy", "France", "Black_Death"], ["Ptolemy", "India", "Black_Death"]]

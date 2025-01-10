@@ -1,1 +1,0 @@
-[["Milan", "Italy", "AIDS"], ["Milan", "France", "AIDS"], ["Milan", "Switzerland", "AIDS"]]

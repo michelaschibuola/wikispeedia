@@ -1,1 +1,0 @@
-[["Chinese_language", "16th_century", "Togo"], ["Chinese_language", "Africa", "Togo"], ["Chinese_language", "French_language", "Togo"], ["Chinese_language", "South_Korea", "Togo"], ["Chinese_language", "United_Nations", "Togo"], ["Chinese_language", "Esperanto", "Togo"], ["Chinese_language", "United_States", "Togo"]]

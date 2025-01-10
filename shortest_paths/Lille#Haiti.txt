@@ -1,1 +1,0 @@
-[["Lille", "France", "Haiti"], ["Lille", "French_Revolution", "Haiti"], ["Lille", "Germany", "Haiti"], ["Lille", "List_of_countries", "Haiti"], ["Lille", "Napoleon_I_of_France", "Haiti"], ["Lille", "Spain", "Haiti"], ["Lille", "United_States", "Haiti"], ["Lille", "Louis_XIV_of_France", "Haiti"]]

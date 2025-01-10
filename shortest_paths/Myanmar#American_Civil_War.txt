@@ -1,1 +1,0 @@
-[["Myanmar", "France", "American_Civil_War"], ["Myanmar", "Rice", "American_Civil_War"], ["Myanmar", "United_States", "American_Civil_War"]]

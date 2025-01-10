@@ -1,1 +1,0 @@
-[["Parrot", "Myanmar", "Military_dictatorship"], ["Parrot", "Spain", "Military_dictatorship"]]

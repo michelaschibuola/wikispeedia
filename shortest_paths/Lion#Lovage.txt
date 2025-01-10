@@ -1,1 +1,0 @@
-[["Lion", "Binomial_nomenclature", "Lovage"], ["Lion", "Carolus_Linnaeus", "Lovage"], ["Lion", "Scientific_classification", "Lovage"]]

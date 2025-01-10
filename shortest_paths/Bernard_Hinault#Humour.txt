@@ -1,1 +1,0 @@
-[["Bernard_Hinault", "France", "Cattle", "Humour"], ["Bernard_Hinault", "France", "Newspaper", "Humour"], ["Bernard_Hinault", "Tour_de_France", "Newspaper", "Humour"]]

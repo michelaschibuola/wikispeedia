@@ -1,1 +1,0 @@
-[["World_War_II", "Athens", "Socrates"], ["World_War_II", "Democracy", "Socrates"], ["World_War_II", "Existentialism", "Socrates"], ["World_War_II", "Greece", "Socrates"], ["World_War_II", "Philosophy", "Socrates"], ["World_War_II", "Political_philosophy", "Socrates"]]

@@ -1,1 +1,0 @@
-[["Saint_Helena", "Africa", "HIV"], ["Saint_Helena", "Cape_Town", "HIV"], ["Saint_Helena", "South_Africa", "HIV"], ["Saint_Helena", "Southern_Africa", "HIV"], ["Saint_Helena", "United_States", "HIV"], ["Saint_Helena", "Zambia", "HIV"]]

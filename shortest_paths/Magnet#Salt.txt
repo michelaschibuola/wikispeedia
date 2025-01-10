@@ -1,1 +1,0 @@
-[["Magnet", "Aluminium", "Salt"], ["Magnet", "Chemistry", "Salt"], ["Magnet", "Cobalt", "Salt"], ["Magnet", "Iron", "Salt"], ["Magnet", "Neodymium", "Salt"], ["Magnet", "Titanium", "Salt"]]

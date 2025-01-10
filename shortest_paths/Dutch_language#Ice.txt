@@ -1,1 +1,0 @@
-[["Dutch_language", "Australia", "Ice"], ["Dutch_language", "Canada", "Ice"], ["Dutch_language", "Middle_Ages", "Ice"], ["Dutch_language", "Earth", "Ice"]]

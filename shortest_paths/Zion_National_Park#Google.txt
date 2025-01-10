@@ -1,1 +1,0 @@
-[["Zion_National_Park", "California", "Google"], ["Zion_National_Park", "United_States", "Google"]]

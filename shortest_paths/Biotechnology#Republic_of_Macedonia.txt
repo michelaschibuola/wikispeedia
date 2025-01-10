@@ -1,1 +1,0 @@
-[["Biotechnology", "Europe", "Republic_of_Macedonia"], ["Biotechnology", "Finland", "Republic_of_Macedonia"], ["Biotechnology", "Iceland", "Republic_of_Macedonia"]]

@@ -1,1 +1,0 @@
-[["Day", "19th_century", "Cologne"], ["Day", "Europe", "Cologne"], ["Day", "Middle_Ages", "Cologne"], ["Day", "United_States", "Cologne"]]

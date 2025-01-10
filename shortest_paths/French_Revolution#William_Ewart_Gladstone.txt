@@ -1,1 +1,0 @@
-[["French_Revolution", "Edmund_Burke", "William_Ewart_Gladstone"], ["French_Revolution", "Egypt", "William_Ewart_Gladstone"], ["French_Revolution", "Roman_Catholic_Church", "William_Ewart_Gladstone"], ["French_Revolution", "List_of_Prime_Ministers_of_the_United_Kingdom", "William_Ewart_Gladstone"]]

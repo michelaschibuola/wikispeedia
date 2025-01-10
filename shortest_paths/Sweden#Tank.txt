@@ -1,1 +1,0 @@
-[["Sweden", "Bicycle", "Tank"], ["Sweden", "Bridge", "Tank"], ["Sweden", "Israel", "Tank"], ["Sweden", "Russia", "Tank"], ["Sweden", "Serbia", "Tank"], ["Sweden", "Forest", "Tank"], ["Sweden", "United_States", "Tank"], ["Sweden", "World_War_I", "Tank"], ["Sweden", "World_War_II", "Tank"], ["Sweden", "Winston_Churchill", "Tank"]]

@@ -1,1 +1,0 @@
-[["Electrical_engineering", "India", "15th_century"], ["Electrical_engineering", "Zimbabwe", "15th_century"], ["Electrical_engineering", "History_of_science", "15th_century"]]

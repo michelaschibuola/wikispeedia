@@ -1,1 +1,0 @@
-[["Mars", "China", "Money"], ["Mars", "Iron", "Money"], ["Mars", "Water", "Money"]]

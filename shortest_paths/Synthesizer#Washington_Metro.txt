@@ -1,1 +1,0 @@
-[["Synthesizer", "New_York_City", "Washington_Metro"]]

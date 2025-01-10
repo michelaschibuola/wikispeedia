@@ -1,1 +1,0 @@
-[["Manila", "France", "Physical_science"], ["Manila", "United_States", "Physical_science"]]

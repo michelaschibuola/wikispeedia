@@ -1,1 +1,0 @@
-[["Matrix_%28mathematics%29", "Game_theory", "War"], ["Matrix_%28mathematics%29", "History_of_science", "War"], ["Matrix_%28mathematics%29", "World_War_II", "War"]]

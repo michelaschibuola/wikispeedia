@@ -1,1 +1,0 @@
-[["Novel", "Ancient_Greece", "Lettuce"], ["Novel", "Chinese_language", "Lettuce"], ["Novel", "England", "Lettuce"], ["Novel", "Sumer", "Lettuce"]]

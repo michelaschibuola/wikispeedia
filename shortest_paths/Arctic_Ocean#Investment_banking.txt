@@ -1,1 +1,0 @@
-[["Arctic_Ocean", "United_Kingdom", "Investment_banking"], ["Arctic_Ocean", "United_States", "Investment_banking"]]

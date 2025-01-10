@@ -1,1 +1,0 @@
-[["AIDS", "Europe", "Jesus"], ["AIDS", "George_W._Bush", "Jesus"], ["AIDS", "Mother_Teresa", "Jesus"], ["AIDS", "Pope_Benedict_XVI", "Jesus"], ["AIDS", "Poverty", "Jesus"], ["AIDS", "Roman_Catholic_Church", "Jesus"]]

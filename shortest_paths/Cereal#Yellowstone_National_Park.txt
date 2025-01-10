@@ -1,1 +1,0 @@
-[["Cereal", "Europe", "Yellowstone_National_Park"], ["Cereal", "Human", "Yellowstone_National_Park"], ["Cereal", "North_America", "Yellowstone_National_Park"], ["Cereal", "United_Nations", "Yellowstone_National_Park"], ["Cereal", "United_States", "Yellowstone_National_Park"]]

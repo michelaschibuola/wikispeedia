@@ -1,1 +1,0 @@
-[["Weasel", "Animal", "Ascariasis"], ["Weasel", "Carolus_Linnaeus", "Ascariasis"], ["Weasel", "Scientific_classification", "Ascariasis"]]

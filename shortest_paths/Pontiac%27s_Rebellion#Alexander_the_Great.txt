@@ -1,1 +1,0 @@
-[["Pontiac%27s_Rebellion", "Europe", "Alexander_the_Great"], ["Pontiac%27s_Rebellion", "London", "Alexander_the_Great"], ["Pontiac%27s_Rebellion", "Siege", "Alexander_the_Great"]]

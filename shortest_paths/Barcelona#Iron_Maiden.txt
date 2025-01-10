@@ -1,1 +1,0 @@
-[["Barcelona", "Israel", "Iron_Maiden"], ["Barcelona", "Japan", "Iron_Maiden"], ["Barcelona", "United_States", "Iron_Maiden"], ["Barcelona", "Queen_%28band%29", "Iron_Maiden"]]

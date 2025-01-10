@@ -1,1 +1,0 @@
-[["Alphabet", "China", "Jesus"], ["Alphabet", "Egypt", "Jesus"], ["Alphabet", "English_language", "Jesus"], ["Alphabet", "Athanasius_Kircher", "Jesus"]]

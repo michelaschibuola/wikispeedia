@@ -1,1 +1,0 @@
-[["Cape_Horn", "Australia", "Iraq_War"], ["Cape_Horn", "Netherlands", "Iraq_War"], ["Cape_Horn", "New_Zealand", "Iraq_War"], ["Cape_Horn", "United_States", "Iraq_War"]]

@@ -1,1 +1,0 @@
-[["Herbivore", "Africa", "African_Penguin"], ["Herbivore", "Animal", "African_Penguin"]]

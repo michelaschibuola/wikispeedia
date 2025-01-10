@@ -1,1 +1,0 @@
-[["David_Copperfield_%28novel%29", "James_Joyce", "Greek_mythology", "Capitoline_Triad"], ["David_Copperfield_%28novel%29", "James_Joyce", "Rome", "Capitoline_Triad"], ["David_Copperfield_%28novel%29", "United_Kingdom", "Rome", "Capitoline_Triad"]]

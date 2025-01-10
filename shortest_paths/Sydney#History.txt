@@ -1,1 +1,0 @@
-[["Sydney", "Athens", "History"], ["Sydney", "City", "History"], ["Sydney", "Lebanon", "History"]]

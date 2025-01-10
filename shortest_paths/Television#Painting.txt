@@ -1,1 +1,0 @@
-[["Television", "20th_century", "Painting"], ["Television", "Clothing", "Painting"], ["Television", "Paul_McCartney", "Painting"], ["Television", "Color", "Painting"], ["Television", "France", "Painting"], ["Television", "Sound", "Painting"]]

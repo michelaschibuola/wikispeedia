@@ -1,1 +1,0 @@
-[["Able_Archer_83", "Margaret_Thatcher", "Yes_Minister"], ["Able_Archer_83", "United_Kingdom", "Yes_Minister"]]

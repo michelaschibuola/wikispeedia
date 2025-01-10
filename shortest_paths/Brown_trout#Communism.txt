@@ -1,1 +1,0 @@
-[["Brown_trout", "Asia", "Communism"], ["Brown_trout", "Europe", "Communism"], ["Brown_trout", "North_America", "Communism"], ["Brown_trout", "South_America", "Communism"]]

@@ -1,1 +1,0 @@
-[["Pyramid", "France", "German_reunification"], ["Pyramid", "United_States", "German_reunification"]]

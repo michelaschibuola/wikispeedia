@@ -1,1 +1,0 @@
-[["Wales", "British_English", "Australian_English"], ["Wales", "Dam", "Australian_English"], ["Wales", "England", "Australian_English"], ["Wales", "English_language", "Australian_English"], ["Wales", "Ireland", "Australian_English"], ["Wales", "Roman_Catholic_Church", "Australian_English"]]

@@ -1,1 +1,0 @@
-[["Dallas%2C_Texas", "Canada", "Chad"], ["Dallas%2C_Texas", "Christianity", "Chad"], ["Dallas%2C_Texas", "Cotton", "Chad"], ["Dallas%2C_Texas", "Petroleum", "Chad"], ["Dallas%2C_Texas", "Spain", "Chad"], ["Dallas%2C_Texas", "Time_zone", "Chad"], ["Dallas%2C_Texas", "World_War_II", "Chad"]]

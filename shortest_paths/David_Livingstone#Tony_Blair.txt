@@ -1,1 +1,0 @@
-[["David_Livingstone", "Christianity", "Tony_Blair"], ["David_Livingstone", "England", "Tony_Blair"], ["David_Livingstone", "London", "Tony_Blair"], ["David_Livingstone", "Scotland", "Tony_Blair"]]

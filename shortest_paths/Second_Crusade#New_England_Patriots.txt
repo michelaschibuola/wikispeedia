@@ -1,1 +1,0 @@
-[["Second_Crusade", "Europe", "American_football", "New_England_Patriots"], ["Second_Crusade", "Vienna", "American_football", "New_England_Patriots"], ["Second_Crusade", "Hungary", "Super_Bowl_XL", "New_England_Patriots"], ["Second_Crusade", "Spain", "Super_Bowl_XL", "New_England_Patriots"], ["Second_Crusade", "Spain", "American_Revolutionary_War", "New_England_Patriots"]]

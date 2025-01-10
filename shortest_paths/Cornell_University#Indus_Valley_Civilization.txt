@@ -1,1 +1,0 @@
-[["Cornell_University", "India", "Indus_Valley_Civilization"], ["Cornell_University", "Iran", "Indus_Valley_Civilization"], ["Cornell_University", "Middle_East", "Indus_Valley_Civilization"]]

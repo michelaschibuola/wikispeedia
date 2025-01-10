@@ -1,1 +1,0 @@
-[["Scent_of_a_Woman", "New_York_City", "Bill_Clinton"], ["Scent_of_a_Woman", "United_States", "Bill_Clinton"]]

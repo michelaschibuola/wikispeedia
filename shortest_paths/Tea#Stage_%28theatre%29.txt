@@ -1,1 +1,0 @@
-[["Tea", "Boston%2C_Massachusetts", "Stage_%28theatre%29"], ["Tea", "Europe", "Stage_%28theatre%29"]]

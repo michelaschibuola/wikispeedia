@@ -1,1 +1,0 @@
-[["Fencing", "18th_century", "James_Cook"], ["Fencing", "Europe", "James_Cook"]]

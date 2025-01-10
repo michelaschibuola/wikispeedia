@@ -1,1 +1,0 @@
-[["Sparrow", "Animal", "Alligator"], ["Sparrow", "Chordate", "Alligator"], ["Sparrow", "Scientific_classification", "Alligator"]]

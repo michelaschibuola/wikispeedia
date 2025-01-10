@@ -1,1 +1,0 @@
-[["Clothing", "Africa", "Louis_Armstrong"], ["Clothing", "Film", "Louis_Armstrong"], ["Clothing", "Russia", "Louis_Armstrong"], ["Clothing", "Television", "Louis_Armstrong"]]

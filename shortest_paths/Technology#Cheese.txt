@@ -1,1 +1,0 @@
-[["Technology", "Ancient_Rome", "Cheese"], ["Technology", "Middle_Ages", "Cheese"], ["Technology", "People%27s_Republic_of_China", "Cheese"], ["Technology", "Soybean", "Cheese"], ["Technology", "Belgium", "Cheese"], ["Technology", "Space_exploration", "Cheese"]]

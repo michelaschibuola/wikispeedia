@@ -1,1 +1,0 @@
-[["F-35_Lightning_II", "Australia", "Computer_and_video_games"], ["F-35_Lightning_II", "Canada", "Computer_and_video_games"], ["F-35_Lightning_II", "Italy", "Computer_and_video_games"], ["F-35_Lightning_II", "United_Kingdom", "Computer_and_video_games"], ["F-35_Lightning_II", "United_States", "Computer_and_video_games"]]

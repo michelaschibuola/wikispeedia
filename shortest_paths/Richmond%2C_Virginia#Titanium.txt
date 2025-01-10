@@ -1,1 +1,0 @@
-[["Richmond%2C_Virginia", "Coal", "Titanium"], ["Richmond%2C_Virginia", "England", "Titanium"], ["Richmond%2C_Virginia", "North_America", "Titanium"], ["Richmond%2C_Virginia", "SR-71_Blackbird", "Titanium"]]

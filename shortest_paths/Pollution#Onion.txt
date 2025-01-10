@@ -1,1 +1,0 @@
-[["Pollution", "India", "Onion"], ["Pollution", "United_States", "Onion"], ["Pollution", "Science", "Onion"]]

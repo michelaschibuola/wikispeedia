@@ -1,1 +1,0 @@
-[["Beet", "AIDS", "Malawi"], ["Beet", "Europe", "Malawi"], ["Beet", "South_Africa", "Malawi"], ["Beet", "Sugar", "Malawi"], ["Beet", "Sweden", "Malawi"], ["Beet", "United_States", "Malawi"]]

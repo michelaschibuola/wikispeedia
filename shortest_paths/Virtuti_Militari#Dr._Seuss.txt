@@ -1,1 +1,0 @@
-[["Virtuti_Militari", "United_States", "Dr._Seuss"], ["Virtuti_Militari", "World_War_II", "Dr._Seuss"]]

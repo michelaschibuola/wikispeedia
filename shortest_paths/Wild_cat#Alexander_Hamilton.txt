@@ -1,1 +1,0 @@
-[["Wild_cat", "Scotland", "Alexander_Hamilton"], ["Wild_cat", "Spain", "Alexander_Hamilton"]]

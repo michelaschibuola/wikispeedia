@@ -1,1 +1,0 @@
-[["Civil_rights", "Bob_Dylan", "Isle_of_Wight"], ["Civil_rights", "Europe", "Isle_of_Wight"]]

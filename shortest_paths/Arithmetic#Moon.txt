@@ -1,1 +1,0 @@
-[["Arithmetic", "Ancient_Greece", "Moon"], ["Arithmetic", "Archimedes", "Moon"], ["Arithmetic", "Astrology", "Moon"], ["Arithmetic", "Humanities", "Moon"]]

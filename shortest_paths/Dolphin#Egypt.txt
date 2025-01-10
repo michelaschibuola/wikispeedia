@@ -1,1 +1,0 @@
-[["Dolphin", "Argentina", "Egypt"], ["Dolphin", "Ancient_Greece", "Egypt"], ["Dolphin", "Ancient_Rome", "Egypt"], ["Dolphin", "United_Nations", "Egypt"], ["Dolphin", "United_States", "Egypt"], ["Dolphin", "Europe", "Egypt"]]

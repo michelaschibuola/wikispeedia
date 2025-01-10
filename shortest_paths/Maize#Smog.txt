@@ -1,1 +1,0 @@
-[["Maize", "Beijing", "Smog"], ["Maize", "Indonesia", "Smog"]]

@@ -1,1 +1,0 @@
-[["Computer", "Integrated_circuit", "Wave"], ["Computer", "Energy", "Wave"], ["Computer", "Physics", "Wave"], ["Computer", "Quantum_mechanics", "Wave"], ["Computer", "Trigonometric_function", "Wave"]]

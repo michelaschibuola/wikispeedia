@@ -1,1 +1,0 @@
-[["Kookaburra", "Animal", "Hyena"], ["Kookaburra", "Scientific_classification", "Hyena"]]

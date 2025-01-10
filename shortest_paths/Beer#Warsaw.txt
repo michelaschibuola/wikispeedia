@@ -1,1 +1,0 @@
-[["Beer", "10th_century", "Warsaw"], ["Beer", "14th_century", "Warsaw"], ["Beer", "Russia", "Warsaw"], ["Beer", "United_States", "Warsaw"], ["Beer", "Vienna", "Warsaw"], ["Beer", "Polish-Lithuanian_Commonwealth", "Warsaw"]]

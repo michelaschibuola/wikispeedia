@@ -1,1 +1,0 @@
-[["Doctor_Who", "Hong_Kong", "Socialism"], ["Doctor_Who", "Latin_America", "Socialism"], ["Doctor_Who", "Nazism", "Socialism"], ["Doctor_Who", "Sweden", "Socialism"]]

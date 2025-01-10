@@ -1,1 +1,0 @@
-[["Cholera", "London", "TGV"], ["Cholera", "Paris", "TGV"], ["Cholera", "Portugal", "TGV"]]

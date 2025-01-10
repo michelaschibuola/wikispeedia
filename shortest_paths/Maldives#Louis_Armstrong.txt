@@ -1,1 +1,0 @@
-[["Maldives", "Asia", "Louis_Armstrong"], ["Maldives", "Africa", "Louis_Armstrong"], ["Maldives", "United_Kingdom", "Louis_Armstrong"]]

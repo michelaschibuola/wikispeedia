@@ -1,1 +1,0 @@
-[["England", "Boston%2C_Massachusetts", "Measles"], ["England", "Edward_VI_of_England", "Measles"], ["England", "United_Kingdom", "Measles"], ["England", "Mexico", "Measles"], ["England", "Smallpox", "Measles"]]

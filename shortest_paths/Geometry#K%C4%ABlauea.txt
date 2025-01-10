@@ -1,1 +1,0 @@
-[["Geometry", "Glacier", "Volcano", "K%C4%ABlauea"], ["Geometry", "Glacier", "Mount_St._Helens", "K%C4%ABlauea"]]

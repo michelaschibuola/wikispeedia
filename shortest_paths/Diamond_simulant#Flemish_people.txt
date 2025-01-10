@@ -1,1 +1,0 @@
-[["Diamond_simulant", "France", "Flemish_people"], ["Diamond_simulant", "United_States", "Flemish_people"]]

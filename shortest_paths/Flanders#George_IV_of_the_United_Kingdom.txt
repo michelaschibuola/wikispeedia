@@ -1,1 +1,0 @@
-[["Flanders", "Industrial_Revolution", "George_IV_of_the_United_Kingdom"], ["Flanders", "Napoleon_I_of_France", "George_IV_of_the_United_Kingdom"]]

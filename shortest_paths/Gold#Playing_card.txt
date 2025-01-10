@@ -1,1 +1,0 @@
-[["Gold", "Charlemagne", "Playing_card"], ["Gold", "Egypt", "Playing_card"], ["Gold", "Latin", "Playing_card"], ["Gold", "Russia", "Playing_card"], ["Gold", "United_States", "Playing_card"]]

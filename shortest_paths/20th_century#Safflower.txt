@@ -1,1 +1,0 @@
-[["20th_century", "China", "Safflower"], ["20th_century", "United_States", "Safflower"], ["20th_century", "Binomial_nomenclature", "Safflower"]]

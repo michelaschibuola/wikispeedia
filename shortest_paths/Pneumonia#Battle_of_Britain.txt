@@ -1,1 +1,0 @@
-[["Pneumonia", "United_Kingdom", "Battle_of_Britain"], ["Pneumonia", "World_War_I", "Battle_of_Britain"]]

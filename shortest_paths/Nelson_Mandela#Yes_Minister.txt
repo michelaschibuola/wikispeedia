@@ -1,1 +1,0 @@
-[["Nelson_Mandela", "Margaret_Thatcher", "Yes_Minister"], ["Nelson_Mandela", "Canada", "Yes_Minister"], ["Nelson_Mandela", "Winston_Churchill", "Yes_Minister"]]

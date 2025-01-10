@@ -1,1 +1,0 @@
-[["Davis_Cup", "Boston%2C_Massachusetts", "Fishing"], ["Davis_Cup", "England", "Fishing"], ["Davis_Cup", "Melbourne", "Fishing"], ["Davis_Cup", "New_Zealand", "Fishing"], ["Davis_Cup", "Philippines", "Fishing"], ["Davis_Cup", "Sydney", "Fishing"], ["Davis_Cup", "United_States", "Fishing"]]

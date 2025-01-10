@@ -1,1 +1,0 @@
-[["Sociocultural_evolution", "Ancient_Rome", "Orca"], ["Sociocultural_evolution", "Europe", "Orca"], ["Sociocultural_evolution", "Human", "Orca"]]

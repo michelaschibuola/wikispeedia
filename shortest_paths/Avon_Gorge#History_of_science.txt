@@ -1,1 +1,0 @@
-[["Avon_Gorge", "Ice_age", "History_of_science"], ["Avon_Gorge", "Iron", "History_of_science"], ["Avon_Gorge", "Middle_Ages", "History_of_science"]]

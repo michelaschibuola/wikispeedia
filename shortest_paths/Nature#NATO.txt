@@ -1,1 +1,0 @@
-[["Nature", "Iran", "NATO"], ["Nature", "Australia", "NATO"]]

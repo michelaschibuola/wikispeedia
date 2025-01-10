@@ -1,1 +1,0 @@
-[["History_of_Puerto_Rico", "France", "Santa_Claus"], ["History_of_Puerto_Rico", "Italy", "Santa_Claus"], ["History_of_Puerto_Rico", "Netherlands", "Santa_Claus"], ["History_of_Puerto_Rico", "Portugal", "Santa_Claus"], ["History_of_Puerto_Rico", "Spain", "Santa_Claus"], ["History_of_Puerto_Rico", "United_States", "Santa_Claus"]]

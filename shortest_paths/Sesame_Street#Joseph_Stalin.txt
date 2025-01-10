@@ -1,1 +1,0 @@
-[["Sesame_Street", "Mexico", "Joseph_Stalin"], ["Sesame_Street", "Russia", "Joseph_Stalin"], ["Sesame_Street", "United_States", "Joseph_Stalin"]]

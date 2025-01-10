@@ -1,1 +1,0 @@
-[["Louis_Jordan", "United_States", "Berlin_Wall"], ["Louis_Jordan", "World_War_II", "Berlin_Wall"]]

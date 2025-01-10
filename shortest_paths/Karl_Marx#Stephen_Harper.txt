@@ -1,1 +1,0 @@
-[["Karl_Marx", "Economics", "Stephen_Harper"], ["Karl_Marx", "Afghanistan", "Stephen_Harper"], ["Karl_Marx", "Socialism", "Stephen_Harper"]]

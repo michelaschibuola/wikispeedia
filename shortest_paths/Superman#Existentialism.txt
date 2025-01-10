@@ -1,1 +1,0 @@
-[["Superman", "Friedrich_Nietzsche", "Existentialism"], ["Superman", "Germany", "Existentialism"], ["Superman", "World_War_II", "Existentialism"]]

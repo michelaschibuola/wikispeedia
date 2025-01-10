@@ -1,1 +1,0 @@
-[["Manufacturing", "Paris", "Electron_beam_welding"]]

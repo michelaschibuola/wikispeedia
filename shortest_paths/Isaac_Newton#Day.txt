@@ -1,1 +1,0 @@
-[["Isaac_Newton", "Astronomy", "Day"], ["Isaac_Newton", "Earth%27s_atmosphere", "Day"], ["Isaac_Newton", "Mathematics", "Day"], ["Isaac_Newton", "Nicolaus_Copernicus", "Day"], ["Isaac_Newton", "Planet", "Day"], ["Isaac_Newton", "Sun", "Day"], ["Isaac_Newton", "Tide", "Day"], ["Isaac_Newton", "Time", "Day"]]

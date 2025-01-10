@@ -1,1 +1,0 @@
-[["Tree_Sparrow", "Germany", "Carl_Friedrich_Gauss"], ["Tree_Sparrow", "United_States", "Carl_Friedrich_Gauss"]]

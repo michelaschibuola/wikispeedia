@@ -1,1 +1,0 @@
-[["Scouting", "Paul_McCartney", "Isaac_Asimov"], ["Scouting", "Russia", "Isaac_Asimov"], ["Scouting", "United_States", "Isaac_Asimov"], ["Scouting", "World_War_II", "Isaac_Asimov"]]

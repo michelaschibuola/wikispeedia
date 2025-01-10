@@ -1,1 +1,0 @@
-[["Blade_Runner", "London", "Anne_of_Great_Britain"], ["Blade_Runner", "North_America", "Anne_of_Great_Britain"]]

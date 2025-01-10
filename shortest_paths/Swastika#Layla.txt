@@ -1,1 +1,0 @@
-[["Swastika", "Islam", "Layla"], ["Swastika", "United_Kingdom", "Layla"], ["Swastika", "United_States", "Layla"]]

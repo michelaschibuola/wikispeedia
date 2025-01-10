@@ -1,1 +1,0 @@
-[["5th_century", "Augustine_of_Hippo", "God"], ["5th_century", "Bible", "God"], ["5th_century", "Buddhism", "God"], ["5th_century", "China", "God"], ["5th_century", "Anglicanism", "God"], ["5th_century", "Christianity", "God"], ["5th_century", "Light", "God"], ["5th_century", "Persian_Empire", "God"]]

@@ -1,1 +1,0 @@
-[["Ethanol", "Canada", "Mount_St._Helens"]]

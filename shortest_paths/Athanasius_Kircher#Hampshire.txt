@@ -1,1 +1,0 @@
-[["Athanasius_Kircher", "Geology", "Hampshire"], ["Athanasius_Kircher", "Horse", "Hampshire"], ["Athanasius_Kircher", "Pig", "Hampshire"]]

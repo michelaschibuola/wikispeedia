@@ -1,1 +1,0 @@
-[["Islam", "Astronomy", "Pluto"], ["Islam", "England", "Pluto"]]

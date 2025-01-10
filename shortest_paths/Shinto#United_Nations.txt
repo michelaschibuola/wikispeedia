@@ -1,1 +1,0 @@
-[["Shinto", "Asia", "United_Nations"], ["Shinto", "Confucianism", "United_Nations"], ["Shinto", "Japan", "United_Nations"], ["Shinto", "Korea", "United_Nations"], ["Shinto", "World_War_II", "United_Nations"], ["Shinto", "World_Heritage_Site", "United_Nations"]]

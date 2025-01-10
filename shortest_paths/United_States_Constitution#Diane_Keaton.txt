@@ -1,1 +1,0 @@
-[["United_States_Constitution", "New_York_City", "Diane_Keaton"], ["United_States_Constitution", "United_States", "Diane_Keaton"]]

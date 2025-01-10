@@ -1,1 +1,0 @@
-[["Lighting_designer", "Theatre", "Art", "Nature"], ["Lighting_designer", "Theatre", "Australia", "Nature"], ["Lighting_designer", "Theatre", "Literature", "Nature"], ["Lighting_designer", "Theatre", "Aristotle", "Nature"]]

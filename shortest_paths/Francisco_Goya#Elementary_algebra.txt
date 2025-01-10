@@ -1,1 +1,0 @@
-[["Francisco_Goya", "Spain", "Linear_algebra", "Elementary_algebra"]]

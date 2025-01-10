@@ -1,1 +1,0 @@
-[["Day", "Europe", "Automobile"], ["Day", "United_States", "Automobile"]]

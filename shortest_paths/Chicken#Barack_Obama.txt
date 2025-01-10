@@ -1,1 +1,0 @@
-[["Chicken", "Indonesia", "Barack_Obama"], ["Chicken", "Iran", "Barack_Obama"], ["Chicken", "United_Nations", "Barack_Obama"]]

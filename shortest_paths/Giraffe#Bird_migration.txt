@@ -1,1 +1,0 @@
-[["Giraffe", "Africa", "Bird_migration"]]

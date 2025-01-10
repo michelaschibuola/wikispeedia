@@ -1,1 +1,0 @@
-[["Ludwig_Wittgenstein", "Germany", "Eurovision_Song_Contest"], ["Ludwig_Wittgenstein", "Ireland", "Eurovision_Song_Contest"], ["Ludwig_Wittgenstein", "Italy", "Eurovision_Song_Contest"]]

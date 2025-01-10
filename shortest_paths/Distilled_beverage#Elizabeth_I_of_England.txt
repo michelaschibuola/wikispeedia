@@ -1,1 +1,0 @@
-[["Distilled_beverage", "Alchemy", "Elizabeth_I_of_England"], ["Distilled_beverage", "France", "Elizabeth_I_of_England"], ["Distilled_beverage", "United_States", "Elizabeth_I_of_England"]]

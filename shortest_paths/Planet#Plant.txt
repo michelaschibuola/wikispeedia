@@ -1,1 +1,0 @@
-[["Planet", "Biosphere", "Plant"], ["Planet", "Carbon", "Plant"], ["Planet", "Devonian", "Plant"], ["Planet", "Earth", "Plant"], ["Planet", "Nature", "Plant"], ["Planet", "Ocean", "Plant"], ["Planet", "Petroleum", "Plant"], ["Planet", "Life", "Plant"], ["Planet", "Nitrogen", "Plant"], ["Planet", "Oxygen", "Plant"], ["Planet", "Season", "Plant"]]

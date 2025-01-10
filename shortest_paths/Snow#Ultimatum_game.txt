@@ -1,1 +1,0 @@
-[["Snow", "United_States", "Ultimatum_game"]]

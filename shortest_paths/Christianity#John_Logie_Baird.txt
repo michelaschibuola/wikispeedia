@@ -1,1 +1,0 @@
-[["Christianity", "Diamond", "John_Logie_Baird"], ["Christianity", "England", "John_Logie_Baird"], ["Christianity", "London", "John_Logie_Baird"]]

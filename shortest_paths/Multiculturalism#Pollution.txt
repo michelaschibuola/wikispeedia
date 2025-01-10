@@ -1,1 +1,0 @@
-[["Multiculturalism", "Australia", "Pollution"], ["Multiculturalism", "Canada", "Pollution"], ["Multiculturalism", "Globalization", "Pollution"], ["Multiculturalism", "Liberalism", "Pollution"], ["Multiculturalism", "London", "Pollution"], ["Multiculturalism", "United_Kingdom", "Pollution"], ["Multiculturalism", "United_States", "Pollution"]]

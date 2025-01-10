@@ -1,1 +1,0 @@
-[["Bronze_Age", "Amber", "North_Sea"], ["Bronze_Age", "Denmark", "North_Sea"], ["Bronze_Age", "Germany", "North_Sea"], ["Bronze_Age", "Great_Britain", "North_Sea"], ["Bronze_Age", "Norway", "North_Sea"], ["Bronze_Age", "Sweden", "North_Sea"], ["Bronze_Age", "England", "North_Sea"], ["Bronze_Age", "Sutton_Hoo", "North_Sea"]]

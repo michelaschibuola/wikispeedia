@@ -1,1 +1,0 @@
-[["Island_Fox", "Pig", "Shenzhou_6", "Shenzhou_spacecraft"], ["Island_Fox", "United_States", "Shenzhou_6", "Shenzhou_spacecraft"], ["Island_Fox", "United_States", "International_Space_Station", "Shenzhou_spacecraft"], ["Island_Fox", "United_States", "People%27s_Republic_of_China", "Shenzhou_spacecraft"], ["Island_Fox", "United_States", "Chinese_language", "Shenzhou_spacecraft"]]

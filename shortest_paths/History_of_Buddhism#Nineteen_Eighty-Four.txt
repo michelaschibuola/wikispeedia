@@ -1,1 +1,0 @@
-[["History_of_Buddhism", "China", "Nineteen_Eighty-Four"], ["History_of_Buddhism", "India", "Nineteen_Eighty-Four"], ["History_of_Buddhism", "Japan", "Nineteen_Eighty-Four"], ["History_of_Buddhism", "Korea", "Nineteen_Eighty-Four"]]

@@ -1,1 +1,0 @@
-[["War", "21st_century", "Mercury_%28planet%29"], ["War", "Ancient_Rome", "Mercury_%28planet%29"], ["War", "Helium", "Mercury_%28planet%29"], ["War", "Mesopotamia", "Mercury_%28planet%29"], ["War", "Ancient_Greece", "Mercury_%28planet%29"]]

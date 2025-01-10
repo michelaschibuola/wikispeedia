@@ -1,1 +1,0 @@
-[["Coal", "Armenia", "Medieval_literature"], ["Coal", "Germany", "Medieval_literature"], ["Coal", "Wales", "Medieval_literature"]]

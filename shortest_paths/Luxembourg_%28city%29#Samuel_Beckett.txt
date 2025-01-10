@@ -1,1 +1,0 @@
-[["Luxembourg_%28city%29", "France", "Samuel_Beckett"], ["Luxembourg_%28city%29", "Nazi_Germany", "Samuel_Beckett"], ["Luxembourg_%28city%29", "Paris", "Samuel_Beckett"]]

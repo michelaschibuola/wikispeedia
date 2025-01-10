@@ -1,1 +1,0 @@
-[["Time_zone", "Germany", "Looney_Tunes"], ["Time_zone", "Mexico", "Looney_Tunes"], ["Time_zone", "South_Korea", "Looney_Tunes"], ["Time_zone", "United_Kingdom", "Looney_Tunes"], ["Time_zone", "World_War_II", "Looney_Tunes"]]

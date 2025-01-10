@@ -1,1 +1,0 @@
-[["Luxembourg_%28city%29", "Europe", "Saudi_Arabia"], ["Luxembourg_%28city%29", "Luxembourg", "Saudi_Arabia"], ["Luxembourg_%28city%29", "Paris", "Saudi_Arabia"], ["Luxembourg_%28city%29", "Spain", "Saudi_Arabia"], ["Luxembourg_%28city%29", "United_Kingdom", "Saudi_Arabia"]]

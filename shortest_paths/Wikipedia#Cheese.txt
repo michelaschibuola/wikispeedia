@@ -1,1 +1,0 @@
-[["Wikipedia", "Austria", "Cheese"], ["Wikipedia", "Dutch_language", "Cheese"], ["Wikipedia", "English_language", "Cheese"], ["Wikipedia", "United_States_dollar", "Cheese"]]

@@ -1,1 +1,0 @@
-[["Volleyball", "Bulgaria", "Ghana"], ["Volleyball", "Sierra_Leone", "Ghana"], ["Volleyball", "Serbia", "Ghana"], ["Volleyball", "United_States", "Ghana"]]

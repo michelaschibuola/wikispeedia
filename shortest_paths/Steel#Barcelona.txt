@@ -1,1 +1,0 @@
-[["Steel", "Argentina", "Barcelona"], ["Steel", "Brazil", "Barcelona"], ["Steel", "Glasgow", "Barcelona"], ["Steel", "Japan", "Barcelona"], ["Steel", "Mercury_%28element%29", "Barcelona"], ["Steel", "Poland", "Barcelona"], ["Steel", "Republic_of_Ireland", "Barcelona"], ["Steel", "South_Korea", "Barcelona"], ["Steel", "United_States", "Barcelona"]]

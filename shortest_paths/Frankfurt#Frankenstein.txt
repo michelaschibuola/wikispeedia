@@ -1,1 +1,0 @@
-[["Frankfurt", "English_language", "Frankenstein"], ["Frankfurt", "Franks", "Frankenstein"], ["Frankfurt", "Germany", "Frankenstein"], ["Frankfurt", "London", "Frankenstein"]]

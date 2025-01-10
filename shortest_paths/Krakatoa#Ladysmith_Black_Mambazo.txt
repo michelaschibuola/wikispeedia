@@ -1,1 +1,0 @@
-[["Krakatoa", "South_Africa", "Ladysmith_Black_Mambazo"], ["Krakatoa", "United_Kingdom", "Ladysmith_Black_Mambazo"]]

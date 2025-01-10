@@ -1,1 +1,0 @@
-[["Thomas_More", "Bible", "Amish"], ["Thomas_More", "Europe", "Amish"], ["Thomas_More", "Roman_Catholic_Church", "Amish"]]

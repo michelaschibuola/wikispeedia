@@ -1,1 +1,0 @@
-[["Super_Chief", "Los_Angeles%2C_California", "Africa", "Gaborone"], ["Super_Chief", "Postage_stamp", "South_Africa", "Gaborone"], ["Super_Chief", "Ronald_Reagan", "South_Africa", "Gaborone"], ["Super_Chief", "Train", "South_Africa", "Gaborone"], ["Super_Chief", "Washington%2C_D.C.", "South_Africa", "Gaborone"], ["Super_Chief", "Washington%2C_D.C.", "Capital", "Gaborone"]]

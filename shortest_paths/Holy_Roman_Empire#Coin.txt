@@ -1,1 +1,0 @@
-[["Holy_Roman_Empire", "History_of_Anglo-Saxon_England", "Coin"], ["Holy_Roman_Empire", "Money", "Coin"], ["Holy_Roman_Empire", "Polish-Lithuanian_Commonwealth", "Coin"], ["Holy_Roman_Empire", "United_States", "Coin"]]

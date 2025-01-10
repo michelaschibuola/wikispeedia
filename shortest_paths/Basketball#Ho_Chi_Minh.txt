@@ -1,1 +1,0 @@
-[["Basketball", "France", "Ho_Chi_Minh"], ["Basketball", "United_States", "Ho_Chi_Minh"], ["Basketball", "China", "Ho_Chi_Minh"], ["Basketball", "People%27s_Republic_of_China", "Ho_Chi_Minh"]]

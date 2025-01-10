@@ -1,1 +1,0 @@
-[["Vietnam", "Jupiter", "Extraterrestrial_life"], ["Vietnam", "Mars", "Extraterrestrial_life"], ["Vietnam", "Sanskrit", "Extraterrestrial_life"], ["Vietnam", "Venus", "Extraterrestrial_life"], ["Vietnam", "Christianity", "Extraterrestrial_life"], ["Vietnam", "Islam", "Extraterrestrial_life"], ["Vietnam", "Water", "Extraterrestrial_life"]]

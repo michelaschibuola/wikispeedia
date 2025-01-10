@@ -1,1 +1,0 @@
-[["Bogot%C3%A1", "Andes", "Malaria"], ["Bogot%C3%A1", "South_America", "Malaria"]]

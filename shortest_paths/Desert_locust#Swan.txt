@@ -1,1 +1,0 @@
-[["Desert_locust", "Animal", "Swan"], ["Desert_locust", "Asia", "Swan"], ["Desert_locust", "India", "Swan"], ["Desert_locust", "Russia", "Swan"], ["Desert_locust", "Scientific_classification", "Swan"]]

@@ -1,1 +1,0 @@
-[["Guatemala", "Bill_Clinton", "The_Simpsons"], ["Guatemala", "North_America", "The_Simpsons"], ["Guatemala", "United_Kingdom", "The_Simpsons"], ["Guatemala", "United_Nations", "The_Simpsons"], ["Guatemala", "United_States", "The_Simpsons"], ["Guatemala", "Latin_America", "The_Simpsons"], ["Guatemala", "Natalie_Portman", "The_Simpsons"]]

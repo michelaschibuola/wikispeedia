@@ -1,1 +1,0 @@
-[["Climate_change", "Earth", "Tide"], ["Climate_change", "Earth%27s_atmosphere", "Tide"], ["Climate_change", "Ocean", "Tide"], ["Climate_change", "Sun", "Tide"], ["Climate_change", "North_Sea_flood_of_1953", "Tide"], ["Climate_change", "Venus", "Tide"]]

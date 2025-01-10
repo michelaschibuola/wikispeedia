@@ -1,1 +1,0 @@
-[["The_Legend_of_Zelda_series", "Nintendo", "China", "Oviraptor"], ["The_Legend_of_Zelda_series", "Comics", "China", "Oviraptor"], ["The_Legend_of_Zelda_series", "Japan", "China", "Oviraptor"], ["The_Legend_of_Zelda_series", "Japan", "Mongolia", "Oviraptor"], ["The_Legend_of_Zelda_series", "Norse_mythology", "Latin", "Oviraptor"]]

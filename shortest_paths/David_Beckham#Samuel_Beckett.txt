@@ -1,1 +1,0 @@
-[["David_Beckham", "France", "Samuel_Beckett"], ["David_Beckham", "Republic_of_Ireland", "Samuel_Beckett"]]

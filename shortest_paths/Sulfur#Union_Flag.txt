@@ -1,1 +1,0 @@
-[["Sulfur", "Australia", "Union_Flag"], ["Sulfur", "Canada", "Union_Flag"], ["Sulfur", "China", "Union_Flag"], ["Sulfur", "Ireland", "Union_Flag"], ["Sulfur", "New_Zealand", "Union_Flag"], ["Sulfur", "United_Kingdom", "Union_Flag"], ["Sulfur", "United_States", "Union_Flag"]]

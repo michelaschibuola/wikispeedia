@@ -1,1 +1,0 @@
-[["Metamorphic_rock", "Gold", "Rhodium"], ["Metamorphic_rock", "Mineral", "Rhodium"]]

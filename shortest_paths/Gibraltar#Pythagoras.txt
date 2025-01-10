@@ -1,1 +1,0 @@
-[["Gibraltar", "Greece", "Pythagoras"], ["Gibraltar", "Jew", "Pythagoras"]]

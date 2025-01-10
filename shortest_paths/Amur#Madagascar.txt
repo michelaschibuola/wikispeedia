@@ -1,1 +1,0 @@
-[["Amur", "China", "Madagascar"], ["Amur", "Desert", "Madagascar"], ["Amur", "Russia", "Madagascar"]]

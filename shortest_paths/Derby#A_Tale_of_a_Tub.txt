@@ -1,1 +1,0 @@
-[["Derby", "Industrial_Revolution", "A_Tale_of_a_Tub"], ["Derby", "Religious_Society_of_Friends", "A_Tale_of_a_Tub"]]

@@ -1,1 +1,0 @@
-[["Varanasi", "Mango", "Scientific_classification", "Puffin"], ["Varanasi", "Sumer", "Animal", "Puffin"], ["Varanasi", "Time_zone", "Faroe_Islands", "Puffin"], ["Varanasi", "Time_zone", "Svalbard", "Puffin"], ["Varanasi", "Winter", "Surtsey", "Puffin"], ["Varanasi", "Winter", "Bird", "Puffin"]]

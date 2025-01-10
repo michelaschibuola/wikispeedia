@@ -1,1 +1,0 @@
-[["Book", "Internet", "Optical_fiber"], ["Book", "Mass_media", "Optical_fiber"]]

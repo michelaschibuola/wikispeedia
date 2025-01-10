@@ -1,1 +1,0 @@
-[["Philippines", "Christianity", "Husein_Grada%C5%A1%C4%8Devi%C4%87"], ["Philippines", "Communism", "Husein_Grada%C5%A1%C4%8Devi%C4%87"], ["Philippines", "Roman_Catholic_Church", "Husein_Grada%C5%A1%C4%8Devi%C4%87"], ["Philippines", "World_War_II", "Husein_Grada%C5%A1%C4%8Devi%C4%87"]]

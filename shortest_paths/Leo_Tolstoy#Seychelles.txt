@@ -1,1 +1,0 @@
-[["Leo_Tolstoy", "English_language", "Seychelles"], ["Leo_Tolstoy", "India", "Seychelles"]]

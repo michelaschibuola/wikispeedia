@@ -1,1 +1,0 @@
-[["Right_whale", "California", "Warren_G._Harding"], ["Right_whale", "Japan", "Warren_G._Harding"]]

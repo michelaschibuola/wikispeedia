@@ -1,1 +1,0 @@
-[["Woodrow_Wilson", "Armenia", "Giant%27s_Causeway"], ["Woodrow_Wilson", "Mexico", "Giant%27s_Causeway"], ["Woodrow_Wilson", "Northern_Ireland", "Giant%27s_Causeway"]]

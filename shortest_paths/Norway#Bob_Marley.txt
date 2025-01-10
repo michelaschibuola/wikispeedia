@@ -1,1 +1,0 @@
-[["Norway", "England", "Bob_Marley"], ["Norway", "Germany", "Bob_Marley"], ["Norway", "London", "Bob_Marley"], ["Norway", "United_Nations", "Bob_Marley"], ["Norway", "Royal_Marines", "Bob_Marley"]]

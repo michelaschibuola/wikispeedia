@@ -1,1 +1,0 @@
-[["Dixie_Mission", "China", "Pacific_Ocean"], ["Dixie_Mission", "People%27s_Republic_of_China", "Pacific_Ocean"], ["Dixie_Mission", "United_States", "Pacific_Ocean"], ["Dixie_Mission", "World_War_II", "Pacific_Ocean"]]

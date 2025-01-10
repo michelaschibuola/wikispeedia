@@ -1,1 +1,0 @@
-[["Bolivia", "United_States", "Pac-Man"]]

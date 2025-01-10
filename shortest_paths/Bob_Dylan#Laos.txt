@@ -1,1 +1,0 @@
-[["Bob_Dylan", "Folk_music", "Laos"], ["Bob_Dylan", "John_F._Kennedy", "Laos"], ["Bob_Dylan", "Musical_instrument", "Laos"]]

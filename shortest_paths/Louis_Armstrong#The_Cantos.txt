@@ -1,1 +1,0 @@
-[["Louis_Armstrong", "Africa", "The_Cantos"], ["Louis_Armstrong", "Jew", "The_Cantos"], ["Louis_Armstrong", "United_States", "The_Cantos"]]

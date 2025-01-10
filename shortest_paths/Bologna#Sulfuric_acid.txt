@@ -1,1 +1,0 @@
-[["Bologna", "United_States", "Sulfuric_acid"]]

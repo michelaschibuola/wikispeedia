@@ -1,1 +1,0 @@
-[["Meat", "Animal", "Sperm_Whale"], ["Meat", "Brain", "Sperm_Whale"], ["Meat", "Mammal", "Sperm_Whale"]]

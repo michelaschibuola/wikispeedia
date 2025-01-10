@@ -1,1 +1,0 @@
-[["Imagism", "France", "Edward_IV_of_England"], ["Imagism", "London", "Edward_IV_of_England"]]

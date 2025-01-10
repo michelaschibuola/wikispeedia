@@ -1,1 +1,0 @@
-[["List_of_elements_by_name", "Arsenic", "Lothal"], ["List_of_elements_by_name", "Copper", "Lothal"]]

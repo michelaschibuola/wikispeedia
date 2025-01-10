@@ -1,1 +1,0 @@
-[["Sigmund_Freud", "English_language", "Aluminium"], ["Sigmund_Freud", "Oxygen", "Aluminium"]]

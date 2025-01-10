@@ -1,1 +1,0 @@
-[["Gustavus_Franklin_Swift", "American_Civil_War", "University_of_Texas_at_Austin"], ["Gustavus_Franklin_Swift", "United_States", "University_of_Texas_at_Austin"]]

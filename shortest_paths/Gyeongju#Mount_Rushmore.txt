@@ -1,1 +1,0 @@
-[["Gyeongju", "Canada", "Mount_Rushmore"], ["Gyeongju", "United_States", "Mount_Rushmore"]]

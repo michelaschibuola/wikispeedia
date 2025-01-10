@@ -1,1 +1,0 @@
-[["Pterosaur", "Animal", "Whooping_Crane"], ["Pterosaur", "Chordate", "Whooping_Crane"], ["Pterosaur", "Scientific_classification", "Whooping_Crane"]]

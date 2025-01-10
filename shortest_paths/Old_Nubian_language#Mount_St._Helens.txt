@@ -1,1 +1,0 @@
-[["Old_Nubian_language", "Christianity", "Canada", "Mount_St._Helens"], ["Old_Nubian_language", "Christianity", "Jimmy_Carter", "Mount_St._Helens"], ["Old_Nubian_language", "Christianity", "Oregon", "Mount_St._Helens"]]

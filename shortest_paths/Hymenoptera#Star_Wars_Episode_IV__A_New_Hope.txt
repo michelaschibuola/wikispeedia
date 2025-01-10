@@ -1,1 +1,0 @@
-[["Hymenoptera", "Cochineal", "20th_century", "Star_Wars_Episode_IV__A_New_Hope"], ["Hymenoptera", "Cochineal", "Japan", "Star_Wars_Episode_IV__A_New_Hope"], ["Hymenoptera", "Carolus_Linnaeus", "Japan", "Star_Wars_Episode_IV__A_New_Hope"]]

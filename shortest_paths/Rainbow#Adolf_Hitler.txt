@@ -1,1 +1,0 @@
-[["Rainbow", "Gold", "Adolf_Hitler"], ["Rainbow", "Italy", "Adolf_Hitler"]]

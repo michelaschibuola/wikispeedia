@@ -1,1 +1,0 @@
-[["Tropical_cyclone", "Atlantic_Ocean", "Monrovia"], ["Tropical_cyclone", "Africa", "Monrovia"], ["Tropical_cyclone", "Taiwan", "Monrovia"], ["Tropical_cyclone", "United_States", "Monrovia"]]

@@ -1,1 +1,0 @@
-[["Mummy", "Denmark", "Wolfgang_Amadeus_Mozart"], ["Mummy", "Germany", "Wolfgang_Amadeus_Mozart"], ["Mummy", "London", "Wolfgang_Amadeus_Mozart"]]

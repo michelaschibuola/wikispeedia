@@ -1,1 +1,0 @@
-[["Red_Panda", "Animal", "Owl"], ["Red_Panda", "Fossil", "Owl"], ["Red_Panda", "Mammal", "Owl"], ["Red_Panda", "Miocene", "Owl"], ["Red_Panda", "Scientific_classification", "Owl"]]

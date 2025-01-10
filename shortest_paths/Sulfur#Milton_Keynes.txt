@@ -1,1 +1,0 @@
-[["Sulfur", "12th_century", "Milton_Keynes"], ["Sulfur", "United_Kingdom", "Milton_Keynes"], ["Sulfur", "United_States", "Milton_Keynes"]]

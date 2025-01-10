@@ -1,1 +1,0 @@
-[["Russian_language", "England", "New_Forest"], ["Russian_language", "European_Union", "New_Forest"], ["Russian_language", "United_Kingdom", "New_Forest"]]

@@ -1,1 +1,0 @@
-[["Newspaper", "Europe", "R%C3%A9union"], ["Newspaper", "European_Union", "R%C3%A9union"], ["Newspaper", "France", "R%C3%A9union"], ["Newspaper", "India", "R%C3%A9union"], ["Newspaper", "Portugal", "R%C3%A9union"], ["Newspaper", "United_Kingdom", "R%C3%A9union"]]

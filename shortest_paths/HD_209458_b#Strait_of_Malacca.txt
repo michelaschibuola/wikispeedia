@@ -1,1 +1,0 @@
-[["HD_209458_b", "Carbon", "Africa", "Strait_of_Malacca"], ["HD_209458_b", "Carbon", "India", "Strait_of_Malacca"], ["HD_209458_b", "Jupiter", "China", "Strait_of_Malacca"], ["HD_209458_b", "Sun", "Asia", "Strait_of_Malacca"], ["HD_209458_b", "Sun", "Egypt", "Strait_of_Malacca"]]

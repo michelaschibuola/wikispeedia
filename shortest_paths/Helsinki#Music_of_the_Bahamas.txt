@@ -1,1 +1,0 @@
-[["Helsinki", "Europe", "Music_of_the_Bahamas"], ["Helsinki", "20th_century", "Music_of_the_Bahamas"], ["Helsinki", "North_America", "Music_of_the_Bahamas"]]

@@ -1,1 +1,0 @@
-[["Sistine_Chapel_ceiling", "Bible", "Mosque"], ["Sistine_Chapel_ceiling", "God", "Mosque"], ["Sistine_Chapel_ceiling", "Pope_John_Paul_II", "Mosque"]]

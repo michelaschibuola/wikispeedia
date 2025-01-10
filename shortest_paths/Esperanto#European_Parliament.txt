@@ -1,1 +1,0 @@
-[["Esperanto", "Bulgaria", "European_Parliament"], ["Esperanto", "Finland", "European_Parliament"], ["Esperanto", "France", "European_Parliament"], ["Esperanto", "Hungary", "European_Parliament"], ["Esperanto", "Pope_John_Paul_II", "European_Parliament"]]

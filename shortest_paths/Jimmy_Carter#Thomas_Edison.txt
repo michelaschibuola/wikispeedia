@@ -1,1 +1,0 @@
-[["Jimmy_Carter", "Germany", "Thomas_Edison"], ["Jimmy_Carter", "Herbert_Hoover", "Thomas_Edison"], ["Jimmy_Carter", "United_Kingdom", "Thomas_Edison"], ["Jimmy_Carter", "World_War_II", "Thomas_Edison"]]

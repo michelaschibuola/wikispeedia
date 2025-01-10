@@ -1,1 +1,0 @@
-[["Aircraft", "Helium", "Moon"], ["Aircraft", "Hydrogen", "Moon"], ["Aircraft", "Russia", "Moon"], ["Aircraft", "Aluminium", "Moon"], ["Aircraft", "Molybdenum", "Moon"], ["Aircraft", "Nikola_Tesla", "Moon"], ["Aircraft", "Nuclear_weapon", "Moon"], ["Aircraft", "Titanium", "Moon"]]

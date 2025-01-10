@@ -1,1 +1,0 @@
-[["Otter", "California", "Earthquake"], ["Otter", "United_Kingdom", "Earthquake"]]

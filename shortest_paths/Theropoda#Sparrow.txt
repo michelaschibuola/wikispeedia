@@ -1,1 +1,0 @@
-[["Theropoda", "Bird", "Sparrow"], ["Theropoda", "Africa", "Sparrow"], ["Theropoda", "Animal", "Sparrow"], ["Theropoda", "Chordate", "Sparrow"], ["Theropoda", "North_America", "Sparrow"], ["Theropoda", "Scientific_classification", "Sparrow"], ["Theropoda", "South_America", "Sparrow"]]

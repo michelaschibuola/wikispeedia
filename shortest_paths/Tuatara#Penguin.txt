@@ -1,1 +1,0 @@
-[["Tuatara", "New_Zealand", "Penguin"], ["Tuatara", "Animal", "Penguin"], ["Tuatara", "Bird", "Penguin"], ["Tuatara", "Chordate", "Penguin"], ["Tuatara", "Scientific_classification", "Penguin"]]

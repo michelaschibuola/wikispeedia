@@ -1,1 +1,0 @@
-[["Mona_Lisa", "France", "Bridge"], ["Mona_Lisa", "London", "Bridge"], ["Mona_Lisa", "New_York_City", "Bridge"], ["Mona_Lisa", "United_States", "Bridge"]]

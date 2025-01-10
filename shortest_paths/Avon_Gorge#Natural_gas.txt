@@ -1,1 +1,0 @@
-[["Avon_Gorge", "River", "Natural_gas"]]

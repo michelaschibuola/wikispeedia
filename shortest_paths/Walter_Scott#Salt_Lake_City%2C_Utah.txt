@@ -1,1 +1,0 @@
-[["Walter_Scott", "American_Civil_War", "Salt_Lake_City%2C_Utah"], ["Walter_Scott", "Jew", "Salt_Lake_City%2C_Utah"], ["Walter_Scott", "Mark_Twain", "Salt_Lake_City%2C_Utah"]]

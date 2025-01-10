@@ -1,1 +1,0 @@
-[["Investment_banking", "United_Kingdom", "Somalia"], ["Investment_banking", "United_States", "Somalia"]]

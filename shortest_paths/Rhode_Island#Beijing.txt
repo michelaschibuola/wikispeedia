@@ -1,1 +1,0 @@
-[["Rhode_Island", "Capital", "Beijing"], ["Rhode_Island", "United_States", "Beijing"], ["Rhode_Island", "Washington%2C_D.C.", "Beijing"]]

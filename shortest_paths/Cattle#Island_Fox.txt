@@ -1,1 +1,0 @@
-[["Cattle", "Animal", "Island_Fox"], ["Cattle", "Binomial_nomenclature", "Island_Fox"], ["Cattle", "Chordate", "Island_Fox"], ["Cattle", "Mammal", "Island_Fox"], ["Cattle", "Scientific_classification", "Island_Fox"]]

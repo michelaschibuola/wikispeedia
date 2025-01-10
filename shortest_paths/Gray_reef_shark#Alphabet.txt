@@ -1,1 +1,0 @@
-[["Gray_reef_shark", "Animal", "Athanasius_Kircher", "Alphabet"], ["Gray_reef_shark", "Animal", "Sumer", "Alphabet"], ["Gray_reef_shark", "Animal", "Tamil_language", "Alphabet"], ["Gray_reef_shark", "Easter_Island", "Sociocultural_evolution", "Alphabet"], ["Gray_reef_shark", "Red_Sea", "Ancient_Egypt", "Alphabet"], ["Gray_reef_shark", "Red_Sea", "Egypt", "Alphabet"]]

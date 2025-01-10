@@ -1,1 +1,0 @@
-[["Palace_of_Westminster", "Germany", "Greenland"], ["Palace_of_Westminster", "World_War_II", "Greenland"]]

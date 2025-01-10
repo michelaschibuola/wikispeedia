@@ -1,1 +1,0 @@
-[["Bee", "Animal", "Ankylosaurus"], ["Bee", "Scientific_classification", "Ankylosaurus"], ["Bee", "Cretaceous", "Ankylosaurus"]]

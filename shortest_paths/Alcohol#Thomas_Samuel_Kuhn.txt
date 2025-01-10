@@ -1,1 +1,0 @@
-[["Alcohol", "Cancer", "Thomas_Samuel_Kuhn"]]

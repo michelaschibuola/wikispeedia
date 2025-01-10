@@ -1,1 +1,0 @@
-[["Saturn", "Cloud", "Climate_change"], ["Saturn", "Earth", "Climate_change"], ["Saturn", "Ice", "Climate_change"], ["Saturn", "Sun", "Climate_change"], ["Saturn", "Tropical_cyclone", "Climate_change"], ["Saturn", "Venus", "Climate_change"], ["Saturn", "Volcano", "Climate_change"]]

@@ -1,1 +1,0 @@
-[["Steam_engine", "Gottfried_Leibniz", "Momentum"], ["Steam_engine", "Mechanical_work", "Momentum"]]

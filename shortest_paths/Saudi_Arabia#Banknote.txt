@@ -1,1 +1,0 @@
-[["Saudi_Arabia", "Canada", "Banknote"], ["Saudi_Arabia", "HSBC", "Banknote"], ["Saudi_Arabia", "Japan", "Banknote"], ["Saudi_Arabia", "List_of_circulating_currencies", "Banknote"], ["Saudi_Arabia", "Currency", "Banknote"], ["Saudi_Arabia", "United_Kingdom", "Banknote"], ["Saudi_Arabia", "United_States", "Banknote"], ["Saudi_Arabia", "United_States_dollar", "Banknote"]]

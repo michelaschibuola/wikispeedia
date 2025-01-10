@@ -1,1 +1,0 @@
-[["Trade_union", "Florida", "Houston%2C_Texas"], ["Trade_union", "Slavery", "Houston%2C_Texas"], ["Trade_union", "France", "Houston%2C_Texas"], ["Trade_union", "World_War_I", "Houston%2C_Texas"]]

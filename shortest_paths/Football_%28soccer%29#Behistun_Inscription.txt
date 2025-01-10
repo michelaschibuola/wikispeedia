@@ -1,1 +1,0 @@
-[["Football_%28soccer%29", "England", "Behistun_Inscription"], ["Football_%28soccer%29", "London", "Behistun_Inscription"], ["Football_%28soccer%29", "Paris", "Behistun_Inscription"]]

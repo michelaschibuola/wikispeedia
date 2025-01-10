@@ -1,1 +1,0 @@
-[["Apatosaurus", "Animal", "Aphid"], ["Apatosaurus", "Fossil", "Aphid"], ["Apatosaurus", "Scientific_classification", "Aphid"]]

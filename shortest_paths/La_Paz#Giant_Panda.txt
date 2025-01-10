@@ -1,1 +1,0 @@
-[["La_Paz", "Silver", "Giant_Panda"], ["La_Paz", "South_America", "Giant_Panda"]]

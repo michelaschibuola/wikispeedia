@@ -1,1 +1,0 @@
-[["Bee", "Agriculture", "Albania", "Battle_of_Vaslui"], ["Bee", "Agriculture", "Poland", "Battle_of_Vaslui"], ["Bee", "Agriculture", "Ukraine", "Battle_of_Vaslui"], ["Bee", "Beekeeping", "Ukraine", "Battle_of_Vaslui"]]

@@ -1,1 +1,0 @@
-[["Moon", "Earth", "Polar_ice_cap"], ["Moon", "Mars", "Polar_ice_cap"], ["Moon", "Sun", "Polar_ice_cap"], ["Moon", "Planet", "Polar_ice_cap"]]

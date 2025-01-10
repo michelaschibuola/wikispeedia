@@ -1,1 +1,0 @@
-[["Limerick", "Europe", "Singapore"], ["Limerick", "London", "Singapore"], ["Limerick", "New_York_City", "Singapore"], ["Limerick", "United_States", "Singapore"]]

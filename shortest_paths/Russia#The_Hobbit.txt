@@ -1,1 +1,0 @@
-[["Russia", "German_language", "The_Hobbit"], ["Russia", "Country", "The_Hobbit"], ["Russia", "Russian_language", "The_Hobbit"], ["Russia", "United_Kingdom", "The_Hobbit"], ["Russia", "United_States", "The_Hobbit"], ["Russia", "Theatre", "The_Hobbit"]]

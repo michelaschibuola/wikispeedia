@@ -1,1 +1,0 @@
-[["Arctic", "Earth", "Energy"], ["Arctic", "Global_warming", "Energy"], ["Arctic", "Iceland", "Energy"], ["Arctic", "Snow", "Energy"]]

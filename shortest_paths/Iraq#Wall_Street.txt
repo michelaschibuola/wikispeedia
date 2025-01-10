@@ -1,1 +1,0 @@
-[["Iraq", "George_W._Bush", "Wall_Street"], ["Iraq", "California", "Wall_Street"], ["Iraq", "United_Kingdom", "Wall_Street"], ["Iraq", "United_States", "Wall_Street"]]

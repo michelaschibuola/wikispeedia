@@ -1,1 +1,0 @@
-[["Sultan", "Art", "Adolf_Hitler"], ["Sultan", "Egypt", "Adolf_Hitler"]]

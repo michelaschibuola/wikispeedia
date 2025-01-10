@@ -1,1 +1,0 @@
-[["Royal_Marines", "Australia", "Computer_and_video_games"], ["Royal_Marines", "Germany", "Computer_and_video_games"], ["Royal_Marines", "United_Kingdom", "Computer_and_video_games"], ["Royal_Marines", "United_States", "Computer_and_video_games"]]

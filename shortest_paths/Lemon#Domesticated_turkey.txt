@@ -1,1 +1,0 @@
-[["Lemon", "Potato", "Domesticated_turkey"], ["Lemon", "Scientific_classification", "Domesticated_turkey"], ["Lemon", "United_States", "Domesticated_turkey"], ["Lemon", "Onion", "Domesticated_turkey"]]

@@ -1,1 +1,0 @@
-[["Thomas_Samuel_Kuhn", "Science", "Bill_Gates", "Internet_Explorer"], ["Thomas_Samuel_Kuhn", "Science", "World_Wide_Web", "Internet_Explorer"]]

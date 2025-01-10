@@ -1,1 +1,0 @@
-[["Franklin_D._Roosevelt", "Australia", "Oligocene"], ["Franklin_D._Roosevelt", "Europe", "Oligocene"], ["Franklin_D._Roosevelt", "Puerto_Rico", "Oligocene"]]

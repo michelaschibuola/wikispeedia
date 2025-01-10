@@ -1,1 +1,0 @@
-[["Dominican_Republic", "Haiti", "Herbert_Hoover"], ["Dominican_Republic", "New_York_City", "Herbert_Hoover"], ["Dominican_Republic", "Latin_America", "Herbert_Hoover"]]

@@ -1,1 +1,0 @@
-[["Avro_Lancaster", "Australia", "Britney_Spears"], ["Avro_Lancaster", "Canada", "Britney_Spears"], ["Avro_Lancaster", "Europe", "Britney_Spears"], ["Avro_Lancaster", "United_Kingdom", "Britney_Spears"]]

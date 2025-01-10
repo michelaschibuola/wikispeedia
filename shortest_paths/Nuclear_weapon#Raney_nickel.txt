@@ -1,1 +1,0 @@
-[["Nuclear_weapon", "Cobalt", "Raney_nickel"], ["Nuclear_weapon", "United_States", "Raney_nickel"], ["Nuclear_weapon", "Zinc", "Raney_nickel"]]

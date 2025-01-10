@@ -1,1 +1,0 @@
-[["Zinc", "Magnetism", "Paul_Dirac"], ["Zinc", "Electron", "Paul_Dirac"]]

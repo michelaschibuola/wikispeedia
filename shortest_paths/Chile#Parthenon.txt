@@ -1,1 +1,0 @@
-[["Chile", "Athens", "Parthenon"], ["Chile", "European_Union", "Parthenon"], ["Chile", "Iron", "Parthenon"], ["Chile", "Roman_Catholic_Church", "Parthenon"]]

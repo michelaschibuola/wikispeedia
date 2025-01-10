@@ -1,1 +1,0 @@
-[["Wildebeest", "Lion", "United_Kingdom", "Hawking_radiation"], ["Wildebeest", "Tanzania", "United_Kingdom", "Hawking_radiation"], ["Wildebeest", "Africa", "United_Kingdom", "Hawking_radiation"], ["Wildebeest", "Afrikaans", "United_Kingdom", "Hawking_radiation"], ["Wildebeest", "Dutch_language", "United_Kingdom", "Hawking_radiation"]]

@@ -1,1 +1,0 @@
-[["Education", "21st_century", "Mars"], ["Education", "Sanskrit", "Mars"]]

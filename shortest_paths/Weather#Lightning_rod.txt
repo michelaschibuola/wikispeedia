@@ -1,1 +1,0 @@
-[["Weather", "Cloud", "Lightning_rod"]]

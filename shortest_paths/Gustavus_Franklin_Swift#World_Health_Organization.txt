@@ -1,1 +1,0 @@
-[["Gustavus_Franklin_Swift", "Canada", "World_Health_Organization"], ["Gustavus_Franklin_Swift", "Hong_Kong", "World_Health_Organization"], ["Gustavus_Franklin_Swift", "Manila", "World_Health_Organization"], ["Gustavus_Franklin_Swift", "Singapore", "World_Health_Organization"], ["Gustavus_Franklin_Swift", "United_States", "World_Health_Organization"]]

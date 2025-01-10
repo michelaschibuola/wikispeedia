@@ -1,1 +1,0 @@
-[["Coulomb%27s_law", "Albert_Einstein", "New_York_City", "Kylie_Minogue"], ["Coulomb%27s_law", "Albert_Einstein", "United_States", "Kylie_Minogue"], ["Coulomb%27s_law", "Pi", "United_States", "Kylie_Minogue"], ["Coulomb%27s_law", "Love", "The_Beatles", "Kylie_Minogue"]]

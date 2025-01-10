@@ -1,1 +1,0 @@
-[["Westminster_System", "India", "Moscow"], ["Westminster_System", "London", "Moscow"], ["Westminster_System", "United_Kingdom", "Moscow"]]

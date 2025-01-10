@@ -1,1 +1,0 @@
-[["Niue", "New_Zealand", "Eurovision_Song_Contest"], ["Niue", "Internet", "Eurovision_Song_Contest"], ["Niue", "United_Kingdom", "Eurovision_Song_Contest"]]

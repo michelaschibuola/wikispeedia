@@ -1,1 +1,0 @@
-[["Equatorial_Guinea", "Brazil", "Pope_Pius_XII"], ["Equatorial_Guinea", "France", "Pope_Pius_XII"], ["Equatorial_Guinea", "French_language", "Pope_Pius_XII"], ["Equatorial_Guinea", "Portugal", "Pope_Pius_XII"], ["Equatorial_Guinea", "Spain", "Pope_Pius_XII"], ["Equatorial_Guinea", "United_States", "Pope_Pius_XII"]]

@@ -1,1 +1,0 @@
-[["Olympic_Games", "England", "Lyme_disease"], ["Olympic_Games", "California", "Lyme_disease"], ["Olympic_Games", "Japan", "Lyme_disease"], ["Olympic_Games", "Netherlands", "Lyme_disease"], ["Olympic_Games", "Sweden", "Lyme_disease"], ["Olympic_Games", "Switzerland", "Lyme_disease"], ["Olympic_Games", "United_States", "Lyme_disease"]]

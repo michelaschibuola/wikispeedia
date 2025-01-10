@@ -1,1 +1,0 @@
-[["Tennis", "England", "David_Beckham"], ["Tennis", "Australia", "David_Beckham"], ["Tennis", "France", "David_Beckham"], ["Tennis", "London", "David_Beckham"]]

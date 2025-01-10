@@ -1,1 +1,0 @@
-[["Effects_of_nuclear_explosions", "Eye", "Shark", "Blacktip_reef_shark"], ["Effects_of_nuclear_explosions", "Japan", "Shark", "Blacktip_reef_shark"], ["Effects_of_nuclear_explosions", "Tropical_cyclone", "Ocean", "Blacktip_reef_shark"]]

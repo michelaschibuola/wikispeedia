@@ -1,1 +1,0 @@
-[["Btrieve", "Windows_2000", "English_language", "Dog"], ["Btrieve", "Windows_2000", "North_America", "Dog"]]

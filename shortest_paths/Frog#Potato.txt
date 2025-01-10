@@ -1,1 +1,0 @@
-[["Frog", "Chile", "Potato"], ["Frog", "Scientific_classification", "Potato"], ["Frog", "Water", "Potato"]]

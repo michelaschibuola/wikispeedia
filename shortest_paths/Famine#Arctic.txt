@@ -1,1 +1,0 @@
-[["Famine", "China", "Arctic"], ["Famine", "Iceland", "Arctic"], ["Famine", "Russia", "Arctic"], ["Famine", "Soviet_Union", "Arctic"], ["Famine", "Sub-Saharan_Africa", "Arctic"], ["Famine", "United_States", "Arctic"], ["Famine", "History_of_Greenland", "Arctic"]]

@@ -1,1 +1,0 @@
-[["Nightingale", "Animal", "Water_Buffalo"], ["Nightingale", "Asia", "Water_Buffalo"], ["Nightingale", "Binomial_nomenclature", "Water_Buffalo"], ["Nightingale", "Chordate", "Water_Buffalo"], ["Nightingale", "Europe", "Water_Buffalo"], ["Nightingale", "Scientific_classification", "Water_Buffalo"]]

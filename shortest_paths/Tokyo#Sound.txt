@@ -1,1 +1,0 @@
-[["Tokyo", "Automated_teller_machine", "Sound"], ["Tokyo", "Broadcasting", "Sound"]]

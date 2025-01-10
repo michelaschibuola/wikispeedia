@@ -1,1 +1,0 @@
-[["Benjamin_Britten", "Denmark", "Ice_hockey"], ["Benjamin_Britten", "United_Kingdom", "Ice_hockey"]]

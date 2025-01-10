@@ -1,1 +1,0 @@
-[["Refrigerator_car", "20th_century", "Dresden"], ["Refrigerator_car", "China", "Dresden"], ["Refrigerator_car", "Germany", "Dresden"], ["Refrigerator_car", "Russia", "Dresden"], ["Refrigerator_car", "United_States", "Dresden"], ["Refrigerator_car", "World_War_II", "Dresden"]]

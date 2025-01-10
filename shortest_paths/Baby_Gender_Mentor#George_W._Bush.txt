@@ -1,1 +1,0 @@
-[["Baby_Gender_Mentor", "Canada", "George_W._Bush"], ["Baby_Gender_Mentor", "United_States", "George_W._Bush"]]

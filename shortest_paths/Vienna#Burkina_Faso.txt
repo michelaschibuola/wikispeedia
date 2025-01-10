@@ -1,1 +1,0 @@
-[["Vienna", "Europe", "Burkina_Faso"], ["Vienna", "Serbia", "Burkina_Faso"], ["Vienna", "Slovenia", "Burkina_Faso"], ["Vienna", "United_Nations", "Burkina_Faso"], ["Vienna", "Croatia", "Burkina_Faso"], ["Vienna", "Turkey", "Burkina_Faso"], ["Vienna", "World_War_I", "Burkina_Faso"]]

@@ -1,1 +1,0 @@
-[["Dubai", "Arabic_language", "Chinese_language"], ["Dubai", "Australia", "Chinese_language"], ["Dubai", "English_language", "Chinese_language"], ["Dubai", "Japan", "Chinese_language"], ["Dubai", "People%27s_Republic_of_China", "Chinese_language"], ["Dubai", "Shanghai", "Chinese_language"], ["Dubai", "Tamil_language", "Chinese_language"]]

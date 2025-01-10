@@ -1,1 +1,0 @@
-[["Rowan_Williams", "21st_century", "Education", "Humour"], ["Rowan_Williams", "Tony_Blair", "Education", "Humour"], ["Rowan_Williams", "England", "Culture", "Humour"], ["Rowan_Williams", "Evolution", "Culture", "Humour"], ["Rowan_Williams", "Wales", "Cattle", "Humour"]]

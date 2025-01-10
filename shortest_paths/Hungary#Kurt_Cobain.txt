@@ -1,1 +1,0 @@
-[["Hungary", "Germany", "Kurt_Cobain"], ["Hungary", "Los_Angeles%2C_California", "Kurt_Cobain"], ["Hungary", "New_York_City", "Kurt_Cobain"]]

@@ -1,1 +1,0 @@
-[["Telescope", "Japan", "Pac-Man"]]

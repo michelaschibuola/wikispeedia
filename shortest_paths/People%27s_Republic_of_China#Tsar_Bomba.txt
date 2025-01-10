@@ -1,1 +1,0 @@
-[["People%27s_Republic_of_China", "Nuclear_weapon", "Tsar_Bomba"], ["People%27s_Republic_of_China", "Soviet_Union", "Tsar_Bomba"], ["People%27s_Republic_of_China", "Russian_language", "Tsar_Bomba"]]

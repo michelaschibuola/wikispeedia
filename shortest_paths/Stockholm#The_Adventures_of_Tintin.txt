@@ -1,1 +1,0 @@
-[["Stockholm", "Europe", "The_Adventures_of_Tintin"], ["Stockholm", "Euro", "The_Adventures_of_Tintin"]]

@@ -1,1 +1,0 @@
-[["Persian_literature", "British_East_India_Company", "Ireland", "Pony"], ["Persian_literature", "Latin", "Ireland", "Pony"], ["Persian_literature", "Middle_Ages", "Ireland", "Pony"]]

@@ -1,1 +1,0 @@
-[["Dominican_Republic", "Caribbean_Sea", "Earthquake"], ["Dominican_Republic", "Africa", "Earthquake"], ["Dominican_Republic", "Tsunami", "Earthquake"]]

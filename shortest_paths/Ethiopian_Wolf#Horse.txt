@@ -1,1 +1,0 @@
-[["Ethiopian_Wolf", "Animal", "Horse"], ["Ethiopian_Wolf", "Binomial_nomenclature", "Horse"], ["Ethiopian_Wolf", "Chordate", "Horse"], ["Ethiopian_Wolf", "Gray_Wolf", "Horse"], ["Ethiopian_Wolf", "Mammal", "Horse"], ["Ethiopian_Wolf", "Rabies", "Horse"], ["Ethiopian_Wolf", "Scientific_classification", "Horse"]]

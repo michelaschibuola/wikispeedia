@@ -1,1 +1,0 @@
-[["Pac-Man", "North_America", "Hawk"]]

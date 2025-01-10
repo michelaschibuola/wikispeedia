@@ -1,1 +1,0 @@
-[["Drinking_water", "Copper", "Thallium"], ["Drinking_water", "Australia", "Thallium"], ["Drinking_water", "China", "Thallium"], ["Drinking_water", "Earth", "Thallium"], ["Drinking_water", "Potassium", "Thallium"], ["Drinking_water", "South_Africa", "Thallium"], ["Drinking_water", "United_States", "Thallium"]]

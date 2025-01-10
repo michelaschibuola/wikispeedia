@@ -1,1 +1,0 @@
-[["Super_Mario_64", "China", "Jewellery"], ["Super_Mario_64", "Europe", "Jewellery"], ["Super_Mario_64", "North_America", "Jewellery"]]

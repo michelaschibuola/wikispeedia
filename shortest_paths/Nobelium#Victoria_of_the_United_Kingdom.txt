@@ -1,1 +1,0 @@
-[["Nobelium", "Russia", "Victoria_of_the_United_Kingdom"], ["Nobelium", "Sweden", "Victoria_of_the_United_Kingdom"]]

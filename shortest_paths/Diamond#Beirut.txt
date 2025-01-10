@@ -1,1 +1,0 @@
-[["Diamond", "Brazil", "Beirut"], ["Diamond", "Canada", "Beirut"], ["Diamond", "Christianity", "Beirut"], ["Diamond", "Europe", "Beirut"], ["Diamond", "Israel", "Beirut"], ["Diamond", "Middle_Ages", "Beirut"], ["Diamond", "New_York_City", "Beirut"], ["Diamond", "United_States", "Beirut"], ["Diamond", "Rio_de_Janeiro", "Beirut"]]

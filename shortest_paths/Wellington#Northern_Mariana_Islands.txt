@@ -1,1 +1,0 @@
-[["Wellington", "Oceania", "Northern_Mariana_Islands"], ["Wellington", "Time_zone", "Northern_Mariana_Islands"], ["Wellington", "List_of_countries", "Northern_Mariana_Islands"]]

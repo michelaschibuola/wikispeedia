@@ -1,1 +1,0 @@
-[["Communication", "Paris", "Airbus_A380"]]

@@ -1,1 +1,0 @@
-[["Paul_McCartney", "Alcohol", "Sumo"], ["Paul_McCartney", "Osaka", "Sumo"], ["Paul_McCartney", "Tokyo", "Sumo"]]

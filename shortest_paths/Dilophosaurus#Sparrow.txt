@@ -1,1 +1,0 @@
-[["Dilophosaurus", "Animal", "Sparrow"], ["Dilophosaurus", "Chordate", "Sparrow"], ["Dilophosaurus", "Scientific_classification", "Sparrow"]]

@@ -1,1 +1,0 @@
-[["Decade_Volcanoes", "Greece", "University"], ["Decade_Volcanoes", "Italy", "University"], ["Decade_Volcanoes", "Japan", "University"]]

@@ -1,1 +1,0 @@
-[["Milan", "London", "The_Wall_Street_Journal"], ["Milan", "New_York_City", "The_Wall_Street_Journal"]]

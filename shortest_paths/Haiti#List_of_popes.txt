@@ -1,1 +1,0 @@
-[["Haiti", "Croatia", "List_of_popes"], ["Haiti", "France", "List_of_popes"], ["Haiti", "French_Revolution", "List_of_popes"], ["Haiti", "Germany", "List_of_popes"], ["Haiti", "Napoleon_I_of_France", "List_of_popes"], ["Haiti", "Pope_John_Paul_II", "List_of_popes"]]

@@ -1,1 +1,0 @@
-[["Blue_Jay", "Animal", "Humanities", "Thomas_Samuel_Kuhn"], ["Blue_Jay", "Bird", "Cancer", "Thomas_Samuel_Kuhn"]]

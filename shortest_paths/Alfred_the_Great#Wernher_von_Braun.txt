@@ -1,1 +1,0 @@
-[["Alfred_the_Great", "Baltic_Sea", "Wernher_von_Braun"], ["Alfred_the_Great", "England", "Wernher_von_Braun"], ["Alfred_the_Great", "London", "Wernher_von_Braun"]]

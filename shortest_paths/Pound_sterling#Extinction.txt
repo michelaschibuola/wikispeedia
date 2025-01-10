@@ -1,1 +1,0 @@
-[["Pound_sterling", "Human", "Extinction"], ["Pound_sterling", "Australia", "Extinction"], ["Pound_sterling", "India", "Extinction"], ["Pound_sterling", "New_Zealand", "Extinction"], ["Pound_sterling", "Saint_Helena", "Extinction"]]

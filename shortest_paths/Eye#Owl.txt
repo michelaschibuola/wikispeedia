@@ -1,1 +1,0 @@
-[["Eye", "Bryce_Canyon_National_Park", "Owl"], ["Eye", "Bird", "Owl"], ["Eye", "Bird_of_prey", "Owl"], ["Eye", "Fish", "Owl"], ["Eye", "Mammal", "Owl"]]

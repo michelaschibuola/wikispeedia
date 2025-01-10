@@ -1,1 +1,0 @@
-[["Ethanol", "Agriculture", "Minnesota"], ["Ethanol", "Biodiesel", "Minnesota"], ["Ethanol", "Canada", "Minnesota"], ["Ethanol", "Cancer", "Minnesota"], ["Ethanol", "India", "Minnesota"]]

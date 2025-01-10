@@ -1,1 +1,0 @@
-[["Lithuania", "European_Parliament", "Whale"], ["Lithuania", "Iceland", "Whale"], ["Lithuania", "United_States", "Whale"]]

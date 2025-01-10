@@ -1,1 +1,0 @@
-[["Panama_Canal", "Asia", "Sichuan_Pepper"], ["Panama_Canal", "United_States", "Sichuan_Pepper"]]

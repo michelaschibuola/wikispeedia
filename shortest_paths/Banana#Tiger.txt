@@ -1,1 +1,0 @@
-[["Banana", "Asia", "Tiger"], ["Banana", "China", "Tiger"], ["Banana", "India", "Tiger"], ["Banana", "Indonesia", "Tiger"], ["Banana", "Malaysia", "Tiger"], ["Banana", "Myanmar", "Tiger"], ["Banana", "Scientific_classification", "Tiger"], ["Banana", "Thailand", "Tiger"]]

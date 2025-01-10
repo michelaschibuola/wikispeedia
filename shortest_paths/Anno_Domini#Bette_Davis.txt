@@ -1,1 +1,0 @@
-[["Anno_Domini", "England", "Bette_Davis"], ["Anno_Domini", "Europe", "Bette_Davis"]]

@@ -1,1 +1,0 @@
-[["Royal_Navy", "Aircraft_carrier", "Naval_Battle_of_Guadalcanal"], ["Royal_Navy", "Imperial_Japanese_Navy", "Naval_Battle_of_Guadalcanal"], ["Royal_Navy", "Communication", "Naval_Battle_of_Guadalcanal"], ["Royal_Navy", "United_States", "Naval_Battle_of_Guadalcanal"], ["Royal_Navy", "World_War_II", "Naval_Battle_of_Guadalcanal"]]

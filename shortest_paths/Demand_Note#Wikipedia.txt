@@ -1,1 +1,0 @@
-[["Demand_Note", "United_States_dollar", "Wikipedia"]]

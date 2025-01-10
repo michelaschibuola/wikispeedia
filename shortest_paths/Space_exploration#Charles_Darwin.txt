@@ -1,1 +1,0 @@
-[["Space_exploration", "Germany", "Charles_Darwin"], ["Space_exploration", "Nazi_Germany", "Charles_Darwin"]]

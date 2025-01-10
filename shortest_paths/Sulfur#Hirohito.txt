@@ -1,1 +1,0 @@
-[["Sulfur", "China", "Hirohito"], ["Sulfur", "Italy", "Hirohito"], ["Sulfur", "Japan", "Hirohito"], ["Sulfur", "United_Kingdom", "Hirohito"], ["Sulfur", "United_States", "Hirohito"]]

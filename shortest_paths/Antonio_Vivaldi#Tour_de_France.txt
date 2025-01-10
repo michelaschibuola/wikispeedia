@@ -1,1 +1,0 @@
-[["Antonio_Vivaldi", "France", "Tour_de_France"]]

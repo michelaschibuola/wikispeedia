@@ -1,1 +1,0 @@
-[["Anthropology", "United_Kingdom", "Jersey"], ["Anthropology", "Guernsey", "Jersey"]]

@@ -1,1 +1,0 @@
-[["Vulture", "Animal", "Indian_Peafowl"], ["Vulture", "Bird", "Indian_Peafowl"], ["Vulture", "Chordate", "Indian_Peafowl"], ["Vulture", "India", "Indian_Peafowl"], ["Vulture", "Scientific_classification", "Indian_Peafowl"]]

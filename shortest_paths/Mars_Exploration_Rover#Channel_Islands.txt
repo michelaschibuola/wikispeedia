@@ -1,1 +1,0 @@
-[["Mars_Exploration_Rover", "Germany", "Channel_Islands"]]

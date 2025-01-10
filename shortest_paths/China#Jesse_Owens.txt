@@ -1,1 +1,0 @@
-[["China", "Lung_cancer", "Jesse_Owens"]]

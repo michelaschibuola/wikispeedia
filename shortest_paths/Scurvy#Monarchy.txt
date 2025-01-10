@@ -1,1 +1,0 @@
-[["Scurvy", "England", "Monarchy"], ["Scurvy", "History_of_South_Africa", "Monarchy"]]

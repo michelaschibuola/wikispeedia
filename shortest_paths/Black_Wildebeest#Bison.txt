@@ -1,1 +1,0 @@
-[["Black_Wildebeest", "Animal", "Bison"], ["Black_Wildebeest", "Chordate", "Bison"], ["Black_Wildebeest", "Mammal", "Bison"], ["Black_Wildebeest", "Scientific_classification", "Bison"]]

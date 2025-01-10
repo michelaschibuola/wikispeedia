@@ -1,1 +1,0 @@
-[["Lanthanum", "Boron", "Arabic_language", "Nouakchott"], ["Lanthanum", "Sulfur", "Arabic_language", "Nouakchott"], ["Lanthanum", "Carbon", "Africa", "Nouakchott"], ["Lanthanum", "Carbon", "French_language", "Nouakchott"], ["Lanthanum", "Nitrogen", "French_language", "Nouakchott"], ["Lanthanum", "Selenium", "Senegal", "Nouakchott"]]

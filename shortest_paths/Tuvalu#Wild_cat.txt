@@ -1,1 +1,0 @@
-[["Tuvalu", "Europe", "Wild_cat"], ["Tuvalu", "Spain", "Wild_cat"]]

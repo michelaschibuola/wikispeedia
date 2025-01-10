@@ -1,1 +1,0 @@
-[["Renminbi", "Beijing", "Bertrand_Russell"], ["Renminbi", "Soviet_Union", "Bertrand_Russell"]]

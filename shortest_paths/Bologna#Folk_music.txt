@@ -1,1 +1,0 @@
-[["Bologna", "Bob_Dylan", "Folk_music"], ["Bologna", "Argentina", "Folk_music"], ["Bologna", "United_Kingdom", "Folk_music"]]

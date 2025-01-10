@@ -1,1 +1,0 @@
-[["Computer", "California", "National_Hockey_League"], ["Computer", "Dallas%2C_Texas", "National_Hockey_League"], ["Computer", "United_States", "National_Hockey_League"]]

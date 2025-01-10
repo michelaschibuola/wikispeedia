@@ -1,1 +1,0 @@
-[["Constantine_I", "Europe", "Turkmenistan"], ["Constantine_I", "Persian_Empire", "Turkmenistan"], ["Constantine_I", "Turkey", "Turkmenistan"]]

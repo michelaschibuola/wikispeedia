@@ -1,1 +1,0 @@
-[["Oslo", "England", "Santa_Claus"], ["Oslo", "Norway", "Santa_Claus"], ["Oslo", "Denmark", "Santa_Claus"], ["Oslo", "Germany", "Santa_Claus"], ["Oslo", "Lithuania", "Santa_Claus"], ["Oslo", "Russia", "Santa_Claus"], ["Oslo", "Sweden", "Santa_Claus"]]

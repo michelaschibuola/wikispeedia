@@ -1,1 +1,0 @@
-[["20th_century", "16th_century", "Zeus"], ["20th_century", "Europe", "Zeus"], ["20th_century", "Jew", "Zeus"], ["20th_century", "Ancient_Rome", "Zeus"], ["20th_century", "Culture", "Zeus"], ["20th_century", "Greek_mythology", "Zeus"], ["20th_century", "Humanities", "Zeus"], ["20th_century", "The_Cantos", "Zeus"]]

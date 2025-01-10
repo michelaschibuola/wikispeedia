@@ -1,1 +1,0 @@
-[["Buddha", "Japan", "ABO_blood_group_system"], ["Buddha", "Hong_Kong", "ABO_blood_group_system"]]

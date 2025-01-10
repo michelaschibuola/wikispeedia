@@ -1,1 +1,0 @@
-[["Animal_law", "Animal_rights", "Brazil", "Domestic_goat"], ["Animal_law", "Animal_rights", "Horse", "Domestic_goat"], ["Animal_law", "Animal_rights", "Jesus", "Domestic_goat"]]

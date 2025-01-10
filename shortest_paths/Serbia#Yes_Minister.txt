@@ -1,1 +1,0 @@
-[["Serbia", "Canada", "Yes_Minister"], ["Serbia", "Islam", "Yes_Minister"], ["Serbia", "Portugal", "Yes_Minister"], ["Serbia", "Sweden", "Yes_Minister"], ["Serbia", "United_Kingdom", "Yes_Minister"]]

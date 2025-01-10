@@ -1,1 +1,0 @@
-[["Tanzania", "Otto_von_Bismarck", "Cancer"], ["Tanzania", "Argentina", "Cancer"], ["Tanzania", "Japan", "Cancer"], ["Tanzania", "London", "Cancer"], ["Tanzania", "Malaria", "Cancer"], ["Tanzania", "United_States", "Cancer"]]

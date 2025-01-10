@@ -1,1 +1,0 @@
-[["Faroe_Islands", "Christianity", "William_Thomson%2C_1st_Baron_Kelvin"], ["Faroe_Islands", "Ireland", "William_Thomson%2C_1st_Baron_Kelvin"], ["Faroe_Islands", "Germany", "William_Thomson%2C_1st_Baron_Kelvin"], ["Faroe_Islands", "Netherlands", "William_Thomson%2C_1st_Baron_Kelvin"], ["Faroe_Islands", "Scotland", "William_Thomson%2C_1st_Baron_Kelvin"]]

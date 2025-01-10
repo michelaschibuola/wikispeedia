@@ -1,1 +1,0 @@
-[["Claude_Monet", "19th_century", "Rome"], ["Claude_Monet", "England", "Rome"], ["Claude_Monet", "France", "Rome"], ["Claude_Monet", "Paris", "Rome"], ["Claude_Monet", "World_War_I", "Rome"]]

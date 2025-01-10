@@ -1,1 +1,0 @@
-[["2004_Indian_Ocean_earthquake", "Sweden", "Manchester_United_F.C."], ["2004_Indian_Ocean_earthquake", "Tokyo", "Manchester_United_F.C."], ["2004_Indian_Ocean_earthquake", "United_Kingdom", "Manchester_United_F.C."], ["2004_Indian_Ocean_earthquake", "World_War_II", "Manchester_United_F.C."]]

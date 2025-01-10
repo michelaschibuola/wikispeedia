@@ -1,1 +1,0 @@
-[["Comics", "China", "Religion"], ["Comics", "Literature", "Religion"]]

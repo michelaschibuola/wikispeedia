@@ -1,1 +1,0 @@
-[["Spinosaurus", "Germany", "IG_Farben_Building"], ["Spinosaurus", "World_War_II", "IG_Farben_Building"]]

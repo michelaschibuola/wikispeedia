@@ -1,1 +1,0 @@
-[["Norse_mythology", "Christianity", "Muhammad_Iqbal"], ["Norse_mythology", "England", "Muhammad_Iqbal"], ["Norse_mythology", "Europe", "Muhammad_Iqbal"], ["Norse_mythology", "Middle_East", "Muhammad_Iqbal"]]

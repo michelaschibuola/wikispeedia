@@ -1,1 +1,0 @@
-[["Bird_of_prey", "Animal", "Brown_trout"], ["Bird_of_prey", "Chordate", "Brown_trout"], ["Bird_of_prey", "Scientific_classification", "Brown_trout"], ["Bird_of_prey", "Fauna_of_Australia", "Brown_trout"], ["Bird_of_prey", "Minnesota", "Brown_trout"], ["Bird_of_prey", "New_Zealand", "Brown_trout"]]

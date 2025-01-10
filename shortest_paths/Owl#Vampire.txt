@@ -1,1 +1,0 @@
-[["Owl", "Europe", "Vampire"], ["Owl", "Halloween", "Vampire"], ["Owl", "Ancient_Egypt", "Vampire"], ["Owl", "Ancient_Rome", "Vampire"]]

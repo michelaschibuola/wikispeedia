@@ -1,1 +1,0 @@
-[["Dog", "Animal_rights", "Philosophy"], ["Dog", "Athanasius_Kircher", "Philosophy"], ["Dog", "Africa", "Philosophy"], ["Dog", "Middle_East", "Philosophy"], ["Dog", "North_Africa", "Philosophy"]]

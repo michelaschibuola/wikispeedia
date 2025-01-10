@@ -1,1 +1,0 @@
-[["Vietnam", "Richard_Nixon", "Battle_of_Gettysburg"], ["Vietnam", "United_States", "Battle_of_Gettysburg"]]

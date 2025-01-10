@@ -1,1 +1,0 @@
-[["AIDS", "Africa", "Maldives"], ["AIDS", "Asia", "Maldives"], ["AIDS", "India", "Maldives"], ["AIDS", "Uganda", "Maldives"], ["AIDS", "United_Kingdom", "Maldives"]]

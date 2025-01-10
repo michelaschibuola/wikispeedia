@@ -1,1 +1,0 @@
-[["Georg_Cantor", "Denmark", "Drinking_water"], ["Georg_Cantor", "United_Kingdom", "Drinking_water"]]

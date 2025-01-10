@@ -1,1 +1,0 @@
-[["Spherical_aberration", "Hubble_Space_Telescope", "Europe", "Osprey"], ["Spherical_aberration", "Hubble_Space_Telescope", "United_States", "Osprey"]]

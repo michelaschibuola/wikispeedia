@@ -1,1 +1,0 @@
-[["Bald_Eagle", "Atlantic_Ocean", "Cape_Canaveral"], ["Bald_Eagle", "United_States", "Cape_Canaveral"]]

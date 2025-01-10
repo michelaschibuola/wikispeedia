@@ -1,1 +1,0 @@
-[["WorkChoices", "Australia", "United_States", "Doom"], ["WorkChoices", "Australia", "Cereal", "Doom"], ["WorkChoices", "Australia", "Computer_and_video_games", "Doom"], ["WorkChoices", "Australia", "Star_Wars", "Doom"], ["WorkChoices", "Australia", "The_Simpsons", "Doom"]]

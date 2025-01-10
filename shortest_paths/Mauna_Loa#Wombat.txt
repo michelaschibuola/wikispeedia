@@ -1,1 +1,0 @@
-[["Mauna_Loa", "Carbon_dioxide", "Animal", "Wombat"], ["Mauna_Loa", "Carbon_dioxide", "Ice_age", "Wombat"], ["Mauna_Loa", "Global_warming", "Ice_age", "Wombat"], ["Mauna_Loa", "Greenhouse_effect", "Ice_age", "Wombat"], ["Mauna_Loa", "Sun", "Ice_age", "Wombat"], ["Mauna_Loa", "Earthquake", "Sydney", "Wombat"]]

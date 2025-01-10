@@ -1,1 +1,0 @@
-[["James_Watt", "Heat", "Earth%27s_atmosphere"], ["James_Watt", "Iron", "Earth%27s_atmosphere"]]

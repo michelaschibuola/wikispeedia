@@ -1,1 +1,0 @@
-[["Bridge", "Boston%2C_Massachusetts", "Supply_and_demand"], ["Bridge", "Europe", "Supply_and_demand"], ["Bridge", "United_States", "Supply_and_demand"]]

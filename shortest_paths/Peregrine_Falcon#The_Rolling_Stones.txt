@@ -1,1 +1,0 @@
-[["Peregrine_Falcon", "Canada", "The_Rolling_Stones"], ["Peregrine_Falcon", "Chicago", "The_Rolling_Stones"], ["Peregrine_Falcon", "United_Kingdom", "The_Rolling_Stones"], ["Peregrine_Falcon", "United_States", "The_Rolling_Stones"]]

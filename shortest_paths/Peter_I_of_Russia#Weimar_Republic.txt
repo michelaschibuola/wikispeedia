@@ -1,1 +1,0 @@
-[["Peter_I_of_Russia", "Capital", "Weimar_Republic"], ["Peter_I_of_Russia", "Russia", "Weimar_Republic"]]

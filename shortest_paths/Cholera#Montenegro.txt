@@ -1,1 +1,0 @@
-[["Cholera", "Europe", "Montenegro"], ["Cholera", "Portugal", "Montenegro"], ["Cholera", "Russia", "Montenegro"]]

@@ -1,1 +1,0 @@
-[["The_Legend_of_Zelda_series", "Japan", "Cormorant", "Lake_Kariba"], ["The_Legend_of_Zelda_series", "Japan", "Earthquake", "Lake_Kariba"], ["The_Legend_of_Zelda_series", "Japan", "Indian_Ocean", "Lake_Kariba"], ["The_Legend_of_Zelda_series", "Japan", "List_of_lakes", "Lake_Kariba"]]

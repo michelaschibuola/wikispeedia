@@ -1,1 +1,0 @@
-[["Physics", "Color", "Sunlight"], ["Physics", "Light", "Sunlight"], ["Physics", "Earth", "Sunlight"], ["Physics", "Electromagnetic_radiation", "Sunlight"], ["Physics", "Star", "Sunlight"], ["Physics", "Sun", "Sunlight"], ["Physics", "Water", "Sunlight"]]

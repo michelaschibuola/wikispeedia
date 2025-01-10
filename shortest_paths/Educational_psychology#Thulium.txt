@@ -1,1 +1,0 @@
-[["Educational_psychology", "Biology", "Mineral", "Thulium"], ["Educational_psychology", "Biology", "Periodic_table", "Thulium"], ["Educational_psychology", "Human", "Color", "Thulium"], ["Educational_psychology", "Human", "Holmium", "Thulium"], ["Educational_psychology", "Medicine", "Oxygen", "Thulium"]]

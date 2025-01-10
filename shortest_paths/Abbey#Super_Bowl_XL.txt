@@ -1,1 +1,0 @@
-[["Abbey", "France", "Super_Bowl_XL"], ["Abbey", "Spain", "Super_Bowl_XL"]]

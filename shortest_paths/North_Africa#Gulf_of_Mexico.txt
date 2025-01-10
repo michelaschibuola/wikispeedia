@@ -1,1 +1,0 @@
-[["North_Africa", "Atlantic_Ocean", "Gulf_of_Mexico"], ["North_Africa", "Mediterranean_Sea", "Gulf_of_Mexico"], ["North_Africa", "Spain", "Gulf_of_Mexico"], ["North_Africa", "United_States", "Gulf_of_Mexico"]]

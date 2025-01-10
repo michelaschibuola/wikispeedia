@@ -1,1 +1,0 @@
-[["Abraham_Lincoln", "19th_century", "Anthropology"], ["Abraham_Lincoln", "Charles_Darwin", "Anthropology"], ["Abraham_Lincoln", "Frederick_Douglass", "Anthropology"], ["Abraham_Lincoln", "United_Kingdom", "Anthropology"]]

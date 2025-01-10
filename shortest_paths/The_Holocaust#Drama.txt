@@ -1,1 +1,0 @@
-[["The_Holocaust", "20th_century", "Drama"], ["The_Holocaust", "Anne_Frank", "Drama"], ["The_Holocaust", "Richard_Wagner", "Drama"], ["The_Holocaust", "Athens", "Drama"], ["The_Holocaust", "Greece", "Drama"]]

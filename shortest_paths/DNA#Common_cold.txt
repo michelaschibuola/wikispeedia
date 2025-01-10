@@ -1,1 +1,0 @@
-[["DNA", "Bacteria", "Common_cold"], ["DNA", "Cell_%28biology%29", "Common_cold"], ["DNA", "Chimpanzee", "Common_cold"], ["DNA", "Linus_Pauling", "Common_cold"], ["DNA", "United_Kingdom", "Common_cold"], ["DNA", "Virus", "Common_cold"], ["DNA", "Trade_and_usage_of_saffron", "Common_cold"]]

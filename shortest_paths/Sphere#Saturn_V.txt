@@ -1,1 +1,0 @@
-[["Sphere", "Moon", "Saturn_V"], ["Sphere", "Earth", "Saturn_V"]]

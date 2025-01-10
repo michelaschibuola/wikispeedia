@@ -1,1 +1,0 @@
-[["Edinburgh", "Italy", "Pythagoras"], ["Edinburgh", "Jew", "Pythagoras"], ["Edinburgh", "Parthenon", "Pythagoras"]]

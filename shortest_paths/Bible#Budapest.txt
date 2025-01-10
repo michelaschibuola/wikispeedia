@@ -1,1 +1,0 @@
-[["Bible", "19th_century", "Budapest"], ["Bible", "Israel", "Budapest"], ["Bible", "German_language", "Budapest"], ["Bible", "Pope_Pius_XII", "Budapest"], ["Bible", "University_of_Cambridge", "Budapest"], ["Bible", "Zionism", "Budapest"]]

@@ -1,1 +1,0 @@
-[["Royal_Marines", "Bob_Marley", "Miami%2C_Florida"], ["Royal_Marines", "Argentina", "Miami%2C_Florida"], ["Royal_Marines", "Cuba", "Miami%2C_Florida"], ["Royal_Marines", "United_States", "Miami%2C_Florida"], ["Royal_Marines", "World_War_II", "Miami%2C_Florida"]]

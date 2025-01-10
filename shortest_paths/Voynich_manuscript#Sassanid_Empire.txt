@@ -1,1 +1,0 @@
-[["Voynich_manuscript", "Latin", "Sassanid_Empire"], ["Voynich_manuscript", "Rome", "Sassanid_Empire"]]

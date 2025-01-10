@@ -1,1 +1,0 @@
-[["Haiti", "Africa", "Bamako"], ["Haiti", "France", "Bamako"], ["Haiti", "Germany", "Bamako"], ["Haiti", "United_States", "Bamako"]]

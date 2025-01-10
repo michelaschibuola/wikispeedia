@@ -1,1 +1,0 @@
-[["Theatre", "Art", "Leonardo_da_Vinci"], ["Theatre", "Munich", "Leonardo_da_Vinci"], ["Theatre", "Saint_Petersburg", "Leonardo_da_Vinci"], ["Theatre", "France", "Leonardo_da_Vinci"], ["Theatre", "Paris", "Leonardo_da_Vinci"]]

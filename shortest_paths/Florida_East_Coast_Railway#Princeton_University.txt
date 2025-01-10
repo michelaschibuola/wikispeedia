@@ -1,1 +1,0 @@
-[["Florida_East_Coast_Railway", "Latin_America", "Princeton_University"], ["Florida_East_Coast_Railway", "New_York_City", "Princeton_University"], ["Florida_East_Coast_Railway", "United_States", "Princeton_University"]]

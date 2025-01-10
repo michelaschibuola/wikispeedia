@@ -1,1 +1,0 @@
-[["Medicine", "Alexander_the_Great", "Jewellery"], ["Medicine", "Byzantine_Empire", "Jewellery"], ["Medicine", "American_English", "Jewellery"], ["Medicine", "Ancient_Greece", "Jewellery"], ["Medicine", "England", "Jewellery"], ["Medicine", "Human", "Jewellery"], ["Medicine", "India", "Jewellery"], ["Medicine", "Latin", "Jewellery"]]

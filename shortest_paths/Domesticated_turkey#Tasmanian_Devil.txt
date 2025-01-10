@@ -1,1 +1,0 @@
-[["Domesticated_turkey", "Animal", "Tasmanian_Devil"], ["Domesticated_turkey", "Chordate", "Tasmanian_Devil"], ["Domesticated_turkey", "Scientific_classification", "Tasmanian_Devil"]]

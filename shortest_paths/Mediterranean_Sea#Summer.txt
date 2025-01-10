@@ -1,1 +1,0 @@
-[["Mediterranean_Sea", "Flood", "Summer"], ["Mediterranean_Sea", "Gaza_Strip", "Summer"], ["Mediterranean_Sea", "Red_Sea", "Summer"], ["Mediterranean_Sea", "North_Atlantic_oscillation", "Summer"]]

@@ -1,1 +1,0 @@
-[["Jack_Kerouac", "Anarchism", "Fidel_Castro"], ["Jack_Kerouac", "Canada", "Fidel_Castro"], ["Jack_Kerouac", "Cold_War", "Fidel_Castro"], ["Jack_Kerouac", "English_language", "Fidel_Castro"], ["Jack_Kerouac", "Mexico", "Fidel_Castro"], ["Jack_Kerouac", "United_States", "Fidel_Castro"]]

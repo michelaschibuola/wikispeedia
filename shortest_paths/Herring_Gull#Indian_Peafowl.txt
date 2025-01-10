@@ -1,1 +1,0 @@
-[["Herring_Gull", "Animal", "Indian_Peafowl"], ["Herring_Gull", "Binomial_nomenclature", "Indian_Peafowl"], ["Herring_Gull", "Bird", "Indian_Peafowl"], ["Herring_Gull", "Chordate", "Indian_Peafowl"], ["Herring_Gull", "Scientific_classification", "Indian_Peafowl"]]

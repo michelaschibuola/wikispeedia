@@ -1,1 +1,0 @@
-[["God", "China", "Leicester"], ["God", "David_Attenborough", "Leicester"], ["God", "France", "Leicester"], ["God", "India", "Leicester"], ["God", "Religious_Society_of_Friends", "Leicester"], ["God", "William_Shakespeare", "Leicester"]]

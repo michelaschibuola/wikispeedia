@@ -1,1 +1,0 @@
-[["Costume_design", "Film", "United_States", "Women%27s_rights"], ["Costume_design", "Film", "New_Zealand", "Women%27s_rights"], ["Costume_design", "Gone_with_the_Wind_%28film%29", "Austria", "Women%27s_rights"], ["Costume_design", "Gone_with_the_Wind_%28film%29", "United_Kingdom", "Women%27s_rights"], ["Costume_design", "Howards_End", "United_Kingdom", "Women%27s_rights"]]

@@ -1,1 +1,0 @@
-[["Thomas_Becket", "Saffron", "Azerbaijan"], ["Thomas_Becket", "13th_century", "Azerbaijan"]]

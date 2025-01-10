@@ -1,1 +1,0 @@
-[["Citrus", "China", "Refrigerator_car"], ["Citrus", "Florida", "Refrigerator_car"], ["Citrus", "United_States", "Refrigerator_car"]]

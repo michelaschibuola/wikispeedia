@@ -1,1 +1,0 @@
-[["Ammosaurus", "Animal", "Puffin"], ["Ammosaurus", "Scientific_classification", "Puffin"]]

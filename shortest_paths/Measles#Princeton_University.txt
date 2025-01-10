@@ -1,1 +1,0 @@
-[["Measles", "Latin_America", "Princeton_University"]]

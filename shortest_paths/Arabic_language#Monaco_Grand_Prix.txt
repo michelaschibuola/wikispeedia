@@ -1,1 +1,0 @@
-[["Arabic_language", "France", "Monaco_Grand_Prix"], ["Arabic_language", "Tennis", "Monaco_Grand_Prix"]]

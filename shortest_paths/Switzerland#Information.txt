@@ -1,1 +1,0 @@
-[["Switzerland", "Alternating_current", "Information"], ["Switzerland", "Internet", "Information"], ["Switzerland", "String_theory", "Information"], ["Switzerland", "Energy", "Information"], ["Switzerland", "English_language", "Information"]]

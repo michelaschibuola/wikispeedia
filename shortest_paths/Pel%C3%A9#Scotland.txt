@@ -1,1 +1,0 @@
-[["Pel%C3%A9", "FIFA_World_Cup", "Scotland"], ["Pel%C3%A9", "Football_%28soccer%29", "Scotland"], ["Pel%C3%A9", "United_Nations", "Scotland"], ["Pel%C3%A9", "World_War_II", "Scotland"]]

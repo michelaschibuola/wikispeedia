@@ -1,1 +1,0 @@
-[["Louis_Pasteur", "19th_century", "Human_rights"], ["Louis_Pasteur", "France", "Human_rights"]]

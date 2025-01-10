@@ -1,1 +1,0 @@
-[["California", "Foie_gras", "Czech_Republic"], ["California", "Krazy_Kat", "Czech_Republic"], ["California", "Lego", "Czech_Republic"], ["California", "Mother_Teresa", "Czech_Republic"], ["California", "Paris", "Czech_Republic"], ["California", "Time_zone", "Czech_Republic"]]

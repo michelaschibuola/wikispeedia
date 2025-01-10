@@ -1,1 +1,0 @@
-[["Paul_of_Tarsus", "Ancient_Rome", "Stoicism"], ["Paul_of_Tarsus", "Christianity", "Stoicism"], ["Paul_of_Tarsus", "Cyprus", "Stoicism"], ["Paul_of_Tarsus", "Athens", "Stoicism"], ["Paul_of_Tarsus", "Augustine_of_Hippo", "Stoicism"]]

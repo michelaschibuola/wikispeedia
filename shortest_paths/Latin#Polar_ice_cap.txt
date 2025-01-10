@@ -1,1 +1,0 @@
-[["Latin", "Glacier", "Polar_ice_cap"], ["Latin", "Sun", "Polar_ice_cap"]]

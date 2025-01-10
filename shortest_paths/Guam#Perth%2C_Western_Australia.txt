@@ -1,1 +1,0 @@
-[["Guam", "Earth", "Perth%2C_Western_Australia"], ["Guam", "Taipei", "Perth%2C_Western_Australia"]]

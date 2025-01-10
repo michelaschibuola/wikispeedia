@@ -1,1 +1,0 @@
-[["World_War_II", "21st_century", "Linux"], ["World_War_II", "Linus_Pauling", "Linux"], ["World_War_II", "Monopoly_%28game%29", "Linux"], ["World_War_II", "SimCity", "Linux"]]

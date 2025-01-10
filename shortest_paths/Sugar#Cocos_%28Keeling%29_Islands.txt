@@ -1,1 +1,0 @@
-[["Sugar", "Slavery", "Cocos_%28Keeling%29_Islands"], ["Sugar", "Somalia", "Cocos_%28Keeling%29_Islands"], ["Sugar", "Sri_Lanka", "Cocos_%28Keeling%29_Islands"], ["Sugar", "Australia", "Cocos_%28Keeling%29_Islands"], ["Sugar", "Europe", "Cocos_%28Keeling%29_Islands"]]

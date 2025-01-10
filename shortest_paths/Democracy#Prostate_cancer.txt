@@ -1,1 +1,0 @@
-[["Democracy", "Europe", "Prostate_cancer"], ["Democracy", "Nelson_Mandela", "Prostate_cancer"], ["Democracy", "Ralph_Nader", "Prostate_cancer"]]

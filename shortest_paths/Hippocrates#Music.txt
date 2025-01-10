@@ -1,1 +1,0 @@
-[["Hippocrates", "Ancient_Greece", "Music"], ["Hippocrates", "Middle_Ages", "Music"], ["Hippocrates", "Renaissance", "Music"], ["Hippocrates", "Johann_Wolfgang_Goethe", "Music"]]

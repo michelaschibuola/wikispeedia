@@ -1,1 +1,0 @@
-[["Space_Shuttle_Endeavour", "Space_Shuttle_Challenger_disaster", "Comet_Halley"], ["Space_Shuttle_Endeavour", "Japan", "Comet_Halley"], ["Space_Shuttle_Endeavour", "Mir", "Comet_Halley"]]

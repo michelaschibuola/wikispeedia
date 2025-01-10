@@ -1,1 +1,0 @@
-[["Tank", "France", "Libertarianism"], ["Tank", "United_States", "Libertarianism"]]

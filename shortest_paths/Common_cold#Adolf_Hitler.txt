@@ -1,1 +1,0 @@
-[["Common_cold", "Germany", "Adolf_Hitler"], ["Common_cold", "United_Kingdom", "Adolf_Hitler"], ["Common_cold", "United_States", "Adolf_Hitler"]]

@@ -1,1 +1,0 @@
-[["Fish", "Agriculture", "Tree"], ["Fish", "Cerebellum", "Tree"], ["Fish", "Minoan_civilization", "Tree"], ["Fish", "Rainforest", "Tree"], ["Fish", "Sweden", "Tree"], ["Fish", "Water", "Tree"], ["Fish", "White-tailed_Eagle", "Tree"]]

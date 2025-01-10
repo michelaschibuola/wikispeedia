@@ -1,1 +1,0 @@
-[["Badger", "English_language", "Hungary"], ["Badger", "German_language", "Hungary"]]

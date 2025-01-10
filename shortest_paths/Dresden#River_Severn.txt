@@ -1,1 +1,0 @@
-[["Dresden", "River", "River_Severn"], ["Dresden", "United_Kingdom", "River_Severn"], ["Dresden", "World_Heritage_Site", "River_Severn"]]

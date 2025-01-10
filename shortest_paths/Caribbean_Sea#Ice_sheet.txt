@@ -1,1 +1,0 @@
-[["Caribbean_Sea", "Europe", "Ice_sheet"], ["Caribbean_Sea", "South_America", "Ice_sheet"], ["Caribbean_Sea", "North_America", "Ice_sheet"]]

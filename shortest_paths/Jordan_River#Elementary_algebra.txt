@@ -1,1 +1,0 @@
-[["Jordan_River", "Israel", "Mathematics", "Elementary_algebra"], ["Jordan_River", "Lebanon", "Mathematics", "Elementary_algebra"], ["Jordan_River", "Music", "Mathematics", "Elementary_algebra"], ["Jordan_River", "Arabic_language", "Algebra", "Elementary_algebra"], ["Jordan_River", "Egypt", "Number", "Elementary_algebra"]]

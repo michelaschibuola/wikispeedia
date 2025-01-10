@@ -1,1 +1,0 @@
-[["Apple", "Bible", "God"], ["Apple", "China", "God"], ["Apple", "Christianity", "God"], ["Apple", "France", "God"], ["Apple", "Latin", "God"], ["Apple", "United_States", "God"], ["Apple", "Mesopotamia", "God"]]

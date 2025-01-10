@@ -1,1 +1,0 @@
-[["Kiev", "Athens", "Homer"], ["Kiev", "Europe", "Homer"], ["Kiev", "Black_Sea", "Homer"], ["Kiev", "Munich", "Homer"]]

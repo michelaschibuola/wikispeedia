@@ -1,1 +1,0 @@
-[["Quantity", "Heat", "Magnet", "Floppy_disk"], ["Quantity", "Mathematics", "Bill_Gates", "Floppy_disk"], ["Quantity", "Energy", "Computer", "Floppy_disk"], ["Quantity", "Time", "Internet", "Floppy_disk"]]

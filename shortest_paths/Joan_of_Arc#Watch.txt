@@ -1,1 +1,0 @@
-[["Joan_of_Arc", "15th_century", "Watch"], ["Joan_of_Arc", "England", "Watch"], ["Joan_of_Arc", "Henry_VIII_of_England", "Watch"], ["Joan_of_Arc", "Paris", "Watch"]]

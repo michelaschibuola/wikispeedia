@@ -1,1 +1,0 @@
-[["Animal", "Snow_Goose", "Mackenzie_River"]]

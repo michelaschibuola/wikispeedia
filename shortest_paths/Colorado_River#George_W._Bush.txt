@@ -1,1 +1,0 @@
-[["Colorado_River", "Mexico", "George_W._Bush"], ["Colorado_River", "United_States", "George_W._Bush"], ["Colorado_River", "Education_in_the_United_States", "George_W._Bush"]]

@@ -1,1 +1,0 @@
-[["Chemical_synapse", "Computer", "United_Kingdom", "Flag_of_Australia"], ["Chemical_synapse", "Morphine", "United_Kingdom", "Flag_of_Australia"], ["Chemical_synapse", "Morphine", "Australia", "Flag_of_Australia"]]

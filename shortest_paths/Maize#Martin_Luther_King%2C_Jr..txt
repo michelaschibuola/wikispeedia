@@ -1,1 +1,0 @@
-[["Maize", "History_of_Arizona", "Martin_Luther_King%2C_Jr."], ["Maize", "Africa", "Martin_Luther_King%2C_Jr."], ["Maize", "India", "Martin_Luther_King%2C_Jr."], ["Maize", "Mexico", "Martin_Luther_King%2C_Jr."], ["Maize", "South_America", "Martin_Luther_King%2C_Jr."], ["Maize", "United_States", "Martin_Luther_King%2C_Jr."]]

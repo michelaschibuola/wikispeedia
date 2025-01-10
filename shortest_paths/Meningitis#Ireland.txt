@@ -1,1 +1,0 @@
-[["Meningitis", "Middle_Ages", "Ireland"], ["Meningitis", "Norway", "Ireland"], ["Meningitis", "Rwandan_Genocide", "Ireland"]]

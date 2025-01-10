@@ -1,1 +1,0 @@
-[["Senegal", "Arabic_language", "Tennis"], ["Senegal", "France", "Tennis"], ["Senegal", "United_States", "Tennis"], ["Senegal", "Washington%2C_D.C.", "Tennis"]]

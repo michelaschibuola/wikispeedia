@@ -1,1 +1,0 @@
-[["Postage_stamp", "Mauritius", "Tanzania"], ["Postage_stamp", "Japan", "Tanzania"], ["Postage_stamp", "Sierra_Leone", "Tanzania"], ["Postage_stamp", "South_Africa", "Tanzania"], ["Postage_stamp", "United_Arab_Emirates", "Tanzania"], ["Postage_stamp", "United_States", "Tanzania"]]

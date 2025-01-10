@@ -1,1 +1,0 @@
-[["Shroud_of_Turin", "Roman_Catholic_Church", "Ludwig_Wittgenstein"], ["Shroud_of_Turin", "Italy", "Ludwig_Wittgenstein"], ["Shroud_of_Turin", "Russia", "Ludwig_Wittgenstein"]]

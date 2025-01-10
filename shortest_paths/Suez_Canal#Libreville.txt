@@ -1,1 +1,0 @@
-[["Suez_Canal", "Africa", "Libreville"], ["Suez_Canal", "French_language", "Libreville"]]

@@ -1,1 +1,0 @@
-[["African_Grey_Parrot", "Animal", "Bee"], ["African_Grey_Parrot", "Evolution", "Bee"], ["African_Grey_Parrot", "Scientific_classification", "Bee"]]

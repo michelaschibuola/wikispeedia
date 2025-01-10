@@ -1,1 +1,0 @@
-[["Domestic_goat", "Dutch_language", "Rhine"], ["Domestic_goat", "French_language", "Rhine"], ["Domestic_goat", "German_language", "Rhine"]]

@@ -1,1 +1,0 @@
-[["Oxbow_lake", "Australia", "Paris"], ["Oxbow_lake", "England", "Paris"], ["Oxbow_lake", "United_States", "Paris"]]

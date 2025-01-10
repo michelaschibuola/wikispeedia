@@ -1,1 +1,0 @@
-[["West_Virginia", "United_States", "ITunes", "RSS_%28file_format%29"], ["West_Virginia", "Canada", "ITunes", "RSS_%28file_format%29"], ["West_Virginia", "United_States", "Microsoft", "RSS_%28file_format%29"], ["West_Virginia", "Biodiversity", "Internet_Explorer", "RSS_%28file_format%29"], ["West_Virginia", "Europe", "Mozilla_Firefox", "RSS_%28file_format%29"]]

@@ -1,1 +1,0 @@
-[["Meteor_shower", "Sun", "Oxygen", "The_Temptations"], ["Meteor_shower", "Sun", "United_States", "The_Temptations"]]

@@ -1,1 +1,0 @@
-[["Fedora_Core", "Astrophysics_Data_System", "Europe", "Stroke"], ["Fedora_Core", "Thailand", "Europe", "Stroke"], ["Fedora_Core", "Business", "Henry_James", "Stroke"], ["Fedora_Core", "Business", "Virginian_Railway", "Stroke"], ["Fedora_Core", "Thailand", "United_States", "Stroke"], ["Fedora_Core", "The_Children%27s_Machine", "United_States", "Stroke"]]

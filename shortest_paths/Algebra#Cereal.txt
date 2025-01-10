@@ -1,1 +1,0 @@
-[["Algebra", "Ancient_Egypt", "Cereal"], ["Algebra", "Europe", "Cereal"]]

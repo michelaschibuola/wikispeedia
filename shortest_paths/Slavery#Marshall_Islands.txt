@@ -1,1 +1,0 @@
-[["Slavery", "Rice", "Marshall_Islands"], ["Slavery", "English_language", "Marshall_Islands"], ["Slavery", "Europe", "Marshall_Islands"], ["Slavery", "Spain", "Marshall_Islands"], ["Slavery", "United_Kingdom", "Marshall_Islands"], ["Slavery", "United_States", "Marshall_Islands"], ["Slavery", "World_War_II", "Marshall_Islands"]]

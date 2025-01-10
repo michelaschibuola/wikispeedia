@@ -1,1 +1,0 @@
-[["Al_Jazeera", "Algeria", "Suleiman_the_Magnificent"], ["Al_Jazeera", "Arabic_language", "Suleiman_the_Magnificent"], ["Al_Jazeera", "Baghdad", "Suleiman_the_Magnificent"], ["Al_Jazeera", "Middle_East", "Suleiman_the_Magnificent"], ["Al_Jazeera", "Spain", "Suleiman_the_Magnificent"], ["Al_Jazeera", "Syria", "Suleiman_the_Magnificent"]]

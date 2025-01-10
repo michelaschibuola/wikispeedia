@@ -1,1 +1,0 @@
-[["Diamond", "Africa", "Erwin_Rommel"], ["Diamond", "Australia", "Erwin_Rommel"]]

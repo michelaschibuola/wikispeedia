@@ -1,1 +1,0 @@
-[["Spider", "California", "Lettuce"], ["Spider", "China", "Lettuce"], ["Spider", "Scientific_classification", "Lettuce"], ["Spider", "United_States", "Lettuce"]]

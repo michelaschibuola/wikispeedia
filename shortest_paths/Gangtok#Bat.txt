@@ -1,1 +1,0 @@
-[["Gangtok", "United_Kingdom", "Bat"], ["Gangtok", "Winter", "Bat"]]

@@ -1,1 +1,0 @@
-[["Erwin_Rommel", "Adolf_Hitler", "H.D."], ["Erwin_Rommel", "Egypt", "H.D."], ["Erwin_Rommel", "Film", "H.D."], ["Erwin_Rommel", "Greece", "H.D."], ["Erwin_Rommel", "Paris", "H.D."], ["Erwin_Rommel", "World_War_I", "H.D."], ["Erwin_Rommel", "World_War_II", "H.D."]]

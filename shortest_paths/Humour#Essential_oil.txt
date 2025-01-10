@@ -1,1 +1,0 @@
-[["Humour", "Aristotle", "Plant", "Essential_oil"], ["Humour", "Education", "Medicine", "Essential_oil"], ["Humour", "Juice", "Citrus", "Essential_oil"], ["Humour", "Juice", "Lemon", "Essential_oil"], ["Humour", "Juice", "Water", "Essential_oil"]]

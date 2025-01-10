@@ -1,1 +1,0 @@
-[["Carbon_dioxide", "New_York_City", "Wake_Island"], ["Carbon_dioxide", "United_States", "Wake_Island"], ["Carbon_dioxide", "Fish", "Wake_Island"], ["Carbon_dioxide", "Germany", "Wake_Island"]]

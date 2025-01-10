@@ -1,1 +1,0 @@
-[["Race", "Hurricane_Katrina", "Electricity"]]

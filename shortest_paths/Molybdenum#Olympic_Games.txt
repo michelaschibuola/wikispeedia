@@ -1,1 +1,0 @@
-[["Molybdenum", "Sweden", "Olympic_Games"], ["Molybdenum", "United_States", "Olympic_Games"], ["Molybdenum", "World_War_I", "Olympic_Games"]]

@@ -1,1 +1,0 @@
-[["Ptolemy", "Antarctica", "Mars"], ["Ptolemy", "Extraterrestrial_life", "Mars"], ["Ptolemy", "Astrology", "Mars"], ["Ptolemy", "China", "Mars"], ["Ptolemy", "Earth", "Mars"], ["Ptolemy", "Moon", "Mars"], ["Ptolemy", "Solar_System", "Mars"], ["Ptolemy", "Star", "Mars"]]

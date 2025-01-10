@@ -1,1 +1,0 @@
-[["Symmetry", "Australia", "Trench_warfare"], ["Symmetry", "India", "Trench_warfare"], ["Symmetry", "United_States", "Trench_warfare"]]

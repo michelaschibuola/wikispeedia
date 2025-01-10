@@ -1,1 +1,0 @@
-[["Black_pepper", "India", "History_of_democracy"], ["Black_pepper", "Portugal", "History_of_democracy"], ["Black_pepper", "Rome", "History_of_democracy"], ["Black_pepper", "Vietnam", "History_of_democracy"]]

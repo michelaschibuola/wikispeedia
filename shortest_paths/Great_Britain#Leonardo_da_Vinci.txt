@@ -1,1 +1,0 @@
-[["Great_Britain", "France", "Leonardo_da_Vinci"], ["Great_Britain", "Horse", "Leonardo_da_Vinci"], ["Great_Britain", "Italy", "Leonardo_da_Vinci"], ["Great_Britain", "Latin", "Leonardo_da_Vinci"], ["Great_Britain", "National_Gallery%2C_London", "Leonardo_da_Vinci"]]

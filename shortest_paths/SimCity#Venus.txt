@@ -1,1 +1,0 @@
-[["SimCity", "Japan", "Venus"], ["SimCity", "United_States", "Venus"]]

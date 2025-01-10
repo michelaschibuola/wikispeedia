@@ -1,1 +1,0 @@
-[["Baltic_Sea", "English_language", "Alphabet"], ["Baltic_Sea", "French_language", "Alphabet"]]

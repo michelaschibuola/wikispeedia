@@ -1,1 +1,0 @@
-[["Deity", "Africa", "Language"], ["Deity", "Anthropology", "Language"], ["Deity", "English_language", "Language"], ["Deity", "Human", "Language"], ["Deity", "Tamil_language", "Language"]]

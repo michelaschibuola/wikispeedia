@@ -1,1 +1,0 @@
-[["The_Bahamas", "Monarchy", "Democracy"], ["The_Bahamas", "Government", "Democracy"], ["The_Bahamas", "United_States", "Democracy"], ["The_Bahamas", "Uganda", "Democracy"]]

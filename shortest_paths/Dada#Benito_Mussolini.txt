@@ -1,1 +1,0 @@
-[["Dada", "Communism", "Benito_Mussolini"], ["Dada", "Germany", "Benito_Mussolini"], ["Dada", "Propaganda", "Benito_Mussolini"], ["Dada", "Switzerland", "Benito_Mussolini"], ["Dada", "United_States", "Benito_Mussolini"], ["Dada", "World_War_I", "Benito_Mussolini"], ["Dada", "World_War_II", "Benito_Mussolini"]]

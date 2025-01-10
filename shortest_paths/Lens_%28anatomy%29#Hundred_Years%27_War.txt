@@ -1,1 +1,0 @@
-[["Lens_%28anatomy%29", "Cataract_surgery", "Middle_Ages", "Hundred_Years%27_War"], ["Lens_%28anatomy%29", "Glasses", "Middle_Ages", "Hundred_Years%27_War"], ["Lens_%28anatomy%29", "Light", "Middle_Ages", "Hundred_Years%27_War"], ["Lens_%28anatomy%29", "Light", "God", "Hundred_Years%27_War"], ["Lens_%28anatomy%29", "Shark", "God", "Hundred_Years%27_War"]]

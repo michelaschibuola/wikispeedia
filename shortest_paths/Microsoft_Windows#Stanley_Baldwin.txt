@@ -1,1 +1,0 @@
-[["Microsoft_Windows", "Acorn_Computers", "England", "Stanley_Baldwin"], ["Microsoft_Windows", "Empires__Dawn_of_the_Modern_World", "England", "Stanley_Baldwin"], ["Microsoft_Windows", "Empires__Dawn_of_the_Modern_World", "World_War_II", "Stanley_Baldwin"], ["Microsoft_Windows", "SimCity", "World_War_II", "Stanley_Baldwin"]]

@@ -1,1 +1,0 @@
-[["Painting", "Joseph_Stalin", "Mikhail_Gorbachev"], ["Painting", "Moscow", "Mikhail_Gorbachev"], ["Painting", "France", "Mikhail_Gorbachev"]]

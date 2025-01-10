@@ -1,1 +1,0 @@
-[["Gibraltar", "Europe", "Dolphin"], ["Gibraltar", "Ancient_Rome", "Dolphin"], ["Gibraltar", "Australia", "Dolphin"], ["Gibraltar", "Ocean", "Dolphin"], ["Gibraltar", "United_States", "Dolphin"]]

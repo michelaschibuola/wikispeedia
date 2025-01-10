@@ -1,1 +1,0 @@
-[["Fermi_paradox", "Astronomy", "Spacecraft_propulsion"], ["Fermi_paradox", "Earth", "Spacecraft_propulsion"], ["Fermi_paradox", "Radio", "Spacecraft_propulsion"]]

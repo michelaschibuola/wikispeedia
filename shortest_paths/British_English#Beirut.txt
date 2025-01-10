@@ -1,1 +1,0 @@
-[["British_English", "Asia", "Beirut"], ["British_English", "Canada", "Beirut"], ["British_English", "Encyclop%C3%A6dia_Britannica", "Beirut"], ["British_English", "Lebanon", "Beirut"], ["British_English", "Mediterranean_Sea", "Beirut"]]

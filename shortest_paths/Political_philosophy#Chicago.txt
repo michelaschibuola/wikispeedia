@@ -1,1 +1,0 @@
-[["Political_philosophy", "David_Cameron", "Chicago"], ["Political_philosophy", "Europe", "Chicago"], ["Political_philosophy", "United_States", "Chicago"], ["Political_philosophy", "World_War_II", "Chicago"]]

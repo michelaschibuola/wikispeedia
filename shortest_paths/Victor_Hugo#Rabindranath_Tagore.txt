@@ -1,1 +1,0 @@
-[["Victor_Hugo", "Italy", "Rabindranath_Tagore"], ["Victor_Hugo", "Spain", "Rabindranath_Tagore"]]

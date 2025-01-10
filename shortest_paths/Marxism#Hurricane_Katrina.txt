@@ -1,1 +1,0 @@
-[["Marxism", "Cuba", "Hurricane_Katrina"], ["Marxism", "France", "Hurricane_Katrina"], ["Marxism", "Germany", "Hurricane_Katrina"], ["Marxism", "North_America", "Hurricane_Katrina"], ["Marxism", "People%27s_Republic_of_China", "Hurricane_Katrina"], ["Marxism", "Russia", "Hurricane_Katrina"], ["Marxism", "Venezuela", "Hurricane_Katrina"]]

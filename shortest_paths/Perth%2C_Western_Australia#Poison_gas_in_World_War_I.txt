@@ -1,1 +1,0 @@
-[["Perth%2C_Western_Australia", "Australia", "Poison_gas_in_World_War_I"], ["Perth%2C_Western_Australia", "China", "Poison_gas_in_World_War_I"], ["Perth%2C_Western_Australia", "Coal", "Poison_gas_in_World_War_I"], ["Perth%2C_Western_Australia", "France", "Poison_gas_in_World_War_I"], ["Perth%2C_Western_Australia", "Wind", "Poison_gas_in_World_War_I"]]

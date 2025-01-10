@@ -1,1 +1,0 @@
-[["Moon", "Earth", "Zeus"], ["Moon", "Humanities", "Zeus"], ["Moon", "Ancient_Greece", "Zeus"], ["Moon", "Pluto", "Zeus"], ["Moon", "Saturn", "Zeus"], ["Moon", "Sea", "Zeus"]]

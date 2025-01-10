@@ -1,1 +1,0 @@
-[["Bob_Dylan", "England", "Scotland"], ["Bob_Dylan", "Europe", "Scotland"], ["Bob_Dylan", "Folk_music", "Scotland"], ["Bob_Dylan", "Italy", "Scotland"], ["Bob_Dylan", "North_America", "Scotland"], ["Bob_Dylan", "United_States", "Scotland"], ["Bob_Dylan", "Vancouver", "Scotland"]]

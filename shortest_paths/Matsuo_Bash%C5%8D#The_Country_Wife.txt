@@ -1,1 +1,0 @@
-[["Matsuo_Bash%C5%8D", "Japan", "France", "The_Country_Wife"], ["Matsuo_Bash%C5%8D", "Japan", "London", "The_Country_Wife"], ["Matsuo_Bash%C5%8D", "Poetry", "Ancient_Rome", "The_Country_Wife"], ["Matsuo_Bash%C5%8D", "Poetry", "Restoration_literature", "The_Country_Wife"]]

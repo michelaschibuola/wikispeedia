@@ -1,1 +1,0 @@
-[["Malaria", "21st_century", "7th_century"], ["Malaria", "India", "7th_century"], ["Malaria", "Middle_Ages", "7th_century"], ["Malaria", "Peru", "7th_century"], ["Malaria", "Yemen", "7th_century"]]

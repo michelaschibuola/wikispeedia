@@ -1,1 +1,0 @@
-[["African_Buffalo", "Botswana", "European_Union", "Windows_Vista"], ["African_Buffalo", "Ethiopia", "European_Union", "Windows_Vista"], ["African_Buffalo", "Botswana", "United_States_dollar", "Windows_Vista"], ["African_Buffalo", "South_Africa", "United_States_dollar", "Windows_Vista"]]

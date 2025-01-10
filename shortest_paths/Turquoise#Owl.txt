@@ -1,1 +1,0 @@
-[["Turquoise", "Ancient_Egypt", "Owl"], ["Turquoise", "Aztec", "Owl"], ["Turquoise", "Europe", "Owl"], ["Turquoise", "Fossil", "Owl"]]

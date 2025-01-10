@@ -1,1 +1,0 @@
-[["Fire", "Argon", "Greenhouse_effect"], ["Fire", "Heat", "Greenhouse_effect"], ["Fire", "Hydrogen", "Greenhouse_effect"], ["Fire", "Oxygen", "Greenhouse_effect"], ["Fire", "Water", "Greenhouse_effect"]]

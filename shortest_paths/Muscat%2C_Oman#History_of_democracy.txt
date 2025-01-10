@@ -1,1 +1,0 @@
-[["Muscat%2C_Oman", "India", "History_of_democracy"], ["Muscat%2C_Oman", "Mediterranean_Sea", "History_of_democracy"], ["Muscat%2C_Oman", "Pakistan", "History_of_democracy"], ["Muscat%2C_Oman", "Portugal", "History_of_democracy"], ["Muscat%2C_Oman", "Rome", "History_of_democracy"]]

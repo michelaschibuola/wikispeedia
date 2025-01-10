@@ -1,1 +1,0 @@
-[["Bangkok", "Capital", "July_2006_Java_earthquake"]]

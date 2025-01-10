@@ -1,1 +1,0 @@
-[["Chicago", "Airbus_A380", "Dubai"], ["Chicago", "Global_city", "Dubai"], ["Chicago", "Roman_Catholic_Church", "Dubai"], ["Chicago", "Detroit%2C_Michigan", "Dubai"], ["Chicago", "German_language", "Dubai"], ["Chicago", "Osaka", "Dubai"], ["Chicago", "Shanghai", "Dubai"]]

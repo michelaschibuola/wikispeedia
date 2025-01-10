@@ -1,1 +1,0 @@
-[["James_Garfield", "American_Civil_War", "Rice", "Weed"], ["James_Garfield", "Latin", "Rice", "Weed"], ["James_Garfield", "Latin", "Fennel", "Weed"], ["James_Garfield", "Pneumonia", "Fungus", "Weed"]]

@@ -1,1 +1,0 @@
-[["Gold", "Armenia", "Monaco"], ["Gold", "Currency", "Monaco"], ["Gold", "Human", "Monaco"], ["Gold", "Latin", "Monaco"], ["Gold", "Turkey", "Monaco"]]

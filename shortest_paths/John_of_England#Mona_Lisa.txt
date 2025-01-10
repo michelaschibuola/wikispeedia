@@ -1,1 +1,0 @@
-[["John_of_England", "Doctor_Who", "Mona_Lisa"], ["John_of_England", "France", "Mona_Lisa"], ["John_of_England", "London", "Mona_Lisa"], ["John_of_England", "Roman_Catholic_Church", "Mona_Lisa"], ["John_of_England", "Rome", "Mona_Lisa"]]

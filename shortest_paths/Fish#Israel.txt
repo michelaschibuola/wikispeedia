@@ -1,1 +1,0 @@
-[["Fish", "Azerbaijan", "Israel"], ["Fish", "Europe", "Israel"], ["Fish", "Khazars", "Israel"], ["Fish", "Kuwait", "Israel"], ["Fish", "Myanmar", "Israel"], ["Fish", "Somalia", "Israel"], ["Fish", "Stingray", "Israel"], ["Fish", "Sweden", "Israel"], ["Fish", "Water", "Israel"]]

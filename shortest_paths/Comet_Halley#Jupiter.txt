@@ -1,1 +1,0 @@
-[["Comet_Halley", "Comet", "Jupiter"], ["Comet_Halley", "Japan", "Jupiter"], ["Comet_Halley", "Moon", "Jupiter"], ["Comet_Halley", "Solar_System", "Jupiter"], ["Comet_Halley", "Venus", "Jupiter"]]

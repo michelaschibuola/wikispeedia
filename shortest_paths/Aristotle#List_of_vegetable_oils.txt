@@ -1,1 +1,0 @@
-[["Aristotle", "Plant", "List_of_vegetable_oils"], ["Aristotle", "Renaissance", "List_of_vegetable_oils"]]

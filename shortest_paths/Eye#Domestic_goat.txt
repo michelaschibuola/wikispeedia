@@ -1,1 +1,0 @@
-[["Eye", "Brain", "Domestic_goat"], ["Eye", "Mammal", "Domestic_goat"], ["Eye", "Protein", "Domestic_goat"], ["Eye", "Pupil", "Domestic_goat"], ["Eye", "Kuru_%28disease%29", "Domestic_goat"], ["Eye", "Shoe_polish", "Domestic_goat"]]

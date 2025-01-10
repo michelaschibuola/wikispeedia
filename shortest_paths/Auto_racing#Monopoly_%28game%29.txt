@@ -1,1 +1,0 @@
-[["Auto_racing", "Automobile", "Monopoly_%28game%29"], ["Auto_racing", "Canada", "Monopoly_%28game%29"], ["Auto_racing", "Chicago", "Monopoly_%28game%29"], ["Auto_racing", "Germany", "Monopoly_%28game%29"], ["Auto_racing", "United_States", "Monopoly_%28game%29"]]

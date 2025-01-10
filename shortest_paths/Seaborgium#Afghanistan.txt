@@ -1,1 +1,0 @@
-[["Seaborgium", "Soviet_Union", "Afghanistan"], ["Seaborgium", "United_States", "Afghanistan"]]

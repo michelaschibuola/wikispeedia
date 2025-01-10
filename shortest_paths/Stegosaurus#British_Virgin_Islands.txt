@@ -1,1 +1,0 @@
-[["Stegosaurus", "England", "British_Virgin_Islands"], ["Stegosaurus", "North_America", "British_Virgin_Islands"]]

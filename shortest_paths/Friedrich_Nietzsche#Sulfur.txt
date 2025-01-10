@@ -1,1 +1,0 @@
-[["Friedrich_Nietzsche", "Homer", "Sulfur"], ["Friedrich_Nietzsche", "Italy", "Sulfur"], ["Friedrich_Nietzsche", "United_Kingdom", "Sulfur"]]

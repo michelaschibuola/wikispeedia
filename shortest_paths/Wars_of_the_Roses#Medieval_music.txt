@@ -1,1 +1,0 @@
-[["Wars_of_the_Roses", "Middle_Ages", "Medieval_music"], ["Wars_of_the_Roses", "Hundred_Years%27_War", "Medieval_music"], ["Wars_of_the_Roses", "Ireland", "Medieval_music"], ["Wars_of_the_Roses", "Renaissance", "Medieval_music"], ["Wars_of_the_Roses", "Switzerland", "Medieval_music"]]

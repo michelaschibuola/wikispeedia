@@ -1,1 +1,0 @@
-[["Lake_Vostok", "Continent", "Landform"], ["Lake_Vostok", "Earth", "Landform"]]

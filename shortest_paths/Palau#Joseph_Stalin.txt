@@ -1,1 +1,0 @@
-[["Palau", "Asia", "Joseph_Stalin"], ["Palau", "Europe", "Joseph_Stalin"], ["Palau", "Germany", "Joseph_Stalin"], ["Palau", "United_States", "Joseph_Stalin"]]

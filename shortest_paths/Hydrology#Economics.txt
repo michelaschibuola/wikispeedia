@@ -1,1 +1,0 @@
-[["Hydrology", "Geography", "Economics"], ["Hydrology", "Ancient_Greece", "Economics"], ["Hydrology", "Ancient_Rome", "Economics"], ["Hydrology", "Industry", "Economics"], ["Hydrology", "Nile", "Economics"]]

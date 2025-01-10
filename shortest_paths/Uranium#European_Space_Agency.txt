@@ -1,1 +1,0 @@
-[["Uranium", "Moon", "European_Space_Agency"], ["Uranium", "Sun", "European_Space_Agency"], ["Uranium", "Canada", "European_Space_Agency"], ["Uranium", "Italy", "European_Space_Agency"], ["Uranium", "World_War_II", "European_Space_Agency"]]

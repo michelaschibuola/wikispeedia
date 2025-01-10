@@ -1,1 +1,0 @@
-[["Tea", "English_language", "Amish"], ["Tea", "Europe", "Amish"], ["Tea", "German_language", "Amish"], ["Tea", "Tobacco", "Amish"]]

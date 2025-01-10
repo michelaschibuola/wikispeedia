@@ -1,1 +1,0 @@
-[["Qin_Dynasty", "China", "Petroleum", "Californium"], ["Qin_Dynasty", "History_of_the_world", "Petroleum", "Californium"], ["Qin_Dynasty", "China", "Silver", "Californium"], ["Qin_Dynasty", "Qing_Dynasty", "Silver", "Californium"], ["Qin_Dynasty", "China", "Water", "Californium"]]

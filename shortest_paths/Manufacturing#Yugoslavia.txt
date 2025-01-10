@@ -1,1 +1,0 @@
-[["Manufacturing", "Bosnia_and_Herzegovina", "Yugoslavia"], ["Manufacturing", "Europe", "Yugoslavia"], ["Manufacturing", "United_States", "Yugoslavia"]]

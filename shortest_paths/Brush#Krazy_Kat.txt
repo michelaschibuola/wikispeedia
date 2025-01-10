@@ -1,1 +1,0 @@
-[["Brush", "Aluminium", "English_language", "Krazy_Kat"], ["Brush", "Badger", "English_language", "Krazy_Kat"], ["Brush", "Pig", "English_language", "Krazy_Kat"], ["Brush", "Domestic_goat", "French_language", "Krazy_Kat"], ["Brush", "Painting", "Dada", "Krazy_Kat"], ["Brush", "Visual_arts", "Dada", "Krazy_Kat"], ["Brush", "Painting", "France", "Krazy_Kat"]]

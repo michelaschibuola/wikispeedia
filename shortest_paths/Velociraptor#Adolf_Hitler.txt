@@ -1,1 +1,0 @@
-[["Velociraptor", "Cold_War", "Adolf_Hitler"], ["Velociraptor", "Poland", "Adolf_Hitler"], ["Velociraptor", "Soviet_Union", "Adolf_Hitler"]]

@@ -1,1 +1,0 @@
-[["Atlantic_slave_trade", "Denmark", "Bread"], ["Atlantic_slave_trade", "France", "Bread"], ["Atlantic_slave_trade", "Germany", "Bread"], ["Atlantic_slave_trade", "Mexico", "Bread"], ["Atlantic_slave_trade", "Scotland", "Bread"], ["Atlantic_slave_trade", "Sugar", "Bread"], ["Atlantic_slave_trade", "United_States", "Bread"]]

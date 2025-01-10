@@ -1,1 +1,0 @@
-[["Music", "20th_century", "Automobile"], ["Music", "China", "Automobile"], ["Music", "Education_in_the_United_States", "Automobile"], ["Music", "Iran", "Automobile"], ["Music", "Melbourne", "Automobile"], ["Music", "India", "Automobile"], ["Music", "Spanish_language", "Automobile"], ["Music", "Symmetry", "Automobile"]]

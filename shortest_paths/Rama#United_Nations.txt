@@ -1,1 +1,0 @@
-[["Rama", "Asia", "United_Nations"], ["Rama", "Cambodia", "United_Nations"], ["Rama", "India", "United_Nations"], ["Rama", "Nepal", "United_Nations"], ["Rama", "Thailand", "United_Nations"], ["Rama", "Sri_Lanka", "United_Nations"]]

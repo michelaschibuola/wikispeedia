@@ -1,1 +1,0 @@
-[["Tibet", "Bhutan", "Economy_of_India"], ["Tibet", "China", "Economy_of_India"], ["Tibet", "Hinduism", "Economy_of_India"], ["Tibet", "People%27s_Republic_of_China", "Economy_of_India"], ["Tibet", "India", "Economy_of_India"], ["Tibet", "Nepal", "Economy_of_India"]]

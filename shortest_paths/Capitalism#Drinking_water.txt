@@ -1,1 +1,0 @@
-[["Capitalism", "Pollution", "Drinking_water"], ["Capitalism", "United_States", "Drinking_water"], ["Capitalism", "Poverty", "Drinking_water"], ["Capitalism", "Sweden", "Drinking_water"], ["Capitalism", "United_Kingdom", "Drinking_water"]]

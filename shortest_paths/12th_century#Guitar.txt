@@ -1,1 +1,0 @@
-[["12th_century", "10th_century", "Guitar"], ["12th_century", "Iran", "Guitar"], ["12th_century", "Portugal", "Guitar"], ["12th_century", "Peru", "Guitar"]]

@@ -1,1 +1,0 @@
-[["Korea", "Argentina", "Wine"], ["Korea", "Beer", "Wine"], ["Korea", "Civilization", "Wine"], ["Korea", "Australia", "Wine"], ["Korea", "Europe", "Wine"], ["Korea", "Pottery", "Wine"], ["Korea", "United_States", "Wine"], ["Korea", "Nineteen_Eighty-Four", "Wine"], ["Korea", "Ordination_of_women", "Wine"]]

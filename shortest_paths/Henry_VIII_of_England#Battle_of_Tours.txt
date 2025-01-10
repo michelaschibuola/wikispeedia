@@ -1,1 +1,0 @@
-[["Henry_VIII_of_England", "Christianity", "Battle_of_Tours"], ["Henry_VIII_of_England", "France", "Battle_of_Tours"], ["Henry_VIII_of_England", "Spain", "Battle_of_Tours"]]

@@ -1,1 +1,0 @@
-[["Cuckmere_Haven", "Brighton", "United_States", "Ascariasis"], ["Cuckmere_Haven", "Luftwaffe", "United_States", "Ascariasis"], ["Cuckmere_Haven", "Oxbow_lake", "United_States", "Ascariasis"], ["Cuckmere_Haven", "River", "United_States", "Ascariasis"]]

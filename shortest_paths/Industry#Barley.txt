@@ -1,1 +1,0 @@
-[["Industry", "Civilization", "Barley"], ["Industry", "Agriculture", "Barley"], ["Industry", "Spain", "Barley"], ["Industry", "Syria", "Barley"], ["Industry", "Ukraine", "Barley"]]

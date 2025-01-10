@@ -1,1 +1,0 @@
-[["Bulgaria", "England", "Henry_I_of_England"], ["Bulgaria", "English_language", "Henry_I_of_England"], ["Bulgaria", "First_Crusade", "Henry_I_of_England"]]

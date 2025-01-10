@@ -1,1 +1,0 @@
-[["Meat", "Cattle", "Sleep"], ["Meat", "Dog", "Sleep"], ["Meat", "Brain", "Sleep"], ["Meat", "Fish", "Sleep"], ["Meat", "Human", "Sleep"], ["Meat", "Mammal", "Sleep"], ["Meat", "Protein", "Sleep"], ["Meat", "United_States", "Sleep"]]

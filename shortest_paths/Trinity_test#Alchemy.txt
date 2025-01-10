@@ -1,1 +1,0 @@
-[["Trinity_test", "Europe", "Alchemy"], ["Trinity_test", "Japan", "Alchemy"]]

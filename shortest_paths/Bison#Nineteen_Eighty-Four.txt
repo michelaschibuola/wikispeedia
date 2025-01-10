@@ -1,1 +1,0 @@
-[["Bison", "Asia", "Nineteen_Eighty-Four"], ["Bison", "Europe", "Nineteen_Eighty-Four"], ["Bison", "North_America", "Nineteen_Eighty-Four"]]

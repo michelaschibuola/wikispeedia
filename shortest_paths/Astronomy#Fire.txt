@@ -1,1 +1,0 @@
-[["Astronomy", "Alchemy", "Fire"], ["Astronomy", "Ancient_history", "Fire"], ["Astronomy", "Archaeology", "Fire"], ["Astronomy", "Chemistry", "Fire"], ["Astronomy", "Gravitation", "Fire"], ["Astronomy", "Hydrogen", "Fire"], ["Astronomy", "Light", "Fire"], ["Astronomy", "Sun", "Fire"], ["Astronomy", "Metal", "Fire"]]

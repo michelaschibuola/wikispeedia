@@ -1,1 +1,0 @@
-[["Turkey", "Latin_alphabet", "Claudius"], ["Turkey", "Middle_Ages", "Claudius"], ["Turkey", "Slavery", "Claudius"], ["Turkey", "Stuttering", "Claudius"], ["Turkey", "France", "Claudius"], ["Turkey", "Roman_Empire", "Claudius"], ["Turkey", "World_War_II", "Claudius"]]

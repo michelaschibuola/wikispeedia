@@ -1,1 +1,0 @@
-[["Donald_Bradman", "Football_%28soccer%29", "Gothenburg"], ["Donald_Bradman", "Tennis", "Gothenburg"]]

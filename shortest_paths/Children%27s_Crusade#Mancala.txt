@@ -1,1 +1,0 @@
-[["Children%27s_Crusade", "England", "Mancala"], ["Children%27s_Crusade", "Europe", "Mancala"], ["Children%27s_Crusade", "United_States", "Mancala"]]

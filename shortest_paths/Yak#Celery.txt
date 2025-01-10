@@ -1,1 +1,0 @@
-[["Yak", "Binomial_nomenclature", "Celery"], ["Yak", "Carolus_Linnaeus", "Celery"], ["Yak", "Scientific_classification", "Celery"]]

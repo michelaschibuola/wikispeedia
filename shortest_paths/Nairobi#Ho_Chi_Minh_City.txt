@@ -1,1 +1,0 @@
-[["Nairobi", "Global_city", "Ho_Chi_Minh_City"], ["Nairobi", "City", "Ho_Chi_Minh_City"], ["Nairobi", "United_States", "Ho_Chi_Minh_City"], ["Nairobi", "World_War_II", "Ho_Chi_Minh_City"]]

@@ -1,1 +1,0 @@
-[["Arabic_language", "Gautama_Buddha", "Existentialism"], ["Arabic_language", "Germany", "Existentialism"], ["Arabic_language", "Turkish_literature", "Existentialism"]]

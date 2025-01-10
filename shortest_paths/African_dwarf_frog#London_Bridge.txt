@@ -1,1 +1,0 @@
-[["African_dwarf_frog", "Africa", "United_States", "London_Bridge"], ["African_dwarf_frog", "Africa", "Cereal", "London_Bridge"], ["African_dwarf_frog", "Africa", "Charles_II_of_England", "London_Bridge"]]

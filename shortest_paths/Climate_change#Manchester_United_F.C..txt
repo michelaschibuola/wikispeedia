@@ -1,1 +1,0 @@
-[["Climate_change", "Europe", "Manchester_United_F.C."], ["Climate_change", "United_States", "Manchester_United_F.C."]]

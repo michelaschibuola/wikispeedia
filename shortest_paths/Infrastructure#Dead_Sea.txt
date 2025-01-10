@@ -1,1 +1,0 @@
-[["Infrastructure", "Earthquake", "Dead_Sea"], ["Infrastructure", "South_Africa", "Dead_Sea"]]

@@ -1,1 +1,0 @@
-[["Peaceful_coexistence", "People%27s_Republic_of_China", "Ho_Chi_Minh"], ["Peaceful_coexistence", "Soviet_Union", "Ho_Chi_Minh"], ["Peaceful_coexistence", "United_States", "Ho_Chi_Minh"]]

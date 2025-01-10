@@ -1,1 +1,0 @@
-[["Jan_Mayen", "Arctic", "Orca"], ["Jan_Mayen", "Blue_Whale", "Orca"], ["Jan_Mayen", "Iceland", "Orca"], ["Jan_Mayen", "Greenland", "Orca"], ["Jan_Mayen", "Norway", "Orca"]]

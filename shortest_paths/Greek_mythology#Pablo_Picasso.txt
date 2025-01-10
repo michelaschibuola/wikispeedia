@@ -1,1 +1,0 @@
-[["Greek_mythology", "France", "Pablo_Picasso"], ["Greek_mythology", "Germany", "Pablo_Picasso"], ["Greek_mythology", "Paris", "Pablo_Picasso"], ["Greek_mythology", "Igor_Stravinsky", "Pablo_Picasso"], ["Greek_mythology", "Tehran", "Pablo_Picasso"]]

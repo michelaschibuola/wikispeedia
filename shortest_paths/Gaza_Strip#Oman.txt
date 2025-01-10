@@ -1,1 +1,0 @@
-[["Gaza_Strip", "Arab_League", "Oman"], ["Gaza_Strip", "Asia", "Oman"], ["Gaza_Strip", "Arabic_language", "Oman"], ["Gaza_Strip", "Currency", "Oman"], ["Gaza_Strip", "Israel", "Oman"], ["Gaza_Strip", "List_of_countries_by_system_of_government", "Oman"], ["Gaza_Strip", "Middle_East", "Oman"], ["Gaza_Strip", "Natural_gas", "Oman"], ["Gaza_Strip", "Time_zone", "Oman"]]

@@ -1,1 +1,0 @@
-[["Cornell_University", "Beijing", "Kiev"], ["Cornell_University", "Canada", "Kiev"], ["Cornell_University", "Ice_hockey", "Kiev"], ["Cornell_University", "Rome", "Kiev"]]

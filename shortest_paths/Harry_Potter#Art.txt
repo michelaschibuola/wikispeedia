@@ -1,1 +1,0 @@
-[["Harry_Potter", "21st_century", "Art"], ["Harry_Potter", "Alchemy", "Art"], ["Harry_Potter", "France", "Art"]]

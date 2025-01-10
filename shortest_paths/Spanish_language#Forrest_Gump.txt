@@ -1,1 +1,0 @@
-[["Spanish_language", "Banana", "Forrest_Gump"], ["Spanish_language", "Chess", "Forrest_Gump"], ["Spanish_language", "English_language", "Forrest_Gump"], ["Spanish_language", "Novel", "Forrest_Gump"], ["Spanish_language", "United_States", "Forrest_Gump"]]

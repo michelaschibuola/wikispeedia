@@ -1,1 +1,0 @@
-[["Dakar", "United_States", "Richard_Feynman"], ["Dakar", "Space_Shuttle_Challenger_disaster", "Richard_Feynman"]]

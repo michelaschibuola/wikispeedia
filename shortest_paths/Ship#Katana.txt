@@ -1,1 +1,0 @@
-[["Ship", "Japan", "Katana"], ["Ship", "World_War_II", "Katana"]]

@@ -1,1 +1,0 @@
-[["Gliese_876_c", "Jupiter", "Japan", "Nelson_Mandela"], ["Gliese_876_c", "Mercury_%28planet%29", "Japan", "Nelson_Mandela"], ["Gliese_876_c", "Planet", "Japan", "Nelson_Mandela"], ["Gliese_876_c", "Sun", "Japan", "Nelson_Mandela"]]

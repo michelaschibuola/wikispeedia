@@ -1,1 +1,0 @@
-[["NATO", "Europe", "Louis_Pasteur"], ["NATO", "France", "Louis_Pasteur"], ["NATO", "Paris", "Louis_Pasteur"]]

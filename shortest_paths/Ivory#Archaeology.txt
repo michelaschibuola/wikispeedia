@@ -1,1 +1,0 @@
-[["Ivory", "History_of_Greenland", "Archaeology"], ["Ivory", "Ancient_Rome", "Archaeology"], ["Ivory", "Mammoth", "Archaeology"], ["Ivory", "Peru", "Archaeology"], ["Ivory", "Jewellery", "Archaeology"], ["Ivory", "Tamil_people", "Archaeology"], ["Ivory", "Turquoise", "Archaeology"]]

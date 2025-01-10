@@ -1,1 +1,0 @@
-[["Brisbane", "Cricket", "Bangladesh"], ["Brisbane", "Football_%28soccer%29", "Bangladesh"], ["Brisbane", "Time_zone", "Bangladesh"], ["Brisbane", "World_War_II", "Bangladesh"], ["Brisbane", "Commonwealth_Games", "Bangladesh"], ["Brisbane", "Henipavirus", "Bangladesh"], ["Brisbane", "Tropical_cyclone", "Bangladesh"]]

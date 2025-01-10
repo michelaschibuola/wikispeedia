@@ -1,1 +1,0 @@
-[["Banana", "Color", "Fish"], ["Banana", "Kerala", "Fish"], ["Banana", "Myanmar", "Fish"], ["Banana", "Beer", "Fish"], ["Banana", "Culture_of_the_Democratic_Republic_of_the_Congo", "Fish"], ["Banana", "Horn_of_Africa", "Fish"], ["Banana", "Pitcairn_Islands", "Fish"], ["Banana", "Somalia", "Fish"]]

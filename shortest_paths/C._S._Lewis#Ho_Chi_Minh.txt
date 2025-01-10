@@ -1,1 +1,0 @@
-[["C._S._Lewis", "Communism", "Ho_Chi_Minh"], ["C._S._Lewis", "France", "Ho_Chi_Minh"], ["C._S._Lewis", "World_War_I", "Ho_Chi_Minh"]]

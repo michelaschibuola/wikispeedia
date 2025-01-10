@@ -1,1 +1,0 @@
-[["Snowball_Earth", "Earth", "Star"], ["Snowball_Earth", "History_of_Earth", "Star"], ["Snowball_Earth", "Planetary_habitability", "Star"], ["Snowball_Earth", "Iron", "Star"], ["Snowball_Earth", "Oxygen", "Star"], ["Snowball_Earth", "Silicon", "Star"], ["Snowball_Earth", "Sun", "Star"]]

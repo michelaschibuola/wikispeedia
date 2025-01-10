@@ -1,1 +1,0 @@
-[["Barack_Obama", "Chicago", "Great_Lakes"], ["Barack_Obama", "Coal", "Great_Lakes"]]

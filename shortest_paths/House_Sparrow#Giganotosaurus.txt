@@ -1,1 +1,0 @@
-[["House_Sparrow", "Animal", "Giganotosaurus"], ["House_Sparrow", "Binomial_nomenclature", "Giganotosaurus"], ["House_Sparrow", "Chordate", "Giganotosaurus"], ["House_Sparrow", "Scientific_classification", "Giganotosaurus"]]

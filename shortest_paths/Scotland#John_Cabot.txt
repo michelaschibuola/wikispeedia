@@ -1,1 +1,0 @@
-[["Scotland", "British_Empire", "John_Cabot"], ["Scotland", "England", "John_Cabot"], ["Scotland", "English_language", "John_Cabot"], ["Scotland", "Henry_VII_of_England", "John_Cabot"], ["Scotland", "Canada", "John_Cabot"], ["Scotland", "Italy", "John_Cabot"], ["Scotland", "North_America", "John_Cabot"]]

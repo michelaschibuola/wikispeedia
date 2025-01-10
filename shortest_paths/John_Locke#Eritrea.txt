@@ -1,1 +1,0 @@
-[["John_Locke", "France", "Eritrea"], ["John_Locke", "Netherlands", "Eritrea"], ["John_Locke", "United_States", "Eritrea"]]

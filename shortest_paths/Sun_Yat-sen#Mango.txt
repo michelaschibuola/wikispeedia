@@ -1,1 +1,0 @@
-[["Sun_Yat-sen", "China", "Mango"], ["Sun_Yat-sen", "Singapore", "Mango"], ["Sun_Yat-sen", "United_Kingdom", "Mango"], ["Sun_Yat-sen", "United_States", "Mango"], ["Sun_Yat-sen", "Vietnam", "Mango"]]

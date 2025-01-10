@@ -1,1 +1,0 @@
-[["Weed", "Agriculture", "Egypt", "Clifton_Suspension_Bridge"], ["Weed", "Fennel", "Egypt", "Clifton_Suspension_Bridge"], ["Weed", "Dandelion", "United_Kingdom", "Clifton_Suspension_Bridge"]]

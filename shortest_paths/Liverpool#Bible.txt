@@ -1,1 +1,0 @@
-[["Liverpool", "Lego", "Bible"], ["Liverpool", "German_language", "Bible"], ["Liverpool", "Jew", "Bible"], ["Liverpool", "Mosque", "Bible"], ["Liverpool", "Norwich", "Bible"], ["Liverpool", "The_Illuminatus%21_Trilogy", "Bible"], ["Liverpool", "William_Wilberforce", "Bible"]]

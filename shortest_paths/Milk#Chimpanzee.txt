@@ -1,1 +1,0 @@
-[["Milk", "Mammal", "Chimpanzee"], ["Milk", "Whale", "Chimpanzee"]]

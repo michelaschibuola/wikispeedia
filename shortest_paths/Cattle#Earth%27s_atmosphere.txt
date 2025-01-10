@@ -1,1 +1,0 @@
-[["Cattle", "Chernobyl_disaster", "Earth%27s_atmosphere"], ["Cattle", "Natural_gas", "Earth%27s_atmosphere"]]

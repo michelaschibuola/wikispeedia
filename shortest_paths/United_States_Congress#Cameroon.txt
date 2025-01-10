@@ -1,1 +1,0 @@
-[["United_States_Congress", "U.S._state", "Cameroon"], ["United_States_Congress", "United_States", "Cameroon"], ["United_States_Congress", "United_Kingdom", "Cameroon"], ["United_States_Congress", "Washington%2C_D.C.", "Cameroon"]]

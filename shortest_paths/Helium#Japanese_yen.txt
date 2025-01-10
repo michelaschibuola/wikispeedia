@@ -1,1 +1,0 @@
-[["Helium", "Copper", "Japanese_yen"], ["Helium", "Human", "Japanese_yen"], ["Helium", "United_States", "Japanese_yen"], ["Helium", "World_War_II", "Japanese_yen"]]

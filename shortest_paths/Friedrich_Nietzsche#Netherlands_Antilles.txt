@@ -1,1 +1,0 @@
-[["Friedrich_Nietzsche", "19th_century", "Netherlands_Antilles"], ["Friedrich_Nietzsche", "Christianity", "Netherlands_Antilles"], ["Friedrich_Nietzsche", "France", "Netherlands_Antilles"]]

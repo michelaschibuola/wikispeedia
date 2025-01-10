@@ -1,1 +1,0 @@
-[["Jackal", "Dead_Sea", "Turkey"], ["Jackal", "Europe", "Turkey"], ["Jackal", "Fox", "Turkey"], ["Jackal", "Asia", "Turkey"], ["Jackal", "Slovenia", "Turkey"]]

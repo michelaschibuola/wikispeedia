@@ -1,1 +1,0 @@
-[["Che_Guevara", "Egypt", "Music_of_Spain"], ["Che_Guevara", "El_Salvador", "Music_of_Spain"], ["Che_Guevara", "Latin_America", "Music_of_Spain"], ["Che_Guevara", "Spain", "Music_of_Spain"]]

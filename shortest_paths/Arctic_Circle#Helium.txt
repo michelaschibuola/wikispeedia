@@ -1,1 +1,0 @@
-[["Arctic_Circle", "Canada", "Helium"], ["Arctic_Circle", "Earth", "Helium"], ["Arctic_Circle", "Russia", "Helium"], ["Arctic_Circle", "Sun", "Helium"], ["Arctic_Circle", "United_States", "Helium"]]

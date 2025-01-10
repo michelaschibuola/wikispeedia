@@ -1,1 +1,0 @@
-[["NATO", "Finland", "4-6-0"], ["NATO", "United_States", "4-6-0"]]

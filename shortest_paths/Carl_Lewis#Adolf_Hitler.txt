@@ -1,1 +1,0 @@
-[["Carl_Lewis", "Jesse_Owens", "Adolf_Hitler"], ["Carl_Lewis", "Moscow", "Adolf_Hitler"], ["Carl_Lewis", "United_States", "Adolf_Hitler"]]

@@ -1,1 +1,0 @@
-[["James_Clerk_Maxwell", "BBC", "Propaganda"], ["James_Clerk_Maxwell", "United_Kingdom", "Propaganda"]]

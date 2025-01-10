@@ -1,1 +1,0 @@
-[["Linux", "21st_century", "Neptune", "Scattered_disc"], ["Linux", "Astrophysics_Data_System", "Solar_System", "Scattered_disc"], ["Linux", "Astrophysics_Data_System", "Sun", "Scattered_disc"], ["Linux", "Computer", "Kuiper_belt", "Scattered_disc"]]

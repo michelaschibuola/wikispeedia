@@ -1,1 +1,0 @@
-[["Mary_I_of_Scotland", "16th_century", "Sun", "16_Cygni"], ["Mary_I_of_Scotland", "Latin", "Sun", "16_Cygni"], ["Mary_I_of_Scotland", "Latin", "Day", "16_Cygni"], ["Mary_I_of_Scotland", "Latin", "Solar_System", "16_Cygni"]]

@@ -1,1 +1,0 @@
-[["Sichuan_Pepper", "Africa", "Brachiosaurus"], ["Sichuan_Pepper", "United_States", "Brachiosaurus"]]

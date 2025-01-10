@@ -1,1 +1,0 @@
-[["Brazil", "Africa", "Giraffe"], ["Brazil", "Angola", "Giraffe"], ["Brazil", "Mozambique", "Giraffe"], ["Brazil", "Kenya", "Giraffe"]]

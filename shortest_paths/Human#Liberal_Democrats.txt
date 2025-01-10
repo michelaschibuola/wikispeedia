@@ -1,1 +1,0 @@
-[["Human", "Euro", "Liberal_Democrats"], ["Human", "Pound_sterling", "Liberal_Democrats"]]

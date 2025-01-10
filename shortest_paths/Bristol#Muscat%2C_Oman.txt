@@ -1,1 +1,0 @@
-[["Bristol", "English_language", "Muscat%2C_Oman"], ["Bristol", "Islam", "Muscat%2C_Oman"], ["Bristol", "London", "Muscat%2C_Oman"], ["Bristol", "Portugal", "Muscat%2C_Oman"], ["Bristol", "United_Kingdom", "Muscat%2C_Oman"]]

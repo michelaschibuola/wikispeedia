@@ -1,1 +1,0 @@
-[["Bath%2C_Somerset", "England", "Joan_of_Arc"], ["Bath%2C_Somerset", "France", "Joan_of_Arc"], ["Bath%2C_Somerset", "Henry_VIII_of_England", "Joan_of_Arc"]]

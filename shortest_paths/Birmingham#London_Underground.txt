@@ -1,1 +1,0 @@
-[["Birmingham", "England", "London_Underground"], ["Birmingham", "London", "London_Underground"], ["Birmingham", "Rail_transport", "London_Underground"], ["Birmingham", "The_Blitz", "London_Underground"], ["Birmingham", "World_War_II", "London_Underground"], ["Birmingham", "Derby", "London_Underground"], ["Birmingham", "M25_motorway", "London_Underground"]]

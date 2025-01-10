@@ -1,1 +1,0 @@
-[["Ordinal_number", "Education_in_the_United_States", "Baseball", "Star_Trek__Deep_Space_Nine"], ["Ordinal_number", "Education_in_the_United_States", "United_States", "Star_Trek__Deep_Space_Nine"], ["Ordinal_number", "John_von_Neumann", "Earth", "Star_Trek__Deep_Space_Nine"]]

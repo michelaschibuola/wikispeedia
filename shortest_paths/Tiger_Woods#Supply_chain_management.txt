@@ -1,1 +1,0 @@
-[["Tiger_Woods", "United_States", "Corporate_finance", "Supply_chain_management"], ["Tiger_Woods", "United_States", "Michigan_State_University", "Supply_chain_management"], ["Tiger_Woods", "United_States", "Supply_and_demand", "Supply_chain_management"]]

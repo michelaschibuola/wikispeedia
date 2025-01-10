@@ -1,1 +1,0 @@
-[["Vincent_van_Gogh", "Claude_Monet", "Princeton_University"], ["Vincent_van_Gogh", "New_York_City", "Princeton_University"]]

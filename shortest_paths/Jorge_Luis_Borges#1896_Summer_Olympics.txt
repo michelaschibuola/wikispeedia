@@ -1,1 +1,0 @@
-[["Jorge_Luis_Borges", "Christianity", "1896_Summer_Olympics"], ["Jorge_Luis_Borges", "Europe", "1896_Summer_Olympics"], ["Jorge_Luis_Borges", "France", "1896_Summer_Olympics"], ["Jorge_Luis_Borges", "Germany", "1896_Summer_Olympics"], ["Jorge_Luis_Borges", "Switzerland", "1896_Summer_Olympics"]]

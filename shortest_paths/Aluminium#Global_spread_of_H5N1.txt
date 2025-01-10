@@ -1,1 +1,0 @@
-[["Aluminium", "China", "Global_spread_of_H5N1"], ["Aluminium", "Middle_East", "Global_spread_of_H5N1"], ["Aluminium", "People%27s_Republic_of_China", "Global_spread_of_H5N1"], ["Aluminium", "Russia", "Global_spread_of_H5N1"]]

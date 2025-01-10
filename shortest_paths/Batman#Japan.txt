@@ -1,1 +1,0 @@
-[["Batman", "Crime", "Japan"], ["Batman", "Earthquake", "Japan"], ["Batman", "Christian_Bale", "Japan"], ["Batman", "Ronald_Reagan", "Japan"]]

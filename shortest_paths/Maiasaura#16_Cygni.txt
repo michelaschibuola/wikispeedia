@@ -1,1 +1,0 @@
-[["Maiasaura", "Animal", "Planetary_habitability", "16_Cygni"], ["Maiasaura", "Reptile", "Sun", "16_Cygni"]]

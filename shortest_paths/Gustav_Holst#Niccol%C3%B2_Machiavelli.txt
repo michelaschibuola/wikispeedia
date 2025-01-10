@@ -1,1 +1,0 @@
-[["Gustav_Holst", "France", "Niccol%C3%B2_Machiavelli"], ["Gustav_Holst", "Italy", "Niccol%C3%B2_Machiavelli"], ["Gustav_Holst", "Spain", "Niccol%C3%B2_Machiavelli"]]

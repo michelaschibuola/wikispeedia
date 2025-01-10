@@ -1,1 +1,0 @@
-[["Semiconductor_device", "Electron", "Plutonium"], ["Semiconductor_device", "Japan", "Plutonium"], ["Semiconductor_device", "Silicon", "Plutonium"], ["Semiconductor_device", "United_States", "Plutonium"], ["Semiconductor_device", "University_of_Chicago", "Plutonium"]]

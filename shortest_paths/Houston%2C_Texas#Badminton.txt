@@ -1,1 +1,0 @@
-[["Houston%2C_Texas", "Asia", "Badminton"], ["Houston%2C_Texas", "France", "Badminton"]]

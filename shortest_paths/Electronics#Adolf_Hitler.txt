@@ -1,1 +1,0 @@
-[["Electronics", "Gold", "Adolf_Hitler"], ["Electronics", "Paris", "Adolf_Hitler"], ["Electronics", "United_States", "Adolf_Hitler"]]

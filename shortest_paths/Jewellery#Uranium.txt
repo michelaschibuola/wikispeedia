@@ -1,1 +1,0 @@
-[["Jewellery", "Birmingham", "Uranium"], ["Jewellery", "Australia", "Uranium"], ["Jewellery", "England", "Uranium"], ["Jewellery", "Glass", "Uranium"], ["Jewellery", "Gold", "Uranium"], ["Jewellery", "Metal", "Uranium"], ["Jewellery", "Silver", "Uranium"]]

@@ -1,1 +1,0 @@
-[["Gliding", "Australia", "Trench_warfare"], ["Gliding", "Germany", "Trench_warfare"], ["Gliding", "United_States", "Trench_warfare"], ["Gliding", "World_War_I", "Trench_warfare"], ["Gliding", "World_War_II", "Trench_warfare"]]

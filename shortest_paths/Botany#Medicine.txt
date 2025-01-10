@@ -1,1 +1,0 @@
-[["Botany", "Biology", "Medicine"], ["Botany", "Animal", "Medicine"], ["Botany", "Biodiversity", "Medicine"], ["Botany", "Oxygen", "Medicine"], ["Botany", "Pollution", "Medicine"], ["Botany", "Tobacco", "Medicine"], ["Botany", "Virus", "Medicine"], ["Botany", "Carolus_Linnaeus", "Medicine"], ["Botany", "Charles_Darwin", "Medicine"], ["Botany", "Roman_Vishniac", "Medicine"]]

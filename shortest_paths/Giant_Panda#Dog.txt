@@ -1,1 +1,0 @@
-[["Giant_Panda", "Bear", "Dog"], ["Giant_Panda", "Animal", "Dog"], ["Giant_Panda", "Chordate", "Dog"], ["Giant_Panda", "DNA", "Dog"], ["Giant_Panda", "Egg_%28food%29", "Dog"], ["Giant_Panda", "Germany", "Dog"], ["Giant_Panda", "Mammal", "Dog"], ["Giant_Panda", "Scientific_classification", "Dog"]]

@@ -1,1 +1,0 @@
-[["Trigonometry", "History_of_science", "Rome"], ["Trigonometry", "Nicolaus_Copernicus", "Rome"], ["Trigonometry", "Architecture", "Rome"], ["Trigonometry", "Mesopotamia", "Rome"]]

@@ -1,1 +1,0 @@
-[["J._K._Rowling", "French_language", "Lyon"], ["J._K._Rowling", "Paris", "Lyon"]]

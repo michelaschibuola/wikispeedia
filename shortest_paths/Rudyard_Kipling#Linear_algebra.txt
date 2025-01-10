@@ -1,1 +1,0 @@
-[["Rudyard_Kipling", "Australia", "Linear_algebra"], ["Rudyard_Kipling", "Germany", "Linear_algebra"], ["Rudyard_Kipling", "India", "Linear_algebra"], ["Rudyard_Kipling", "Japan", "Linear_algebra"], ["Rudyard_Kipling", "United_Kingdom", "Linear_algebra"]]

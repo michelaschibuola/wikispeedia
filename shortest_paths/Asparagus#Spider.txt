@@ -1,1 +1,0 @@
-[["Asparagus", "California", "Spider"], ["Asparagus", "China", "Spider"], ["Asparagus", "Japan", "Spider"], ["Asparagus", "Scientific_classification", "Spider"], ["Asparagus", "United_States", "Spider"]]

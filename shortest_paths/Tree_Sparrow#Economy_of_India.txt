@@ -1,1 +1,0 @@
-[["Tree_Sparrow", "Australia", "Economy_of_India"], ["Tree_Sparrow", "Germany", "Economy_of_India"], ["Tree_Sparrow", "United_States", "Economy_of_India"]]

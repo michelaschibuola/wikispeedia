@@ -1,1 +1,0 @@
-[["Space_Shuttle_program", "Earth", "Hebrew_language"], ["Space_Shuttle_program", "United_States", "Hebrew_language"]]

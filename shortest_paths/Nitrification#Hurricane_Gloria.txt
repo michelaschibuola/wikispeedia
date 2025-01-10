@@ -1,1 +1,0 @@
-[["Nitrification", "Russia", "Iceland", "Hurricane_Gloria"], ["Nitrification", "Russia", "Tropical_cyclone", "Hurricane_Gloria"]]

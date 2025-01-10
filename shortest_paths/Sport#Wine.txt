@@ -1,1 +1,0 @@
-[["Sport", "Australia", "Wine"], ["Sport", "Fishing", "Wine"], ["Sport", "New_Zealand", "Wine"], ["Sport", "Ancient_Greece", "Wine"], ["Sport", "Iran", "Wine"], ["Sport", "South_Africa", "Wine"], ["Sport", "United_States", "Wine"]]

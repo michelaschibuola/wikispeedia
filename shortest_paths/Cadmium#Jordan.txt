@@ -1,1 +1,0 @@
-[["Cadmium", "United_States", "Jordan"], ["Cadmium", "World_War_I", "Jordan"]]

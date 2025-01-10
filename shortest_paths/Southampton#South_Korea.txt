@@ -1,1 +1,0 @@
-[["Southampton", "Law", "South_Korea"], ["Southampton", "Asia", "South_Korea"], ["Southampton", "Australia", "South_Korea"], ["Southampton", "Canada", "South_Korea"], ["Southampton", "China", "South_Korea"], ["Southampton", "Football_%28soccer%29", "South_Korea"], ["Southampton", "Germany", "South_Korea"]]

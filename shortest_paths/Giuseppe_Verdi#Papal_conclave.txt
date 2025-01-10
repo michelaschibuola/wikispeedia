@@ -1,1 +1,0 @@
-[["Giuseppe_Verdi", "Milan", "Papal_conclave"], ["Giuseppe_Verdi", "Rome", "Papal_conclave"]]

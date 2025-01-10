@@ -1,1 +1,0 @@
-[["Eurasian_Collared_Dove", "Europe", "Mentha"], ["Eurasian_Collared_Dove", "Scientific_classification", "Mentha"]]

@@ -1,1 +1,0 @@
-[["Liechtenstein", "Croatia", "Marco_Polo"], ["Liechtenstein", "Japan", "Marco_Polo"], ["Liechtenstein", "Uzbekistan", "Marco_Polo"]]

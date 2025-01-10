@@ -1,1 +1,0 @@
-[["Tashkent", "Europe", "Ronald_Reagan"], ["Tashkent", "Moscow", "Ronald_Reagan"], ["Tashkent", "Soviet_Union", "Ronald_Reagan"]]

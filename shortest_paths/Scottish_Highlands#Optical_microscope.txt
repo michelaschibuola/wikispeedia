@@ -1,1 +1,0 @@
-[["Scottish_Highlands", "Geography", "Earth%27s_atmosphere", "Optical_microscope"], ["Scottish_Highlands", "Precambrian", "Earth%27s_atmosphere", "Optical_microscope"], ["Scottish_Highlands", "Papua_New_Guinea", "Mineral", "Optical_microscope"]]

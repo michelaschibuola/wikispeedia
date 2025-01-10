@@ -1,1 +1,0 @@
-[["J._R._R._Tolkien", "Birmingham", "Weapon"], ["J._R._R._Tolkien", "Ancient_Rome", "Weapon"], ["J._R._R._Tolkien", "Soviet_Union", "Weapon"], ["J._R._R._Tolkien", "United_States", "Weapon"], ["J._R._R._Tolkien", "World_War_I", "Weapon"]]

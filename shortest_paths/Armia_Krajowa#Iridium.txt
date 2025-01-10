@@ -1,1 +1,0 @@
-[["Armia_Krajowa", "London", "Iridium"]]

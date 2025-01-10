@@ -1,1 +1,0 @@
-[["Amazon_River", "Agriculture", "Soil_moisture"]]

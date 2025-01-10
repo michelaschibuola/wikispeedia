@@ -1,1 +1,0 @@
-[["Henry_Ford", "United_States", "Babe_Ruth"]]

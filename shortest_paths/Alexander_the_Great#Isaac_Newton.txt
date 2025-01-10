@@ -1,1 +1,0 @@
-[["Alexander_the_Great", "Aristotle", "Isaac_Newton"], ["Alexander_the_Great", "London", "Isaac_Newton"], ["Alexander_the_Great", "Philosophy", "Isaac_Newton"], ["Alexander_the_Great", "Gold_standard", "Isaac_Newton"]]

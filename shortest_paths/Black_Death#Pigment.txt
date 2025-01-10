@@ -1,1 +1,0 @@
-[["Black_Death", "France", "Pigment"], ["Black_Death", "Germany", "Pigment"]]

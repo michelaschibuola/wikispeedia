@@ -1,1 +1,0 @@
-[["Imperial_Japanese_Navy", "China", "Art"], ["Imperial_Japanese_Navy", "Europe", "Art"], ["Imperial_Japanese_Navy", "France", "Art"]]

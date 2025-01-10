@@ -1,1 +1,0 @@
-[["Sport", "United_Kingdom", "Exploration_of_Mars"], ["Sport", "United_States", "Exploration_of_Mars"]]

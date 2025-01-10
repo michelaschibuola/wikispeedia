@@ -1,1 +1,0 @@
-[["Blue_Whale", "United_States", "Oxbow_lake"]]

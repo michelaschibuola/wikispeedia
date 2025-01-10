@@ -1,1 +1,0 @@
-[["Chelsea_F.C.", "Athens", "Fed_Cup"], ["Chelsea_F.C.", "Italy", "Fed_Cup"], ["Chelsea_F.C.", "London", "Fed_Cup"], ["Chelsea_F.C.", "Russia", "Fed_Cup"], ["Chelsea_F.C.", "Soviet_Union", "Fed_Cup"], ["Chelsea_F.C.", "Nottingham", "Fed_Cup"]]

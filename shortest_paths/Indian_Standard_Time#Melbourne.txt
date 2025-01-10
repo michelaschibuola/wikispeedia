@@ -1,1 +1,0 @@
-[["Indian_Standard_Time", "India", "Melbourne"], ["Indian_Standard_Time", "United_Kingdom", "Melbourne"]]

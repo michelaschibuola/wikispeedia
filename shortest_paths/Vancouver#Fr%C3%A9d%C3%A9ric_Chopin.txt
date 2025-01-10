@@ -1,1 +1,0 @@
-[["Vancouver", "England", "Fr%C3%A9d%C3%A9ric_Chopin"], ["Vancouver", "London", "Fr%C3%A9d%C3%A9ric_Chopin"], ["Vancouver", "Scotland", "Fr%C3%A9d%C3%A9ric_Chopin"]]

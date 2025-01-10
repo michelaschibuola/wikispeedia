@@ -1,1 +1,0 @@
-[["Portsmouth", "Football_%28soccer%29", "Berlin"], ["Portsmouth", "France", "Berlin"], ["Portsmouth", "London", "Berlin"], ["Portsmouth", "Olympic_Games", "Berlin"], ["Portsmouth", "Spain", "Berlin"], ["Portsmouth", "World_War_II", "Berlin"]]

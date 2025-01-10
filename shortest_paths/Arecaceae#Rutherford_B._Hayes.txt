@@ -1,1 +1,0 @@
-[["Arecaceae", "Florida", "Rutherford_B._Hayes"], ["Arecaceae", "Oregon", "Rutherford_B._Hayes"]]

@@ -1,1 +1,0 @@
-[["Indian_Ocean", "Australia", "Extinction"], ["Indian_Ocean", "Coconut_crab", "Extinction"], ["Indian_Ocean", "Cretaceous", "Extinction"], ["Indian_Ocean", "Earth", "Extinction"], ["Indian_Ocean", "Humpback_Whale", "Extinction"], ["Indian_Ocean", "India", "Extinction"], ["Indian_Ocean", "Madagascar", "Extinction"], ["Indian_Ocean", "Pollution", "Extinction"]]

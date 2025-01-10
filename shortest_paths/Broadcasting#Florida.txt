@@ -1,1 +1,0 @@
-[["Broadcasting", "Germany", "Florida"], ["Broadcasting", "United_States", "Florida"], ["Broadcasting", "World_War_II", "Florida"]]

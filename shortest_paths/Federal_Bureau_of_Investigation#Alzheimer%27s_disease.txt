@@ -1,1 +1,0 @@
-[["Federal_Bureau_of_Investigation", "DNA", "Alzheimer%27s_disease"], ["Federal_Bureau_of_Investigation", "Ronald_Reagan", "Alzheimer%27s_disease"]]

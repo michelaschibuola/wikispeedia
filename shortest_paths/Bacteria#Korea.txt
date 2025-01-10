@@ -1,1 +1,0 @@
-[["Bacteria", "Protein", "Korea"], ["Bacteria", "Shrimp_farm", "Korea"]]

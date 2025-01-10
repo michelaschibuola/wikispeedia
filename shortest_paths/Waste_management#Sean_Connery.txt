@@ -1,1 +1,0 @@
-[["Waste_management", "Australia", "Sean_Connery"], ["Waste_management", "France", "Sean_Connery"], ["Waste_management", "United_States", "Sean_Connery"]]

@@ -1,1 +1,0 @@
-[["Jamaica", "English_language", "Bread"], ["Jamaica", "Ethiopia", "Bread"], ["Jamaica", "Europe", "Bread"], ["Jamaica", "India", "Bread"], ["Jamaica", "Judaism", "Bread"], ["Jamaica", "Sugar", "Bread"], ["Jamaica", "United_States", "Bread"]]

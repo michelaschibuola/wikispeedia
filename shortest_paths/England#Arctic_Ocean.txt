@@ -1,1 +1,0 @@
-[["England", "Bird_migration", "Arctic_Ocean"], ["England", "Atlantic_Ocean", "Arctic_Ocean"], ["England", "Europe", "Arctic_Ocean"], ["England", "Norway", "Arctic_Ocean"], ["England", "Rain", "Arctic_Ocean"], ["England", "Season", "Arctic_Ocean"], ["England", "Snow", "Arctic_Ocean"], ["England", "United_Kingdom", "Arctic_Ocean"]]

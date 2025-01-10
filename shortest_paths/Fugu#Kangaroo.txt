@@ -1,1 +1,0 @@
-[["Fugu", "Animal", "Kangaroo"], ["Fugu", "Chordate", "Kangaroo"], ["Fugu", "Scientific_classification", "Kangaroo"], ["Fugu", "United_States", "Kangaroo"]]

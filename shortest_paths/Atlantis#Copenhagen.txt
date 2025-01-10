@@ -1,1 +1,0 @@
-[["Atlantis", "Europe", "Copenhagen"], ["Atlantis", "North_Sea", "Copenhagen"], ["Atlantis", "Sweden", "Copenhagen"], ["Atlantis", "Turkey", "Copenhagen"]]

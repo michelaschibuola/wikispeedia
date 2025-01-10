@@ -1,1 +1,0 @@
-[["Italy", "Automobile", "Autorack"], ["Italy", "Germany", "Autorack"], ["Italy", "United_States", "Autorack"], ["Italy", "Los_Angeles%2C_California", "Autorack"]]

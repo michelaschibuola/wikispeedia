@@ -1,1 +1,0 @@
-[["Chromatic_aberration", "Glass", "Germany", "Ordination_of_women"], ["Chromatic_aberration", "Glass", "Water", "Ordination_of_women"], ["Chromatic_aberration", "Photography", "United_States", "Ordination_of_women"]]

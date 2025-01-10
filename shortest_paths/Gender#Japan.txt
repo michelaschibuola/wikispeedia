@@ -1,1 +1,0 @@
-[["Gender", "Ammonite", "Japan"], ["Gender", "Culture", "Japan"], ["Gender", "Christianity", "Japan"], ["Gender", "Electronics", "Japan"], ["Gender", "English_language", "Japan"], ["Gender", "Portuguese_language", "Japan"], ["Gender", "Taoism", "Japan"], ["Gender", "Liberalism", "Japan"], ["Gender", "Nationalism", "Japan"], ["Gender", "Toy", "Japan"]]

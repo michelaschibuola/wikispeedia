@@ -1,1 +1,0 @@
-[["Zulu", "South_Africa", "Aluminium"], ["Zulu", "English_language", "Aluminium"]]

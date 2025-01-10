@@ -1,1 +1,0 @@
-[["Ethnic_group", "Community", "Plant"], ["Ethnic_group", "DNA", "Plant"]]

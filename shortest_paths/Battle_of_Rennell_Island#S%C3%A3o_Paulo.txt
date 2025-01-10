@@ -1,1 +1,0 @@
-[["Battle_of_Rennell_Island", "Australia", "S%C3%A3o_Paulo"], ["Battle_of_Rennell_Island", "Japan", "S%C3%A3o_Paulo"], ["Battle_of_Rennell_Island", "United_States", "S%C3%A3o_Paulo"]]

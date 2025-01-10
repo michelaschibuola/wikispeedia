@@ -1,1 +1,0 @@
-[["Diabetes_mellitus", "Austria", "Adolf_Hitler"], ["Diabetes_mellitus", "India", "Adolf_Hitler"], ["Diabetes_mellitus", "United_Kingdom", "Adolf_Hitler"]]

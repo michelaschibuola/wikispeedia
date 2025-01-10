@@ -1,1 +1,0 @@
-[["Vampire_bat", "Argentina", "Jew"], ["Vampire_bat", "Brazil", "Jew"], ["Vampire_bat", "Chile", "Jew"], ["Vampire_bat", "Mexico", "Jew"]]

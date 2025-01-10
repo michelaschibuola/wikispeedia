@@ -1,1 +1,0 @@
-[["Tay-Sachs_disease", "Jew", "German_language", "Svart%C3%A1lfar"], ["Tay-Sachs_disease", "United_Kingdom", "German_language", "Svart%C3%A1lfar"], ["Tay-Sachs_disease", "United_States", "German_language", "Svart%C3%A1lfar"], ["Tay-Sachs_disease", "United_States", "Norse_mythology", "Svart%C3%A1lfar"]]

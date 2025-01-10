@@ -1,1 +1,0 @@
-[["Hey_Jude", "United_States", "Ronald_Reagan"], ["Hey_Jude", "Vietnam_War", "Ronald_Reagan"]]

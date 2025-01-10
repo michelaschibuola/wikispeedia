@@ -1,1 +1,0 @@
-[["Ammonia", "Agriculture", "Kuwait"], ["Ammonia", "Fish", "Kuwait"], ["Ammonia", "India", "Kuwait"], ["Ammonia", "United_States", "Kuwait"]]

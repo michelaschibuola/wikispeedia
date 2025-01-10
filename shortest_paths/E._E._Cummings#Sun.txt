@@ -1,1 +1,0 @@
-[["E._E._Cummings", "Latin", "Sun"], ["E._E._Cummings", "Mexico", "Sun"]]

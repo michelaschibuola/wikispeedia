@@ -1,1 +1,0 @@
-[["Life", "Animal", "Domesticated_turkey"]]

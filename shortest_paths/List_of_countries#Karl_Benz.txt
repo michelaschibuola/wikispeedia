@@ -1,1 +1,0 @@
-[["List_of_countries", "Germany", "Karl_Benz"], ["List_of_countries", "Paris", "Karl_Benz"], ["List_of_countries", "Stuttgart", "Karl_Benz"]]

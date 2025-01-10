@@ -1,1 +1,0 @@
-[["2004_Indian_Ocean_earthquake", "Canada", "Leif_Ericson"], ["2004_Indian_Ocean_earthquake", "President_of_the_United_States", "Leif_Ericson"]]

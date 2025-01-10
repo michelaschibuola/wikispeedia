@@ -1,1 +1,0 @@
-[["William_III_of_England", "Magna_Carta", "Woodrow_Wilson"], ["William_III_of_England", "Princeton_University", "Woodrow_Wilson"], ["William_III_of_England", "France", "Woodrow_Wilson"], ["William_III_of_England", "London", "Woodrow_Wilson"], ["William_III_of_England", "Northern_Ireland", "Woodrow_Wilson"]]

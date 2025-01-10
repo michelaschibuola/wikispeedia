@@ -1,1 +1,0 @@
-[["Maglev_train", "Japan", "Flag_of_the_Republic_of_China"], ["Maglev_train", "Shanghai", "Flag_of_the_Republic_of_China"], ["Maglev_train", "Tokyo", "Flag_of_the_Republic_of_China"], ["Maglev_train", "People%27s_Republic_of_China", "Flag_of_the_Republic_of_China"]]

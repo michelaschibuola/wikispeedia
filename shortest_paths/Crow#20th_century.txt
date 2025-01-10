@@ -1,1 +1,0 @@
-[["Crow", "Africa", "20th_century"], ["Crow", "Asia", "20th_century"], ["Crow", "Europe", "20th_century"], ["Crow", "South_America", "20th_century"], ["Crow", "Slovenia", "20th_century"]]

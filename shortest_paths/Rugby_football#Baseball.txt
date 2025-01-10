@@ -1,1 +1,0 @@
-[["Rugby_football", "American_football", "Baseball"], ["Rugby_football", "Football_%28soccer%29", "Baseball"], ["Rugby_football", "Mexico", "Baseball"], ["Rugby_football", "North_America", "Baseball"], ["Rugby_football", "Samoa", "Baseball"]]

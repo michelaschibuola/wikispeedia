@@ -1,1 +1,0 @@
-[["Medieval_literature", "Byzantine_Empire", "Roman_Greece"], ["Medieval_literature", "Philosophy", "Roman_Greece"]]

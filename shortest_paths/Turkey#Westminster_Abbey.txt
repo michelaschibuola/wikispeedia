@@ -1,1 +1,0 @@
-[["Turkey", "Florence_Nightingale", "Westminster_Abbey"], ["Turkey", "11th_century", "Westminster_Abbey"], ["Turkey", "France", "Westminster_Abbey"], ["Turkey", "United_Kingdom", "Westminster_Abbey"]]

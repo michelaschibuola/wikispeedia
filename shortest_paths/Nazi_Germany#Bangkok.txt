@@ -1,1 +1,0 @@
-[["Nazi_Germany", "Finland", "Bangkok"], ["Nazi_Germany", "Judaism", "Bangkok"], ["Nazi_Germany", "English_language", "Bangkok"], ["Nazi_Germany", "United_States", "Bangkok"], ["Nazi_Germany", "Russia", "Bangkok"]]

@@ -1,1 +1,0 @@
-[["Alligator", "Spain", "Hopman_Cup"], ["Alligator", "United_States", "Hopman_Cup"]]

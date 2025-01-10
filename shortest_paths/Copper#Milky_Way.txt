@@ -1,1 +1,0 @@
-[["Copper", "Ammonia", "Milky_Way"], ["Copper", "Armenia", "Milky_Way"], ["Copper", "Beryllium", "Milky_Way"]]

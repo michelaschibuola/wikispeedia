@@ -1,1 +1,0 @@
-[["Black_Rhinoceros", "Animal", "Paleontology"], ["Black_Rhinoceros", "Binomial_nomenclature", "Paleontology"], ["Black_Rhinoceros", "Carolus_Linnaeus", "Paleontology"], ["Black_Rhinoceros", "Mammal", "Paleontology"]]

@@ -1,1 +1,0 @@
-[["Siege", "Military_dictatorship", "Chile"], ["Siege", "Napoleon_I_of_France", "Chile"], ["Siege", "North_America", "Chile"], ["Siege", "Singapore", "Chile"], ["Siege", "Turkey", "Chile"], ["Siege", "United_States", "Chile"]]

@@ -1,1 +1,0 @@
-[["Thiamine", "DNA", "Virus", "Windows_Vista"], ["Thiamine", "Coffee", "United_States_dollar", "Windows_Vista"], ["Thiamine", "Japan", "Bill_Gates", "Windows_Vista"], ["Thiamine", "Japan", "European_Union", "Windows_Vista"], ["Thiamine", "Sugar", "European_Union", "Windows_Vista"], ["Thiamine", "Water", "European_Union", "Windows_Vista"]]

@@ -1,1 +1,0 @@
-[["Brunei", "English_language", "Pashtun_people"], ["Brunei", "Europe", "Pashtun_people"], ["Brunei", "Islam", "Pashtun_people"], ["Brunei", "United_Kingdom", "Pashtun_people"], ["Brunei", "Israel", "Pashtun_people"], ["Brunei", "Saudi_Arabia", "Pashtun_people"], ["Brunei", "Turkey", "Pashtun_people"], ["Brunei", "United_States", "Pashtun_people"]]

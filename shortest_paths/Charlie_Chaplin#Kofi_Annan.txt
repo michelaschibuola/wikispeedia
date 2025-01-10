@@ -1,1 +1,0 @@
-[["Charlie_Chaplin", "Switzerland", "Kofi_Annan"], ["Charlie_Chaplin", "United_Kingdom", "Kofi_Annan"], ["Charlie_Chaplin", "United_States", "Kofi_Annan"]]

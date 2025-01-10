@@ -1,1 +1,0 @@
-[["Battle_of_Badr", "Christianity", "The_Beatles", "Synthesizer"], ["Battle_of_Badr", "Judaism", "New_York_City", "Synthesizer"], ["Battle_of_Badr", "Religion", "Blade_Runner", "Synthesizer"]]

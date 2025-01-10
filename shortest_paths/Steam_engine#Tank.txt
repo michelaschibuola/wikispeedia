@@ -1,1 +1,0 @@
-[["Steam_engine", "World_War_II", "Tank"], ["Steam_engine", "Weapon", "Tank"]]

@@ -1,1 +1,0 @@
-[["Ancient_Greece", "Aesthetics", "Humour"], ["Ancient_Greece", "Aristotle", "Humour"], ["Ancient_Greece", "Culture", "Humour"]]

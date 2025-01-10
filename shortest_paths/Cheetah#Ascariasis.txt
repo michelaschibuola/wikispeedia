@@ -1,1 +1,0 @@
-[["Cheetah", "Animal", "Ascariasis"], ["Cheetah", "Binomial_nomenclature", "Ascariasis"], ["Cheetah", "Scientific_classification", "Ascariasis"], ["Cheetah", "United_States", "Ascariasis"]]

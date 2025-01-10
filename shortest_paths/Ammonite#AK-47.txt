@@ -1,1 +1,0 @@
-[["Ammonite", "Canada", "AK-47"], ["Ammonite", "Germany", "AK-47"]]

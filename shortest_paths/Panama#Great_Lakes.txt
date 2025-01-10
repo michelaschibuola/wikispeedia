@@ -1,1 +1,0 @@
-[["Panama", "19th_century", "Great_Lakes"], ["Panama", "First_Transcontinental_Railroad", "Great_Lakes"], ["Panama", "North_America", "Great_Lakes"], ["Panama", "Atlantic_Ocean", "Great_Lakes"], ["Panama", "United_States", "Great_Lakes"]]

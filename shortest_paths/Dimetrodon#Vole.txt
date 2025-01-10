@@ -1,1 +1,0 @@
-[["Dimetrodon", "Animal", "Vole"], ["Dimetrodon", "Chordate", "Vole"], ["Dimetrodon", "Mammal", "Vole"], ["Dimetrodon", "Scientific_classification", "Vole"]]

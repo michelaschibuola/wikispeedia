@@ -1,1 +1,0 @@
-[["Synthesizer", "New_York_City", "Cooperative", "The_Relapse"], ["Synthesizer", "New_York_City", "Dublin", "The_Relapse"], ["Synthesizer", "U2", "Dublin", "The_Relapse"]]

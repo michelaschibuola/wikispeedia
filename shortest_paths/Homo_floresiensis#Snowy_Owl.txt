@@ -1,1 +1,0 @@
-[["Homo_floresiensis", "Animal", "Snowy_Owl"], ["Homo_floresiensis", "Binomial_nomenclature", "Snowy_Owl"], ["Homo_floresiensis", "Chordate", "Snowy_Owl"], ["Homo_floresiensis", "Scientific_classification", "Snowy_Owl"]]

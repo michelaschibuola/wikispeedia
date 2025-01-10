@@ -1,1 +1,0 @@
-[["Cattle", "Australia", "Poison_gas_in_World_War_I"], ["Cattle", "Canada", "Poison_gas_in_World_War_I"], ["Cattle", "France", "Poison_gas_in_World_War_I"], ["Cattle", "Horse", "Poison_gas_in_World_War_I"], ["Cattle", "Scotland", "Poison_gas_in_World_War_I"], ["Cattle", "Spain", "Poison_gas_in_World_War_I"], ["Cattle", "Uruguay", "Poison_gas_in_World_War_I"]]

@@ -1,1 +1,0 @@
-[["Jesus", "Athanasius_Kircher", "Malaria"], ["Jesus", "Egypt", "Malaria"], ["Jesus", "Europe", "Malaria"], ["Jesus", "Mother_Teresa", "Malaria"], ["Jesus", "Poverty", "Malaria"]]

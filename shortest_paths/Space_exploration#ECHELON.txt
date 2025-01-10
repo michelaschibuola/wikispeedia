@@ -1,1 +1,0 @@
-[["Space_exploration", "Japan", "ECHELON"], ["Space_exploration", "Cold_War", "ECHELON"], ["Space_exploration", "Germany", "ECHELON"], ["Space_exploration", "Russia", "ECHELON"], ["Space_exploration", "Soviet_Union", "ECHELON"], ["Space_exploration", "United_States", "ECHELON"], ["Space_exploration", "World_War_II", "ECHELON"]]

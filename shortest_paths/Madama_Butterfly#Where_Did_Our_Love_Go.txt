@@ -1,1 +1,0 @@
-[["Madama_Butterfly", "Italy", "German_language", "Where_Did_Our_Love_Go"], ["Madama_Butterfly", "Milan", "German_language", "Where_Did_Our_Love_Go"], ["Madama_Butterfly", "United_States", "German_language", "Where_Did_Our_Love_Go"], ["Madama_Butterfly", "United_States", "The_Supremes", "Where_Did_Our_Love_Go"]]

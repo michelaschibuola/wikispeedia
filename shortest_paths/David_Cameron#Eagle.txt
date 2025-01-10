@@ -1,1 +1,0 @@
-[["David_Cameron", "English_language", "Eagle"], ["David_Cameron", "Germany", "Eagle"], ["David_Cameron", "Hong_Kong", "Eagle"], ["David_Cameron", "United_States", "Eagle"]]

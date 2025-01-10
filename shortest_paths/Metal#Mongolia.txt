@@ -1,1 +1,0 @@
-[["Metal", "Copper", "Mongolia"], ["Metal", "Gold", "Mongolia"], ["Metal", "Japan", "Mongolia"], ["Metal", "Currency", "Mongolia"], ["Metal", "Taipei", "Mongolia"], ["Metal", "Tin", "Mongolia"]]

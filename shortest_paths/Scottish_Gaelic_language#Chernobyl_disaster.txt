@@ -1,1 +1,0 @@
-[["Scottish_Gaelic_language", "BBC", "Chernobyl_disaster"], ["Scottish_Gaelic_language", "Scotland", "Chernobyl_disaster"], ["Scottish_Gaelic_language", "Ireland", "Chernobyl_disaster"], ["Scottish_Gaelic_language", "Wales", "Chernobyl_disaster"], ["Scottish_Gaelic_language", "United_Kingdom", "Chernobyl_disaster"]]

@@ -1,1 +1,0 @@
-[["Polymerase_chain_reaction", "Bacteria", "Technetium"], ["Polymerase_chain_reaction", "Protein", "Technetium"]]

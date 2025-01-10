@@ -1,1 +1,0 @@
-[["Glorious_Revolution", "Roman_Catholic_Church", "Finland"], ["Glorious_Revolution", "United_Kingdom", "Finland"], ["Glorious_Revolution", "Liberalism", "Finland"]]

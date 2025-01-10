@@ -1,1 +1,0 @@
-[["Telescope", "San_Jose%2C_California", "Sony"], ["Telescope", "Japan", "Sony"], ["Telescope", "Radio", "Sony"]]

@@ -1,1 +1,0 @@
-[["Hurricane_Andrew", "Florida", "Train"], ["Hurricane_Andrew", "Miami%2C_Florida", "Train"], ["Hurricane_Andrew", "Tornado", "Train"], ["Hurricane_Andrew", "United_States", "Train"]]

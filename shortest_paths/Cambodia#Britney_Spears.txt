@@ -1,1 +1,0 @@
-[["Cambodia", "United_States", "Britney_Spears"], ["Cambodia", "United_States_dollar", "Britney_Spears"]]

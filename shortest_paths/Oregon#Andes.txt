@@ -1,1 +1,0 @@
-[["Oregon", "Arecaceae", "Andes"], ["Oregon", "Pacific_Ocean", "Andes"], ["Oregon", "Potato", "Andes"]]

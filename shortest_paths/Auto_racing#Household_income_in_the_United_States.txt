@@ -1,1 +1,0 @@
-[["Auto_racing", "Canada", "Household_income_in_the_United_States"], ["Auto_racing", "Germany", "Household_income_in_the_United_States"], ["Auto_racing", "United_States", "Household_income_in_the_United_States"]]

@@ -1,1 +1,0 @@
-[["Batman", "Bat", "China", "Lhasa"], ["Batman", "Scotland", "China", "Lhasa"], ["Batman", "Buckingham_Palace", "China", "Lhasa"], ["Batman", "Ronald_Reagan", "China", "Lhasa"], ["Batman", "Sesame_Street", "China", "Lhasa"], ["Batman", "Earthquake", "Himalayas", "Lhasa"], ["Batman", "Scotland", "Agriculture", "Lhasa"], ["Batman", "Ronald_Reagan", "20th_century", "Lhasa"]]

@@ -1,1 +1,0 @@
-[["Cheese", "English_language", "Harry_Potter"], ["Cheese", "France", "Harry_Potter"], ["Cheese", "People%27s_Republic_of_China", "Harry_Potter"], ["Cheese", "United_Kingdom", "Harry_Potter"], ["Cheese", "United_States", "Harry_Potter"]]

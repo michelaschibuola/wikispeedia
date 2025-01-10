@@ -1,1 +1,0 @@
-[["Guyana", "Canada", "Employment"], ["Guyana", "Government", "Employment"], ["Guyana", "Slavery", "Employment"], ["Guyana", "United_States", "Employment"]]

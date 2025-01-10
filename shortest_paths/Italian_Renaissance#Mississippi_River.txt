@@ -1,1 +1,0 @@
-[["Italian_Renaissance", "Europe", "Mississippi_River"], ["Italian_Renaissance", "Spain", "Mississippi_River"]]

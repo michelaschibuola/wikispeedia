@@ -1,1 +1,0 @@
-[["Portugal", "Bridge", "Hydrology"], ["Portugal", "Mediterranean_Sea", "Hydrology"], ["Portugal", "Ancient_Rome", "Hydrology"]]

@@ -1,1 +1,0 @@
-[["Jesus", "Almond", "Cancer"], ["Jesus", "Chicken", "Cancer"], ["Jesus", "China", "Cancer"], ["Jesus", "El_Hatillo_Municipality%2C_Miranda", "Cancer"], ["Jesus", "The_Holocaust", "Cancer"], ["Jesus", "Paul_McCartney", "Cancer"]]

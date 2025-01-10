@@ -1,1 +1,0 @@
-[["Dallas%2C_Texas", "Atlanta%2C_Georgia", "Athens"], ["Dallas%2C_Texas", "Canada", "Athens"], ["Dallas%2C_Texas", "City", "Athens"], ["Dallas%2C_Texas", "Global_city", "Athens"], ["Dallas%2C_Texas", "Los_Angeles%2C_California", "Athens"], ["Dallas%2C_Texas", "Spain", "Athens"], ["Dallas%2C_Texas", "United_States", "Athens"], ["Dallas%2C_Texas", "World_War_II", "Athens"]]

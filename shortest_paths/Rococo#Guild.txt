@@ -1,1 +1,0 @@
-[["Rococo", "Ottoman_Empire", "Guild"], ["Rococo", "France", "Guild"], ["Rococo", "Germany", "Guild"]]

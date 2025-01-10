@@ -1,1 +1,0 @@
-[["Polish-Lithuanian_Commonwealth", "Sweden", "Lithium"], ["Polish-Lithuanian_Commonwealth", "United_States", "Lithium"], ["Polish-Lithuanian_Commonwealth", "World_War_II", "Lithium"]]

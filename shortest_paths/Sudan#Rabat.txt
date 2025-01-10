@@ -1,1 +1,0 @@
-[["Sudan", "Africa", "Rabat"], ["Sudan", "Arabic_language", "Rabat"], ["Sudan", "Istanbul", "Rabat"], ["Sudan", "Morocco", "Rabat"], ["Sudan", "Spain", "Rabat"]]

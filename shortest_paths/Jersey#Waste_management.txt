@@ -1,1 +1,0 @@
-[["Jersey", "European_Union", "Waste_management"], ["Jersey", "France", "Waste_management"], ["Jersey", "United_States", "Waste_management"]]

@@ -1,1 +1,0 @@
-[["Rice", "British_Empire", "Adolf_Hitler"], ["Rice", "India", "Adolf_Hitler"], ["Rice", "France", "Adolf_Hitler"], ["Rice", "Italy", "Adolf_Hitler"], ["Rice", "Middle_East", "Adolf_Hitler"], ["Rice", "South_America", "Adolf_Hitler"], ["Rice", "United_States", "Adolf_Hitler"]]

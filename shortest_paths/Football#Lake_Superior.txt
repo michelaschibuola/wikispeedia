@@ -1,1 +1,0 @@
-[["Football", "Canada", "Lake_Superior"], ["Football", "North_America", "Lake_Superior"]]

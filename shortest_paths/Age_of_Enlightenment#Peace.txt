@@ -1,1 +1,0 @@
-[["Age_of_Enlightenment", "Evolution", "Peace"], ["Age_of_Enlightenment", "Politics", "Peace"], ["Age_of_Enlightenment", "World_War_II", "Peace"], ["Age_of_Enlightenment", "Ancient_Rome", "Peace"], ["Age_of_Enlightenment", "European_Union", "Peace"]]

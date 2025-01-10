@@ -1,1 +1,0 @@
-[["Quito", "Canada", "John_Cabot"], ["Quito", "Spain", "John_Cabot"]]

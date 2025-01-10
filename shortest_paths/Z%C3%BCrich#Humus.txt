@@ -1,1 +1,0 @@
-[["Z%C3%BCrich", "City", "Rain", "Humus"], ["Z%C3%BCrich", "Geneva", "Spring_%28season%29", "Humus"]]

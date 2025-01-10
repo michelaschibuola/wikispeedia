@@ -1,1 +1,0 @@
-[["Sound", "Electronics", "Computer", "Elementary_arithmetic"], ["Sound", "Mass_media", "Computer", "Elementary_arithmetic"], ["Sound", "Telephone", "Computer", "Elementary_arithmetic"], ["Sound", "Television", "Computer", "Elementary_arithmetic"], ["Sound", "Language", "Mathematics", "Elementary_arithmetic"], ["Sound", "Music", "Mathematics", "Elementary_arithmetic"]]

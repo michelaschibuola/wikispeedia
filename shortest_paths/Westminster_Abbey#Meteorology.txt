@@ -1,1 +1,0 @@
-[["Westminster_Abbey", "Christopher_Wren", "Meteorology"], ["Westminster_Abbey", "20th_century", "Meteorology"]]

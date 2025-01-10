@@ -1,1 +1,0 @@
-[["Basel", "Austria", "Queen_%28band%29"], ["Basel", "France", "Queen_%28band%29"], ["Basel", "Germany", "Queen_%28band%29"]]

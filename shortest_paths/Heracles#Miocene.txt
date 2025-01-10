@@ -1,1 +1,0 @@
-[["Heracles", "Japan", "Miocene"], ["Heracles", "Mediterranean_Sea", "Miocene"]]

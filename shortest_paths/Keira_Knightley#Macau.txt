@@ -1,1 +1,0 @@
-[["Keira_Knightley", "Japan", "Macau"], ["Keira_Knightley", "United_States", "Macau"]]

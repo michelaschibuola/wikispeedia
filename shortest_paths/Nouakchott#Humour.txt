@@ -1,1 +1,0 @@
-[["Nouakchott", "Africa", "Culture", "Humour"], ["Nouakchott", "Africa", "Cattle", "Humour"], ["Nouakchott", "Sahara", "Cattle", "Humour"], ["Nouakchott", "French_language", "Education", "Humour"]]

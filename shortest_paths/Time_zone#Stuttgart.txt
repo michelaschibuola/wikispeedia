@@ -1,1 +1,0 @@
-[["Time_zone", "Budapest", "Stuttgart"], ["Time_zone", "Cairo", "Stuttgart"], ["Time_zone", "Germany", "Stuttgart"], ["Time_zone", "Japan", "Stuttgart"], ["Time_zone", "Mumbai", "Stuttgart"], ["Time_zone", "United_States", "Stuttgart"], ["Time_zone", "World_War_II", "Stuttgart"], ["Time_zone", "Wales", "Stuttgart"]]

@@ -1,1 +1,0 @@
-[["AK-47", "Australia", "Earth"], ["AK-47", "Canada", "Earth"], ["AK-47", "Russia", "Earth"], ["AK-47", "Russian_language", "Earth"], ["AK-47", "Spanish_language", "Earth"], ["AK-47", "United_Kingdom", "Earth"]]

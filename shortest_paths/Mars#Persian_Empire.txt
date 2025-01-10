@@ -1,1 +1,0 @@
-[["Mars", "Astronomy", "Persian_Empire"], ["Mars", "Ancient_Greece", "Persian_Empire"], ["Mars", "China", "Persian_Empire"], ["Mars", "Soviet_Union", "Persian_Empire"]]

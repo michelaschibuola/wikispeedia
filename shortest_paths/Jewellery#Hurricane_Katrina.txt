@@ -1,1 +1,0 @@
-[["Jewellery", "India", "Hurricane_Katrina"], ["Jewellery", "North_America", "Hurricane_Katrina"], ["Jewellery", "Russia", "Hurricane_Katrina"], ["Jewellery", "Sri_Lanka", "Hurricane_Katrina"]]

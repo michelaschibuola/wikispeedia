@@ -1,1 +1,0 @@
-[["Binoculars", "Comet", "Water"], ["Binoculars", "United_Kingdom", "Water"], ["Binoculars", "United_States", "Water"], ["Binoculars", "Comet_Hyakutake", "Water"], ["Binoculars", "Saturn", "Water"], ["Binoculars", "Sun", "Water"]]

@@ -1,1 +1,0 @@
-[["Set", "19th_century", "Ethiopia", "Zebra"], ["Set", "19th_century", "Kenya", "Zebra"], ["Set", "19th_century", "Lion", "Zebra"], ["Set", "19th_century", "Ostrich", "Zebra"]]

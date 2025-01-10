@@ -1,1 +1,0 @@
-[["Great_Red_Spot", "Comet_Shoemaker-Levy_9", "Roche_limit"], ["Great_Red_Spot", "Earth", "Roche_limit"], ["Great_Red_Spot", "Jupiter", "Roche_limit"], ["Great_Red_Spot", "Neptune", "Roche_limit"], ["Great_Red_Spot", "Saturn", "Roche_limit"], ["Great_Red_Spot", "Solar_System", "Roche_limit"]]

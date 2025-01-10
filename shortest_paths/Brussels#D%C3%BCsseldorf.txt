@@ -1,1 +1,0 @@
-[["Brussels", "Cologne", "D%C3%BCsseldorf"], ["Brussels", "European_Union", "D%C3%BCsseldorf"], ["Brussels", "Germany", "D%C3%BCsseldorf"], ["Brussels", "List_of_countries", "D%C3%BCsseldorf"], ["Brussels", "United_Kingdom", "D%C3%BCsseldorf"], ["Brussels", "Global_city", "D%C3%BCsseldorf"]]

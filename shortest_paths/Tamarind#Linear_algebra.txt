@@ -1,1 +1,0 @@
-[["Tamarind", "India", "Linear_algebra"]]

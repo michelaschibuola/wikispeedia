@@ -1,1 +1,0 @@
-[["Cold_War", "Capitalism", "Guild"], ["Cold_War", "India", "Guild"], ["Cold_War", "United_States", "Guild"], ["Cold_War", "Europe", "Guild"], ["Cold_War", "Propaganda", "Guild"]]

@@ -1,1 +1,0 @@
-[["Potato", "Andes", "Antarctica"], ["Potato", "Chile", "Antarctica"], ["Potato", "Europe", "Antarctica"], ["Potato", "South_America", "Antarctica"], ["Potato", "United_States", "Antarctica"]]

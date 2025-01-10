@@ -1,1 +1,0 @@
-[["Mars", "21st_century", "6th_century"], ["Mars", "China", "6th_century"], ["Mars", "Japan", "6th_century"], ["Mars", "Vietnam", "6th_century"]]

@@ -1,1 +1,0 @@
-[["Foie_gras", "Israel", "Dubai"], ["Foie_gras", "Jew", "Dubai"], ["Foie_gras", "Russia", "Dubai"], ["Foie_gras", "Switzerland", "Dubai"], ["Foie_gras", "United_Kingdom", "Dubai"]]

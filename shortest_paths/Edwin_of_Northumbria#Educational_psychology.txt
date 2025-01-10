@@ -1,1 +1,0 @@
-[["Edwin_of_Northumbria", "Christianity", "Human", "Educational_psychology"], ["Edwin_of_Northumbria", "Christianity", "Plato", "Educational_psychology"]]

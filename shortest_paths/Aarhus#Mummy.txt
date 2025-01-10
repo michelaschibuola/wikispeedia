@@ -1,1 +1,0 @@
-[["Aarhus", "Denmark", "Mummy"], ["Aarhus", "Germany", "Mummy"], ["Aarhus", "Science", "Mummy"], ["Aarhus", "Sweden", "Mummy"], ["Aarhus", "United_Kingdom", "Mummy"]]

@@ -1,1 +1,0 @@
-[["Football", "Canada", "Black_panther"], ["Football", "China", "Black_panther"], ["Football", "Ireland", "Black_panther"], ["Football", "North_America", "Black_panther"], ["Football", "Scotland", "Black_panther"], ["Football", "Spain", "Black_panther"]]

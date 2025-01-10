@@ -1,1 +1,0 @@
-[["Alligator", "China", "Sichuan_Pepper"], ["Alligator", "United_States", "Sichuan_Pepper"]]

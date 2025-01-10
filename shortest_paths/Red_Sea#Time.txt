@@ -1,1 +1,0 @@
-[["Red_Sea", "Egypt", "Time"], ["Red_Sea", "Bible", "Time"], ["Red_Sea", "God", "Time"], ["Red_Sea", "Measurement", "Time"]]

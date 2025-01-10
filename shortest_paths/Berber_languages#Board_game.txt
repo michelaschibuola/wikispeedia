@@ -1,1 +1,0 @@
-[["Berber_languages", "Ancient_Egypt", "Board_game"], ["Berber_languages", "20th_century", "Board_game"], ["Berber_languages", "Egypt", "Board_game"]]

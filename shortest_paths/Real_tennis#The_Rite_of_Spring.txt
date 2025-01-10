@@ -1,1 +1,0 @@
-[["Real_tennis", "Paris", "The_Rite_of_Spring"], ["Real_tennis", "United_States", "The_Rite_of_Spring"], ["Real_tennis", "World_War_I", "The_Rite_of_Spring"]]

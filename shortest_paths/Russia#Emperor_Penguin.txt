@@ -1,1 +1,0 @@
-[["Russia", "Antarctica", "Emperor_Penguin"], ["Russia", "Krill", "Emperor_Penguin"]]

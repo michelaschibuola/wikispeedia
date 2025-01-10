@@ -1,1 +1,0 @@
-[["Badminton", "France", "French_Polynesia"], ["Badminton", "Oceania", "French_Polynesia"]]

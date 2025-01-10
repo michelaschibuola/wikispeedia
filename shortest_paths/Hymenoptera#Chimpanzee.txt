@@ -1,1 +1,0 @@
-[["Hymenoptera", "Animal", "Chimpanzee"], ["Hymenoptera", "Scientific_classification", "Chimpanzee"]]

@@ -1,1 +1,0 @@
-[["Marie_Curie", "Jew", "Bob_Dylan"], ["Marie_Curie", "United_States", "Bob_Dylan"]]

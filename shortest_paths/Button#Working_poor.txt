@@ -1,1 +1,0 @@
-[["Button", "Aachen", "United_States", "Working_poor"], ["Button", "Chinese_language", "United_States", "Working_poor"], ["Button", "Europe", "United_States", "Working_poor"], ["Button", "Ancient_Rome", "Family", "Working_poor"]]

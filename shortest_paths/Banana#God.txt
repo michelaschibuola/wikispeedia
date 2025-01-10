@@ -1,1 +1,0 @@
-[["Banana", "Buddhism", "God"], ["Banana", "China", "God"], ["Banana", "India", "God"], ["Banana", "Islam", "God"], ["Banana", "United_States", "God"], ["Banana", "Sanssouci", "God"]]

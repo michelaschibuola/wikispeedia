@@ -1,1 +1,0 @@
-[["Helium", "Carbon_dioxide", "Scotland"], ["Helium", "Canada", "Scotland"], ["Helium", "Poland", "Scotland"], ["Helium", "United_States", "Scotland"], ["Helium", "Washington%2C_D.C.", "Scotland"], ["Helium", "World_War_II", "Scotland"]]

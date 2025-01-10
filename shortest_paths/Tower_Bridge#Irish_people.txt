@@ -1,1 +1,0 @@
-[["Tower_Bridge", "England", "Irish_people"], ["Tower_Bridge", "President_of_the_United_States", "Irish_people"]]

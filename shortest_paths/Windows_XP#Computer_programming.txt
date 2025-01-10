@@ -1,1 +1,0 @@
-[["Windows_XP", "Linux", "Computer_programming"], ["Windows_XP", "Microsoft_Windows", "Computer_programming"], ["Windows_XP", "Central_processing_unit", "Computer_programming"], ["Windows_XP", "Microsoft", "Computer_programming"]]

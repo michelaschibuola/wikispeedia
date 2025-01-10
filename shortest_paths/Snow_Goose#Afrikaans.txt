@@ -1,1 +1,0 @@
-[["Snow_Goose", "Canada", "Afrikaans"], ["Snow_Goose", "Scotland", "Afrikaans"], ["Snow_Goose", "United_States", "Afrikaans"]]

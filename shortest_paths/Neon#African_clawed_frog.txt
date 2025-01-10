@@ -1,1 +1,0 @@
-[["Neon", "Aluminium", "South_Africa", "African_clawed_frog"], ["Neon", "Diamond", "South_Africa", "African_clawed_frog"], ["Neon", "Earth", "South_Africa", "African_clawed_frog"], ["Neon", "Granite", "South_Africa", "African_clawed_frog"], ["Neon", "Earth", "Animal", "African_clawed_frog"], ["Neon", "Phosphorus", "Animal", "African_clawed_frog"]]

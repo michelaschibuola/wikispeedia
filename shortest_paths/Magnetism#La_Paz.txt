@@ -1,1 +1,0 @@
-[["Magnetism", "Silver", "La_Paz"], ["Magnetism", "Tin", "La_Paz"]]

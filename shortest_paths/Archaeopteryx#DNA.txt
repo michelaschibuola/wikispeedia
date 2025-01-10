@@ -1,1 +1,0 @@
-[["Archaeopteryx", "Animal", "DNA"], ["Archaeopteryx", "Evolution", "DNA"], ["Archaeopteryx", "Fossil", "DNA"], ["Archaeopteryx", "The_Origin_of_Species", "DNA"], ["Archaeopteryx", "Dinosaur", "DNA"], ["Archaeopteryx", "History_of_Earth", "DNA"]]

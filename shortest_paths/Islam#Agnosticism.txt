@@ -1,1 +1,0 @@
-[["Islam", "Brazil", "Agnosticism"], ["Islam", "Deity", "Agnosticism"], ["Islam", "European_Union", "Agnosticism"], ["Islam", "God", "Agnosticism"], ["Islam", "Religion", "Agnosticism"], ["Islam", "Jew", "Agnosticism"], ["Islam", "Philosophy", "Agnosticism"]]

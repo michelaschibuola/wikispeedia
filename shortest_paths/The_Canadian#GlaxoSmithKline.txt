@@ -1,1 +1,0 @@
-[["The_Canadian", "Philadelphia", "GlaxoSmithKline"], ["The_Canadian", "United_States", "GlaxoSmithKline"]]

@@ -1,1 +1,0 @@
-[["Cape_Horn", "Africa", "H5N1"], ["Cape_Horn", "United_States", "H5N1"]]

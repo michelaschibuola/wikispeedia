@@ -1,1 +1,0 @@
-[["Marshall_Plan", "France", "Order_of_the_Thistle"], ["Marshall_Plan", "United_Kingdom", "Order_of_the_Thistle"], ["Marshall_Plan", "Winston_Churchill", "Order_of_the_Thistle"]]

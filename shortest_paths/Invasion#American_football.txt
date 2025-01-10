@@ -1,1 +1,0 @@
-[["Invasion", "Blitzkrieg", "American_football"], ["Invasion", "Europe", "American_football"], ["Invasion", "Japan", "American_football"], ["Invasion", "United_Kingdom", "American_football"], ["Invasion", "United_States", "American_football"], ["Invasion", "World_War_II", "American_football"]]

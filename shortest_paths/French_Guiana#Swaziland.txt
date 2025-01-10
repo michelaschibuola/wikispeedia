@@ -1,1 +1,0 @@
-[["French_Guiana", "Chad", "Swaziland"], ["French_Guiana", "Democratic_Republic_of_the_Congo", "Swaziland"], ["French_Guiana", "Djibouti", "Swaziland"], ["French_Guiana", "Driving_on_the_left_or_right", "Swaziland"], ["French_Guiana", "Rainforest", "Swaziland"], ["French_Guiana", "Madagascar", "Swaziland"], ["French_Guiana", "Rwanda", "Swaziland"]]

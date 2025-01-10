@@ -1,1 +1,0 @@
-[["Stonehenge", "Berlin", "Al_Jazeera"], ["Stonehenge", "United_States", "Al_Jazeera"]]

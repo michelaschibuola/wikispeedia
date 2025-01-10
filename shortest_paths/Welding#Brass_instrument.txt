@@ -1,1 +1,0 @@
-[["Welding", "Corrosion", "Brass_instrument"], ["Welding", "Aluminium", "Brass_instrument"], ["Welding", "Copper", "Brass_instrument"], ["Welding", "Russia", "Brass_instrument"]]

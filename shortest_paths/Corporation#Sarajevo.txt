@@ -1,1 +1,0 @@
-[["Corporation", "Austria", "Sarajevo"], ["Corporation", "Canada", "Sarajevo"], ["Corporation", "Germany", "Sarajevo"], ["Corporation", "Italy", "Sarajevo"], ["Corporation", "Roman_Empire", "Sarajevo"], ["Corporation", "Sweden", "Sarajevo"], ["Corporation", "University", "Sarajevo"]]

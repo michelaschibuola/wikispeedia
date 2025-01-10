@@ -1,1 +1,0 @@
-[["Common_cold", "United_Kingdom", "Yes_Minister"]]

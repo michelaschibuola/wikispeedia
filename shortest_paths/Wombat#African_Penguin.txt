@@ -1,1 +1,0 @@
-[["Wombat", "Animal", "African_Penguin"], ["Wombat", "Chordate", "African_Penguin"], ["Wombat", "Scientific_classification", "African_Penguin"]]

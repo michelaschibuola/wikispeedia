@@ -1,1 +1,0 @@
-[["Persian_Gulf", "Qatar", "Helium"], ["Persian_Gulf", "World_War_I", "Helium"]]

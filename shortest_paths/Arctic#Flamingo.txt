@@ -1,1 +1,0 @@
-[["Arctic", "Cretaceous", "Flamingo"], ["Arctic", "Eocene", "Flamingo"], ["Arctic", "Fossil_record", "Flamingo"]]

@@ -1,1 +1,0 @@
-[["12th_century", "England", "George_Fox"], ["12th_century", "Ireland", "George_Fox"], ["12th_century", "Amsterdam", "George_Fox"]]

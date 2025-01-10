@@ -1,1 +1,0 @@
-[["Richard_Feynman", "History_of_computing_hardware", "Computer_programming"]]

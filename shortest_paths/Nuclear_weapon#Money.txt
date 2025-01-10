@@ -1,1 +1,0 @@
-[["Nuclear_weapon", "Gold", "Money"], ["Nuclear_weapon", "China", "Money"]]

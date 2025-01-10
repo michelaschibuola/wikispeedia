@@ -1,1 +1,0 @@
-[["Athens", "Ancient_Greece", "Pleiades_%28star_cluster%29"], ["Athens", "Europe", "Pleiades_%28star_cluster%29"], ["Athens", "Greece", "Pleiades_%28star_cluster%29"], ["Athens", "Homer", "Pleiades_%28star_cluster%29"], ["Athens", "Viking", "Pleiades_%28star_cluster%29"]]

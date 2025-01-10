@@ -1,1 +1,0 @@
-[["Sculpture", "Ancient_history", "Africa"], ["Sculpture", "Civilization", "Africa"], ["Sculpture", "Middle_Ages", "Africa"], ["Sculpture", "Roman_Empire", "Africa"], ["Sculpture", "Ancient_Greece", "Africa"], ["Sculpture", "Asia", "Africa"], ["Sculpture", "France", "Africa"], ["Sculpture", "Zimbabwe", "Africa"]]

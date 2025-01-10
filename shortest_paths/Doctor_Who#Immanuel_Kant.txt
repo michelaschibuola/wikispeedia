@@ -1,1 +1,0 @@
-[["Doctor_Who", "Germany", "Immanuel_Kant"], ["Doctor_Who", "Russia", "Immanuel_Kant"]]

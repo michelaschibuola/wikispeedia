@@ -1,1 +1,0 @@
-[["Botswana", "Currency", "Stock"], ["Botswana", "United_Kingdom", "Stock"], ["Botswana", "United_States", "Stock"]]

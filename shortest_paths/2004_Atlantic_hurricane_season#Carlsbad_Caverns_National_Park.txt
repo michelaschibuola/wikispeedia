@@ -1,1 +1,0 @@
-[["2004_Atlantic_hurricane_season", "Mexico", "Carlsbad_Caverns_National_Park"], ["2004_Atlantic_hurricane_season", "United_States", "Carlsbad_Caverns_National_Park"]]

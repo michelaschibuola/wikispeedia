@@ -1,1 +1,0 @@
-[["Vampire_bat", "Animal", "Tasmanian_Devil"], ["Vampire_bat", "Chordate", "Tasmanian_Devil"], ["Vampire_bat", "Mammal", "Tasmanian_Devil"], ["Vampire_bat", "Scientific_classification", "Tasmanian_Devil"]]

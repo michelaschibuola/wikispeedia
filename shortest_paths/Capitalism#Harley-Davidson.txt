@@ -1,1 +1,0 @@
-[["Capitalism", "England", "Harley-Davidson"], ["Capitalism", "Soviet_Union", "Harley-Davidson"], ["Capitalism", "United_States", "Harley-Davidson"], ["Capitalism", "Employment", "Harley-Davidson"], ["Capitalism", "Industry", "Harley-Davidson"], ["Capitalism", "World_War_I", "Harley-Davidson"]]

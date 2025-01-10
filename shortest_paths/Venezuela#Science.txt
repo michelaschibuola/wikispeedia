@@ -1,1 +1,0 @@
-[["Venezuela", "19th_century", "Science"], ["Venezuela", "United_States", "Science"]]

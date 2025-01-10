@@ -1,1 +1,0 @@
-[["Maglev_train", "Electricity", "Computer", "Chemical_synapse"], ["Maglev_train", "United_Kingdom", "Computer", "Chemical_synapse"], ["Maglev_train", "Nitrogen", "Morphine", "Chemical_synapse"], ["Maglev_train", "United_Kingdom", "Morphine", "Chemical_synapse"]]

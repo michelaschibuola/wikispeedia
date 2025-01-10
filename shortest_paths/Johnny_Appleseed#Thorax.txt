@@ -1,1 +1,0 @@
-[["Johnny_Appleseed", "Apple", "Insect", "Thorax"], ["Johnny_Appleseed", "Art", "Human", "Thorax"], ["Johnny_Appleseed", "Literature", "Human", "Thorax"], ["Johnny_Appleseed", "New_York_City", "Human", "Thorax"], ["Johnny_Appleseed", "United_States", "Spider", "Thorax"]]

@@ -1,1 +1,0 @@
-[["Madagascar", "Continent", "Geology"], ["Madagascar", "Dinosaur", "Geology"], ["Madagascar", "French_language", "Geology"], ["Madagascar", "China", "Geology"], ["Madagascar", "Europe", "Geology"], ["Madagascar", "Stonehenge", "Geology"]]

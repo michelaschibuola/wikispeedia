@@ -1,1 +1,0 @@
-[["Fish", "Agriculture", "Alcohol"], ["Fish", "Europe", "Alcohol"], ["Fish", "Oxygen", "Alcohol"], ["Fish", "Goa", "Alcohol"], ["Fish", "Mercury_%28element%29", "Alcohol"]]

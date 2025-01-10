@@ -1,1 +1,0 @@
-[["Louis_Armstrong", "New_York_City", "Santa_Claus"], ["Louis_Armstrong", "Russia", "Santa_Claus"], ["Louis_Armstrong", "United_States", "Santa_Claus"]]

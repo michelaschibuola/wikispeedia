@@ -1,1 +1,0 @@
-[["Homer", "Ancient_history", "Australia"], ["Homer", "Asia", "Australia"], ["Homer", "Cheese", "Australia"], ["Homer", "History_of_Greece", "Australia"], ["Homer", "19th_century", "Australia"], ["Homer", "Art", "Australia"], ["Homer", "Italy", "Australia"], ["Homer", "Sulfur", "Australia"], ["Homer", "The_Cantos", "Australia"], ["Homer", "Wine", "Australia"]]

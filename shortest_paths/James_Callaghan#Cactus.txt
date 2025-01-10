@@ -1,1 +1,0 @@
-[["James_Callaghan", "Israel", "Cactus"], ["James_Callaghan", "United_States", "Cactus"]]

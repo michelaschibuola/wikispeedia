@@ -1,1 +1,0 @@
-[["Machu_Picchu", "Civilization", "House"], ["Machu_Picchu", "Archaeology", "House"], ["Machu_Picchu", "India", "House"], ["Machu_Picchu", "Roman_villa", "House"]]

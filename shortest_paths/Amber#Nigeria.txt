@@ -1,1 +1,0 @@
-[["Amber", "Coal", "Nigeria"], ["Amber", "Lebanon", "Nigeria"], ["Amber", "Russia", "Nigeria"], ["Amber", "Turkey", "Nigeria"], ["Amber", "United_States", "Nigeria"]]

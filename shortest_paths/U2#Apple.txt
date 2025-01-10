@@ -1,1 +1,0 @@
-[["U2", "Ireland", "Apple"], ["U2", "Bible", "Apple"], ["U2", "France", "Apple"], ["U2", "New_Zealand", "Apple"], ["U2", "North_America", "Apple"], ["U2", "United_States", "Apple"]]

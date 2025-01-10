@@ -1,1 +1,0 @@
-[["Oregon", "Linus_Pauling", "Gregor_Mendel"]]

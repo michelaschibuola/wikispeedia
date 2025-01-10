@@ -1,1 +1,0 @@
-[["Saint_Kitts_and_Nevis", "Monarchy", "Election"], ["Saint_Kitts_and_Nevis", "United_Kingdom", "Election"], ["Saint_Kitts_and_Nevis", "United_States", "Election"]]

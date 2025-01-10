@@ -1,1 +1,0 @@
-[["Rain", "Earth", "Day"], ["Rain", "Earth%27s_atmosphere", "Day"], ["Rain", "Sun", "Day"], ["Rain", "United_States", "Day"], ["Rain", "Water", "Day"], ["Rain", "Venus", "Day"]]

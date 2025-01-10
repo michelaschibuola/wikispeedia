@@ -1,1 +1,0 @@
-[["Loch_Ness", "England", "Bermuda"], ["Loch_Ness", "United_Kingdom", "Bermuda"]]

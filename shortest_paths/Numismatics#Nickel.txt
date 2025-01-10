@@ -1,1 +1,0 @@
-[["Numismatics", "Coin", "Nickel"], ["Numismatics", "Metal", "Nickel"], ["Numismatics", "Gold", "Nickel"], ["Numismatics", "Silver", "Nickel"]]

@@ -1,1 +1,0 @@
-[["Corporation", "Broadcasting", "Fermi_paradox"], ["Corporation", "Human", "Fermi_paradox"]]

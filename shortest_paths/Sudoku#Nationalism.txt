@@ -1,1 +1,0 @@
-[["Sudoku", "Globalization", "Nationalism"], ["Sudoku", "Newspaper", "Nationalism"], ["Sudoku", "English_language", "Nationalism"], ["Sudoku", "Italy", "Nationalism"], ["Sudoku", "Japan", "Nationalism"]]

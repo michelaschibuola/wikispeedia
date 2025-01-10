@@ -1,1 +1,0 @@
-[["Algiers", "England", "Windsor_Castle"], ["Algiers", "London", "Windsor_Castle"], ["Algiers", "United_Kingdom", "Windsor_Castle"]]

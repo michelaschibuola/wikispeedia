@@ -1,1 +1,0 @@
-[["United_Kingdom", "Comics", "The_Legend_of_Zelda_series"], ["United_Kingdom", "Computer_and_video_games", "The_Legend_of_Zelda_series"], ["United_Kingdom", "Japan", "The_Legend_of_Zelda_series"], ["United_Kingdom", "Mass_media", "The_Legend_of_Zelda_series"]]

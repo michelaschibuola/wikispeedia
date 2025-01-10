@@ -1,1 +1,0 @@
-[["Speed_of_light", "Electron", "Gadolinium"], ["Speed_of_light", "Magnetism", "Gadolinium"], ["Speed_of_light", "Neutron", "Gadolinium"]]

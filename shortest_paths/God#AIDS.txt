@@ -1,1 +1,0 @@
-[["God", "Famine", "AIDS"], ["God", "France", "AIDS"], ["God", "India", "AIDS"], ["God", "United_States", "AIDS"], ["God", "Zimbabwe", "AIDS"], ["God", "Human", "AIDS"], ["God", "Pope_Benedict_XVI", "AIDS"], ["God", "Poverty", "AIDS"], ["God", "Roman_Catholic_Church", "AIDS"]]

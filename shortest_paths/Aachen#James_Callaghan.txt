@@ -1,1 +1,0 @@
-[["Aachen", "England", "James_Callaghan"], ["Aachen", "United_States", "James_Callaghan"], ["Aachen", "World_War_II", "James_Callaghan"], ["Aachen", "Tony_Blair", "James_Callaghan"], ["Aachen", "Winston_Churchill", "James_Callaghan"]]

@@ -1,1 +1,0 @@
-[["Guinea", "United_States", "Finance"]]

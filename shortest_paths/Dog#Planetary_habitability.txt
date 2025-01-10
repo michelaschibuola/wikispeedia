@@ -1,1 +1,0 @@
-[["Dog", "Ammonia", "Planetary_habitability"], ["Dog", "Animal", "Planetary_habitability"]]

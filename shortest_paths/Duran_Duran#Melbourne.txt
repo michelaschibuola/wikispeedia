@@ -1,1 +1,0 @@
-[["Duran_Duran", "Australia", "Melbourne"], ["Duran_Duran", "Kylie_Minogue", "Melbourne"], ["Duran_Duran", "Sydney", "Melbourne"], ["Duran_Duran", "United_Kingdom", "Melbourne"], ["Duran_Duran", "United_States", "Melbourne"]]

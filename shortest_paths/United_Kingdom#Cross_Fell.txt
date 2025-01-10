@@ -1,1 +1,0 @@
-[["United_Kingdom", "Bog", "Cross_Fell"], ["United_Kingdom", "England", "Cross_Fell"], ["United_Kingdom", "Lake_District", "Cross_Fell"], ["United_Kingdom", "Pennine_Way", "Cross_Fell"], ["United_Kingdom", "Scotland", "Cross_Fell"], ["United_Kingdom", "South_Africa", "Cross_Fell"]]

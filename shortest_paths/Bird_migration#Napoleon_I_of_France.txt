@@ -1,1 +1,0 @@
-[["Bird_migration", "Atlantic_Ocean", "Napoleon_I_of_France"], ["Bird_migration", "India", "Napoleon_I_of_France"], ["Bird_migration", "Mediterranean_Sea", "Napoleon_I_of_France"], ["Bird_migration", "North_America", "Napoleon_I_of_France"], ["Bird_migration", "Norway", "Napoleon_I_of_France"]]

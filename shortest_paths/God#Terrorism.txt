@@ -1,1 +1,0 @@
-[["God", "Anarchism", "Terrorism"], ["God", "China", "Terrorism"], ["God", "United_States", "Terrorism"], ["God", "Henry_James", "Terrorism"], ["God", "Mosque", "Terrorism"], ["God", "Peace", "Terrorism"], ["God", "Poverty", "Terrorism"], ["God", "Zionism", "Terrorism"]]

@@ -1,1 +1,0 @@
-[["Rhode_Island", "Atlantic_Ocean", "Bissau"], ["Rhode_Island", "Capital", "Bissau"]]

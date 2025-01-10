@@ -1,1 +1,0 @@
-[["Molybdenum", "Animal", "Cattle"], ["Molybdenum", "Sweden", "Cattle"]]

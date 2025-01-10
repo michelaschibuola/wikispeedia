@@ -1,1 +1,0 @@
-[["Iridium", "Atom", "Renormalization"], ["Iridium", "Electron", "Renormalization"]]

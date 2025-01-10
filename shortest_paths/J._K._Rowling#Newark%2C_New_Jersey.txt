@@ -1,1 +1,0 @@
-[["J._K._Rowling", "England", "Newark%2C_New_Jersey"], ["J._K._Rowling", "People%27s_Republic_of_China", "Newark%2C_New_Jersey"], ["J._K._Rowling", "Portugal", "Newark%2C_New_Jersey"], ["J._K._Rowling", "United_States_dollar", "Newark%2C_New_Jersey"]]

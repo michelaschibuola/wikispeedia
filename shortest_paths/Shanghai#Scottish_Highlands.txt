@@ -1,1 +1,0 @@
-[["Shanghai", "England", "Scottish_Highlands"], ["Shanghai", "Europe", "Scottish_Highlands"], ["Shanghai", "Ireland", "Scottish_Highlands"], ["Shanghai", "Norway", "Scottish_Highlands"], ["Shanghai", "Sweden", "Scottish_Highlands"]]

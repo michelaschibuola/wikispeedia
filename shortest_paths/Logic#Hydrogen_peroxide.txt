@@ -1,1 +1,0 @@
-[["Logic", "Human", "Chlorine", "Hydrogen_peroxide"], ["Logic", "Human", "Earwax", "Hydrogen_peroxide"], ["Logic", "18th_century", "Phosphorus", "Hydrogen_peroxide"], ["Logic", "20th_century", "Phosphorus", "Hydrogen_peroxide"], ["Logic", "Philosophy", "Oxygen", "Hydrogen_peroxide"]]

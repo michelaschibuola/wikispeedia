@@ -1,1 +1,0 @@
-[["John_F._Kennedy_assassination", "Dallas%2C_Texas", "United_States_dollar"], ["John_F._Kennedy_assassination", "Abraham_Lincoln", "United_States_dollar"], ["John_F._Kennedy_assassination", "Franklin_D._Roosevelt", "United_States_dollar"], ["John_F._Kennedy_assassination", "United_States", "United_States_dollar"]]

@@ -1,1 +1,0 @@
-[["Music_of_Italy", "Austria", "Nazism"], ["Music_of_Italy", "Europe", "Nazism"], ["Music_of_Italy", "Italy", "Nazism"], ["Music_of_Italy", "Music", "Nazism"], ["Music_of_Italy", "Opera", "Nazism"], ["Music_of_Italy", "Richard_Wagner", "Nazism"], ["Music_of_Italy", "Romanticism", "Nazism"], ["Music_of_Italy", "World_War_I", "Nazism"], ["Music_of_Italy", "World_War_II", "Nazism"]]

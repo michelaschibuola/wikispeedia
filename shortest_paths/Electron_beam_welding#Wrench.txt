@@ -1,1 +1,0 @@
-[["Electron_beam_welding", "France", "Automobile", "Wrench"], ["Electron_beam_welding", "Paris", "Automobile", "Wrench"], ["Electron_beam_welding", "Volt", "Automobile", "Wrench"], ["Electron_beam_welding", "Welding", "Screw", "Wrench"]]

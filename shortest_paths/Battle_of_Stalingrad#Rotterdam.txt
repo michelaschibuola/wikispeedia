@@ -1,1 +1,0 @@
-[["Battle_of_Stalingrad", "Luftwaffe", "Rotterdam"], ["Battle_of_Stalingrad", "World_War_II", "Rotterdam"], ["Battle_of_Stalingrad", "Germany", "Rotterdam"]]

@@ -1,1 +1,0 @@
-[["Honey", "Argentina", "Formula_One"], ["Honey", "Europe", "Formula_One"], ["Honey", "Germany", "Formula_One"], ["Honey", "Greece", "Formula_One"], ["Honey", "India", "Formula_One"], ["Honey", "Middle_East", "Formula_One"], ["Honey", "Turkey", "Formula_One"], ["Honey", "United_Kingdom", "Formula_One"], ["Honey", "United_States", "Formula_One"]]

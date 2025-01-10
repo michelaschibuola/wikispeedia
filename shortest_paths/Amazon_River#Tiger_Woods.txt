@@ -1,1 +1,0 @@
-[["Amazon_River", "Pacific_Ocean", "Tiger_Woods"]]

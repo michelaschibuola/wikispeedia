@@ -1,1 +1,0 @@
-[["Tiktaalik", "Animal", "Nurse_sharks"], ["Tiktaalik", "Chordate", "Nurse_sharks"], ["Tiktaalik", "Fish", "Nurse_sharks"], ["Tiktaalik", "Scientific_classification", "Nurse_sharks"]]

@@ -1,1 +1,0 @@
-[["Silver", "Genghis_Khan", "12th_century"], ["Silver", "Maya_civilization", "12th_century"], ["Silver", "Middle_Ages", "12th_century"], ["Silver", "Peru", "12th_century"], ["Silver", "Sulfur", "12th_century"], ["Silver", "Trabancos_River", "12th_century"]]

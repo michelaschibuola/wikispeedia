@@ -1,1 +1,0 @@
-[["Skylark", "Africa", "Gold", "Prospecting"], ["Skylark", "Binomial_nomenclature", "Mineral", "Prospecting"], ["Skylark", "Evolution", "Mineral", "Prospecting"], ["Skylark", "Biodiversity", "Mining", "Prospecting"], ["Skylark", "North_America", "Mining", "Prospecting"], ["Skylark", "North_America", "Ammolite", "Prospecting"]]

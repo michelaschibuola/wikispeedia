@@ -1,1 +1,0 @@
-[["Sport", "20th_century", "War"], ["Sport", "Human_rights", "War"], ["Sport", "Ancient_Greece", "War"], ["Sport", "Nationalism", "War"], ["Sport", "United_States", "War"]]

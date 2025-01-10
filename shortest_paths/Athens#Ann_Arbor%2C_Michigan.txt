@@ -1,1 +1,0 @@
-[["Athens", "Chicago", "Ann_Arbor%2C_Michigan"], ["Athens", "Cuba", "Ann_Arbor%2C_Michigan"], ["Athens", "Germany", "Ann_Arbor%2C_Michigan"], ["Athens", "United_States", "Ann_Arbor%2C_Michigan"], ["Athens", "World_War_II", "Ann_Arbor%2C_Michigan"]]

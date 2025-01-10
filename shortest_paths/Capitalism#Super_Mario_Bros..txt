@@ -1,1 +1,0 @@
-[["Capitalism", "Europe", "Super_Mario_Bros."], ["Capitalism", "United_States", "Super_Mario_Bros."], ["Capitalism", "Italy", "Super_Mario_Bros."]]

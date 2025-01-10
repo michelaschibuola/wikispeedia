@@ -1,1 +1,0 @@
-[["David_Hume", "Currency", "Burkina_Faso"], ["David_Hume", "France", "Burkina_Faso"], ["David_Hume", "French_language", "Burkina_Faso"]]

@@ -1,1 +1,0 @@
-[["John_Pershing", "American_Civil_War", "University_of_Texas_at_Austin"], ["John_Pershing", "Mexico", "University_of_Texas_at_Austin"], ["John_Pershing", "World_War_II", "University_of_Texas_at_Austin"]]

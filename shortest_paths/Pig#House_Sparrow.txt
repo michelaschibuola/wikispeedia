@@ -1,1 +1,0 @@
-[["Pig", "Animal", "House_Sparrow"], ["Pig", "Carolus_Linnaeus", "House_Sparrow"], ["Pig", "Chordate", "House_Sparrow"], ["Pig", "Scientific_classification", "House_Sparrow"]]

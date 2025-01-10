@@ -1,1 +1,0 @@
-[["Berlin_Wall", "German_language", "Peru"], ["Berlin_Wall", "United_States", "Peru"], ["Berlin_Wall", "World_War_II", "Peru"], ["Berlin_Wall", "Europe", "Peru"]]

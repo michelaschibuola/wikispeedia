@@ -1,1 +1,0 @@
-[["Gettysburg_Address", "United_States", "Honduras"], ["Gettysburg_Address", "Manifest_Destiny", "Honduras"]]

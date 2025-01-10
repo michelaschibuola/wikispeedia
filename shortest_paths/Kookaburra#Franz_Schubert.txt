@@ -1,1 +1,0 @@
-[["Kookaburra", "Australia", "19th_century", "Franz_Schubert"], ["Kookaburra", "Bird", "19th_century", "Franz_Schubert"], ["Kookaburra", "Australia", "Opera", "Franz_Schubert"], ["Kookaburra", "Australia", "Austria", "Franz_Schubert"], ["Kookaburra", "Australia", "German_language", "Franz_Schubert"], ["Kookaburra", "Australia", "Walter_Scott", "Franz_Schubert"]]

@@ -1,1 +1,0 @@
-[["Condoleezza_Rice", "England", "Anguilla"], ["Condoleezza_Rice", "English_language", "Anguilla"], ["Condoleezza_Rice", "United_Kingdom", "Anguilla"], ["Condoleezza_Rice", "United_Nations", "Anguilla"], ["Condoleezza_Rice", "United_States", "Anguilla"]]

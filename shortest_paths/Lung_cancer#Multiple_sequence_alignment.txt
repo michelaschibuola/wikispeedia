@@ -1,1 +1,0 @@
-[["Lung_cancer", "DNA", "Multiple_sequence_alignment"]]

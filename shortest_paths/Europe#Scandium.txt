@@ -1,1 +1,0 @@
-[["Europe", "Dmitri_Mendeleev", "Scandium"], ["Europe", "Earth", "Scandium"], ["Europe", "Latin", "Scandium"], ["Europe", "Ukraine", "Scandium"], ["Europe", "Madagascar", "Scandium"], ["Europe", "United_States", "Scandium"], ["Europe", "Zinc", "Scandium"]]

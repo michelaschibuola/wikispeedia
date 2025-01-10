@@ -1,1 +1,0 @@
-[["Conakry", "Africa", "Robinson_Crusoe"], ["Conakry", "France", "Robinson_Crusoe"]]

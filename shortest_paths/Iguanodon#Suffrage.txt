@@ -1,1 +1,0 @@
-[["Iguanodon", "France", "Suffrage"], ["Iguanodon", "Germany", "Suffrage"], ["Iguanodon", "New_Zealand", "Suffrage"]]

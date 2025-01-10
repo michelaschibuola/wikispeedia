@@ -1,1 +1,0 @@
-[["South_Georgia_and_the_South_Sandwich_Islands", "Atlantic_Ocean", "Senegal"], ["South_Georgia_and_the_South_Sandwich_Islands", "List_of_circulating_currencies", "Senegal"], ["South_Georgia_and_the_South_Sandwich_Islands", "Currency", "Senegal"], ["South_Georgia_and_the_South_Sandwich_Islands", "Time_zone", "Senegal"]]

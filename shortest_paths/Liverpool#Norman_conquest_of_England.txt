@@ -1,1 +1,0 @@
-[["Liverpool", "England", "Norman_conquest_of_England"], ["Liverpool", "English_language", "Norman_conquest_of_England"], ["Liverpool", "Adolf_Hitler", "Norman_conquest_of_England"], ["Liverpool", "Ireland", "Norman_conquest_of_England"], ["Liverpool", "Wales", "Norman_conquest_of_England"]]

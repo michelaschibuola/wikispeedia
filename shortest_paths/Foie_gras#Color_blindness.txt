@@ -1,1 +1,0 @@
-[["Foie_gras", "Finland", "Color_blindness"], ["Foie_gras", "Hungary", "Color_blindness"]]

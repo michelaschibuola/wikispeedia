@@ -1,1 +1,0 @@
-[["Westminster_Abbey", "Charles_II_of_England", "The_Hague"], ["Westminster_Abbey", "James_II_of_England", "The_Hague"], ["Westminster_Abbey", "20th_century", "The_Hague"], ["Westminster_Abbey", "France", "The_Hague"], ["Westminster_Abbey", "William_III_of_England", "The_Hague"]]

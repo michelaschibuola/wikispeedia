@@ -1,1 +1,0 @@
-[["Ann_Arbor%2C_Michigan", "Time_zone", "Saint-Pierre_and_Miquelon"], ["Ann_Arbor%2C_Michigan", "United_States", "Saint-Pierre_and_Miquelon"], ["Ann_Arbor%2C_Michigan", "World_War_II", "Saint-Pierre_and_Miquelon"]]

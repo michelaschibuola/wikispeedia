@@ -1,1 +1,0 @@
-[["Strontium", "Ammolite", "Austria", "Harlem_Globetrotters"], ["Strontium", "Chernobyl_disaster", "Austria", "Harlem_Globetrotters"], ["Strontium", "Diamond", "Austria", "Harlem_Globetrotters"], ["Strontium", "Color", "Television", "Harlem_Globetrotters"], ["Strontium", "Yttrium", "Television", "Harlem_Globetrotters"]]

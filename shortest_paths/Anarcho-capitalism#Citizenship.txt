@@ -1,1 +1,0 @@
-[["Anarcho-capitalism", "Political_philosophy", "Citizenship"], ["Anarcho-capitalism", "Politics", "Citizenship"], ["Anarcho-capitalism", "Slavery", "Citizenship"], ["Anarcho-capitalism", "Liberalism", "Citizenship"]]

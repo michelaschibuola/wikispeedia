@@ -1,1 +1,0 @@
-[["Cologne", "20th_century", "Las_Vegas%2C_Nevada"], ["Cologne", "Spain", "Las_Vegas%2C_Nevada"], ["Cologne", "United_States", "Las_Vegas%2C_Nevada"], ["Cologne", "Queen_%28band%29", "Las_Vegas%2C_Nevada"]]

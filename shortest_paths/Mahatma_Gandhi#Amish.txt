@@ -1,1 +1,0 @@
-[["Mahatma_Gandhi", "Bible", "Amish"], ["Mahatma_Gandhi", "United_States", "Amish"], ["Mahatma_Gandhi", "Peace", "Amish"]]

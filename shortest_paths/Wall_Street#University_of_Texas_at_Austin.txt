@@ -1,1 +1,0 @@
-[["Wall_Street", "George_W._Bush", "University_of_Texas_at_Austin"], ["Wall_Street", "United_States", "University_of_Texas_at_Austin"]]

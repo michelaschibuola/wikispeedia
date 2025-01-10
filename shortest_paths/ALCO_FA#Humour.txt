@@ -1,1 +1,0 @@
-[["ALCO_FA", "Argentina", "Cattle", "Humour"], ["ALCO_FA", "Canada", "Cattle", "Humour"], ["ALCO_FA", "North_America", "Cattle", "Humour"], ["ALCO_FA", "Argentina", "Platypus", "Humour"], ["ALCO_FA", "Canada", "Newspaper", "Humour"], ["ALCO_FA", "Mexico", "Education", "Humour"]]

@@ -1,1 +1,0 @@
-[["Cairo", "Africa", "Swastika"], ["Cairo", "Asia", "Swastika"], ["Cairo", "Europe", "Swastika"], ["Cairo", "France", "Swastika"], ["Cairo", "Germany", "Swastika"], ["Cairo", "New_York_City", "Swastika"], ["Cairo", "Paris", "Swastika"], ["Cairo", "Roman_Empire", "Swastika"], ["Cairo", "United_States", "Swastika"], ["Cairo", "Islam", "Swastika"], ["Cairo", "Libya", "Swastika"]]

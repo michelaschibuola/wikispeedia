@@ -1,1 +1,0 @@
-[["Monty_Python", "Albatross", "Peru"], ["Monty_Python", "China", "Peru"], ["Monty_Python", "Music", "Peru"], ["Monty_Python", "United_States", "Peru"], ["Monty_Python", "World_War_II", "Peru"]]

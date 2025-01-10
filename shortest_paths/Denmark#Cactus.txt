@@ -1,1 +1,0 @@
-[["Denmark", "Argentina", "Cactus"], ["Denmark", "Canada", "Cactus"], ["Denmark", "Jew", "Cactus"], ["Denmark", "North_America", "Cactus"], ["Denmark", "Tree", "Cactus"], ["Denmark", "United_States", "Cactus"]]

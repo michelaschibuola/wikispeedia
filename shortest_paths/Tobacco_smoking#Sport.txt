@@ -1,1 +1,0 @@
-[["Tobacco_smoking", "20th_century", "Sport"], ["Tobacco_smoking", "Bicycle", "Sport"], ["Tobacco_smoking", "Multiple_sclerosis", "Sport"], ["Tobacco_smoking", "Australia", "Sport"], ["Tobacco_smoking", "New_Zealand", "Sport"], ["Tobacco_smoking", "United_Kingdom", "Sport"], ["Tobacco_smoking", "United_States", "Sport"]]

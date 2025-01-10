@@ -1,1 +1,0 @@
-[["Osama_bin_Laden", "21st_century", "Solar_eclipse"], ["Osama_bin_Laden", "Mosque", "Solar_eclipse"], ["Osama_bin_Laden", "Europe", "Solar_eclipse"]]

@@ -1,1 +1,0 @@
-[["Archaeology", "Culture", "Ecuador"], ["Archaeology", "Peru", "Ecuador"], ["Archaeology", "Spain", "Ecuador"], ["Archaeology", "United_States", "Ecuador"], ["Archaeology", "Bolivia", "Ecuador"], ["Archaeology", "Che_Guevara", "Ecuador"], ["Archaeology", "Rice", "Ecuador"]]

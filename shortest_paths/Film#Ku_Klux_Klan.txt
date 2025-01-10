@@ -1,1 +1,0 @@
-[["Film", "United_States", "Ku_Klux_Klan"], ["Film", "Los_Angeles%2C_California", "Ku_Klux_Klan"], ["Film", "Mount_Rushmore", "Ku_Klux_Klan"], ["Film", "Superman", "Ku_Klux_Klan"]]

@@ -1,1 +1,0 @@
-[["Tibet", "Geography_of_India", "Tide"], ["Tibet", "River", "Tide"]]

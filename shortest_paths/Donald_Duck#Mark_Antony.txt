@@ -1,1 +1,0 @@
-[["Donald_Duck", "Egypt", "Mark_Antony"], ["Donald_Duck", "Germany", "Mark_Antony"], ["Donald_Duck", "Greece", "Mark_Antony"], ["Donald_Duck", "Italy", "Mark_Antony"], ["Donald_Duck", "Propaganda", "Mark_Antony"]]

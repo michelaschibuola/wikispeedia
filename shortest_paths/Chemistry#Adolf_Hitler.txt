@@ -1,1 +1,0 @@
-[["Chemistry", "Albert_Einstein", "Adolf_Hitler"], ["Chemistry", "Alcohol", "Adolf_Hitler"], ["Chemistry", "Gold", "Adolf_Hitler"], ["Chemistry", "World_War_II", "Adolf_Hitler"], ["Chemistry", "John_von_Neumann", "Adolf_Hitler"], ["Chemistry", "Nobel_Peace_Prize", "Adolf_Hitler"]]

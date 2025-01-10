@@ -1,1 +1,0 @@
-[["Hebrew_language", "Earth", "Pluto"], ["Hebrew_language", "England", "Pluto"], ["Hebrew_language", "Saturn", "Pluto"]]

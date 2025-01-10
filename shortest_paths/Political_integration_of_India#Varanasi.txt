@@ -1,1 +1,0 @@
-[["Political_integration_of_India", "Delhi", "Varanasi"], ["Political_integration_of_India", "Hindi", "Varanasi"], ["Political_integration_of_India", "India", "Varanasi"]]

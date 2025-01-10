@@ -1,1 +1,0 @@
-[["Islam", "England", "M6_motorway"], ["Islam", "Hungary", "M6_motorway"], ["Islam", "United_Kingdom", "M6_motorway"], ["Islam", "Leeds", "M6_motorway"], ["Islam", "Liverpool", "M6_motorway"], ["Islam", "Republic_of_Ireland", "M6_motorway"], ["Islam", "Scotland", "M6_motorway"]]

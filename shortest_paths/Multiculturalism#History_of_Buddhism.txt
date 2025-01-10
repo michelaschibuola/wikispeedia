@@ -1,1 +1,0 @@
-[["Multiculturalism", "Arabic_language", "History_of_Buddhism"], ["Multiculturalism", "Christianity", "History_of_Buddhism"], ["Multiculturalism", "Fascism", "History_of_Buddhism"], ["Multiculturalism", "Islam", "History_of_Buddhism"]]

@@ -1,1 +1,0 @@
-[["United_States_Senate", "American_Civil_War", "Aircraft_carrier"], ["United_States_Senate", "Franklin_D._Roosevelt", "Aircraft_carrier"], ["United_States_Senate", "John_F._Kennedy", "Aircraft_carrier"], ["United_States_Senate", "Neil_Armstrong", "Aircraft_carrier"], ["United_States_Senate", "United_States", "Aircraft_carrier"]]

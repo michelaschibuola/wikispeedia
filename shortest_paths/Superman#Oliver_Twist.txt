@@ -1,1 +1,0 @@
-[["Superman", "Film", "Oliver_Twist"], ["Superman", "Jew", "Oliver_Twist"], ["Superman", "Television", "Oliver_Twist"], ["Superman", "United_States", "Oliver_Twist"]]

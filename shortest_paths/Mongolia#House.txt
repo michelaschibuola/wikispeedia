@@ -1,1 +1,0 @@
-[["Mongolia", "Library", "House"], ["Mongolia", "United_States", "House"], ["Mongolia", "Wind", "House"]]

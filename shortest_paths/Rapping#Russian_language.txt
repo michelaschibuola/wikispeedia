@@ -1,1 +1,0 @@
-[["Rapping", "Poetry", "Russian_language"], ["Rapping", "Christianity", "Russian_language"], ["Rapping", "New_York_City", "Russian_language"], ["Rapping", "Pope_John_Paul_II", "Russian_language"], ["Rapping", "United_States", "Russian_language"]]

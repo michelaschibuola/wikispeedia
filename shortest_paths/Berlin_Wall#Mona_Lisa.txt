@@ -1,1 +1,0 @@
-[["Berlin_Wall", "France", "Mona_Lisa"], ["Berlin_Wall", "Lyndon_B._Johnson", "Mona_Lisa"], ["Berlin_Wall", "United_States", "Mona_Lisa"], ["Berlin_Wall", "World_War_II", "Mona_Lisa"], ["Berlin_Wall", "Germany", "Mona_Lisa"], ["Berlin_Wall", "John_F._Kennedy", "Mona_Lisa"]]

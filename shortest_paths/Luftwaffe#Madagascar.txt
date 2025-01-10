@@ -1,1 +1,0 @@
-[["Luftwaffe", "Germany", "Madagascar"], ["Luftwaffe", "Europe", "Madagascar"], ["Luftwaffe", "United_Kingdom", "Madagascar"], ["Luftwaffe", "United_States", "Madagascar"], ["Luftwaffe", "World_War_II", "Madagascar"], ["Luftwaffe", "The_Holocaust", "Madagascar"]]

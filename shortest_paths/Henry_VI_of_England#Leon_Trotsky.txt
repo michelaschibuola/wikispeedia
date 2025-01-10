@@ -1,1 +1,0 @@
-[["Henry_VI_of_England", "France", "Leon_Trotsky"], ["Henry_VI_of_England", "London", "Leon_Trotsky"]]

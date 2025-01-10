@@ -1,1 +1,0 @@
-[["Humanities", "China", "British_Empire"], ["Humanities", "India", "British_Empire"], ["Humanities", "Persian_Empire", "British_Empire"], ["Humanities", "Society", "British_Empire"], ["Humanities", "United_States", "British_Empire"], ["Humanities", "World_War_II", "British_Empire"], ["Humanities", "Indian_Institutes_of_Technology", "British_Empire"]]

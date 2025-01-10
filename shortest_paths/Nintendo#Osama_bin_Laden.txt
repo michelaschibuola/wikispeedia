@@ -1,1 +1,0 @@
-[["Nintendo", "Europe", "Osama_bin_Laden"], ["Nintendo", "United_States", "Osama_bin_Laden"]]

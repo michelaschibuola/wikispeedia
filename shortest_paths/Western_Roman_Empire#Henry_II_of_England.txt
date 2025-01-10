@@ -1,1 +1,0 @@
-[["Western_Roman_Empire", "France", "Henry_II_of_England"], ["Western_Roman_Empire", "Hundred_Years%27_War", "Henry_II_of_England"], ["Western_Roman_Empire", "Mediterranean_Sea", "Henry_II_of_England"], ["Western_Roman_Empire", "Pope", "Henry_II_of_England"]]

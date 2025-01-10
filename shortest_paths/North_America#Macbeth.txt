@@ -1,1 +1,0 @@
-[["North_America", "British_monarchy", "Macbeth"], ["North_America", "Haiti", "Macbeth"], ["North_America", "Scotland", "Macbeth"], ["North_America", "Walter_Scott", "Macbeth"]]

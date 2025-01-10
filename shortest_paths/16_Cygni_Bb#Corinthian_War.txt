@@ -1,1 +1,0 @@
-[["16_Cygni_Bb", "Day", "Ancient_Egypt", "Corinthian_War"], ["16_Cygni_Bb", "Sun", "Ancient_Greece", "Corinthian_War"], ["16_Cygni_Bb", "Water", "Ancient_Greece", "Corinthian_War"], ["16_Cygni_Bb", "Sun", "Egypt", "Corinthian_War"]]

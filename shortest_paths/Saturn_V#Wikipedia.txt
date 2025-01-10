@@ -1,1 +1,0 @@
-[["Saturn_V", "Florida", "Wikipedia"], ["Saturn_V", "United_States_dollar", "Wikipedia"]]

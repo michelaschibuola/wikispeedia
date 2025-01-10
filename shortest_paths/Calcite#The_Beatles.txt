@@ -1,1 +1,0 @@
-[["Calcite", "Denmark", "The_Beatles"], ["Calcite", "Thomas_Pynchon", "The_Beatles"]]

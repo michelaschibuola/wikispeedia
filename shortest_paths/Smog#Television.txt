@@ -1,1 +1,0 @@
-[["Smog", "Los_Angeles%2C_California", "Television"], ["Smog", "California", "Television"], ["Smog", "Indonesia", "Television"]]

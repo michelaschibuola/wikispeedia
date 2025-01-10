@@ -1,1 +1,0 @@
-[["Macau", "English_language", "Magic__The_Gathering"], ["Macau", "Japan", "Magic__The_Gathering"], ["Macau", "Portuguese_language", "Magic__The_Gathering"]]

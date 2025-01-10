@@ -1,1 +1,0 @@
-[["Google", "Ann_Arbor%2C_Michigan", "Chicago"], ["Google", "Cereal", "Chicago"], ["Google", "Germany", "Chicago"], ["Google", "Industry", "Chicago"], ["Google", "Internet", "Chicago"], ["Google", "New_York_City", "Chicago"], ["Google", "United_States", "Chicago"], ["Google", "Hamburg", "Chicago"]]

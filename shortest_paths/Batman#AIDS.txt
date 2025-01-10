@@ -1,1 +1,0 @@
-[["Batman", "Ronald_Reagan", "AIDS"], ["Batman", "Sesame_Street", "AIDS"]]

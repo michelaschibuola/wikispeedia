@@ -1,1 +1,0 @@
-[["Natural_disaster", "Africa", "Jamaica"], ["Natural_disaster", "Cameroon", "Jamaica"], ["Natural_disaster", "India", "Jamaica"], ["Natural_disaster", "Thailand", "Jamaica"], ["Natural_disaster", "United_States", "Jamaica"]]

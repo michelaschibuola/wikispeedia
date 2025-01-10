@@ -1,1 +1,0 @@
-[["Psychology", "Germany", "Tower_of_London"], ["Psychology", "United_States", "Tower_of_London"], ["Psychology", "Weapon", "Tower_of_London"]]

@@ -1,1 +1,0 @@
-[["Coffee", "Indonesia", "Berlin"], ["Coffee", "Italy", "Berlin"], ["Coffee", "Turkey", "Berlin"], ["Coffee", "Vietnam", "Berlin"], ["Coffee", "Insulin", "Berlin"], ["Coffee", "Vienna", "Berlin"]]

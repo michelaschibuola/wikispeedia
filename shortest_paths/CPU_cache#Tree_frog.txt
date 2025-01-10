@@ -1,1 +1,0 @@
-[["CPU_cache", "Computer", "United_States", "Tree_frog"]]

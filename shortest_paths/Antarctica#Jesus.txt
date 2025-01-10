@@ -1,1 +1,0 @@
-[["Antarctica", "Europe", "Jesus"], ["Antarctica", "Eva_Per%C3%B3n", "Jesus"], ["Antarctica", "Pope_John_Paul_II", "Jesus"]]

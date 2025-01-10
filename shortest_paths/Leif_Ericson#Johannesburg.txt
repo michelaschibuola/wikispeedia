@@ -1,1 +1,0 @@
-[["Leif_Ericson", "Christianity", "Johannesburg"], ["Leif_Ericson", "Europe", "Johannesburg"], ["Leif_Ericson", "North_America", "Johannesburg"], ["Leif_Ericson", "United_States", "Johannesburg"]]

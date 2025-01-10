@@ -1,1 +1,0 @@
-[["Serbia", "Canada", "U2"], ["Serbia", "France", "U2"], ["Serbia", "Republic_of_Ireland", "U2"], ["Serbia", "Sarajevo", "U2"], ["Serbia", "United_Kingdom", "U2"]]

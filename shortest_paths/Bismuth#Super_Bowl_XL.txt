@@ -1,1 +1,0 @@
-[["Bismuth", "Canada", "Super_Bowl_XL"], ["Bismuth", "France", "Super_Bowl_XL"], ["Bismuth", "Mexico", "Super_Bowl_XL"], ["Bismuth", "United_Kingdom", "Super_Bowl_XL"], ["Bismuth", "United_States_dollar", "Super_Bowl_XL"]]

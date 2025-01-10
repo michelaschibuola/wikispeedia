@@ -1,1 +1,0 @@
-[["Munich", "Germany", "Bamako"], ["Munich", "France", "Bamako"], ["Munich", "United_States", "Bamako"]]

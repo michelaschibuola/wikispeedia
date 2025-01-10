@@ -1,1 +1,0 @@
-[["Swallow", "Swift", "France", "Bouvet_Island"]]

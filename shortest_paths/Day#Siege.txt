@@ -1,1 +1,0 @@
-[["Day", "Ancient_Egypt", "Siege"], ["Day", "Middle_Ages", "Siege"], ["Day", "United_States", "Siege"]]

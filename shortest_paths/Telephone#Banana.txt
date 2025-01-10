@@ -1,1 +1,0 @@
-[["Telephone", "20th_century", "Banana"], ["Telephone", "Argentina", "Banana"], ["Telephone", "United_States", "Banana"]]

@@ -1,1 +1,0 @@
-[["Pashtun_people", "Bangladesh", "Richard_Nixon"], ["Pashtun_people", "Indira_Gandhi", "Richard_Nixon"], ["Pashtun_people", "Israel", "Richard_Nixon"], ["Pashtun_people", "Middle_East", "Richard_Nixon"], ["Pashtun_people", "Pakistan", "Richard_Nixon"], ["Pashtun_people", "United_Nations", "Richard_Nixon"]]

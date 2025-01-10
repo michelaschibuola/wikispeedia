@@ -1,1 +1,0 @@
-[["Mango", "India", "Cholera"], ["Mango", "Africa", "Cholera"], ["Mango", "Bangladesh", "Cholera"], ["Mango", "China", "Cholera"], ["Mango", "Indonesia", "Cholera"], ["Mango", "Nigeria", "Cholera"], ["Mango", "North_America", "Cholera"], ["Mango", "Protein", "Cholera"], ["Mango", "South_America", "Cholera"]]

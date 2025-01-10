@@ -1,1 +1,0 @@
-[["Martin_Luther_King%2C_Jr.", "Canada", "Santa_Claus"], ["Martin_Luther_King%2C_Jr.", "New_York_City", "Santa_Claus"], ["Martin_Luther_King%2C_Jr.", "United_States", "Santa_Claus"]]

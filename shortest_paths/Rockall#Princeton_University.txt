@@ -1,1 +1,0 @@
-[["Rockall", "Scotland", "Princeton_University"], ["Rockall", "United_States", "Princeton_University"]]

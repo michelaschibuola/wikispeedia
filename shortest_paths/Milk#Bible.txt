@@ -1,1 +1,0 @@
-[["Milk", "Cattle", "Bible"], ["Milk", "Domestic_goat", "Bible"], ["Milk", "Honey", "Bible"], ["Milk", "Asia", "Bible"], ["Milk", "Sweden", "Bible"], ["Milk", "Water", "Bible"]]

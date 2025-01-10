@@ -1,1 +1,0 @@
-[["Rail_transport", "Europe", "Linus_Pauling"], ["Rail_transport", "London", "Linus_Pauling"], ["Rail_transport", "North_America", "Linus_Pauling"], ["Rail_transport", "Steel", "Linus_Pauling"], ["Rail_transport", "United_States", "Linus_Pauling"], ["Rail_transport", "World_War_II", "Linus_Pauling"]]

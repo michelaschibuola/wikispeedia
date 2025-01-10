@@ -1,1 +1,0 @@
-[["Harry_Potter", "France", "Adolf_Hitler"], ["Harry_Potter", "London", "Adolf_Hitler"], ["Harry_Potter", "Star_Wars", "Adolf_Hitler"], ["Harry_Potter", "United_Kingdom", "Adolf_Hitler"], ["Harry_Potter", "United_States", "Adolf_Hitler"]]

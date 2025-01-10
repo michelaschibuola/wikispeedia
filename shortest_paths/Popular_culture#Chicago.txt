@@ -1,1 +1,0 @@
-[["Popular_culture", "Christopher_Columbus", "Chicago"], ["Popular_culture", "Doctor_Who", "Chicago"], ["Popular_culture", "Nikola_Tesla", "Chicago"], ["Popular_culture", "Internet", "Chicago"], ["Popular_culture", "World_War_II", "Chicago"], ["Popular_culture", "Shanghai", "Chicago"], ["Popular_culture", "The_Beatles", "Chicago"]]

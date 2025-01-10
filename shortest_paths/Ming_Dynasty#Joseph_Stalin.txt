@@ -1,1 +1,0 @@
-[["Ming_Dynasty", "Korea", "Joseph_Stalin"], ["Ming_Dynasty", "Mao_Zedong", "Joseph_Stalin"], ["Ming_Dynasty", "London", "Joseph_Stalin"], ["Ming_Dynasty", "Neoclassicism", "Joseph_Stalin"], ["Ming_Dynasty", "Taiwan", "Joseph_Stalin"]]

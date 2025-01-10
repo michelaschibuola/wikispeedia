@@ -1,1 +1,0 @@
-[["Python_%28programming_language%29", "Google", "France", "French_Open_%28tennis%29"], ["Python_%28programming_language%29", "Netherlands", "France", "French_Open_%28tennis%29"], ["Python_%28programming_language%29", "Netherlands", "Davis_Cup", "French_Open_%28tennis%29"], ["Python_%28programming_language%29", "Netherlands", "World_War_I", "French_Open_%28tennis%29"]]

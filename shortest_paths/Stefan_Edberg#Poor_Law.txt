@@ -1,1 +1,0 @@
-[["Stefan_Edberg", "England", "Poor_Law"], ["Stefan_Edberg", "United_Kingdom", "Poor_Law"]]

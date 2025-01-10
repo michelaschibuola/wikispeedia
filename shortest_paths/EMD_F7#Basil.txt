@@ -1,1 +1,0 @@
-[["EMD_F7", "Canada", "Fennel", "Basil"], ["EMD_F7", "Canada", "Hinduism", "Basil"], ["EMD_F7", "North_America", "Asia", "Basil"], ["EMD_F7", "North_America", "Mentha", "Basil"], ["EMD_F7", "North_America", "Tarragon", "Basil"]]

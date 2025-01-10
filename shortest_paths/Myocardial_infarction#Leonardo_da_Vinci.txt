@@ -1,1 +1,0 @@
-[["Myocardial_infarction", "Wright_brothers", "Leonardo_da_Vinci"]]

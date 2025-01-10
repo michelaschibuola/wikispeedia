@@ -1,1 +1,0 @@
-[["Canberra", "United_Kingdom", "Stock"], ["Canberra", "United_States", "Stock"]]

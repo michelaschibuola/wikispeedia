@@ -1,1 +1,0 @@
-[["Ipswich", "Cambridge", "Stephen_Hawking"], ["Ipswich", "England", "Stephen_Hawking"], ["Ipswich", "Oxford", "Stephen_Hawking"], ["Ipswich", "United_Kingdom", "Stephen_Hawking"]]

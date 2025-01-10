@@ -1,1 +1,0 @@
-[["Jerusalem", "Black_Death", "Flanders"], ["Jerusalem", "Capital", "Flanders"], ["Jerusalem", "Europe", "Flanders"], ["Jerusalem", "Roman_Empire", "Flanders"], ["Jerusalem", "Spain", "Flanders"], ["Jerusalem", "Middle_Ages", "Flanders"], ["Jerusalem", "World_War_I", "Flanders"]]

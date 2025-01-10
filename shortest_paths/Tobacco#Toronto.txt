@@ -1,1 +1,0 @@
-[["Tobacco", "Grand_Central_Terminal", "Toronto"], ["Tobacco", "Montreal", "Toronto"], ["Tobacco", "Europe", "Toronto"], ["Tobacco", "New_York_City", "Toronto"], ["Tobacco", "North_America", "Toronto"]]

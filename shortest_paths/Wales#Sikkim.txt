@@ -1,1 +1,0 @@
-[["Wales", "Cricket", "Sikkim"], ["Wales", "United_Kingdom", "Sikkim"], ["Wales", "Coal", "Sikkim"], ["Wales", "Copper", "Sikkim"], ["Wales", "Football_%28soccer%29", "Sikkim"], ["Wales", "Iron", "Sikkim"], ["Wales", "Time_zone", "Sikkim"]]

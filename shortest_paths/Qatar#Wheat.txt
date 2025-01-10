@@ -1,1 +1,0 @@
-[["Qatar", "1973_oil_crisis", "Wheat"], ["Qatar", "Ethiopia", "Wheat"], ["Qatar", "Middle_East", "Wheat"], ["Qatar", "India", "Wheat"], ["Qatar", "United_States", "Wheat"], ["Qatar", "Turkey", "Wheat"], ["Qatar", "Yemen", "Wheat"]]

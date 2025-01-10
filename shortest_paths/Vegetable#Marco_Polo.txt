@@ -1,1 +1,0 @@
-[["Vegetable", "Beijing", "Marco_Polo"], ["Vegetable", "Japan", "Marco_Polo"]]

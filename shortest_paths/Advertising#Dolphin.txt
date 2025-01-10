@@ -1,1 +1,0 @@
-[["Advertising", "Ancient_Greece", "Dolphin"], ["Advertising", "Ancient_Rome", "Dolphin"], ["Advertising", "Japan", "Dolphin"], ["Advertising", "United_States", "Dolphin"]]

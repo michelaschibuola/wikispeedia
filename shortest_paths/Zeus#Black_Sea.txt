@@ -1,1 +1,0 @@
-[["Zeus", "Achilles", "Black_Sea"], ["Zeus", "Europe", "Black_Sea"], ["Zeus", "Greek_mythology", "Black_Sea"], ["Zeus", "Homer", "Black_Sea"], ["Zeus", "Ancient_Greece", "Black_Sea"], ["Zeus", "Herodotus", "Black_Sea"], ["Zeus", "Sea", "Black_Sea"]]

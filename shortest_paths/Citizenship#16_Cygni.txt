@@ -1,1 +1,0 @@
-[["Citizenship", "England", "Sun", "16_Cygni"], ["Citizenship", "Poland", "Extrasolar_planet", "16_Cygni"]]

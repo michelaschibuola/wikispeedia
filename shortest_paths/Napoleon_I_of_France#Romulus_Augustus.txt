@@ -1,1 +1,0 @@
-[["Napoleon_I_of_France", "Italy", "Romulus_Augustus"], ["Napoleon_I_of_France", "Milan", "Romulus_Augustus"], ["Napoleon_I_of_France", "Rome", "Romulus_Augustus"]]

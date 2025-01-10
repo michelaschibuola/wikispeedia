@@ -1,1 +1,0 @@
-[["Myxobolus_cerebralis", "Bulgaria", "Cardiff"], ["Myxobolus_cerebralis", "England", "Cardiff"], ["Myxobolus_cerebralis", "Germany", "Cardiff"], ["Myxobolus_cerebralis", "Norway", "Cardiff"]]

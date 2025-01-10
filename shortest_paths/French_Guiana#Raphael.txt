@@ -1,1 +1,0 @@
-[["French_Guiana", "France", "Raphael"], ["French_Guiana", "Paris", "Raphael"]]

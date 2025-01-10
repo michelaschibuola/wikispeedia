@@ -1,1 +1,0 @@
-[["Ben_Nevis", "Great_Britain", "Telephone", "Mark_Twain_House"], ["Ben_Nevis", "London", "Telephone", "Mark_Twain_House"], ["Ben_Nevis", "World_War_II", "Ulysses_S._Grant", "Mark_Twain_House"]]

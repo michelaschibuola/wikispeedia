@@ -1,1 +1,0 @@
-[["Chemical_element", "Gold", "Giant_Panda"], ["Chemical_element", "Platinum", "Giant_Panda"], ["Chemical_element", "Silver", "Giant_Panda"]]

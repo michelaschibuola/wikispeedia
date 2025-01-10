@@ -1,1 +1,0 @@
-[["Blacktip_reef_shark", "Animal", "Energy", "Black_hole"], ["Blacktip_reef_shark", "Animal", "Earth", "Black_hole"], ["Blacktip_reef_shark", "Ocean", "Earth", "Black_hole"], ["Blacktip_reef_shark", "Shark", "Earth", "Black_hole"], ["Blacktip_reef_shark", "Ocean", "Stephen_Hawking", "Black_hole"], ["Blacktip_reef_shark", "Great_white_shark", "California", "Black_hole"]]

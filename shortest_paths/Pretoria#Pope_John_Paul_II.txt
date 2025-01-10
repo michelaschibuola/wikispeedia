@@ -1,1 +1,0 @@
-[["Pretoria", "Africa", "Pope_John_Paul_II"], ["Pretoria", "Nelson_Mandela", "Pope_John_Paul_II"], ["Pretoria", "English_language", "Pope_John_Paul_II"], ["Pretoria", "United_Kingdom", "Pope_John_Paul_II"], ["Pretoria", "United_States", "Pope_John_Paul_II"]]

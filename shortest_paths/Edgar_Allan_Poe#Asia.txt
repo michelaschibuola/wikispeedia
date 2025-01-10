@@ -1,1 +1,0 @@
-[["Edgar_Allan_Poe", "Ancient_history", "Asia"], ["Edgar_Allan_Poe", "Black_Death", "Asia"], ["Edgar_Allan_Poe", "Germany", "Asia"], ["Edgar_Allan_Poe", "Nintendo", "Asia"], ["Edgar_Allan_Poe", "Russia", "Asia"], ["Edgar_Allan_Poe", "Spanish_language", "Asia"]]

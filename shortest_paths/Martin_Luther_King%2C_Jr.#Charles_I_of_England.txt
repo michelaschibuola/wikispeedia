@@ -1,1 +1,0 @@
-[["Martin_Luther_King%2C_Jr.", "Canada", "Charles_I_of_England"], ["Martin_Luther_King%2C_Jr.", "London", "Charles_I_of_England"], ["Martin_Luther_King%2C_Jr.", "United_States", "Charles_I_of_England"], ["Martin_Luther_King%2C_Jr.", "Westminster_Abbey", "Charles_I_of_England"]]

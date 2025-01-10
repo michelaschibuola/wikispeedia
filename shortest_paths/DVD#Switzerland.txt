@@ -1,1 +1,0 @@
-[["DVD", "Book_of_Kells", "Switzerland"], ["DVD", "Christina_Aguilera", "Switzerland"], ["DVD", "Encyclop%C3%A6dia_Britannica", "Switzerland"], ["DVD", "ITunes", "Switzerland"], ["DVD", "James_Bond", "Switzerland"], ["DVD", "Lego", "Switzerland"]]

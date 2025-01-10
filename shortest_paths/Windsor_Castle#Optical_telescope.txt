@@ -1,1 +1,0 @@
-[["Windsor_Castle", "Christopher_Wren", "Telescope", "Optical_telescope"], ["Windsor_Castle", "Tower_of_London", "Telescope", "Optical_telescope"], ["Windsor_Castle", "United_Kingdom", "Binoculars", "Optical_telescope"]]

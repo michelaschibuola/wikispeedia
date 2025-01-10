@@ -1,1 +1,0 @@
-[["Arabic_language", "France", "Crimean_War"], ["Arabic_language", "Jerusalem", "Crimean_War"], ["Arabic_language", "Mediterranean_Sea", "Crimean_War"], ["Arabic_language", "Ottoman_Empire", "Crimean_War"], ["Arabic_language", "Richard_Francis_Burton", "Crimean_War"], ["Arabic_language", "Turkey", "Crimean_War"], ["Arabic_language", "Turkish_literature", "Crimean_War"]]

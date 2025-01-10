@@ -1,1 +1,0 @@
-[["Stroke", "Brain", "Algorithm", "Functional_programming"], ["Stroke", "Europe", "Calculus", "Functional_programming"]]

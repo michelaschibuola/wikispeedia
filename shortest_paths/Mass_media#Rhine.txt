@@ -1,1 +1,0 @@
-[["Mass_media", "French_language", "Rhine"], ["Mass_media", "Luxembourg", "Rhine"], ["Mass_media", "Netherlands", "Rhine"]]

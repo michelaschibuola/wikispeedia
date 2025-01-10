@@ -1,1 +1,0 @@
-[["Nash_equilibrium", "Economics", "Aristotle", "Weather_forecasting"], ["Nash_equilibrium", "John_von_Neumann", "Computer", "Weather_forecasting"], ["Nash_equilibrium", "PONG", "Europe", "Weather_forecasting"]]

@@ -1,1 +1,0 @@
-[["Louis_XIV_of_France", "17th_century", "Suriname"], ["Louis_XIV_of_France", "France", "Suriname"], ["Louis_XIV_of_France", "Africa", "Suriname"], ["Louis_XIV_of_France", "China", "Suriname"], ["Louis_XIV_of_France", "England", "Suriname"], ["Louis_XIV_of_France", "United_States", "Suriname"], ["Louis_XIV_of_France", "Voltaire", "Suriname"]]

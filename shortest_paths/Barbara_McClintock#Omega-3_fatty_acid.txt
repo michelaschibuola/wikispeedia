@@ -1,1 +1,0 @@
-[["Barbara_McClintock", "Cancer", "Omega-3_fatty_acid"], ["Barbara_McClintock", "United_States", "Omega-3_fatty_acid"]]

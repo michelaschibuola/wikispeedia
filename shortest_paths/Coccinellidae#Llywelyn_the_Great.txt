@@ -1,1 +1,0 @@
-[["Coccinellidae", "Europe", "Elizabeth_II_of_the_United_Kingdom", "Llywelyn_the_Great"], ["Coccinellidae", "Europe", "Ireland", "Llywelyn_the_Great"], ["Coccinellidae", "Europe", "Isle_of_Man", "Llywelyn_the_Great"], ["Coccinellidae", "Europe", "Wales", "Llywelyn_the_Great"]]

@@ -1,1 +1,0 @@
-[["Nintendo_Entertainment_System", "Australia", "Cider"], ["Nintendo_Entertainment_System", "Canada", "Cider"], ["Nintendo_Entertainment_System", "Japan", "Cider"], ["Nintendo_Entertainment_System", "United_States", "Cider"]]

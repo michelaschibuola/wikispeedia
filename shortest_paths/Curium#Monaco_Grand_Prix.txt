@@ -1,1 +1,0 @@
-[["Curium", "Aluminium", "Brabham", "Monaco_Grand_Prix"], ["Curium", "Gadolinium", "France", "Monaco_Grand_Prix"], ["Curium", "Marie_Curie", "France", "Monaco_Grand_Prix"]]

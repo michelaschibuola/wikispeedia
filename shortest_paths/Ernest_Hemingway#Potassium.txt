@@ -1,1 +1,0 @@
-[["Ernest_Hemingway", "Germany", "Potassium"], ["Ernest_Hemingway", "Italy", "Potassium"]]

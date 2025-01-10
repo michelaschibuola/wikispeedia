@@ -1,1 +1,0 @@
-[["Oat", "United_Kingdom", "Donald_Knuth"]]

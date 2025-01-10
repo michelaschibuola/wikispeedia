@@ -1,1 +1,0 @@
-[["Osmium", "Metal", "Welding"], ["Osmium", "Electron", "Welding"], ["Osmium", "Nickel", "Welding"], ["Osmium", "Oxygen", "Welding"], ["Osmium", "Tungsten", "Welding"]]

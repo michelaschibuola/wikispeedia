@@ -1,1 +1,0 @@
-[["Volcanic_pipe", "Carbon_dioxide", "Polar_ice_cap"], ["Volcanic_pipe", "Water", "Polar_ice_cap"]]

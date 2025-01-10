@@ -1,1 +1,0 @@
-[["Volt", "Electrical_resistance", "Quantum_mechanics"], ["Volt", "Magnetism", "Quantum_mechanics"], ["Volt", "Maxwell%27s_equations", "Quantum_mechanics"], ["Volt", "Superconductivity", "Quantum_mechanics"], ["Volt", "Energy", "Quantum_mechanics"]]

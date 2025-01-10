@@ -1,1 +1,0 @@
-[["Sony", "Floppy_disk", "Microsoft"], ["Sony", "IPod", "Microsoft"], ["Sony", "Miami%2C_Florida", "Microsoft"], ["Sony", "Nintendo", "Microsoft"], ["Sony", "Employment", "Microsoft"], ["Sony", "Industry", "Microsoft"], ["Sony", "Television", "Microsoft"], ["Sony", "United_States_dollar", "Microsoft"], ["Sony", "Spyware", "Microsoft"]]

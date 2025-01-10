@@ -1,1 +1,0 @@
-[["Kookaburra", "Australia", "Drought", "Soil_moisture"], ["Kookaburra", "Animal", "Water", "Soil_moisture"], ["Kookaburra", "Bird", "Agriculture", "Soil_moisture"], ["Kookaburra", "Platypus", "Irrigation", "Soil_moisture"]]

@@ -1,1 +1,0 @@
-[["Ku_Klux_Klan", "American_Civil_War", "Barack_Obama"], ["Ku_Klux_Klan", "Boston%2C_Massachusetts", "Barack_Obama"], ["Ku_Klux_Klan", "World_War_II", "Barack_Obama"]]

@@ -1,1 +1,0 @@
-[["Libya", "Italy", "Michelangelo"], ["Libya", "France", "Michelangelo"], ["Libya", "Roman_Catholic_Church", "Michelangelo"]]

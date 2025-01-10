@@ -1,1 +1,0 @@
-[["Stockholm", "Europe", "Tea"], ["Stockholm", "Arabic_language", "Tea"]]

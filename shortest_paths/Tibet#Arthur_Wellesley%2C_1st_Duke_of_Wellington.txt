@@ -1,1 +1,0 @@
-[["Tibet", "India", "Arthur_Wellesley%2C_1st_Duke_of_Wellington"], ["Tibet", "World_War_I", "Arthur_Wellesley%2C_1st_Duke_of_Wellington"]]

@@ -1,1 +1,0 @@
-[["Scouting", "England", "All_Blacks"], ["Scouting", "Italy", "All_Blacks"], ["Scouting", "New_Zealand", "All_Blacks"]]

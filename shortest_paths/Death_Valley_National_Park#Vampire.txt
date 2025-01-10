@@ -1,1 +1,0 @@
-[["Death_Valley_National_Park", "Film", "Vampire"], ["Death_Valley_National_Park", "Silver", "Vampire"]]

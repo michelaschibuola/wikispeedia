@@ -1,1 +1,0 @@
-[["Commodore_64", "Microsoft", "IPod"], ["Commodore_64", "United_States", "IPod"], ["Commodore_64", "United_States_dollar", "IPod"], ["Commodore_64", "Pac-Man", "IPod"]]

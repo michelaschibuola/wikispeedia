@@ -1,1 +1,0 @@
-[["Neil_Young", "Canada", "World_Health_Organization"], ["Neil_Young", "Japan", "World_Health_Organization"], ["Neil_Young", "People%27s_Republic_of_China", "World_Health_Organization"]]

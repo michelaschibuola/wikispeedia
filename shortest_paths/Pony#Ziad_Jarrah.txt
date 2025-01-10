@@ -1,1 +1,0 @@
-[["Pony", "Horse", "Florida", "Ziad_Jarrah"], ["Pony", "Horse", "Russia", "Ziad_Jarrah"], ["Pony", "Horse", "Spain", "Ziad_Jarrah"], ["Pony", "Horse", "United_States", "Ziad_Jarrah"], ["Pony", "Ireland", "Roman_Catholic_Church", "Ziad_Jarrah"]]

@@ -1,1 +1,0 @@
-[["Norse_mythology", "Cat", "Color"], ["Norse_mythology", "Latin", "Color"], ["Norse_mythology", "Thorium", "Color"]]

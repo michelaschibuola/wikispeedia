@@ -1,1 +1,0 @@
-[["European_Union", "Athens", "Odysseus"], ["European_Union", "Greece", "Odysseus"], ["European_Union", "Italy", "Odysseus"], ["European_Union", "Portugal", "Odysseus"], ["European_Union", "Lisbon", "Odysseus"]]

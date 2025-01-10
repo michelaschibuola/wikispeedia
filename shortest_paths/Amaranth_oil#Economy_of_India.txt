@@ -1,1 +1,0 @@
-[["Amaranth_oil", "List_of_vegetable_oils", "Bangalore", "Economy_of_India"], ["Amaranth_oil", "List_of_vegetable_oils", "China", "Economy_of_India"], ["Amaranth_oil", "List_of_vegetable_oils", "India", "Economy_of_India"], ["Amaranth_oil", "List_of_vegetable_oils", "Petroleum", "Economy_of_India"]]

@@ -1,1 +1,0 @@
-[["Civilization", "21st_century", "Sri_Lankan_Civil_War"], ["Civilization", "India", "Sri_Lankan_Civil_War"], ["Civilization", "Pakistan", "Sri_Lankan_Civil_War"], ["Civilization", "United_States", "Sri_Lankan_Civil_War"]]

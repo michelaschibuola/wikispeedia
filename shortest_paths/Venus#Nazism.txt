@@ -1,1 +1,0 @@
-[["Venus", "Stephen_Hawking", "Nazism"], ["Venus", "Japan", "Nazism"], ["Venus", "Love", "Nazism"], ["Venus", "United_States", "Nazism"]]

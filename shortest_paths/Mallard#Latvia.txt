@@ -1,1 +1,0 @@
-[["Mallard", "Asia", "Latvia"], ["Mallard", "Europe", "Latvia"]]

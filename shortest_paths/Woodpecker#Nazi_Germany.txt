@@ -1,1 +1,0 @@
-[["Woodpecker", "Slovenia", "Nazi_Germany"], ["Woodpecker", "United_States", "Nazi_Germany"]]

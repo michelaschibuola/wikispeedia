@@ -1,1 +1,0 @@
-[["British_English", "England", "Anthony_van_Dyck"], ["British_English", "London", "Anthony_van_Dyck"]]

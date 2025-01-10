@@ -1,1 +1,0 @@
-[["Australia", "Theatre", "House"], ["Australia", "United_Kingdom", "House"], ["Australia", "United_States", "House"], ["Australia", "Library", "House"], ["Australia", "Natural_disaster", "House"]]

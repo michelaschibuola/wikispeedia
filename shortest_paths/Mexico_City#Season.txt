@@ -1,1 +1,0 @@
-[["Mexico_City", "United_States", "Season"], ["Mexico_City", "Water", "Season"]]

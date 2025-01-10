@@ -1,1 +1,0 @@
-[["Irish_Sea", "Denmark", "The_Holocaust"], ["Irish_Sea", "European_Union", "The_Holocaust"], ["Irish_Sea", "Republic_of_Ireland", "The_Holocaust"], ["Irish_Sea", "World_War_I", "The_Holocaust"], ["Irish_Sea", "United_Kingdom", "The_Holocaust"]]

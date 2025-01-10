@@ -1,1 +1,0 @@
-[["Barley", "Canada", "T._S._Eliot"], ["Barley", "United_Kingdom", "T._S._Eliot"], ["Barley", "United_States", "T._S._Eliot"]]

@@ -1,1 +1,0 @@
-[["Life", "Earth", "Pleiades_%28star_cluster%29"], ["Life", "Universe", "Pleiades_%28star_cluster%29"], ["Life", "Star", "Pleiades_%28star_cluster%29"]]

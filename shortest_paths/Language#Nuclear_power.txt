@@ -1,1 +1,0 @@
-[["Language", "South_Africa", "Nuclear_power"], ["Language", "Soviet_Union", "Nuclear_power"]]

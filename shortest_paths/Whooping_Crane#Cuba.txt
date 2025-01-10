@@ -1,1 +1,0 @@
-[["Whooping_Crane", "Canada", "Cuba"], ["Whooping_Crane", "North_America", "Cuba"]]

@@ -1,1 +1,0 @@
-[["Aircraft", "Turkey", "Recycling"], ["Aircraft", "World_War_II", "Recycling"], ["Aircraft", "Aluminium", "Recycling"], ["Aircraft", "Toy", "Recycling"]]

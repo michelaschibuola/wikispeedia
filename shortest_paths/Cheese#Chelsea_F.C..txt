@@ -1,1 +1,0 @@
-[["Cheese", "Europe", "Chelsea_F.C."], ["Cheese", "Italy", "Chelsea_F.C."], ["Cheese", "United_Kingdom", "Chelsea_F.C."]]

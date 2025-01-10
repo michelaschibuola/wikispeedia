@@ -1,1 +1,0 @@
-[["Trench_warfare", "20th_century", "Phosphorus"], ["Trench_warfare", "Steel", "Phosphorus"], ["Trench_warfare", "Weapon", "Phosphorus"], ["Trench_warfare", "World_War_I", "Phosphorus"], ["Trench_warfare", "World_War_II", "Phosphorus"]]

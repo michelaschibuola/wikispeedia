@@ -1,1 +1,0 @@
-[["Rockall", "British_Empire", "Israel"], ["Rockall", "Natural_gas", "Israel"], ["Rockall", "Nuclear_weapon", "Israel"], ["Rockall", "Soviet_Union", "Israel"], ["Rockall", "United_Kingdom", "Israel"], ["Rockall", "United_Nations", "Israel"], ["Rockall", "United_States", "Israel"]]

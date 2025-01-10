@@ -1,1 +1,0 @@
-[["Leo_Tolstoy", "19th_century", "Red_Sea"]]

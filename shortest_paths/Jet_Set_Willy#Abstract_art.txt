@@ -1,1 +1,0 @@
-[["Jet_Set_Willy", "Netherlands", "El_Lissitzky", "Abstract_art"], ["Jet_Set_Willy", "Netherlands", "20th_century", "Abstract_art"], ["Jet_Set_Willy", "Netherlands", "Nazi_Germany", "Abstract_art"]]

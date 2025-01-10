@@ -1,1 +1,0 @@
-[["History_of_New_Jersey", "France", "Emanuel_Swedenborg"], ["History_of_New_Jersey", "Netherlands", "Emanuel_Swedenborg"], ["History_of_New_Jersey", "Sweden", "Emanuel_Swedenborg"]]

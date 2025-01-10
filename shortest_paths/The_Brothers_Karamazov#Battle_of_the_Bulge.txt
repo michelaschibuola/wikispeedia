@@ -1,1 +1,0 @@
-[["The_Brothers_Karamazov", "English_language", "Battle_of_the_Bulge"], ["The_Brothers_Karamazov", "Novel", "Battle_of_the_Bulge"], ["The_Brothers_Karamazov", "Poland", "Battle_of_the_Bulge"]]

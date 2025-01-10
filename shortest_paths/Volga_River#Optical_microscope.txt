@@ -1,1 +1,0 @@
-[["Volga_River", "Flamingo", "Bacteria", "Optical_microscope"], ["Volga_River", "Ptolemy", "Galileo_Galilei", "Optical_microscope"], ["Volga_River", "Ptolemy", "Light", "Optical_microscope"]]

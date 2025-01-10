@@ -1,1 +1,0 @@
-[["Wikipedia", "Austria", "Adolf_Hitler"], ["Wikipedia", "Communism", "Adolf_Hitler"], ["Wikipedia", "Democracy", "Adolf_Hitler"], ["Wikipedia", "Politics", "Adolf_Hitler"]]

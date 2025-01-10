@@ -1,1 +1,0 @@
-[["Vitamin_C", "20th_century", "Max_Planck"], ["Vitamin_C", "History_of_science", "Max_Planck"]]

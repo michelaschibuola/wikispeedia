@@ -1,1 +1,0 @@
-[["Rhythm_and_blues", "Birmingham", "Leicester"], ["Rhythm_and_blues", "United_Kingdom", "Leicester"]]

@@ -1,1 +1,0 @@
-[["Mancala", "Egypt", "Jesus"], ["Mancala", "Ethiopia", "Jesus"], ["Mancala", "Europe", "Jesus"], ["Mancala", "Syria", "Jesus"]]

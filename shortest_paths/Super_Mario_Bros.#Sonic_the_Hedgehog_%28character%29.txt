@@ -1,1 +1,0 @@
-[["Super_Mario_Bros.", "Mario", "Sonic_the_Hedgehog_%28character%29"], ["Super_Mario_Bros.", "Nintendo", "Sonic_the_Hedgehog_%28character%29"], ["Super_Mario_Bros.", "Japan", "Sonic_the_Hedgehog_%28character%29"]]

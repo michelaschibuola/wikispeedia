@@ -1,1 +1,0 @@
-[["Gottfried_Leibniz", "Atom", "Rubidium"], ["Gottfried_Leibniz", "Earth", "Rubidium"], ["Gottfried_Leibniz", "Electron", "Rubidium"], ["Gottfried_Leibniz", "Latin", "Rubidium"]]

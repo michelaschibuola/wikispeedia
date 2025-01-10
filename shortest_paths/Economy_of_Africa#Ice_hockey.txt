@@ -1,1 +1,0 @@
-[["Economy_of_Africa", "Egypt", "Ice_hockey"], ["Economy_of_Africa", "English_language", "Ice_hockey"], ["Economy_of_Africa", "European_Union", "Ice_hockey"], ["Economy_of_Africa", "French_language", "Ice_hockey"], ["Economy_of_Africa", "Japan", "Ice_hockey"], ["Economy_of_Africa", "Soviet_Union", "Ice_hockey"], ["Economy_of_Africa", "United_States", "Ice_hockey"]]

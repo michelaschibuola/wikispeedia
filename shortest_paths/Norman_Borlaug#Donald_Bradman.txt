@@ -1,1 +1,0 @@
-[["Norman_Borlaug", "Baseball", "Donald_Bradman"]]

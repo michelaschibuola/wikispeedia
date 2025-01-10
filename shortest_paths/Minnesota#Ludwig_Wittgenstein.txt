@@ -1,1 +1,0 @@
-[["Minnesota", "Iron", "Ludwig_Wittgenstein"], ["Minnesota", "World_War_II", "Ludwig_Wittgenstein"]]

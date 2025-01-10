@@ -1,1 +1,0 @@
-[["Automobile", "Austria", "Radon"], ["Automobile", "Germany", "Radon"], ["Automobile", "Japan", "Radon"], ["Automobile", "United_States", "Radon"]]

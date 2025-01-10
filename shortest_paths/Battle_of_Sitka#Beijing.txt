@@ -1,1 +1,0 @@
-[["Battle_of_Sitka", "Australia", "Beijing"], ["Battle_of_Sitka", "Europe", "Beijing"], ["Battle_of_Sitka", "France", "Beijing"], ["Battle_of_Sitka", "Maize", "Beijing"], ["Battle_of_Sitka", "Russia", "Beijing"], ["Battle_of_Sitka", "Spain", "Beijing"], ["Battle_of_Sitka", "United_States", "Beijing"]]

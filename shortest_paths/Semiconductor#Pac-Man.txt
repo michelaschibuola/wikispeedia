@@ -1,1 +1,0 @@
-[["Semiconductor", "Central_processing_unit", "Pac-Man"]]

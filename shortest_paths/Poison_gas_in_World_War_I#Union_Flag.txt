@@ -1,1 +1,0 @@
-[["Poison_gas_in_World_War_I", "Australia", "Union_Flag"], ["Poison_gas_in_World_War_I", "Canada", "Union_Flag"], ["Poison_gas_in_World_War_I", "China", "Union_Flag"], ["Poison_gas_in_World_War_I", "Scotland", "Union_Flag"], ["Poison_gas_in_World_War_I", "United_Kingdom", "Union_Flag"], ["Poison_gas_in_World_War_I", "United_States", "Union_Flag"]]

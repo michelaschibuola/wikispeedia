@@ -1,1 +1,0 @@
-[["Mary_II_of_England", "17th_century", "Russia"], ["Mary_II_of_England", "List_of_Prime_Ministers_of_the_United_Kingdom", "Russia"], ["Mary_II_of_England", "Baroque", "Russia"], ["Mary_II_of_England", "France", "Russia"], ["Mary_II_of_England", "London", "Russia"], ["Mary_II_of_England", "Smallpox", "Russia"]]

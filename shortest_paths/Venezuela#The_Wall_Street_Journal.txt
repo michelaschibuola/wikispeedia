@@ -1,1 +1,0 @@
-[["Venezuela", "Barbados", "The_Wall_Street_Journal"], ["Venezuela", "Chile", "The_Wall_Street_Journal"], ["Venezuela", "United_States", "The_Wall_Street_Journal"]]

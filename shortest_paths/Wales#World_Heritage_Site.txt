@@ -1,1 +1,0 @@
-[["Wales", "Argentina", "World_Heritage_Site"], ["Wales", "City", "World_Heritage_Site"], ["Wales", "Europe", "World_Heritage_Site"], ["Wales", "River_Severn", "World_Heritage_Site"], ["Wales", "United_Kingdom", "World_Heritage_Site"]]

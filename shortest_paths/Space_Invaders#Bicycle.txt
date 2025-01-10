@@ -1,1 +1,0 @@
-[["Space_Invaders", "Switzerland", "Bicycle"], ["Space_Invaders", "United_States", "Bicycle"]]

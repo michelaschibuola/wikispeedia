@@ -1,1 +1,0 @@
-[["Qatar", "Fishing", "Shetland"], ["Qatar", "Natural_gas", "Shetland"]]

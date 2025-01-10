@@ -1,1 +1,0 @@
-[["Emperor_Penguin", "Animal", "Giant_Panda"], ["Emperor_Penguin", "Binomial_nomenclature", "Giant_Panda"], ["Emperor_Penguin", "Chordate", "Giant_Panda"], ["Emperor_Penguin", "Fish", "Giant_Panda"], ["Emperor_Penguin", "Scientific_classification", "Giant_Panda"]]

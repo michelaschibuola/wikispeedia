@@ -1,1 +1,0 @@
-[["Carl_Sagan", "Soviet_Union", "Humpback_Whale"], ["Carl_Sagan", "United_States", "Humpback_Whale"]]

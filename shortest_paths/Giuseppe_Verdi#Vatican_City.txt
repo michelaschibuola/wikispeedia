@@ -1,1 +1,0 @@
-[["Giuseppe_Verdi", "19th_century", "Vatican_City"], ["Giuseppe_Verdi", "Italy", "Vatican_City"], ["Giuseppe_Verdi", "Rome", "Vatican_City"]]

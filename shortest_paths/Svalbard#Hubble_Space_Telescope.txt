@@ -1,1 +1,0 @@
-[["Svalbard", "Europe", "Hubble_Space_Telescope"]]

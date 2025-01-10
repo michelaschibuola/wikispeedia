@@ -1,1 +1,0 @@
-[["Cologne", "Belgium", "Bohemian_Rhapsody"], ["Cologne", "Germany", "Bohemian_Rhapsody"], ["Cologne", "Japan", "Bohemian_Rhapsody"], ["Cologne", "Netherlands", "Bohemian_Rhapsody"], ["Cologne", "Spain", "Bohemian_Rhapsody"], ["Cologne", "United_Kingdom", "Bohemian_Rhapsody"], ["Cologne", "United_States", "Bohemian_Rhapsody"], ["Cologne", "Queen_%28band%29", "Bohemian_Rhapsody"]]

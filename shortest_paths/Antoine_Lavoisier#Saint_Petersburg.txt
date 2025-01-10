@@ -1,1 +1,0 @@
-[["Antoine_Lavoisier", "18th_century", "Saint_Petersburg"], ["Antoine_Lavoisier", "France", "Saint_Petersburg"], ["Antoine_Lavoisier", "Germany", "Saint_Petersburg"], ["Antoine_Lavoisier", "Paris", "Saint_Petersburg"], ["Antoine_Lavoisier", "World_War_II", "Saint_Petersburg"]]

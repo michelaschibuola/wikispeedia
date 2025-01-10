@@ -1,1 +1,0 @@
-[["Earwax", "Mammal", "Sperm_Whale"], ["Earwax", "New_Zealand", "Sperm_Whale"], ["Earwax", "Sound", "Sperm_Whale"], ["Earwax", "Whale", "Sperm_Whale"]]

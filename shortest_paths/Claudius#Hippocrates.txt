@@ -1,1 +1,0 @@
-[["Claudius", "France", "Hippocrates"], ["Claudius", "Middle_Ages", "Hippocrates"]]

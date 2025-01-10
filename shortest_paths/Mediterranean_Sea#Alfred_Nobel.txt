@@ -1,1 +1,0 @@
-[["Mediterranean_Sea", "19th_century", "Alfred_Nobel"], ["Mediterranean_Sea", "Italy", "Alfred_Nobel"]]

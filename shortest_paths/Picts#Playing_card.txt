@@ -1,1 +1,0 @@
-[["Picts", "Latin", "Playing_card"]]

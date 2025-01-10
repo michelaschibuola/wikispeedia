@@ -1,1 +1,0 @@
-[["Lesotho", "Africa", "Latin_alphabet"], ["Lesotho", "English_language", "Latin_alphabet"], ["Lesotho", "European_Union", "Latin_alphabet"], ["Lesotho", "People%27s_Republic_of_China", "Latin_alphabet"], ["Lesotho", "Somalia", "Latin_alphabet"]]

@@ -1,1 +1,0 @@
-[["Shoe_polish", "United_States", "James_Joyce"], ["Shoe_polish", "World_War_I", "James_Joyce"]]

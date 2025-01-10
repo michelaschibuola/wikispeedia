@@ -1,1 +1,0 @@
-[["Cameroon", "AIDS", "Pneumonia"], ["Cameroon", "Brain", "Pneumonia"], ["Cameroon", "United_Kingdom", "Pneumonia"], ["Cameroon", "World_War_I", "Pneumonia"], ["Cameroon", "Tobacco_smoking", "Pneumonia"], ["Cameroon", "United_States", "Pneumonia"]]

@@ -1,1 +1,0 @@
-[["Pyotr_Ilyich_Tchaikovsky", "19th_century", "Martin_Luther"], ["Pyotr_Ilyich_Tchaikovsky", "Italy", "Martin_Luther"]]

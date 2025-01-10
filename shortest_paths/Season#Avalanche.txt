@@ -1,1 +1,0 @@
-[["Season", "Canada", "Avalanche"], ["Season", "United_States", "Avalanche"], ["Season", "Wind", "Avalanche"]]

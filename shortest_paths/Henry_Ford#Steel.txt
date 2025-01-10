@@ -1,1 +1,0 @@
-[["Henry_Ford", "Automobile", "Steel"], ["Henry_Ford", "Bicycle", "Steel"], ["Henry_Ford", "United_States", "Steel"], ["Henry_Ford", "Industrial_Revolution", "Steel"]]

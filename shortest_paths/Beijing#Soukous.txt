@@ -1,1 +1,0 @@
-[["Beijing", "Europe", "Soukous"], ["Beijing", "London", "Soukous"], ["Beijing", "North_America", "Soukous"], ["Beijing", "Paris", "Soukous"]]

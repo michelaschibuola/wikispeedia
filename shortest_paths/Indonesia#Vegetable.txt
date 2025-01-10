@@ -1,1 +1,0 @@
-[["Indonesia", "Agriculture", "Vegetable"], ["Indonesia", "Azerbaijan", "Vegetable"], ["Indonesia", "Beijing", "Vegetable"], ["Indonesia", "Folic_acid", "Vegetable"], ["Indonesia", "History_of_South_Africa", "Vegetable"], ["Indonesia", "Japan", "Vegetable"], ["Indonesia", "Maize", "Vegetable"]]

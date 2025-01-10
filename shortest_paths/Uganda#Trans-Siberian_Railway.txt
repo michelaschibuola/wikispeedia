@@ -1,1 +1,0 @@
-[["Uganda", "Kazakhstan", "Trans-Siberian_Railway"], ["Uganda", "Russia", "Trans-Siberian_Railway"], ["Uganda", "Time_zone", "Trans-Siberian_Railway"]]

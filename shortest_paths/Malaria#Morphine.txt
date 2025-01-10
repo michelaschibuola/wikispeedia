@@ -1,1 +1,0 @@
-[["Malaria", "AIDS", "Morphine"], ["Malaria", "Cancer", "Morphine"], ["Malaria", "United_States", "Morphine"]]

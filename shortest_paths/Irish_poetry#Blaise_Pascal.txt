@@ -1,1 +1,0 @@
-[["Irish_poetry", "Religion", "Blaise_Pascal"], ["Irish_poetry", "T._S._Eliot", "Blaise_Pascal"]]

@@ -1,1 +1,0 @@
-[["Stephen_Hawking", "China", "Super_Bowl_XL"], ["Stephen_Hawking", "Germany", "Super_Bowl_XL"], ["Stephen_Hawking", "Ireland", "Super_Bowl_XL"], ["Stephen_Hawking", "United_Kingdom", "Super_Bowl_XL"], ["Stephen_Hawking", "United_States", "Super_Bowl_XL"]]

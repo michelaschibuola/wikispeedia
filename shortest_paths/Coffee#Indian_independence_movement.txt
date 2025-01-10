@@ -1,1 +1,0 @@
-[["Coffee", "Africa", "Indian_independence_movement"], ["Coffee", "Agriculture", "Indian_independence_movement"], ["Coffee", "Chennai", "Indian_independence_movement"], ["Coffee", "India", "Indian_independence_movement"]]

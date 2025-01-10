@@ -1,1 +1,0 @@
-[["Cockatiel", "Animal", "Oil_reservoir"]]

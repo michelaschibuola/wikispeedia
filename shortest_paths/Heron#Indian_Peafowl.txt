@@ -1,1 +1,0 @@
-[["Heron", "Animal", "Indian_Peafowl"], ["Heron", "Bird", "Indian_Peafowl"], ["Heron", "Chordate", "Indian_Peafowl"], ["Heron", "Scientific_classification", "Indian_Peafowl"]]

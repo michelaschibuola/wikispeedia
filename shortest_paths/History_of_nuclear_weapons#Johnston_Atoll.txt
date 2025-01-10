@@ -1,1 +1,0 @@
-[["History_of_nuclear_weapons", "Franklin_D._Roosevelt", "Johnston_Atoll"], ["History_of_nuclear_weapons", "Marshall_Islands", "Johnston_Atoll"], ["History_of_nuclear_weapons", "United_States", "Johnston_Atoll"], ["History_of_nuclear_weapons", "Wernher_von_Braun", "Johnston_Atoll"], ["History_of_nuclear_weapons", "World_War_II", "Johnston_Atoll"]]

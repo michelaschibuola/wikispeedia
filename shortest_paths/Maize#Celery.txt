@@ -1,1 +1,0 @@
-[["Maize", "Avocado", "Celery"], ["Maize", "Flower", "Celery"], ["Maize", "Binomial_nomenclature", "Celery"], ["Maize", "Carolus_Linnaeus", "Celery"], ["Maize", "Cultivar", "Celery"], ["Maize", "Europe", "Celery"], ["Maize", "Scientific_classification", "Celery"], ["Maize", "Plant", "Celery"]]

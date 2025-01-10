@@ -1,1 +1,0 @@
-[["Volcano", "Carbon_dioxide", "Sodium_hydroxide"], ["Volcano", "Mercury_%28element%29", "Sodium_hydroxide"], ["Volcano", "Chlorine", "Sodium_hydroxide"], ["Volcano", "Hydrogen", "Sodium_hydroxide"], ["Volcano", "Iron", "Sodium_hydroxide"], ["Volcano", "Sulfuric_acid", "Sodium_hydroxide"], ["Volcano", "Water", "Sodium_hydroxide"]]

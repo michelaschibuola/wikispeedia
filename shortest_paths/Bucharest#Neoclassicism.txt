@@ -1,1 +1,0 @@
-[["Bucharest", "Athens", "Neoclassicism"], ["Bucharest", "19th_century", "Neoclassicism"], ["Bucharest", "20th_century", "Neoclassicism"], ["Bucharest", "Henri_Matisse", "Neoclassicism"], ["Bucharest", "Pablo_Picasso", "Neoclassicism"], ["Bucharest", "Prague", "Neoclassicism"], ["Bucharest", "World_War_I", "Neoclassicism"], ["Bucharest", "World_War_II", "Neoclassicism"]]

@@ -1,1 +1,0 @@
-[["Wine", "Thomas_Jefferson", "Benjamin_Franklin"], ["Wine", "England", "Benjamin_Franklin"], ["Wine", "France", "Benjamin_Franklin"], ["Wine", "United_States", "Benjamin_Franklin"]]

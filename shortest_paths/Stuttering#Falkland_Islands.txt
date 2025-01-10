@@ -1,1 +1,0 @@
-[["Stuttering", "England", "Falkland_Islands"], ["Stuttering", "English_language", "Falkland_Islands"], ["Stuttering", "United_Kingdom", "Falkland_Islands"], ["Stuttering", "World_War_II", "Falkland_Islands"]]

@@ -1,1 +1,0 @@
-[["Bermuda", "British_Empire", "Tamil_people"], ["Bermuda", "Canada", "Tamil_people"], ["Bermuda", "English_language", "Tamil_people"], ["Bermuda", "Portugal", "Tamil_people"], ["Bermuda", "United_Kingdom", "Tamil_people"], ["Bermuda", "United_States", "Tamil_people"], ["Bermuda", "Monarchy", "Tamil_people"], ["Bermuda", "North_America", "Tamil_people"]]

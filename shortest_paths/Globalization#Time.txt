@@ -1,1 +1,0 @@
-[["Globalization", "Art", "Time"], ["Globalization", "Education", "Time"], ["Globalization", "Internet", "Time"]]

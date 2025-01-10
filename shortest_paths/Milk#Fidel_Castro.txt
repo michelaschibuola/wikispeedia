@@ -1,1 +1,0 @@
-[["Milk", "Agriculture", "Fidel_Castro"], ["Milk", "Africa", "Fidel_Castro"], ["Milk", "Canada", "Fidel_Castro"], ["Milk", "China", "Fidel_Castro"], ["Milk", "South_Africa", "Fidel_Castro"], ["Milk", "Turkey", "Fidel_Castro"], ["Milk", "United_Kingdom", "Fidel_Castro"], ["Milk", "United_States", "Fidel_Castro"]]

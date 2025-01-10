@@ -1,1 +1,0 @@
-[["Carrot", "United_Kingdom", "Sea_of_Galilee"]]

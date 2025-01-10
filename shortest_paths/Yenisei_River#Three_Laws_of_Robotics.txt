@@ -1,1 +1,0 @@
-[["Yenisei_River", "River", "Fractal", "Three_Laws_of_Robotics"], ["Yenisei_River", "Global_warming", "Isaac_Asimov", "Three_Laws_of_Robotics"], ["Yenisei_River", "Russia", "Isaac_Asimov", "Three_Laws_of_Robotics"]]

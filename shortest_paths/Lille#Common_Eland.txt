@@ -1,1 +1,0 @@
-[["Lille", "France", "East_Africa", "Common_Eland"], ["Lille", "Italy", "East_Africa", "Common_Eland"], ["Lille", "Christianity", "Southern_Africa", "Common_Eland"], ["Lille", "Senegal", "Giant_Eland", "Common_Eland"], ["Lille", "United_States", "Antelope", "Common_Eland"]]

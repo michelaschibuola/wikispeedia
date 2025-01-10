@@ -1,1 +1,0 @@
-[["Herbivore", "Dinosaur", "King_Kong_%281933_film%29"], ["Herbivore", "Gorilla", "King_Kong_%281933_film%29"], ["Herbivore", "Stegosaurus", "King_Kong_%281933_film%29"], ["Herbivore", "Styracosaurus", "King_Kong_%281933_film%29"], ["Herbivore", "Triceratops", "King_Kong_%281933_film%29"]]

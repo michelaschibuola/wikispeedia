@@ -1,1 +1,0 @@
-[["Pakistan", "Nuclear_weapon", "Trafalgar_Square"], ["Pakistan", "United_Kingdom", "Trafalgar_Square"], ["Pakistan", "World_War_II", "Trafalgar_Square"]]

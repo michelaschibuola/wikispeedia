@@ -1,1 +1,0 @@
-[["Amish", "Canada", "Miami%2C_Florida"], ["Amish", "English_language", "Miami%2C_Florida"], ["Amish", "Europe", "Miami%2C_Florida"], ["Amish", "German_language", "Miami%2C_Florida"], ["Amish", "United_States", "Miami%2C_Florida"]]

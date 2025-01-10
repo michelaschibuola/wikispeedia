@@ -1,1 +1,0 @@
-[["Winston_Churchill", "Franklin_D._Roosevelt", "W._Mark_Felt"], ["Winston_Churchill", "Cuba", "W._Mark_Felt"], ["Winston_Churchill", "World_War_II", "W._Mark_Felt"]]

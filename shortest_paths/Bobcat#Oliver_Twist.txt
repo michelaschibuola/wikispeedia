@@ -1,1 +1,0 @@
-[["Bobcat", "United_States", "Oliver_Twist"]]

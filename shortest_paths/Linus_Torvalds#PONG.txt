@@ -1,1 +1,0 @@
-[["Linus_Torvalds", "Emacs", "PONG"], ["Linus_Torvalds", "Pac-Man", "PONG"]]

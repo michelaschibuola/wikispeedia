@@ -1,1 +1,0 @@
-[["Dublin", "England", "Bicycle"], ["Dublin", "Google", "Bicycle"], ["Dublin", "Hungary", "Bicycle"], ["Dublin", "Japan", "Bicycle"], ["Dublin", "United_Kingdom", "Bicycle"], ["Dublin", "United_States", "Bicycle"]]

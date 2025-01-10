@@ -1,1 +1,0 @@
-[["Korea", "19th_century", "Suriname"], ["Korea", "China", "Suriname"], ["Korea", "Driving_on_the_left_or_right", "Suriname"], ["Korea", "Brazil", "Suriname"], ["Korea", "Europe", "Suriname"], ["Korea", "United_States", "Suriname"]]

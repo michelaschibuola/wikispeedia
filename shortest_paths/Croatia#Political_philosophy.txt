@@ -1,1 +1,0 @@
-[["Croatia", "Democracy", "Political_philosophy"], ["Croatia", "Europe", "Political_philosophy"], ["Croatia", "Monarchy", "Political_philosophy"], ["Croatia", "Ottoman_Empire", "Political_philosophy"], ["Croatia", "World_War_I", "Political_philosophy"], ["Croatia", "Fascism", "Political_philosophy"], ["Croatia", "The_Holocaust", "Political_philosophy"]]

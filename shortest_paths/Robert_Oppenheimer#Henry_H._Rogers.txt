@@ -1,1 +1,0 @@
-[["Robert_Oppenheimer", "New_York_City", "Henry_H._Rogers"], ["Robert_Oppenheimer", "United_States", "Henry_H._Rogers"], ["Robert_Oppenheimer", "World_War_II", "Henry_H._Rogers"]]

@@ -1,1 +1,0 @@
-[["Cretaceous", "Coal", "Amur"], ["Cretaceous", "China", "Amur"]]

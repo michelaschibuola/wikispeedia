@@ -1,1 +1,0 @@
-[["Parrot", "England", "Neutron", "Isospin"], ["Parrot", "Germany", "Neutron", "Isospin"], ["Parrot", "India", "Physics", "Isospin"], ["Parrot", "India", "Symmetry", "Isospin"], ["Parrot", "United_States", "Symmetry", "Isospin"]]

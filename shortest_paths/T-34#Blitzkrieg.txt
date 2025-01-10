@@ -1,1 +1,0 @@
-[["T-34", "Battle_of_Moscow", "Blitzkrieg"], ["T-34", "Battle_of_France", "Blitzkrieg"], ["T-34", "Germany", "Blitzkrieg"], ["T-34", "Poland", "Blitzkrieg"], ["T-34", "Radio", "Blitzkrieg"], ["T-34", "Soviet_Union", "Blitzkrieg"], ["T-34", "Tank", "Blitzkrieg"]]

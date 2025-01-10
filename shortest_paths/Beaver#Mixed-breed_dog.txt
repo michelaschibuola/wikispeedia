@@ -1,1 +1,0 @@
-[["Beaver", "Canada", "Mixed-breed_dog"], ["Beaver", "Genetics", "Mixed-breed_dog"], ["Beaver", "Rabies", "Mixed-breed_dog"]]

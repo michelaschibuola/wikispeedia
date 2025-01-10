@@ -1,1 +1,0 @@
-[["Harold_Wilson", "Ireland", "Plate_tectonics"], ["Harold_Wilson", "World_War_II", "Plate_tectonics"]]

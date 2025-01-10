@@ -1,1 +1,0 @@
-[["Richard_Stallman", "English_language", "Afrikaans"], ["Richard_Stallman", "French_language", "Afrikaans"], ["Richard_Stallman", "Nelson_Mandela", "Afrikaans"]]

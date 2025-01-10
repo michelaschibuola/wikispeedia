@@ -1,1 +1,0 @@
-[["Retreat_of_glaciers_since_1850", "Canada", "Yes_Minister"], ["Retreat_of_glaciers_since_1850", "India", "Yes_Minister"], ["Retreat_of_glaciers_since_1850", "Pakistan", "Yes_Minister"], ["Retreat_of_glaciers_since_1850", "Sweden", "Yes_Minister"]]

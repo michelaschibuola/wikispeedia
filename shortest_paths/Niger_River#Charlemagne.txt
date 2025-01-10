@@ -1,1 +1,0 @@
-[["Niger_River", "Belgium", "Charlemagne"], ["Niger_River", "Latin", "Charlemagne"]]

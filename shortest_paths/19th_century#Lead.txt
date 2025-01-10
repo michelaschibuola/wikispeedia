@@ -1,1 +1,0 @@
-[["19th_century", "Honduras", "Lead"], ["19th_century", "Ancient_Rome", "Lead"], ["19th_century", "Cider", "Lead"], ["19th_century", "Gold", "Lead"], ["19th_century", "Lake_District", "Lead"], ["19th_century", "Molybdenum", "Lead"], ["19th_century", "Namibia", "Lead"], ["19th_century", "Periodic_table", "Lead"], ["19th_century", "Phosphorus", "Lead"]]

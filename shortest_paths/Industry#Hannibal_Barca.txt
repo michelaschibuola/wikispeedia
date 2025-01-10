@@ -1,1 +1,0 @@
-[["Industry", "Ancient_Rome", "Hannibal_Barca"], ["Industry", "Syria", "Hannibal_Barca"]]

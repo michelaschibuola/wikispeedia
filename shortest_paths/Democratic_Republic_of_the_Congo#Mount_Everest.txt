@@ -1,1 +1,0 @@
-[["Democratic_Republic_of_the_Congo", "Canada", "Mount_Everest"], ["Democratic_Republic_of_the_Congo", "South_Africa", "Mount_Everest"], ["Democratic_Republic_of_the_Congo", "Switzerland", "Mount_Everest"], ["Democratic_Republic_of_the_Congo", "United_Kingdom", "Mount_Everest"]]

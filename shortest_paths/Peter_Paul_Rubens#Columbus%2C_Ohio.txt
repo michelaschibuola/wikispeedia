@@ -1,1 +1,0 @@
-[["Peter_Paul_Rubens", "Genoa", "Columbus%2C_Ohio"], ["Peter_Paul_Rubens", "Italy", "Columbus%2C_Ohio"], ["Peter_Paul_Rubens", "Spain", "Columbus%2C_Ohio"]]

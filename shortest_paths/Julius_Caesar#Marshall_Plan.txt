@@ -1,1 +1,0 @@
-[["Julius_Caesar", "France", "Marshall_Plan"], ["Julius_Caesar", "Greece", "Marshall_Plan"], ["Julius_Caesar", "Switzerland", "Marshall_Plan"]]

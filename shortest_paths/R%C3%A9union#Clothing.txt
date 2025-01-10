@@ -1,1 +1,0 @@
-[["R%C3%A9union", "Africa", "Clothing"], ["R%C3%A9union", "Buddhism", "Clothing"], ["R%C3%A9union", "Hinduism", "Clothing"], ["R%C3%A9union", "India", "Clothing"]]

@@ -1,1 +1,0 @@
-[["Moore%27s_Law", "20th_century", "15th_century", "Henry_IV_of_England"], ["Moore%27s_Law", "20th_century", "Lithuania", "Henry_IV_of_England"], ["Moore%27s_Law", "Nazism", "Lithuania", "Henry_IV_of_England"], ["Moore%27s_Law", "20th_century", "Westminster_Abbey", "Henry_IV_of_England"]]

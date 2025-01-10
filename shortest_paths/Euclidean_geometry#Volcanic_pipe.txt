@@ -1,1 +1,0 @@
-[["Euclidean_geometry", "19th_century", "Australia", "Volcanic_pipe"], ["Euclidean_geometry", "Mathematics", "Australia", "Volcanic_pipe"], ["Euclidean_geometry", "Gravitation", "Water", "Volcanic_pipe"]]

@@ -1,1 +1,0 @@
-[["John_Sentamu", "Archbishop_of_Canterbury", "James_II_of_England"], ["John_Sentamu", "Church_of_England", "James_II_of_England"], ["John_Sentamu", "England", "James_II_of_England"], ["John_Sentamu", "London", "James_II_of_England"]]

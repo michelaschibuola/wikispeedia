@@ -1,1 +1,0 @@
-[["Flood", "England", "St_Paul%27s_Cathedral"], ["Flood", "London", "St_Paul%27s_Cathedral"], ["Flood", "River_Thames", "St_Paul%27s_Cathedral"], ["Flood", "United_Kingdom", "St_Paul%27s_Cathedral"]]

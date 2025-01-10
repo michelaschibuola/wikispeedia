@@ -1,1 +1,0 @@
-[["Snowdonia", "Agriculture", "Isis", "Kite_%28bird%29"], ["Snowdonia", "England", "Isis", "Kite_%28bird%29"], ["Snowdonia", "Biosphere", "Animal", "Kite_%28bird%29"], ["Snowdonia", "England", "Red_Kite", "Kite_%28bird%29"], ["Snowdonia", "Wales", "Red_Kite", "Kite_%28bird%29"], ["Snowdonia", "English_language", "Eagle", "Kite_%28bird%29"]]

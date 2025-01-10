@@ -1,1 +1,0 @@
-[["Southern_Africa", "Cheetah", "Sanskrit"], ["Southern_Africa", "China", "Sanskrit"], ["Southern_Africa", "Earth", "Sanskrit"], ["Southern_Africa", "Diamond", "Sanskrit"], ["Southern_Africa", "Europe", "Sanskrit"]]

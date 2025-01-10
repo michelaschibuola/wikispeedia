@@ -1,1 +1,0 @@
-[["Whale", "Novel", "War_and_Peace"], ["Whale", "United_States", "War_and_Peace"]]

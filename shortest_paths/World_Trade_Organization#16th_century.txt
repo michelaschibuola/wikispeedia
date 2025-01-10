@@ -1,1 +1,0 @@
-[["World_Trade_Organization", "Germany", "16th_century"], ["World_Trade_Organization", "Europe", "16th_century"], ["World_Trade_Organization", "Iran", "16th_century"], ["World_Trade_Organization", "Kazakhstan", "16th_century"], ["World_Trade_Organization", "Yemen", "16th_century"]]

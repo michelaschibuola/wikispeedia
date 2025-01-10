@@ -1,1 +1,0 @@
-[["Swastika", "20th_century", "Thomas_Edison"], ["Swastika", "France", "Thomas_Edison"], ["Swastika", "Germany", "Thomas_Edison"], ["Swastika", "New_York_City", "Thomas_Edison"], ["Swastika", "United_Kingdom", "Thomas_Edison"], ["Swastika", "United_States", "Thomas_Edison"], ["Swastika", "World_War_II", "Thomas_Edison"]]

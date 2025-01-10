@@ -1,1 +1,0 @@
-[["Weed", "Agriculture", "Africa", "Las_Palmas_de_Gran_Canaria"], ["Weed", "Cactus", "Africa", "Las_Palmas_de_Gran_Canaria"], ["Weed", "Rice", "Africa", "Las_Palmas_de_Gran_Canaria"], ["Weed", "Sumac", "Africa", "Las_Palmas_de_Gran_Canaria"], ["Weed", "Cactus", "Christopher_Columbus", "Las_Palmas_de_Gran_Canaria"]]

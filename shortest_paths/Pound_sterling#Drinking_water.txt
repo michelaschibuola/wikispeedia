@@ -1,1 +1,0 @@
-[["Pound_sterling", "Australia", "Drinking_water"], ["Pound_sterling", "Denmark", "Drinking_water"], ["Pound_sterling", "Egypt", "Drinking_water"], ["Pound_sterling", "India", "Drinking_water"], ["Pound_sterling", "South_Africa", "Drinking_water"], ["Pound_sterling", "Sweden", "Drinking_water"], ["Pound_sterling", "United_Kingdom", "Drinking_water"]]

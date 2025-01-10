@@ -1,1 +1,0 @@
-[["Pound_sterling", "England", "Plymouth"], ["Pound_sterling", "Egypt", "Plymouth"], ["Pound_sterling", "Saint_Helena", "Plymouth"], ["Pound_sterling", "United_Kingdom", "Plymouth"], ["Pound_sterling", "World_War_II", "Plymouth"]]

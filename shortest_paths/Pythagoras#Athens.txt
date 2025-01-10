@@ -1,1 +1,0 @@
-[["Pythagoras", "Greece", "Athens"], ["Pythagoras", "Parthenon", "Athens"], ["Pythagoras", "Plato", "Athens"], ["Pythagoras", "Apollo", "Athens"], ["Pythagoras", "Aristotle", "Athens"], ["Pythagoras", "Italy", "Athens"], ["Pythagoras", "Music", "Athens"], ["Pythagoras", "Poetry", "Athens"]]

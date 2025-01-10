@@ -1,1 +1,0 @@
-[["Monkey", "Ape", "God"], ["Monkey", "Hinduism", "God"], ["Monkey", "Human", "God"], ["Monkey", "United_States", "God"]]

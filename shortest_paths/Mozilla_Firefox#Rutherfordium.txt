@@ -1,1 +1,0 @@
-[["Mozilla_Firefox", "Gmail", "New_Zealand", "Rutherfordium"], ["Mozilla_Firefox", "Europe", "New_Zealand", "Rutherfordium"], ["Mozilla_Firefox", "Germany", "New_Zealand", "Rutherfordium"], ["Mozilla_Firefox", "Windows_XP", "New_Zealand", "Rutherfordium"], ["Mozilla_Firefox", "Germany", "Dubnium", "Rutherfordium"], ["Mozilla_Firefox", "Germany", "Radon", "Rutherfordium"]]

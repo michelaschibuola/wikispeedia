@@ -1,1 +1,0 @@
-[["Economics", "Aristotle", "Gravitation"], ["Economics", "Differential_equation", "Gravitation"], ["Economics", "Ancient_Rome", "Gravitation"], ["Economics", "Religion", "Gravitation"], ["Economics", "United_Kingdom", "Gravitation"]]

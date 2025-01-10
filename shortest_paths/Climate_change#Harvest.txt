@@ -1,1 +1,0 @@
-[["Climate_change", "Agriculture", "Harvest"], ["Climate_change", "Irrigation", "Harvest"], ["Climate_change", "Weather", "Harvest"]]

@@ -1,1 +1,0 @@
-[["Niccol%C3%B2_Paganini", "France", "Linear_algebra", "Elementary_algebra"], ["Niccol%C3%B2_Paganini", "Napoleon_I_of_France", "Mathematics", "Elementary_algebra"]]

@@ -1,1 +1,0 @@
-[["7th_century", "China", "Sun_Yat-sen"], ["7th_century", "Japan", "Sun_Yat-sen"], ["7th_century", "Chinese_language", "Sun_Yat-sen"], ["7th_century", "Christianity", "Sun_Yat-sen"]]

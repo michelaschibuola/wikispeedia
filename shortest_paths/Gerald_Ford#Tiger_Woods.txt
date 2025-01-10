@@ -1,1 +1,0 @@
-[["Gerald_Ford", "Bill_Clinton", "Tiger_Woods"], ["Gerald_Ford", "Vietnam", "Tiger_Woods"]]

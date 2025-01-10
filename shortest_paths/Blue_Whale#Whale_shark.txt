@@ -1,1 +1,0 @@
-[["Blue_Whale", "Animal", "Whale_shark"], ["Blue_Whale", "Binomial_nomenclature", "Whale_shark"], ["Blue_Whale", "Japan", "Whale_shark"], ["Blue_Whale", "Scientific_classification", "Whale_shark"], ["Blue_Whale", "Whale", "Whale_shark"]]

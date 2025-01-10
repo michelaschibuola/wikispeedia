@@ -1,1 +1,0 @@
-[["Homer", "Asia", "Horse"], ["Homer", "Europe", "Horse"], ["Homer", "Art", "Horse"], ["Homer", "Athens", "Horse"], ["Homer", "Religion", "Horse"], ["Homer", "Mythology", "Horse"]]

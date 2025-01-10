@@ -1,1 +1,0 @@
-[["Herring_Gull", "Asia", "Istanbul"], ["Herring_Gull", "Europe", "Istanbul"]]

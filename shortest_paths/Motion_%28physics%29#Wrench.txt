@@ -1,1 +1,0 @@
-[["Motion_%28physics%29", "Energy", "Automobile", "Wrench"], ["Motion_%28physics%29", "Steam_engine", "Automobile", "Wrench"], ["Motion_%28physics%29", "Mathematics", "American_English", "Wrench"], ["Motion_%28physics%29", "Mathematics", "British_English", "Wrench"]]

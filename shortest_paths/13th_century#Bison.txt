@@ -1,1 +1,0 @@
-[["13th_century", "Asia", "Bison"], ["13th_century", "Europe", "Bison"], ["13th_century", "Western_painting", "Bison"]]

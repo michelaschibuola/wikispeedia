@@ -1,1 +1,0 @@
-[["Retreat_of_glaciers_since_1850", "Asia", "Mentha"], ["Retreat_of_glaciers_since_1850", "North_America", "Mentha"]]

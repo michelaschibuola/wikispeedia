@@ -1,1 +1,0 @@
-[["Arnold_Schwarzenegger", "German_language", "Poetry_of_the_United_States"], ["Arnold_Schwarzenegger", "London", "Poetry_of_the_United_States"], ["Arnold_Schwarzenegger", "United_States", "Poetry_of_the_United_States"]]

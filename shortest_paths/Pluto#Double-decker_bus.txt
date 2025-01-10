@@ -1,1 +1,0 @@
-[["Pluto", "California", "Double-decker_bus"]]

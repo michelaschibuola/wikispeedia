@@ -1,1 +1,0 @@
-[["Peregrine_Falcon", "Animal", "Red_Kite"], ["Peregrine_Falcon", "Binomial_nomenclature", "Red_Kite"], ["Peregrine_Falcon", "Bird", "Red_Kite"], ["Peregrine_Falcon", "Chordate", "Red_Kite"], ["Peregrine_Falcon", "Scientific_classification", "Red_Kite"], ["Peregrine_Falcon", "United_Kingdom", "Red_Kite"]]

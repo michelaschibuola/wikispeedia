@@ -1,1 +1,0 @@
-[["Carl_Sagan", "Gold", "Caesium"], ["Carl_Sagan", "Nuclear_weapon", "Caesium"]]

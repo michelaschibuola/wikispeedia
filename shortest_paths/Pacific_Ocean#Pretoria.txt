@@ -1,1 +1,0 @@
-[["Pacific_Ocean", "Africa", "Pretoria"], ["Pacific_Ocean", "United_Kingdom", "Pretoria"], ["Pacific_Ocean", "United_States", "Pretoria"]]

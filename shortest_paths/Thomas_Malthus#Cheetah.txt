@@ -1,1 +1,0 @@
-[["Thomas_Malthus", "Agriculture", "Cheetah"], ["Thomas_Malthus", "Latin", "Cheetah"], ["Thomas_Malthus", "United_States", "Cheetah"]]

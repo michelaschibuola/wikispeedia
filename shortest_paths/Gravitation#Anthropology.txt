@@ -1,1 +1,0 @@
-[["Gravitation", "Astronomy", "Anthropology"], ["Gravitation", "Evolution", "Anthropology"], ["Gravitation", "Physics", "Anthropology"], ["Gravitation", "United_Kingdom", "Anthropology"]]

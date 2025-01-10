@@ -1,1 +1,0 @@
-[["London", "Atlantic_Ocean", "Banjul"], ["London", "Capital", "Banjul"], ["London", "United_Kingdom", "Banjul"], ["London", "Mosque", "Banjul"], ["London", "Slavery", "Banjul"]]

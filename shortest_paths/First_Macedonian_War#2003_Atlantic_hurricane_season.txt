@@ -1,1 +1,0 @@
-[["First_Macedonian_War", "Athens", "Canada", "2003_Atlantic_hurricane_season"], ["First_Macedonian_War", "Athens", "Portugal", "2003_Atlantic_hurricane_season"], ["First_Macedonian_War", "Greece", "Portugal", "2003_Atlantic_hurricane_season"]]

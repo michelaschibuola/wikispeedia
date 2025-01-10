@@ -1,1 +1,0 @@
-[["Graphic_novel", "Italy", "Mount_Vesuvius"], ["Graphic_novel", "World_War_II", "Mount_Vesuvius"]]

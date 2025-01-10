@@ -1,1 +1,0 @@
-[["United_Kingdom", "Africa", "Clarinet"], ["United_Kingdom", "Coronation_Street", "Clarinet"], ["United_Kingdom", "Germany", "Clarinet"], ["United_Kingdom", "Jazz", "Clarinet"], ["United_Kingdom", "Sgt._Pepper%27s_Lonely_Hearts_Club_Band", "Clarinet"]]

@@ -1,1 +1,0 @@
-[["Euclid", "Albert_Einstein", "Momentum"]]

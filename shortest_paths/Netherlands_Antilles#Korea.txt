@@ -1,1 +1,0 @@
-[["Netherlands_Antilles", "Driving_on_the_left_or_right", "Korea"], ["Netherlands_Antilles", "19th_century", "Korea"], ["Netherlands_Antilles", "Brazil", "Korea"], ["Netherlands_Antilles", "United_States", "Korea"]]

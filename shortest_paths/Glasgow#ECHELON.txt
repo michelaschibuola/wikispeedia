@@ -1,1 +1,0 @@
-[["Glasgow", "BBC", "ECHELON"], ["Glasgow", "Germany", "ECHELON"], ["Glasgow", "Ireland", "ECHELON"], ["Glasgow", "Italy", "ECHELON"], ["Glasgow", "Pakistan", "ECHELON"], ["Glasgow", "Russia", "ECHELON"], ["Glasgow", "Scotland", "ECHELON"], ["Glasgow", "United_Kingdom", "ECHELON"], ["Glasgow", "United_States", "ECHELON"]]

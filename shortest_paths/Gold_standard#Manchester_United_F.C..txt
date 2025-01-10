@@ -1,1 +1,0 @@
-[["Gold_standard", "England", "Manchester_United_F.C."], ["Gold_standard", "Europe", "Manchester_United_F.C."], ["Gold_standard", "Germany", "Manchester_United_F.C."], ["Gold_standard", "Sweden", "Manchester_United_F.C."], ["Gold_standard", "United_Kingdom", "Manchester_United_F.C."], ["Gold_standard", "United_States", "Manchester_United_F.C."]]

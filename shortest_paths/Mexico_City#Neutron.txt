@@ -1,1 +1,0 @@
-[["Mexico_City", "Paris", "Neutron"], ["Mexico_City", "Vanadium", "Neutron"], ["Mexico_City", "Water", "Neutron"]]

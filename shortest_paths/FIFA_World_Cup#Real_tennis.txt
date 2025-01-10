@@ -1,1 +1,0 @@
-[["FIFA_World_Cup", "England", "Real_tennis"], ["FIFA_World_Cup", "Australia", "Real_tennis"], ["FIFA_World_Cup", "Europe", "Real_tennis"], ["FIFA_World_Cup", "France", "Real_tennis"], ["FIFA_World_Cup", "United_States", "Real_tennis"], ["FIFA_World_Cup", "Paris", "Real_tennis"]]

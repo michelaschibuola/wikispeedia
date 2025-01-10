@@ -1,1 +1,0 @@
-[["Hundred_Years%27_War", "France", "Medieval_literature"], ["Hundred_Years%27_War", "Holy_Roman_Empire", "Medieval_literature"], ["Hundred_Years%27_War", "Romanticism", "Medieval_literature"], ["Hundred_Years%27_War", "Middle_Ages", "Medieval_literature"]]

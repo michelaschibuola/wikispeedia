@@ -1,1 +1,0 @@
-[["Union_Flag", "Ireland", "Bruce_Springsteen"], ["Union_Flag", "United_Kingdom", "Bruce_Springsteen"], ["Union_Flag", "United_States", "Bruce_Springsteen"]]

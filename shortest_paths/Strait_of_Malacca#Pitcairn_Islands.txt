@@ -1,1 +1,0 @@
-[["Strait_of_Malacca", "Pacific_Ocean", "Pitcairn_Islands"], ["Strait_of_Malacca", "Panama_Canal", "Pitcairn_Islands"]]

@@ -1,1 +1,0 @@
-[["Dinosaur", "Belgium", "Adolf_Hitler"], ["Dinosaur", "Berlin", "Adolf_Hitler"], ["Dinosaur", "India", "Adolf_Hitler"], ["Dinosaur", "Italy", "Adolf_Hitler"], ["Dinosaur", "King_Kong_%281933_film%29", "Adolf_Hitler"], ["Dinosaur", "London", "Adolf_Hitler"], ["Dinosaur", "South_America", "Adolf_Hitler"], ["Dinosaur", "United_States", "Adolf_Hitler"]]

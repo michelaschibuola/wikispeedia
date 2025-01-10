@@ -1,1 +1,0 @@
-[["Chile", "1973_oil_crisis", "BBC"], ["Chile", "Charles_Darwin", "BBC"], ["Chile", "Asia", "BBC"], ["Chile", "Europe", "BBC"], ["Chile", "Japan", "BBC"], ["Chile", "New_Zealand", "BBC"], ["Chile", "United_Nations", "BBC"], ["Chile", "United_States", "BBC"], ["Chile", "Driving_on_the_left_or_right", "BBC"], ["Chile", "Equatorial_Guinea", "BBC"]]

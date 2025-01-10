@@ -1,1 +1,0 @@
-[["Caspian_Sea", "Asia", "Swastika"], ["Caspian_Sea", "Azerbaijan", "Swastika"], ["Caspian_Sea", "Europe", "Swastika"], ["Caspian_Sea", "Iran", "Swastika"], ["Caspian_Sea", "Ukraine", "Swastika"]]

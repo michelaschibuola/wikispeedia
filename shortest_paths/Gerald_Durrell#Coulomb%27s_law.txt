@@ -1,1 +1,0 @@
-[["Gerald_Durrell", "India", "Albert_Einstein", "Coulomb%27s_law"], ["Gerald_Durrell", "Israel", "Albert_Einstein", "Coulomb%27s_law"], ["Gerald_Durrell", "World_War_II", "Albert_Einstein", "Coulomb%27s_law"], ["Gerald_Durrell", "India", "Love", "Coulomb%27s_law"], ["Gerald_Durrell", "Mexico", "Electricity", "Coulomb%27s_law"]]

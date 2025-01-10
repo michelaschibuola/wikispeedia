@@ -1,1 +1,0 @@
-[["Senegal", "Africa", "Lake_Victoria"], ["Senegal", "Geography_of_Africa", "Lake_Victoria"], ["Senegal", "Kenya", "Lake_Victoria"], ["Senegal", "Tanzania", "Lake_Victoria"], ["Senegal", "Uganda", "Lake_Victoria"]]

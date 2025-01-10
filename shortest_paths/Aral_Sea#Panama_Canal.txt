@@ -1,1 +1,0 @@
-[["Aral_Sea", "Canal", "Panama_Canal"], ["Aral_Sea", "United_States", "Panama_Canal"], ["Aral_Sea", "Ocean", "Panama_Canal"]]

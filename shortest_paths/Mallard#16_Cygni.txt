@@ -1,1 +1,0 @@
-[["Mallard", "Animal", "Planetary_habitability", "16_Cygni"], ["Mallard", "Asia", "Sun", "16_Cygni"], ["Mallard", "Europe", "Day", "16_Cygni"]]

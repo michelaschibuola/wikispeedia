@@ -1,1 +1,0 @@
-[["Homer", "Europe", "Arsenal_F.C."]]

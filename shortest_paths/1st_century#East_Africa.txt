@@ -1,1 +1,0 @@
-[["1st_century", "19th_century", "East_Africa"], ["1st_century", "20th_century", "East_Africa"], ["1st_century", "Lion", "East_Africa"], ["1st_century", "Horn_of_Africa", "East_Africa"], ["1st_century", "Mozambique", "East_Africa"]]

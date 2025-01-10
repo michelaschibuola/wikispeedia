@@ -1,1 +1,0 @@
-[["Boa", "Latin", "Aluminium", "Autorack"], ["Boa", "Latin", "Chicago", "Autorack"], ["Boa", "Latin", "Germany", "Autorack"], ["Boa", "Latin", "United_States", "Autorack"], ["Boa", "Mammal", "North_America", "Autorack"], ["Boa", "Fauna_of_Australia", "North_America", "Autorack"]]

@@ -1,1 +1,0 @@
-[["Armia_Krajowa", "The_Holocaust", "Switzerland"], ["Armia_Krajowa", "World_War_II", "Switzerland"], ["Armia_Krajowa", "Colditz_Castle", "Switzerland"]]

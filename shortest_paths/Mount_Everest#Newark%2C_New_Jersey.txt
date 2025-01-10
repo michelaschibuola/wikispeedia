@@ -1,1 +1,0 @@
-[["Mount_Everest", "Ecuador", "Newark%2C_New_Jersey"], ["Mount_Everest", "People%27s_Republic_of_China", "Newark%2C_New_Jersey"], ["Mount_Everest", "Tibet", "Newark%2C_New_Jersey"], ["Mount_Everest", "United_States", "Newark%2C_New_Jersey"]]

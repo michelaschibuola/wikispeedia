@@ -1,1 +1,0 @@
-[["Pac-Man", "Japan", "Nuclear_power"], ["Pac-Man", "United_States", "Nuclear_power"]]

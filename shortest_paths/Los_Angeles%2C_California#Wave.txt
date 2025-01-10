@@ -1,1 +1,0 @@
-[["Los_Angeles%2C_California", "Beach", "Wave"], ["Los_Angeles%2C_California", "Earthquake", "Wave"]]

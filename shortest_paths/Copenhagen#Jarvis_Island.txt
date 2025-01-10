@@ -1,1 +1,0 @@
-[["Copenhagen", "United_States", "Jarvis_Island"], ["Copenhagen", "World_War_II", "Jarvis_Island"]]

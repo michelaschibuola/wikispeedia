@@ -1,1 +1,0 @@
-[["Asthma", "Hippocrates", "Ancient_history"], ["Asthma", "History", "Ancient_history"]]

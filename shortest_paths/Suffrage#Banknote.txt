@@ -1,1 +1,0 @@
-[["Suffrage", "Japan", "Banknote"], ["Suffrage", "Canada", "Banknote"], ["Suffrage", "United_Kingdom", "Banknote"]]

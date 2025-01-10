@@ -1,1 +1,0 @@
-[["Damon_Hill", "France", "Munich"], ["Damon_Hill", "The_Rolling_Stones", "Munich"], ["Damon_Hill", "United_Kingdom", "Munich"]]

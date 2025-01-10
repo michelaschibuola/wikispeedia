@@ -1,1 +1,0 @@
-[["Jimmy_Wales", "Germany", "Maglev_train"]]

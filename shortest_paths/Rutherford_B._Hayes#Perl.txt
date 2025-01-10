@@ -1,1 +1,0 @@
-[["Rutherford_B._Hayes", "James_Garfield", "Latin", "Perl"], ["Rutherford_B._Hayes", "Argentina", "Latin", "Perl"], ["Rutherford_B._Hayes", "Oregon", "Latin", "Perl"], ["Rutherford_B._Hayes", "Argentina", "Astrophysics_Data_System", "Perl"], ["Rutherford_B._Hayes", "Brazil", "Astrophysics_Data_System", "Perl"]]

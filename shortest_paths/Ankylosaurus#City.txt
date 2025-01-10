@@ -1,1 +1,0 @@
-[["Ankylosaurus", "New_York_City", "City"], ["Ankylosaurus", "United_States", "City"]]

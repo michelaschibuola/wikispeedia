@@ -1,1 +1,0 @@
-[["Love", "Human", "Weapon"], ["Love", "Force", "Weapon"], ["Love", "Psychology", "Weapon"]]

@@ -1,1 +1,0 @@
-[["Chaffinch", "Africa", "Flat_Earth"], ["Chaffinch", "Asia", "Flat_Earth"], ["Chaffinch", "Europe", "Flat_Earth"]]

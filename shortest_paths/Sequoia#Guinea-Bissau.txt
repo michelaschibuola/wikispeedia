@@ -1,1 +1,0 @@
-[["Sequoia", "Portugal", "Guinea-Bissau"], ["Sequoia", "United_States", "Guinea-Bissau"]]

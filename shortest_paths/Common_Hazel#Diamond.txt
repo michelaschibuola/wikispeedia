@@ -1,1 +1,0 @@
-[["Common_Hazel", "Australia", "Diamond"], ["Common_Hazel", "Austria", "Diamond"], ["Common_Hazel", "Canada", "Diamond"], ["Common_Hazel", "China", "Diamond"], ["Common_Hazel", "England", "Diamond"], ["Common_Hazel", "Europe", "Diamond"], ["Common_Hazel", "United_States", "Diamond"]]

@@ -1,1 +1,0 @@
-[["Sucre", "South_America", "Slavery"], ["Sucre", "Chile", "Slavery"], ["Sucre", "Peru", "Slavery"], ["Sucre", "Spain", "Slavery"]]

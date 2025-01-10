@@ -1,1 +1,0 @@
-[["Tao_Te_Ching", "Calligraphy", "England", "John_Sentamu"], ["Tao_Te_Ching", "Chinese_language", "England", "John_Sentamu"], ["Tao_Te_Ching", "Calligraphy", "York", "John_Sentamu"]]

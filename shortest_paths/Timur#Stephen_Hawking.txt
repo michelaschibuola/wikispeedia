@@ -1,1 +1,0 @@
-[["Timur", "China", "Stephen_Hawking"]]

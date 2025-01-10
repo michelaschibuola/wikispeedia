@@ -1,1 +1,0 @@
-[["Cambodia", "Paris", "Ernest_Hemingway"], ["Cambodia", "United_States", "Ernest_Hemingway"], ["Cambodia", "Ronald_Reagan", "Ernest_Hemingway"]]

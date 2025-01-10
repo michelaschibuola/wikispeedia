@@ -1,1 +1,0 @@
-[["Super_Bowl_XL", "Canada", "Canadian_Senate"], ["Super_Bowl_XL", "United_Kingdom", "Canadian_Senate"], ["Super_Bowl_XL", "United_States", "Canadian_Senate"]]

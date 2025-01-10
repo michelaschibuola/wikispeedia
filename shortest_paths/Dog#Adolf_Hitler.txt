@@ -1,1 +1,0 @@
-[["Dog", "Germany", "Adolf_Hitler"], ["Dog", "Middle_East", "Adolf_Hitler"]]

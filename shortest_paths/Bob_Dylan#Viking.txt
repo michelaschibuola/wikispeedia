@@ -1,1 +1,0 @@
-[["Bob_Dylan", "England", "Viking"], ["Bob_Dylan", "Europe", "Viking"], ["Bob_Dylan", "Italy", "Viking"], ["Bob_Dylan", "Russia", "Viking"]]

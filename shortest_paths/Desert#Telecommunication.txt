@@ -1,1 +1,0 @@
-[["Desert", "Africa", "Telecommunication"], ["Desert", "China", "Telecommunication"], ["Desert", "Niger", "Telecommunication"]]

@@ -1,1 +1,0 @@
-[["Dark_Ages", "19th_century", "Abraham_Lincoln"], ["Dark_Ages", "United_Kingdom", "Abraham_Lincoln"], ["Dark_Ages", "United_States", "Abraham_Lincoln"], ["Dark_Ages", "Manchester", "Abraham_Lincoln"]]

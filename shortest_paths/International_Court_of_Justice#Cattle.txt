@@ -1,1 +1,0 @@
-[["International_Court_of_Justice", "Australia", "Cattle"], ["International_Court_of_Justice", "Canada", "Cattle"], ["International_Court_of_Justice", "English_language", "Cattle"], ["International_Court_of_Justice", "France", "Cattle"], ["International_Court_of_Justice", "Iran", "Cattle"], ["International_Court_of_Justice", "New_Zealand", "Cattle"]]

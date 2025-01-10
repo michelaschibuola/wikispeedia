@@ -1,1 +1,0 @@
-[["Liberalism", "Max_Weber", "Pneumonia"], ["Liberalism", "Middle_Ages", "Pneumonia"], ["Liberalism", "Ronald_Reagan", "Pneumonia"], ["Liberalism", "United_Kingdom", "Pneumonia"], ["Liberalism", "United_States", "Pneumonia"]]

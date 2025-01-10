@@ -1,1 +1,0 @@
-[["FIFA", "Asia", "Laos"], ["FIFA", "French_language", "Laos"], ["FIFA", "Japan", "Laos"], ["FIFA", "Saudi_Arabia", "Laos"], ["FIFA", "World_War_II", "Laos"], ["FIFA", "Interpol", "Laos"]]

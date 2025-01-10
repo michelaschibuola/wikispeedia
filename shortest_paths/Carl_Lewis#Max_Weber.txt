@@ -1,1 +1,0 @@
-[["Carl_Lewis", "Asia", "Max_Weber"], ["Carl_Lewis", "Europe", "Max_Weber"], ["Carl_Lewis", "United_States", "Max_Weber"]]

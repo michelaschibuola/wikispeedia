@@ -1,1 +1,0 @@
-[["George_W._Bush", "Florida", "Thomas_Edison"], ["George_W._Bush", "France", "Thomas_Edison"], ["George_W._Bush", "Germany", "Thomas_Edison"], ["George_W._Bush", "New_York_City", "Thomas_Edison"], ["George_W._Bush", "United_Kingdom", "Thomas_Edison"], ["George_W._Bush", "United_States", "Thomas_Edison"]]

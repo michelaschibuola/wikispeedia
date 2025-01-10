@@ -1,1 +1,0 @@
-[["Jesus", "Eastern_Orthodox_Church", "Sarajevo"], ["Jesus", "Europe", "Sarajevo"], ["Jesus", "Islam", "Sarajevo"], ["Jesus", "Judaism", "Sarajevo"], ["Jesus", "Roman_Empire", "Sarajevo"], ["Jesus", "Roman_Catholic_Church", "Sarajevo"]]

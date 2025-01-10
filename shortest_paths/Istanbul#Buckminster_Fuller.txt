@@ -1,1 +1,0 @@
-[["Istanbul", "Continent", "Buckminster_Fuller"], ["Istanbul", "United_States", "Buckminster_Fuller"]]

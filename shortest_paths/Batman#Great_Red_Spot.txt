@@ -1,1 +1,0 @@
-[["Batman", "Earthquake", "Earth", "Great_Red_Spot"], ["Batman", "Spring_Heeled_Jack", "Earth", "Great_Red_Spot"], ["Batman", "Superman", "Earth", "Great_Red_Spot"], ["Batman", "Superman", "Solar_System", "Great_Red_Spot"]]

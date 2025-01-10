@@ -1,1 +1,0 @@
-[["Marie_Curie", "Mathematics", "Education_in_the_United_States"], ["Marie_Curie", "United_States", "Education_in_the_United_States"], ["Marie_Curie", "World_War_I", "Education_in_the_United_States"]]

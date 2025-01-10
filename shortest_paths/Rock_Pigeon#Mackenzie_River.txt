@@ -1,1 +1,0 @@
-[["Rock_Pigeon", "North_America", "Mackenzie_River"]]

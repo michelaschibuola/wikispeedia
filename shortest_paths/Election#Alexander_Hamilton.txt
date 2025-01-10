@@ -1,1 +1,0 @@
-[["Election", "France", "Alexander_Hamilton"], ["Election", "United_States", "Alexander_Hamilton"], ["Election", "United_States_House_of_Representatives", "Alexander_Hamilton"]]

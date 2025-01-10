@@ -1,1 +1,0 @@
-[["Mallard", "Animal", "Platypus"], ["Mallard", "Australia", "Platypus"], ["Mallard", "Binomial_nomenclature", "Platypus"], ["Mallard", "Bird", "Platypus"], ["Mallard", "Chordate", "Platypus"], ["Mallard", "Scientific_classification", "Platypus"]]

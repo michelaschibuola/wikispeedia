@@ -1,1 +1,0 @@
-[["Genealogy", "English_language", "Novel"], ["Genealogy", "Newspaper", "Novel"], ["Genealogy", "Literature", "Novel"]]

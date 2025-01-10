@@ -1,1 +1,0 @@
-[["Shrine_of_Remembrance", "Melbourne", "Football"], ["Shrine_of_Remembrance", "Ancient_Greece", "Football"], ["Shrine_of_Remembrance", "Australia", "Football"], ["Shrine_of_Remembrance", "New_Zealand", "Football"], ["Shrine_of_Remembrance", "World_War_II", "Football"]]

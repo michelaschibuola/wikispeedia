@@ -1,1 +1,0 @@
-[["Albert_Einstein", "Africa", "Maghreb"], ["Albert_Einstein", "Italy", "Maghreb"], ["Albert_Einstein", "Jew", "Maghreb"], ["Albert_Einstein", "Sun", "Maghreb"]]

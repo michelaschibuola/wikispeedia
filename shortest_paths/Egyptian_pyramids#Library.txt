@@ -1,1 +1,0 @@
-[["Egyptian_pyramids", "Ancient_Egypt", "Library"], ["Egyptian_pyramids", "Egypt", "Library"], ["Egyptian_pyramids", "Archaeology", "Library"]]

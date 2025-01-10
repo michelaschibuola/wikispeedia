@@ -1,1 +1,0 @@
-[["Sputnik_program", "Russian_language", "Laos"], ["Sputnik_program", "Soviet_Union", "Laos"]]

@@ -1,1 +1,0 @@
-[["Nuclear_weapon", "Budapest", "Lisbon"], ["Nuclear_weapon", "Earthquake", "Lisbon"], ["Nuclear_weapon", "France", "Lisbon"], ["Nuclear_weapon", "India", "Lisbon"], ["Nuclear_weapon", "United_States", "Lisbon"], ["Nuclear_weapon", "World_War_II", "Lisbon"]]

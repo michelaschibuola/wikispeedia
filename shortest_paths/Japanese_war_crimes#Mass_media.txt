@@ -1,1 +1,0 @@
-[["Japanese_war_crimes", "20th_century", "Mass_media"], ["Japanese_war_crimes", "Netherlands", "Mass_media"], ["Japanese_war_crimes", "Pound_sterling", "Mass_media"], ["Japanese_war_crimes", "United_Kingdom", "Mass_media"], ["Japanese_war_crimes", "United_States", "Mass_media"]]

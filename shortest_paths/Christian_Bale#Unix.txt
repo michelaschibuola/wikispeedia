@@ -1,1 +1,0 @@
-[["Christian_Bale", "Computer", "Unix"], ["Christian_Bale", "Internet", "Unix"]]

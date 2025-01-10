@@ -1,1 +1,0 @@
-[["Edward_IV_of_England", "Edinburgh", "Atlantic_Ocean", "Nurse_sharks"], ["Edward_IV_of_England", "France", "Atlantic_Ocean", "Nurse_sharks"], ["Edward_IV_of_England", "London", "Atlantic_Ocean", "Nurse_sharks"], ["Edward_IV_of_England", "France", "Pacific_Ocean", "Nurse_sharks"]]

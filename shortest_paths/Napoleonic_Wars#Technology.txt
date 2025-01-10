@@ -1,1 +1,0 @@
-[["Napoleonic_Wars", "History_of_the_world", "Technology"], ["Napoleonic_Wars", "Modern_history", "Technology"], ["Napoleonic_Wars", "Belgium", "Technology"], ["Napoleonic_Wars", "Industrial_Revolution", "Technology"], ["Napoleonic_Wars", "Portugal", "Technology"], ["Napoleonic_Wars", "World_War_I", "Technology"]]

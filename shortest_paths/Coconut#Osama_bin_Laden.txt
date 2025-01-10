@@ -1,1 +1,0 @@
-[["Coconut", "India", "Osama_bin_Laden"], ["Coconut", "Pakistan", "Osama_bin_Laden"]]

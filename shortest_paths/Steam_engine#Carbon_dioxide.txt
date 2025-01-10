@@ -1,1 +1,0 @@
-[["Steam_engine", "Industrial_Revolution", "Carbon_dioxide"], ["Steam_engine", "Coal", "Carbon_dioxide"], ["Steam_engine", "Germany", "Carbon_dioxide"], ["Steam_engine", "Nuclear_power", "Carbon_dioxide"], ["Steam_engine", "Water", "Carbon_dioxide"], ["Steam_engine", "Sugar", "Carbon_dioxide"], ["Steam_engine", "Wood_fuel", "Carbon_dioxide"]]

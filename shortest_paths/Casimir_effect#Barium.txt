@@ -1,1 +1,0 @@
-[["Casimir_effect", "Light", "Barium"]]

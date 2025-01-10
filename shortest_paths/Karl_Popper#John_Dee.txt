@@ -1,1 +1,0 @@
-[["Karl_Popper", "England", "John_Dee"], ["Karl_Popper", "London", "John_Dee"], ["Karl_Popper", "Plato", "John_Dee"], ["Karl_Popper", "United_Kingdom", "John_Dee"], ["Karl_Popper", "University_of_Cambridge", "John_Dee"], ["Karl_Popper", "Mathematics", "John_Dee"], ["Karl_Popper", "Science", "John_Dee"]]

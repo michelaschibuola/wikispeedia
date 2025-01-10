@@ -1,1 +1,0 @@
-[["Australian_Green_Tree_Frog", "Animal", "Gazelle"], ["Australian_Green_Tree_Frog", "Mammal", "Gazelle"], ["Australian_Green_Tree_Frog", "Scientific_classification", "Gazelle"]]

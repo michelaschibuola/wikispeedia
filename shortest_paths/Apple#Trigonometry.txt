@@ -1,1 +1,0 @@
-[["Apple", "Isaac_Newton", "Trigonometry"], ["Apple", "Mesopotamia", "Trigonometry"]]

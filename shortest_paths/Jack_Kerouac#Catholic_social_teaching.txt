@@ -1,1 +1,0 @@
-[["Jack_Kerouac", "Cold_War", "Catholic_social_teaching"], ["Jack_Kerouac", "World_War_II", "Catholic_social_teaching"]]

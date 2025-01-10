@@ -1,1 +1,0 @@
-[["U.S._state", "French_language", "Krazy_Kat"], ["U.S._state", "California", "Krazy_Kat"], ["U.S._state", "France", "Krazy_Kat"], ["U.S._state", "Spanish_language", "Krazy_Kat"]]

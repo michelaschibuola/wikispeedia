@@ -1,1 +1,0 @@
-[["4-4-0", "Pennsylvania_Railroad", "Philadelphia"], ["4-4-0", "Lynton_and_Barnstaple_Railway", "Philadelphia"]]

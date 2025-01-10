@@ -1,1 +1,0 @@
-[["Analytical_Marxism", "Communism", "Human"], ["Analytical_Marxism", "Logic", "Human"], ["Analytical_Marxism", "Karl_Marx", "Human"]]

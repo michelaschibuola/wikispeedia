@@ -1,1 +1,0 @@
-[["Franz_Kafka", "20th_century", "Yeti"]]

@@ -1,1 +1,0 @@
-[["Leo_Tolstoy", "English_language", "Ethnic_group"], ["Leo_Tolstoy", "Esperanto", "Ethnic_group"], ["Leo_Tolstoy", "War", "Ethnic_group"]]

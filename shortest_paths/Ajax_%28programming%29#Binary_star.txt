@@ -1,1 +1,0 @@
-[["Ajax_%28programming%29", "Gmail", "Arabic_language", "Binary_star"], ["Ajax_%28programming%29", "World_Wide_Web", "Arabic_language", "Binary_star"], ["Ajax_%28programming%29", "World_Wide_Web", "Earth", "Binary_star"]]

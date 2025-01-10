@@ -1,1 +1,0 @@
-[["Bird", "19th_century", "Telephone"], ["Bird", "Death_Valley_National_Park", "Telephone"]]

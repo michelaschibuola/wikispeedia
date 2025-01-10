@@ -1,1 +1,0 @@
-[["Morris_dance", "France", "Pablo_Picasso"], ["Morris_dance", "Germany", "Pablo_Picasso"], ["Morris_dance", "Spain", "Pablo_Picasso"]]

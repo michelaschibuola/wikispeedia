@@ -1,1 +1,0 @@
-[["Dam", "Engineering", "University_of_Bristol", "Abhidhamma_Pitaka"], ["Dam", "France", "Buddhism", "Abhidhamma_Pitaka"], ["Dam", "Los_Angeles%2C_California", "Buddhism", "Abhidhamma_Pitaka"], ["Dam", "Iran", "Buddhism", "Abhidhamma_Pitaka"], ["Dam", "Sand_art_and_play", "Buddhism", "Abhidhamma_Pitaka"], ["Dam", "Delhi", "Buddha", "Abhidhamma_Pitaka"]]

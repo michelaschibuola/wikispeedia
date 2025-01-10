@@ -1,1 +1,0 @@
-[["Scrooge_McDuck", "English_language", "Blade_Runner"], ["Scrooge_McDuck", "United_States", "Blade_Runner"]]

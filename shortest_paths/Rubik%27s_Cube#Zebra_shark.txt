@@ -1,1 +1,0 @@
-[["Rubik%27s_Cube", "England", "Aquarium", "Zebra_shark"], ["Rubik%27s_Cube", "London", "Aquarium", "Zebra_shark"], ["Rubik%27s_Cube", "Los_Angeles%2C_California", "Pacific_Ocean", "Zebra_shark"], ["Rubik%27s_Cube", "Sweden", "Binomial_nomenclature", "Zebra_shark"], ["Rubik%27s_Cube", "Toy", "Animal", "Zebra_shark"]]

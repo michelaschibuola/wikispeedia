@@ -1,1 +1,0 @@
-[["Onion", "Cuba", "Russia"], ["Onion", "Dog", "Russia"], ["Onion", "Foie_gras", "Russia"], ["Onion", "North_America", "Russia"], ["Onion", "United_States", "Russia"], ["Onion", "Soup", "Russia"]]

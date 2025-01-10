@@ -1,1 +1,0 @@
-[["Ecology", "Cretaceous", "Pterosaur"], ["Ecology", "Cretaceous-Tertiary_extinction_event", "Pterosaur"], ["Ecology", "Mammal", "Pterosaur"]]

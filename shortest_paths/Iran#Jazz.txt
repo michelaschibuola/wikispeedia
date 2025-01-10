@@ -1,1 +1,0 @@
-[["Iran", "Armenia", "Jazz"], ["Iran", "Azerbaijani_people", "Jazz"], ["Iran", "Europe", "Jazz"], ["Iran", "Guitar", "Jazz"], ["Iran", "History_of_the_world", "Jazz"], ["Iran", "20th_century", "Jazz"], ["Iran", "France", "Jazz"], ["Iran", "Music", "Jazz"], ["Iran", "United_Kingdom", "Jazz"], ["Iran", "United_States", "Jazz"]]

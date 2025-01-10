@@ -1,1 +1,0 @@
-[["Thalassemia", "Bangladesh", "Sanskrit"], ["Thalassemia", "Cambodia", "Sanskrit"], ["Thalassemia", "China", "Sanskrit"], ["Thalassemia", "India", "Sanskrit"], ["Thalassemia", "Thailand", "Sanskrit"]]

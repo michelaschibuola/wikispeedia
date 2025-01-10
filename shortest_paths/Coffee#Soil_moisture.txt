@@ -1,1 +1,0 @@
-[["Coffee", "Agriculture", "Soil_moisture"], ["Coffee", "Water", "Soil_moisture"]]

@@ -1,1 +1,0 @@
-[["Dominica", "Africa", "Sickle-cell_disease"], ["Dominica", "United_States", "Sickle-cell_disease"], ["Dominica", "Grenada", "Sickle-cell_disease"]]

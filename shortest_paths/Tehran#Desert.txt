@@ -1,1 +1,0 @@
-[["Tehran", "Asia", "Desert"], ["Tehran", "Iran", "Desert"], ["Tehran", "China", "Desert"], ["Tehran", "South_Africa", "Desert"]]

@@ -1,1 +1,0 @@
-[["Allah", "English_language", "Goa", "Humus"], ["Allah", "Islam", "Goa", "Humus"], ["Allah", "Islam", "Irrigation", "Humus"]]

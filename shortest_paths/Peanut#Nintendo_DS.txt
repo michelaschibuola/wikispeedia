@@ -1,1 +1,0 @@
-[["Peanut", "Europe", "Nintendo_DS"], ["Peanut", "Japan", "Nintendo_DS"]]

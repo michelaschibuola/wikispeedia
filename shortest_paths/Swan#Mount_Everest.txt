@@ -1,1 +1,0 @@
-[["Swan", "China", "Mount_Everest"], ["Swan", "New_Zealand", "Mount_Everest"], ["Swan", "Sanskrit", "Mount_Everest"]]

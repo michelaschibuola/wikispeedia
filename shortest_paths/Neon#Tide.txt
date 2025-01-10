@@ -1,1 +1,0 @@
-[["Neon", "Earth%27s_atmosphere", "Tide"], ["Neon", "Earth", "Tide"], ["Neon", "Sun", "Tide"], ["Neon", "Venus", "Tide"]]

@@ -1,1 +1,0 @@
-[["Coconut_crab", "German_language", "Chile"], ["Coconut_crab", "Japan", "Chile"], ["Coconut_crab", "Pacific_Ocean", "Chile"]]

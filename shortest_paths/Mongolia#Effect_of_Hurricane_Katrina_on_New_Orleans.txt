@@ -1,1 +1,0 @@
-[["Mongolia", "George_W._Bush", "Effect_of_Hurricane_Katrina_on_New_Orleans"], ["Mongolia", "United_States", "Effect_of_Hurricane_Katrina_on_New_Orleans"]]

@@ -1,1 +1,0 @@
-[["Tea", "Tamil_people", "Architecture"], ["Tea", "China", "Architecture"], ["Tea", "England", "Architecture"], ["Tea", "Europe", "Architecture"], ["Tea", "France", "Architecture"], ["Tea", "India", "Architecture"], ["Tea", "Pakistan", "Architecture"], ["Tea", "Shanghai", "Architecture"]]

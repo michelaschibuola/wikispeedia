@@ -1,1 +1,0 @@
-[["Ishango_bone", "Africa", "Hutu"], ["Ishango_bone", "Brussels", "Hutu"], ["Ishango_bone", "Democratic_Republic_of_the_Congo", "Hutu"]]

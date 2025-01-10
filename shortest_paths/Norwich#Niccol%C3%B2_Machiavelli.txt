@@ -1,1 +1,0 @@
-[["Norwich", "France", "Niccol%C3%B2_Machiavelli"], ["Norwich", "Liberalism", "Niccol%C3%B2_Machiavelli"], ["Norwich", "Spain", "Niccol%C3%B2_Machiavelli"]]

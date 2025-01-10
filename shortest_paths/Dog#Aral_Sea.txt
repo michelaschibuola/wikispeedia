@@ -1,1 +1,0 @@
-[["Dog", "Cancer", "Aral_Sea"]]

@@ -1,1 +1,0 @@
-[["Google", "21st_century", "Canada"], ["Google", "Cereal", "Canada"], ["Google", "Employment", "Canada"], ["Google", "France", "Canada"], ["Google", "Germany", "Canada"], ["Google", "Moon", "Canada"], ["Google", "United_States", "Canada"]]

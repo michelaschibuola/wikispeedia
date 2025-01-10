@@ -1,1 +1,0 @@
-[["Natural_gas", "21st_century", "Neptune"], ["Natural_gas", "Helium", "Neptune"], ["Natural_gas", "History_of_science", "Neptune"], ["Natural_gas", "Hydrogen", "Neptune"], ["Natural_gas", "Tropical_cyclone", "Neptune"], ["Natural_gas", "Weather", "Neptune"]]

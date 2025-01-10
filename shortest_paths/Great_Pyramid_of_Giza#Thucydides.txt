@@ -1,1 +1,0 @@
-[["Great_Pyramid_of_Giza", "Greece", "Thucydides"], ["Great_Pyramid_of_Giza", "Herodotus", "Thucydides"]]

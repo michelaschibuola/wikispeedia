@@ -1,1 +1,0 @@
-[["Telephone", "Barack_Obama", "Djibouti"], ["Telephone", "United_States", "Djibouti"]]

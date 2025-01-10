@@ -1,1 +1,0 @@
-[["Ice_sheet", "Europe", "Cocoa"], ["Ice_sheet", "South_America", "Cocoa"]]

@@ -1,1 +1,0 @@
-[["Stornoway", "United_Kingdom", "AIDS"], ["Stornoway", "United_States", "AIDS"]]

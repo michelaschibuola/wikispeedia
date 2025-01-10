@@ -1,1 +1,0 @@
-[["Firearm", "China", "Water", "Alternation_of_generations"], ["Firearm", "Leonardo_da_Vinci", "Water", "Alternation_of_generations"], ["Firearm", "United_States", "Water", "Alternation_of_generations"], ["Firearm", "Pyrite", "Water", "Alternation_of_generations"]]

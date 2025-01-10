@@ -1,1 +1,0 @@
-[["Philip_II_of_Spain", "Spain", "Las_Vegas%2C_Nevada"], ["Philip_II_of_Spain", "Spanish_language", "Las_Vegas%2C_Nevada"], ["Philip_II_of_Spain", "Philippines", "Las_Vegas%2C_Nevada"]]

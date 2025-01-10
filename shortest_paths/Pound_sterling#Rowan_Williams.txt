@@ -1,1 +1,0 @@
-[["Pound_sterling", "England", "Rowan_Williams"], ["Pound_sterling", "Wales", "Rowan_Williams"]]

@@ -1,1 +1,0 @@
-[["Schizophrenia", "Europe", "Morocco"], ["Schizophrenia", "Genetics", "Morocco"], ["Schizophrenia", "India", "Morocco"], ["Schizophrenia", "United_Kingdom", "Morocco"], ["Schizophrenia", "United_States", "Morocco"], ["Schizophrenia", "World_Health_Organization", "Morocco"]]

@@ -1,1 +1,0 @@
-[["Yotsuya_Kaidan", "Osaka", "Germany", "Yuri_Gagarin"], ["Yotsuya_Kaidan", "Tokyo", "Germany", "Yuri_Gagarin"], ["Yotsuya_Kaidan", "Osaka", "Russia", "Yuri_Gagarin"], ["Yotsuya_Kaidan", "Tokyo", "Russia", "Yuri_Gagarin"], ["Yotsuya_Kaidan", "Tokyo", "Moscow", "Yuri_Gagarin"], ["Yotsuya_Kaidan", "Tokyo", "World_War_II", "Yuri_Gagarin"]]

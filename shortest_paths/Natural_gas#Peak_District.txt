@@ -1,1 +1,0 @@
-[["Natural_gas", "Coal", "Peak_District"], ["Natural_gas", "United_Kingdom", "Peak_District"]]

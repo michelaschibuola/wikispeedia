@@ -1,1 +1,0 @@
-[["Mississippi_River", "Amazon_River", "Che_Guevara"], ["Mississippi_River", "Cuba", "Che_Guevara"], ["Mississippi_River", "Spain", "Che_Guevara"]]

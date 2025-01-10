@@ -1,1 +1,0 @@
-[["Malta", "Egypt", "Number"], ["Malta", "Europe", "Number"], ["Malta", "Greece", "Number"], ["Malta", "Byzantine_Empire", "Number"], ["Malta", "India", "Number"]]

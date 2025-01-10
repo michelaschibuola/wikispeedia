@@ -1,1 +1,0 @@
-[["Cheese", "Denmark", "Telecommunication"], ["Cheese", "Netherlands", "Telecommunication"], ["Cheese", "Sweden", "Telecommunication"]]

@@ -1,1 +1,0 @@
-[["Sigmund_Freud", "Austria", "Hungary"], ["Sigmund_Freud", "Marxism", "Hungary"], ["Sigmund_Freud", "Nazi_Germany", "Hungary"], ["Sigmund_Freud", "English_language", "Hungary"], ["Sigmund_Freud", "German_language", "Hungary"], ["Sigmund_Freud", "Vienna", "Hungary"], ["Sigmund_Freud", "The_Holocaust", "Hungary"]]

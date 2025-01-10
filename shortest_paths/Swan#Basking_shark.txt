@@ -1,1 +1,0 @@
-[["Swan", "Plesiosaur", "Basking_shark"], ["Swan", "Animal", "Basking_shark"], ["Swan", "Chordate", "Basking_shark"], ["Swan", "Extinction", "Basking_shark"], ["Swan", "Japan", "Basking_shark"], ["Swan", "Malta", "Basking_shark"], ["Swan", "New_Zealand", "Basking_shark"], ["Swan", "Scientific_classification", "Basking_shark"]]

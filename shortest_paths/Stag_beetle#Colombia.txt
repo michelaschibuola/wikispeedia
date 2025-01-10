@@ -1,1 +1,0 @@
-[["Stag_beetle", "Europe", "Colombia"]]

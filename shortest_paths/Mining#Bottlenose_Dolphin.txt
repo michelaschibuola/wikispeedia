@@ -1,1 +1,0 @@
-[["Mining", "Brazil", "Bottlenose_Dolphin"], ["Mining", "United_States", "Bottlenose_Dolphin"]]

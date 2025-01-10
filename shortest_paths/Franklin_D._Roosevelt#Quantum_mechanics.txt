@@ -1,1 +1,0 @@
-[["Franklin_D._Roosevelt", "Albert_Einstein", "Quantum_mechanics"], ["Franklin_D._Roosevelt", "German_language", "Quantum_mechanics"], ["Franklin_D._Roosevelt", "Joseph_Stalin", "Quantum_mechanics"], ["Franklin_D._Roosevelt", "Niels_Bohr", "Quantum_mechanics"]]

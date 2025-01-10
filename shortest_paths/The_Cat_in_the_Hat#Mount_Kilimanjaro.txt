@@ -1,1 +1,0 @@
-[["The_Cat_in_the_Hat", "Latin", "Africa", "Mount_Kilimanjaro"], ["The_Cat_in_the_Hat", "Latin", "Germany", "Mount_Kilimanjaro"], ["The_Cat_in_the_Hat", "Latin", "Volcano", "Mount_Kilimanjaro"]]

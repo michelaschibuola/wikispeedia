@@ -1,1 +1,0 @@
-[["Agriculture", "France", "Mao_Zedong"], ["Agriculture", "Beijing", "Mao_Zedong"], ["Agriculture", "Culture", "Mao_Zedong"], ["Agriculture", "Famine", "Mao_Zedong"], ["Agriculture", "Japan", "Mao_Zedong"], ["Agriculture", "United_States", "Mao_Zedong"], ["Agriculture", "Vladimir_Lenin", "Mao_Zedong"]]

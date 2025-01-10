@@ -1,1 +1,0 @@
-[["Australia", "Coal", "Pyrite"], ["Australia", "Diamond", "Pyrite"], ["Australia", "Gold", "Pyrite"], ["Australia", "Jewellery", "Pyrite"], ["Australia", "Mining", "Pyrite"], ["Australia", "Sulfur", "Pyrite"], ["Australia", "Thallium", "Pyrite"]]

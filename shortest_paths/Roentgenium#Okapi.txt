@@ -1,1 +1,0 @@
-[["Roentgenium", "Gold", "Egypt", "Okapi"], ["Roentgenium", "Color", "Fruit", "Okapi"], ["Roentgenium", "Germany", "Antwerp", "Okapi"], ["Roentgenium", "Germany", "Europe", "Okapi"], ["Roentgenium", "Germany", "Democratic_Republic_of_the_Congo", "Okapi"]]

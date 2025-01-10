@@ -1,1 +1,0 @@
-[["Bill_Clinton", "Montreal", "Parliament_of_Canada"], ["Bill_Clinton", "United_States", "Parliament_of_Canada"], ["Bill_Clinton", "Parliamentary_system", "Parliament_of_Canada"]]

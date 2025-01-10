@@ -1,1 +1,0 @@
-[["Cyprus", "Asia", "Taipei"], ["Cyprus", "Australia", "Taipei"], ["Cyprus", "France", "Taipei"], ["Cyprus", "Time_zone", "Taipei"], ["Cyprus", "Latvia", "Taipei"], ["Cyprus", "Saudi_Arabia", "Taipei"]]

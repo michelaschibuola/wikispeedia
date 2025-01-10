@@ -1,1 +1,0 @@
-[["Madrid", "Europe", "Leisure"], ["Madrid", "Industrial_Revolution", "Leisure"], ["Madrid", "Latin", "Leisure"]]

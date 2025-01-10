@@ -1,1 +1,0 @@
-[["World_Heritage_Site", "Ancient_Rome", "Isles_of_Scilly"], ["World_Heritage_Site", "North_America", "Isles_of_Scilly"]]

@@ -1,1 +1,0 @@
-[["Solar_eclipse", "Earth", "Bryce_Canyon_National_Park"], ["Solar_eclipse", "Star", "Bryce_Canyon_National_Park"]]

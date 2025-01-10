@@ -1,1 +1,0 @@
-[["Chestnut", "United_Kingdom", "Effects_of_global_warming"], ["Chestnut", "United_States", "Effects_of_global_warming"]]

@@ -1,1 +1,0 @@
-[["Anschluss", "Ethiopia", "Saint_Helena"], ["Anschluss", "United_Kingdom", "Saint_Helena"], ["Anschluss", "United_States", "Saint_Helena"], ["Anschluss", "World_War_II", "Saint_Helena"]]

@@ -1,1 +1,0 @@
-[["Liechtenstein", "Europe", "Alchemy"], ["Liechtenstein", "Greece", "Alchemy"], ["Liechtenstein", "Islam", "Alchemy"], ["Liechtenstein", "Japan", "Alchemy"], ["Liechtenstein", "Poland", "Alchemy"], ["Liechtenstein", "Spain", "Alchemy"]]

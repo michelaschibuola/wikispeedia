@@ -1,1 +1,0 @@
-[["Tripoli", "Africa", "Coriander"], ["Tripoli", "Mediterranean_Sea", "Coriander"], ["Tripoli", "United_States", "Coriander"]]

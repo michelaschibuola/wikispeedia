@@ -1,1 +1,0 @@
-[["African_American_literature", "France", "Bicycle"], ["African_American_literature", "United_States", "Bicycle"], ["African_American_literature", "World_War_I", "Bicycle"], ["African_American_literature", "World_War_II", "Bicycle"]]

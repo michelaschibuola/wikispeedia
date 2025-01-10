@@ -1,1 +1,0 @@
-[["Ozone", "Earth%27s_atmosphere", "Heliocentrism"], ["Ozone", "Sun", "Heliocentrism"]]

@@ -1,1 +1,0 @@
-[["Natural_gas", "Argentina", "Cape_Horn"], ["Natural_gas", "Africa", "Cape_Horn"], ["Natural_gas", "United_States", "Cape_Horn"]]

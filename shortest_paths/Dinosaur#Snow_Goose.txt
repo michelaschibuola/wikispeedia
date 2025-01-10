@@ -1,1 +1,0 @@
-[["Dinosaur", "Animal", "Snow_Goose"], ["Dinosaur", "Bird", "Snow_Goose"], ["Dinosaur", "Chordate", "Snow_Goose"], ["Dinosaur", "Scientific_classification", "Snow_Goose"], ["Dinosaur", "Scotland", "Snow_Goose"], ["Dinosaur", "United_States", "Snow_Goose"]]

@@ -1,1 +1,0 @@
-[["Meat", "Cattle", "Leonardo_da_Vinci"], ["Meat", "Anatomy", "Leonardo_da_Vinci"], ["Meat", "Brain", "Leonardo_da_Vinci"], ["Meat", "Human", "Leonardo_da_Vinci"]]

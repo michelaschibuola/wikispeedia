@@ -1,1 +1,0 @@
-[["Coal", "Oxygen", "Louis_Pasteur"], ["Coal", "Lille", "Louis_Pasteur"]]

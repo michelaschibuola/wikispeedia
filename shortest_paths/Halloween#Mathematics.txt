@@ -1,1 +1,0 @@
-[["Halloween", "Day", "Mathematics"], ["Halloween", "16th_century", "Mathematics"], ["Halloween", "Australia", "Mathematics"], ["Halloween", "Belgium", "Mathematics"], ["Halloween", "Scotland", "Mathematics"]]

@@ -1,1 +1,0 @@
-[["Thorium", "Periodic_table", "Integrated_circuit"], ["Thorium", "Chemical_element", "Integrated_circuit"], ["Thorium", "Glass", "Integrated_circuit"]]

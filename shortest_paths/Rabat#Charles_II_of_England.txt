@@ -1,1 +1,0 @@
-[["Rabat", "Africa", "Charles_II_of_England"], ["Rabat", "Spain", "Charles_II_of_England"]]

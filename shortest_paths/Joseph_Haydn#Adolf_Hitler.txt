@@ -1,1 +1,0 @@
-[["Joseph_Haydn", "Austria", "Adolf_Hitler"], ["Joseph_Haydn", "Germany", "Adolf_Hitler"], ["Joseph_Haydn", "Vienna", "Adolf_Hitler"]]

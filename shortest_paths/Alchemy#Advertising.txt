@@ -1,1 +1,0 @@
-[["Alchemy", "Ancient_Greece", "Advertising"], ["Alchemy", "Ancient_Rome", "Advertising"], ["Alchemy", "India", "Advertising"], ["Alchemy", "Japan", "Advertising"], ["Alchemy", "Psychology", "Advertising"]]

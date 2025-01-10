@@ -1,1 +1,0 @@
-[["Vulture", "Africa", "Kofi_Annan"], ["Vulture", "Egypt", "Kofi_Annan"]]

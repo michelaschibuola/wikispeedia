@@ -1,1 +1,0 @@
-[["Argentina", "Bill_Clinton", "James_Monroe"], ["Argentina", "Latin_America", "James_Monroe"], ["Argentina", "Spain", "James_Monroe"]]

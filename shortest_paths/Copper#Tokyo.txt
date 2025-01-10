@@ -1,1 +1,0 @@
-[["Copper", "Australia", "Tokyo"], ["Copper", "Egypt", "Tokyo"], ["Copper", "Indonesia", "Tokyo"], ["Copper", "Russia", "Tokyo"], ["Copper", "United_States", "Tokyo"], ["Copper", "Mahjong", "Tokyo"], ["Copper", "Technology", "Tokyo"]]

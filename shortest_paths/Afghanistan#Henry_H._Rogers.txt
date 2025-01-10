@@ -1,1 +1,0 @@
-[["Afghanistan", "Copper", "Henry_H._Rogers"], ["Afghanistan", "United_States", "Henry_H._Rogers"]]

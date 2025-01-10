@@ -1,1 +1,0 @@
-[["Llywelyn_the_Great", "Elizabeth_II_of_the_United_Kingdom", "Australia", "Kuru_%28disease%29"], ["Llywelyn_the_Great", "Ireland", "Australia", "Kuru_%28disease%29"], ["Llywelyn_the_Great", "Magna_Carta", "Australia", "Kuru_%28disease%29"], ["Llywelyn_the_Great", "Isle_of_Man", "Cattle", "Kuru_%28disease%29"], ["Llywelyn_the_Great", "Wales", "Cattle", "Kuru_%28disease%29"]]

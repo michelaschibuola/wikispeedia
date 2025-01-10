@@ -1,1 +1,0 @@
-[["Bull_shark", "Animal", "Ichthyosaur"], ["Bull_shark", "Chordate", "Ichthyosaur"], ["Bull_shark", "Dolphin", "Ichthyosaur"], ["Bull_shark", "Scientific_classification", "Ichthyosaur"]]

@@ -1,1 +1,0 @@
-[["Nile", "Continent", "Snowball_Earth"], ["Nile", "Sun", "Snowball_Earth"]]

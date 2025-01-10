@@ -1,1 +1,0 @@
-[["Elizabeth_I_of_England", "Islam", "Sumatra"], ["Elizabeth_I_of_England", "Netherlands", "Sumatra"]]

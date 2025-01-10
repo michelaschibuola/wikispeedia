@@ -1,1 +1,0 @@
-[["Stonehenge", "England", "Norwich"], ["Stonehenge", "Middle_Ages", "Norwich"], ["Stonehenge", "Norfolk", "Norwich"], ["Stonehenge", "Roman_Britain", "Norwich"], ["Stonehenge", "United_States", "Norwich"]]

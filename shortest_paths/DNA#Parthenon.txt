@@ -1,1 +1,0 @@
-[["DNA", "United_Kingdom", "Parthenon"], ["DNA", "Symmetry", "Parthenon"]]

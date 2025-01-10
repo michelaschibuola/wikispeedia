@@ -1,1 +1,0 @@
-[["Nazi_Germany", "Cold_War", "Mother_Teresa"], ["Nazi_Germany", "Czech_Republic", "Mother_Teresa"], ["Nazi_Germany", "United_States", "Mother_Teresa"], ["Nazi_Germany", "Rome", "Mother_Teresa"]]

@@ -1,1 +1,0 @@
-[["Goa", "British_Empire", "Cyprus"], ["Goa", "Christianity", "Cyprus"], ["Goa", "English_language", "Cyprus"], ["Goa", "Europe", "Cyprus"], ["Goa", "India", "Cyprus"], ["Goa", "Mining", "Cyprus"], ["Goa", "Netherlands", "Cyprus"], ["Goa", "Rice", "Cyprus"], ["Goa", "Roman_Catholic_Church", "Cyprus"], ["Goa", "Time_zone", "Cyprus"], ["Goa", "World_Heritage_Site", "Cyprus"]]

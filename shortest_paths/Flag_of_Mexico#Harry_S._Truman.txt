@@ -1,1 +1,0 @@
-[["Flag_of_Mexico", "Europe", "Harry_S._Truman"], ["Flag_of_Mexico", "France", "Harry_S._Truman"]]

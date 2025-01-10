@@ -1,1 +1,0 @@
-[["German_reunification", "European_Union", "Barcelona"], ["German_reunification", "France", "Barcelona"], ["German_reunification", "Germany", "Barcelona"], ["German_reunification", "Poland", "Barcelona"], ["German_reunification", "United_States", "Barcelona"]]

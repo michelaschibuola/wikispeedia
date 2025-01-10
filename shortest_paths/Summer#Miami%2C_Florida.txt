@@ -1,1 +1,0 @@
-[["Summer", "Atlanta%2C_Georgia", "Miami%2C_Florida"], ["Summer", "Florida", "Miami%2C_Florida"], ["Summer", "Los_Angeles%2C_California", "Miami%2C_Florida"], ["Summer", "United_States", "Miami%2C_Florida"]]

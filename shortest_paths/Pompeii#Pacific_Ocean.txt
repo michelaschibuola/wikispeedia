@@ -1,1 +1,0 @@
-[["Pompeii", "Earthquake", "Pacific_Ocean"], ["Pompeii", "Latin", "Pacific_Ocean"], ["Pompeii", "Volcano", "Pacific_Ocean"]]

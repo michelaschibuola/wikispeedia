@@ -1,1 +1,0 @@
-[["Wikipedia", "English_language", "American_Samoa"], ["Wikipedia", "George_W._Bush", "American_Samoa"], ["Wikipedia", "United_States_dollar", "American_Samoa"]]

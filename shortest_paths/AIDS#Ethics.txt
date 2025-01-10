@@ -1,1 +1,0 @@
-[["AIDS", "Genetics", "Ethics"], ["AIDS", "Human", "Ethics"], ["AIDS", "Isaac_Asimov", "Ethics"], ["AIDS", "Modern_history", "Ethics"]]

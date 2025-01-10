@@ -1,1 +1,0 @@
-[["Albert_Einstein", "Alan_Turing", "University_of_Texas_at_Austin"], ["Albert_Einstein", "India", "University_of_Texas_at_Austin"], ["Albert_Einstein", "Latin", "University_of_Texas_at_Austin"], ["Albert_Einstein", "United_States", "University_of_Texas_at_Austin"], ["Albert_Einstein", "World_War_II", "University_of_Texas_at_Austin"]]

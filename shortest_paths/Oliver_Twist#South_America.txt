@@ -1,1 +1,0 @@
-[["Oliver_Twist", "English_language", "South_America"], ["Oliver_Twist", "Jew", "South_America"], ["Oliver_Twist", "Los_Angeles%2C_California", "South_America"], ["Oliver_Twist", "United_Kingdom", "South_America"], ["Oliver_Twist", "United_States", "South_America"]]

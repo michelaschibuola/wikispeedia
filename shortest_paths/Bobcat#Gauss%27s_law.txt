@@ -1,1 +1,0 @@
-[["Bobcat", "Mexico", "Electricity", "Gauss%27s_law"], ["Bobcat", "Minnesota", "Electricity", "Gauss%27s_law"], ["Bobcat", "United_States", "Carl_Friedrich_Gauss", "Gauss%27s_law"]]

@@ -1,1 +1,0 @@
-[["John_Locke", "Capitalism", "Adolf_Hitler"], ["John_Locke", "France", "Adolf_Hitler"], ["John_Locke", "Liberalism", "Adolf_Hitler"], ["John_Locke", "London", "Adolf_Hitler"], ["John_Locke", "Netherlands", "Adolf_Hitler"], ["John_Locke", "United_States", "Adolf_Hitler"], ["John_Locke", "Politics", "Adolf_Hitler"]]

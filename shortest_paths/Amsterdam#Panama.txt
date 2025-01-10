@@ -1,1 +1,0 @@
-[["Amsterdam", "Baseball", "Panama"], ["Amsterdam", "Madrid", "Panama"], ["Amsterdam", "North_America", "Panama"], ["Amsterdam", "Spain", "Panama"], ["Amsterdam", "Atlantic_Ocean", "Panama"]]

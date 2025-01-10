@@ -1,1 +1,0 @@
-[["Iraq", "Civilization", "Peace"], ["Iraq", "Medal_of_Honor", "Peace"], ["Iraq", "New_Zealand", "Peace"], ["Iraq", "Propaganda", "Peace"], ["Iraq", "Slavery", "Peace"], ["Iraq", "Sudan", "Peace"], ["Iraq", "Sweden", "Peace"], ["Iraq", "Terrorism", "Peace"], ["Iraq", "United_States", "Peace"], ["Iraq", "World_War_II", "Peace"]]

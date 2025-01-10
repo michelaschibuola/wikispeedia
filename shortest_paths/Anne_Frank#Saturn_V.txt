@@ -1,1 +1,0 @@
-[["Anne_Frank", "Soviet_Union", "Saturn_V"], ["Anne_Frank", "United_States", "Saturn_V"]]

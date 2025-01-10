@@ -1,1 +1,0 @@
-[["Gliding", "Europe", "Central_African_Republic"], ["Gliding", "Germany", "Central_African_Republic"], ["Gliding", "World_War_II", "Central_African_Republic"]]

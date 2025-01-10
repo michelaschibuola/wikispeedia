@@ -1,1 +1,0 @@
-[["Mars_Reconnaissance_Orbiter", "21st_century", "United_Kingdom", "Investment_banking"], ["Mars_Reconnaissance_Orbiter", "Exploration_of_Mars", "United_Kingdom", "Investment_banking"], ["Mars_Reconnaissance_Orbiter", "21st_century", "United_States", "Investment_banking"], ["Mars_Reconnaissance_Orbiter", "Exploration_of_Mars", "United_States", "Investment_banking"]]

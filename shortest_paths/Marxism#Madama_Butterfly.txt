@@ -1,1 +1,0 @@
-[["Marxism", "China", "Madama_Butterfly"], ["Marxism", "Italy", "Madama_Butterfly"], ["Marxism", "Vietnam", "Madama_Butterfly"]]

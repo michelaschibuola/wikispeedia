@@ -1,1 +1,0 @@
-[["Tennis", "Bath%2C_Somerset", "Sport"], ["Tennis", "Global_city", "Sport"], ["Tennis", "Ireland", "Sport"], ["Tennis", "New_Zealand", "Sport"], ["Tennis", "Olympic_Games", "Sport"], ["Tennis", "Australia", "Sport"], ["Tennis", "Birmingham", "Sport"], ["Tennis", "London", "Sport"], ["Tennis", "United_Kingdom", "Sport"], ["Tennis", "United_States", "Sport"]]

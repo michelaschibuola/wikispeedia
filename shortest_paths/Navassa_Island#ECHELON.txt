@@ -1,1 +1,0 @@
-[["Navassa_Island", "California", "ECHELON"], ["Navassa_Island", "Guam", "ECHELON"], ["Navassa_Island", "Puerto_Rico", "ECHELON"], ["Navassa_Island", "United_Kingdom", "ECHELON"], ["Navassa_Island", "United_States", "ECHELON"], ["Navassa_Island", "West_Virginia", "ECHELON"], ["Navassa_Island", "World_War_II", "ECHELON"]]

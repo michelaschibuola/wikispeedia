@@ -1,1 +1,0 @@
-[["Pterosaur", "19th_century", "Football"], ["Pterosaur", "Brazil", "Football"]]

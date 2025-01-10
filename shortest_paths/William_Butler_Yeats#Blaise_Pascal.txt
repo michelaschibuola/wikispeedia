@@ -1,1 +1,0 @@
-[["William_Butler_Yeats", "T._S._Eliot", "Blaise_Pascal"], ["William_Butler_Yeats", "Mysticism", "Blaise_Pascal"], ["William_Butler_Yeats", "Philosophy", "Blaise_Pascal"]]

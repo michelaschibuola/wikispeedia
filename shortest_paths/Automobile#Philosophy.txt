@@ -1,1 +1,0 @@
-[["Automobile", "China", "Philosophy"], ["Automobile", "India", "Philosophy"], ["Automobile", "Japan", "Philosophy"], ["Automobile", "Law", "Philosophy"], ["Automobile", "Oxygen", "Philosophy"], ["Automobile", "United_States", "Philosophy"], ["Automobile", "Iran", "Philosophy"], ["Automobile", "Isaac_Asimov", "Philosophy"]]

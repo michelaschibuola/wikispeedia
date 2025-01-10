@@ -1,1 +1,0 @@
-[["Mountain_Gorilla", "Animal", "Tiger"], ["Mountain_Gorilla", "Human", "Tiger"], ["Mountain_Gorilla", "Mammal", "Tiger"], ["Mountain_Gorilla", "Scientific_classification", "Tiger"]]

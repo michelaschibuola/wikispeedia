@@ -1,1 +1,0 @@
-[["Blackpool", "England", "Greece"], ["Blackpool", "Portugal", "Greece"], ["Blackpool", "Tourism", "Greece"]]

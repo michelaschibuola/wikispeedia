@@ -1,1 +1,0 @@
-[["Venus", "Solar_System", "Great_comet"], ["Venus", "Comet", "Great_comet"], ["Venus", "Comet_Halley", "Great_comet"]]

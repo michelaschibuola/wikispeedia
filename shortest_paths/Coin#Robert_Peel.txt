@@ -1,1 +1,0 @@
-[["Coin", "British_monarchy", "Robert_Peel"], ["Coin", "Canada", "Robert_Peel"]]

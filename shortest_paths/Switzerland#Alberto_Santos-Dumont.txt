@@ -1,1 +1,0 @@
-[["Switzerland", "Europe", "Alberto_Santos-Dumont"], ["Switzerland", "France", "Alberto_Santos-Dumont"], ["Switzerland", "Paris", "Alberto_Santos-Dumont"], ["Switzerland", "United_States", "Alberto_Santos-Dumont"], ["Switzerland", "World_War_I", "Alberto_Santos-Dumont"]]

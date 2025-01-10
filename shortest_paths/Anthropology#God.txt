@@ -1,1 +1,0 @@
-[["Anthropology", "China", "God"], ["Anthropology", "Human", "God"], ["Anthropology", "Marxism", "God"], ["Anthropology", "Sigmund_Freud", "God"], ["Anthropology", "David_Attenborough", "God"], ["Anthropology", "Deity", "God"], ["Anthropology", "Nicolaus_Copernicus", "God"], ["Anthropology", "Property", "God"]]

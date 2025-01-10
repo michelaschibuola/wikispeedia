@@ -1,1 +1,0 @@
-[["Mexico", "Eagle", "Cheetah"], ["Mexico", "German_language", "Cheetah"], ["Mexico", "Kenya", "Cheetah"], ["Mexico", "Agriculture", "Cheetah"], ["Mexico", "English_language", "Cheetah"], ["Mexico", "French_language", "Cheetah"], ["Mexico", "Portuguese_language", "Cheetah"], ["Mexico", "Spanish_language", "Cheetah"], ["Mexico", "United_States", "Cheetah"]]

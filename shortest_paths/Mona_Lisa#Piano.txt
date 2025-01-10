@@ -1,1 +1,0 @@
-[["Mona_Lisa", "Elvis_Presley", "Piano"], ["Mona_Lisa", "Italy", "Piano"], ["Mona_Lisa", "Paris", "Piano"], ["Mona_Lisa", "World_War_II", "Piano"]]

@@ -1,1 +1,0 @@
-[["Flower", "Agriculture", "Meat"], ["Flower", "Coriander", "Meat"], ["Flower", "Chicken", "Meat"], ["Flower", "Insect", "Meat"], ["Flower", "Protein", "Meat"]]

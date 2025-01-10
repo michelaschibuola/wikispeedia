@@ -1,1 +1,0 @@
-[["Cyclops", "Greek_mythology", "20th_century", "Moore%27s_Law"], ["Cyclops", "The_Cantos", "20th_century", "Moore%27s_Law"], ["Cyclops", "Volcano", "Helium", "Moore%27s_Law"]]

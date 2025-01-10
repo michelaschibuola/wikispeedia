@@ -1,1 +1,0 @@
-[["Election", "United_Kingdom", "Arctic_Monkeys"], ["Election", "United_States", "Arctic_Monkeys"]]

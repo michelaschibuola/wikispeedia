@@ -1,1 +1,0 @@
-[["Thunderstorm", "Electricity", "Sun"], ["Thunderstorm", "Natural_disaster", "Sun"], ["Thunderstorm", "Physical_science", "Sun"], ["Thunderstorm", "Rain", "Sun"], ["Thunderstorm", "Earth%27s_atmosphere", "Sun"], ["Thunderstorm", "Energy", "Sun"], ["Thunderstorm", "United_States", "Sun"], ["Thunderstorm", "Tropical_cyclone", "Sun"], ["Thunderstorm", "Venus", "Sun"]]

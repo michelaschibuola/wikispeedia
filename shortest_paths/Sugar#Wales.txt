@@ -1,1 +1,0 @@
-[["Sugar", "Baltimore%2C_Maryland", "Wales"], ["Sugar", "Glasgow", "Wales"], ["Sugar", "Europe", "Wales"], ["Sugar", "Great_Britain", "Wales"], ["Sugar", "Soil", "Wales"], ["Sugar", "Steam_engine", "Wales"]]

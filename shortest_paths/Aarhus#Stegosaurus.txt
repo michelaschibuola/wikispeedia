@@ -1,1 +1,0 @@
-[["Aarhus", "England", "Stegosaurus"], ["Aarhus", "France", "Stegosaurus"], ["Aarhus", "Germany", "Stegosaurus"]]

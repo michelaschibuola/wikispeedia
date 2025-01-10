@@ -1,1 +1,0 @@
-[["Helicobacter_pylori", "Australia", "Tanzania"], ["Helicobacter_pylori", "Germany", "Tanzania"], ["Helicobacter_pylori", "United_States", "Tanzania"]]

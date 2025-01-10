@@ -1,1 +1,0 @@
-[["Welding", "Europe", "Domesticated_turkey"], ["Welding", "World_War_II", "Domesticated_turkey"]]

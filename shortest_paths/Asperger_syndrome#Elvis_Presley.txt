@@ -1,1 +1,0 @@
-[["Asperger_syndrome", "Albert_Einstein", "Elvis_Presley"], ["Asperger_syndrome", "Isaac_Newton", "Elvis_Presley"]]

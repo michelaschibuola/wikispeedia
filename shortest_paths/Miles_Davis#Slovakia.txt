@@ -1,1 +1,0 @@
-[["Miles_Davis", "France", "Slovakia"], ["Miles_Davis", "World_War_II", "Slovakia"]]

@@ -1,1 +1,0 @@
-[["Trinidad_and_Tobago", "India", "Dr._Seuss"], ["Trinidad_and_Tobago", "United_States", "Dr._Seuss"], ["Trinidad_and_Tobago", "World_War_II", "Dr._Seuss"]]

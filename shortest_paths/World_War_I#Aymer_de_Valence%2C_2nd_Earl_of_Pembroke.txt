@@ -1,1 +1,0 @@
-[["World_War_I", "Flanders", "Aymer_de_Valence%2C_2nd_Earl_of_Pembroke"], ["World_War_I", "France", "Aymer_de_Valence%2C_2nd_Earl_of_Pembroke"], ["World_War_I", "Germany", "Aymer_de_Valence%2C_2nd_Earl_of_Pembroke"], ["World_War_I", "Rome", "Aymer_de_Valence%2C_2nd_Earl_of_Pembroke"]]

@@ -1,1 +1,0 @@
-[["Paris", "Europe", "Super_Mario_64"], ["Paris", "Japan", "Super_Mario_64"]]

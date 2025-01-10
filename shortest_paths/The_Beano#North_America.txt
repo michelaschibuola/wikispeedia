@@ -1,1 +1,0 @@
-[["The_Beano", "English_language", "North_America"], ["The_Beano", "Scotland", "North_America"], ["The_Beano", "United_Kingdom", "North_America"]]

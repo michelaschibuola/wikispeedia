@@ -1,1 +1,0 @@
-[["Biosphere", "Earth", "Petroleum"], ["Biosphere", "Geology", "Petroleum"], ["Biosphere", "Planet", "Petroleum"], ["Biosphere", "Plant", "Petroleum"], ["Biosphere", "Carbon", "Petroleum"], ["Biosphere", "Geography", "Petroleum"]]

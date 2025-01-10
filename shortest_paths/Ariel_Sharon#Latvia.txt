@@ -1,1 +1,0 @@
-[["Ariel_Sharon", "21st_century", "Latvia"], ["Ariel_Sharon", "Belgium", "Latvia"], ["Ariel_Sharon", "European_Union", "Latvia"], ["Ariel_Sharon", "France", "Latvia"], ["Ariel_Sharon", "George_W._Bush", "Latvia"], ["Ariel_Sharon", "Jew", "Latvia"], ["Ariel_Sharon", "Russian_language", "Latvia"]]

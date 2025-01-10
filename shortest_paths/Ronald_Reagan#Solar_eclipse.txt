@@ -1,1 +1,0 @@
-[["Ronald_Reagan", "Europe", "Solar_eclipse"]]

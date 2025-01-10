@@ -1,1 +1,0 @@
-[["Ichthyosaur", "Animal", "Ascariasis"], ["Ichthyosaur", "Scientific_classification", "Ascariasis"]]

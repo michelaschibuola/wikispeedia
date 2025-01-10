@@ -1,1 +1,0 @@
-[["Taipei", "Australia", "Material_properties_of_diamond"], ["Taipei", "South_Africa", "Material_properties_of_diamond"]]

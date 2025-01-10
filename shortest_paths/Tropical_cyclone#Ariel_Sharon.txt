@@ -1,1 +1,0 @@
-[["Tropical_cyclone", "Africa", "Ariel_Sharon"], ["Tropical_cyclone", "United_States", "Ariel_Sharon"]]

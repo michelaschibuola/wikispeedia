@@ -1,1 +1,0 @@
-[["Albatross", "Europe", "Manorialism"], ["Albatross", "France", "Manorialism"]]

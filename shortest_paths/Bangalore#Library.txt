@@ -1,1 +1,0 @@
-[["Bangalore", "Europe", "Library"], ["Bangalore", "Middle_East", "Library"], ["Bangalore", "Mosque", "Library"]]

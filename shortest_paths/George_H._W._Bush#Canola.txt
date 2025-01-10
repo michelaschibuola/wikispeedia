@@ -1,1 +1,0 @@
-[["George_H._W._Bush", "Canada", "Canola"], ["George_H._W._Bush", "United_States", "Canola"]]

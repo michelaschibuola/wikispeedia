@@ -1,1 +1,0 @@
-[["Arctic_Monkeys", "Australia", "Charles_Darwin"], ["Arctic_Monkeys", "BBC", "Charles_Darwin"], ["Arctic_Monkeys", "England", "Charles_Darwin"], ["Arctic_Monkeys", "New_Zealand", "Charles_Darwin"], ["Arctic_Monkeys", "United_Kingdom", "Charles_Darwin"]]

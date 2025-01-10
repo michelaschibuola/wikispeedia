@@ -1,1 +1,0 @@
-[["Household_income_in_the_United_States", "California", "Almond"], ["Household_income_in_the_United_States", "United_States", "Almond"]]

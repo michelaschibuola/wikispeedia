@@ -1,1 +1,0 @@
-[["Greece", "Alchemy", "Mythology"], ["Greece", "C._S._Lewis", "Mythology"], ["Greece", "Deluge_%28mythology%29", "Mythology"], ["Greece", "Homer", "Mythology"], ["Greece", "World_War_II", "Mythology"], ["Greece", "Isis", "Mythology"]]

@@ -1,1 +1,0 @@
-[["Rembrandt", "Boston%2C_Massachusetts", "Smallpox"], ["Rembrandt", "England", "Smallpox"], ["Rembrandt", "Latin", "Smallpox"], ["Rembrandt", "London", "Smallpox"]]

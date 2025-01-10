@@ -1,1 +1,0 @@
-[["Arab_League", "United_Kingdom", "Kiribati"], ["Arab_League", "United_Nations", "Kiribati"], ["Arab_League", "United_States", "Kiribati"]]

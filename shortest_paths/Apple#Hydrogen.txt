@@ -1,1 +1,0 @@
-[["Apple", "Bacteria", "Hydrogen"], ["Apple", "Fatty_acid", "Hydrogen"], ["Apple", "Gravitation", "Hydrogen"], ["Apple", "Water", "Hydrogen"]]

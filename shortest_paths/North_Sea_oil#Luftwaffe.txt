@@ -1,1 +1,0 @@
-[["North_Sea_oil", "Ireland", "Luftwaffe"], ["North_Sea_oil", "England", "Luftwaffe"], ["North_Sea_oil", "Europe", "Luftwaffe"], ["North_Sea_oil", "Germany", "Luftwaffe"], ["North_Sea_oil", "United_Kingdom", "Luftwaffe"]]

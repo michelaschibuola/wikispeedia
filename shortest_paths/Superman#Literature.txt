@@ -1,1 +1,0 @@
-[["Superman", "Comics", "Literature"], ["Superman", "Film", "Literature"], ["Superman", "Human", "Literature"], ["Superman", "Music", "Literature"]]

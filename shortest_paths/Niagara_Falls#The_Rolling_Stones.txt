@@ -1,1 +1,0 @@
-[["Niagara_Falls", "Canada", "The_Rolling_Stones"], ["Niagara_Falls", "Toronto", "The_Rolling_Stones"], ["Niagara_Falls", "United_States", "The_Rolling_Stones"]]

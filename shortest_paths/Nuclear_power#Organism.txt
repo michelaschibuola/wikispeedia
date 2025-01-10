@@ -1,1 +1,0 @@
-[["Nuclear_power", "James_Lovelock", "Organism"], ["Nuclear_power", "Carbon_dioxide", "Organism"], ["Nuclear_power", "Energy", "Organism"], ["Nuclear_power", "Iodine", "Organism"]]

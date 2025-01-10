@@ -1,1 +1,0 @@
-[["Baseball", "Israel", "Chess"], ["Baseball", "Japan", "Chess"], ["Baseball", "Sport", "Chess"], ["Baseball", "Game", "Chess"], ["Baseball", "Olympic_Games", "Chess"], ["Baseball", "Vietnam", "Chess"], ["Baseball", "Water_polo", "Chess"]]

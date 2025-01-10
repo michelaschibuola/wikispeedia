@@ -1,1 +1,0 @@
-[["Atlantis", "Africa", "Diamond"], ["Atlantis", "Ancient_Greece", "Diamond"], ["Atlantis", "Europe", "Diamond"], ["Atlantis", "India", "Diamond"], ["Atlantis", "Israel", "Diamond"], ["Atlantis", "Middle_Ages", "Diamond"]]

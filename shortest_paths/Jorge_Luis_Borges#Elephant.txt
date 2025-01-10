@@ -1,1 +1,0 @@
-[["Jorge_Luis_Borges", "Buddhism", "Elephant"], ["Jorge_Luis_Borges", "English_language", "Elephant"], ["Jorge_Luis_Borges", "Rudyard_Kipling", "Elephant"], ["Jorge_Luis_Borges", "United_Kingdom", "Elephant"]]

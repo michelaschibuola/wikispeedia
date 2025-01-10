@@ -1,1 +1,0 @@
-[["Pig", "Mammal", "Giant_Panda"], ["Pig", "Animal", "Giant_Panda"], ["Pig", "Chordate", "Giant_Panda"], ["Pig", "Scientific_classification", "Giant_Panda"]]

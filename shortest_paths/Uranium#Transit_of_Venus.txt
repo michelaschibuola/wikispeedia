@@ -1,1 +1,0 @@
-[["Uranium", "Moon", "Transit_of_Venus"], ["Uranium", "Sun", "Transit_of_Venus"], ["Uranium", "England", "Transit_of_Venus"], ["Uranium", "Manchester", "Transit_of_Venus"]]

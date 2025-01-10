@@ -1,1 +1,0 @@
-[["18th_century", "Australia", "Cobalt"], ["18th_century", "Russia", "Cobalt"], ["18th_century", "Azerbaijan", "Cobalt"]]

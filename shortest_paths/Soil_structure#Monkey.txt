@@ -1,1 +1,0 @@
-[["Soil_structure", "Fertilizer", "Nepenthes_rajah", "Monkey"], ["Soil_structure", "Fertilizer", "Seed", "Monkey"], ["Soil_structure", "Soil", "Seed", "Monkey"], ["Soil_structure", "Soil", "Banana", "Monkey"], ["Soil_structure", "Garden", "Insect", "Monkey"]]

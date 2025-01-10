@@ -1,1 +1,0 @@
-[["Uranium", "Helium", "Gas_metal_arc_welding"], ["Uranium", "Steel", "Gas_metal_arc_welding"]]

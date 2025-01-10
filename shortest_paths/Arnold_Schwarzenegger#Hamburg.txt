@@ -1,1 +1,0 @@
-[["Arnold_Schwarzenegger", "Football_%28soccer%29", "Hamburg"], ["Arnold_Schwarzenegger", "German_language", "Hamburg"], ["Arnold_Schwarzenegger", "United_Kingdom", "Hamburg"], ["Arnold_Schwarzenegger", "United_States", "Hamburg"]]

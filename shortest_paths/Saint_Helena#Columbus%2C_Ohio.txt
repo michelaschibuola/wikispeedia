@@ -1,1 +1,0 @@
-[["Saint_Helena", "Capital", "Columbus%2C_Ohio"], ["Saint_Helena", "Time_zone", "Columbus%2C_Ohio"], ["Saint_Helena", "United_States", "Columbus%2C_Ohio"], ["Saint_Helena", "World_War_II", "Columbus%2C_Ohio"], ["Saint_Helena", "Somalia", "Columbus%2C_Ohio"]]

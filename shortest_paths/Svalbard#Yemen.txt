@@ -1,1 +1,0 @@
-[["Svalbard", "Driving_on_the_left_or_right", "Yemen"], ["Svalbard", "List_of_countries", "Yemen"], ["Svalbard", "Capital", "Yemen"], ["Svalbard", "Currency", "Yemen"], ["Svalbard", "Russia", "Yemen"], ["Svalbard", "Time_zone", "Yemen"]]

@@ -1,1 +1,0 @@
-[["Forest", "Antarctica", "The_Rime_of_the_Ancient_Mariner"], ["Forest", "United_States", "The_Rime_of_the_Ancient_Mariner"]]

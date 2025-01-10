@@ -1,1 +1,0 @@
-[["Apollo_11", "Australia", "Walt_Disney"], ["Apollo_11", "California", "Walt_Disney"], ["Apollo_11", "Florida", "Walt_Disney"], ["Apollo_11", "Washington%2C_D.C.", "Walt_Disney"], ["Apollo_11", "United_States", "Walt_Disney"], ["Apollo_11", "Wernher_von_Braun", "Walt_Disney"]]

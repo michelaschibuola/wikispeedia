@@ -1,1 +1,0 @@
-[["Akkadian_Empire", "Egypt", "New_York_City"], ["Akkadian_Empire", "Europe", "New_York_City"]]

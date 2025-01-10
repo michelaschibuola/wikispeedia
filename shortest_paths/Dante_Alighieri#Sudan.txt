@@ -1,1 +1,0 @@
-[["Dante_Alighieri", "British_Empire", "Sudan"], ["Dante_Alighieri", "France", "Sudan"], ["Dante_Alighieri", "Malaria", "Sudan"]]

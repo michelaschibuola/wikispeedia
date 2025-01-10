@@ -1,1 +1,0 @@
-[["The_Rolling_Stones", "London", "Leonardo_da_Vinci"], ["The_Rolling_Stones", "Bill_Gates", "Leonardo_da_Vinci"], ["The_Rolling_Stones", "France", "Leonardo_da_Vinci"], ["The_Rolling_Stones", "Munich", "Leonardo_da_Vinci"]]

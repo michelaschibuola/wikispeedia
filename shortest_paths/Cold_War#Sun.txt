@@ -1,1 +1,0 @@
-[["Cold_War", "Antarctica", "Sun"], ["Cold_War", "Japan", "Sun"], ["Cold_War", "United_States", "Sun"], ["Cold_War", "Egypt", "Sun"], ["Cold_War", "European_Space_Agency", "Sun"], ["Cold_War", "Helium", "Sun"], ["Cold_War", "History_of_nuclear_weapons", "Sun"], ["Cold_War", "History_of_the_world", "Sun"], ["Cold_War", "South_America", "Sun"], ["Cold_War", "Titanium", "Sun"]]

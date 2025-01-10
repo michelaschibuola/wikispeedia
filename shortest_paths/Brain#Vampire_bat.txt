@@ -1,1 +1,0 @@
-[["Brain", "Animal", "Vampire_bat"], ["Brain", "Chordate", "Vampire_bat"], ["Brain", "Mammal", "Vampire_bat"], ["Brain", "Mexico", "Vampire_bat"], ["Brain", "Protein", "Vampire_bat"], ["Brain", "Stroke", "Vampire_bat"], ["Brain", "Rabies", "Vampire_bat"]]

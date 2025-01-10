@@ -1,1 +1,0 @@
-[["Beer", "Finland", "Park"], ["Beer", "Japan", "Park"], ["Beer", "Mexico", "Park"], ["Beer", "Russia", "Park"], ["Beer", "United_States", "Park"], ["Beer", "Vienna", "Park"]]

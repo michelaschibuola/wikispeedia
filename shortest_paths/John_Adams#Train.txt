@@ -1,1 +1,0 @@
-[["John_Adams", "France", "Train"], ["John_Adams", "United_States", "Train"]]

@@ -1,1 +1,0 @@
-[["Sun", "Earth", "Bald_Eagle"], ["Sun", "Mexico", "Bald_Eagle"], ["Sun", "United_States", "Bald_Eagle"]]

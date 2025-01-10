@@ -1,1 +1,0 @@
-[["Elephant", "Animal", "Deinonychus"], ["Elephant", "Chordate", "Deinonychus"], ["Elephant", "Scientific_classification", "Deinonychus"], ["Elephant", "Tyrannosaurus", "Deinonychus"]]

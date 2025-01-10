@@ -1,1 +1,0 @@
-[["Alexander_Graham_Bell", "Edinburgh", "David_Hume"], ["Alexander_Graham_Bell", "Scotland", "David_Hume"]]

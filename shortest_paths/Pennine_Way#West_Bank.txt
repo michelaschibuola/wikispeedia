@@ -1,1 +1,0 @@
-[["Pennine_Way", "United_Kingdom", "West_Bank"], ["Pennine_Way", "United_States", "West_Bank"]]

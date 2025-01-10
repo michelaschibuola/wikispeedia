@@ -1,1 +1,0 @@
-[["Unix", "Computer", "Physics", "Quark"], ["Unix", "Dennis_Ritchie", "Physics", "Quark"], ["Unix", "TeX", "Physics", "Quark"], ["Unix", "Computer", "Quantum_mechanics", "Quark"], ["Unix", "Latin", "Quantum_mechanics", "Quark"], ["Unix", "Latin", "Color", "Quark"], ["Unix", "Latin", "Neutron", "Quark"]]

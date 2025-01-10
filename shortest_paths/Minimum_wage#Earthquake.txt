@@ -1,1 +1,0 @@
-[["Minimum_wage", "California", "Earthquake"], ["Minimum_wage", "United_Kingdom", "Earthquake"]]

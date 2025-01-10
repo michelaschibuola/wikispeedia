@@ -1,1 +1,0 @@
-[["Warren_G._Harding", "Bill_Clinton", "Rwandan_Genocide"], ["Warren_G._Harding", "Europe", "Rwandan_Genocide"], ["Warren_G._Harding", "Germany", "Rwandan_Genocide"], ["Warren_G._Harding", "Roman_Catholic_Church", "Rwandan_Genocide"], ["Warren_G._Harding", "World_War_I", "Rwandan_Genocide"]]

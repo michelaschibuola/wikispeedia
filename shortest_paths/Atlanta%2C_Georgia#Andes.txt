@@ -1,1 +1,0 @@
-[["Atlanta%2C_Georgia", "Aruba", "Andes"], ["Atlanta%2C_Georgia", "Mummy", "Andes"]]

@@ -1,1 +1,0 @@
-[["Richard_Feynman", "Nazi_Germany", "Weimar_Republic"], ["Richard_Feynman", "United_Kingdom", "Weimar_Republic"], ["Richard_Feynman", "United_States", "Weimar_Republic"]]

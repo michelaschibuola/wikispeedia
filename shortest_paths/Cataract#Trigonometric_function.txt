@@ -1,1 +1,0 @@
-[["Cataract", "Leonhard_Euler", "Trigonometric_function"]]

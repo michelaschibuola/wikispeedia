@@ -1,1 +1,0 @@
-[["Amber", "Canada", "Leif_Ericson"], ["Amber", "North_America", "Leif_Ericson"], ["Amber", "United_States", "Leif_Ericson"]]

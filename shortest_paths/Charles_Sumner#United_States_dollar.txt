@@ -1,1 +1,0 @@
-[["Charles_Sumner", "Abraham_Lincoln", "United_States_dollar"], ["Charles_Sumner", "American_Civil_War", "United_States_dollar"], ["Charles_Sumner", "United_States", "United_States_dollar"], ["Charles_Sumner", "United_States_House_of_Representatives", "United_States_dollar"], ["Charles_Sumner", "Ulysses_S._Grant", "United_States_dollar"]]

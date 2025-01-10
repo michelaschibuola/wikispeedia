@@ -1,1 +1,0 @@
-[["Spyware", "Advertising", "Africa", "African_Grey_Parrot"], ["Spyware", "Advertising", "Ancient_Greece", "African_Grey_Parrot"], ["Spyware", "Advertising", "Ancient_Rome", "African_Grey_Parrot"], ["Spyware", "Windows_XP", "Language", "African_Grey_Parrot"]]

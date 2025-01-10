@@ -1,1 +1,0 @@
-[["Poison_gas_in_World_War_I", "Australia", "Ancient_history"], ["Poison_gas_in_World_War_I", "China", "Ancient_history"], ["Poison_gas_in_World_War_I", "France", "Ancient_history"], ["Poison_gas_in_World_War_I", "Italy", "Ancient_history"], ["Poison_gas_in_World_War_I", "Tuberculosis", "Ancient_history"], ["Poison_gas_in_World_War_I", "United_States", "Ancient_history"]]

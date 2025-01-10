@@ -1,1 +1,0 @@
-[["Pelycosaur", "Mammal", "Kangaroo"], ["Pelycosaur", "Animal", "Kangaroo"], ["Pelycosaur", "Chordate", "Kangaroo"], ["Pelycosaur", "Europe", "Kangaroo"], ["Pelycosaur", "Scientific_classification", "Kangaroo"]]

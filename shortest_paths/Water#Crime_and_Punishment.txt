@@ -1,1 +1,0 @@
-[["Water", "Christianity", "Crime_and_Punishment"], ["Water", "France", "Crime_and_Punishment"], ["Water", "Philosophy", "Crime_and_Punishment"]]

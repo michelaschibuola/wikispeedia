@@ -1,1 +1,0 @@
-[["Compsognathus", "Animal", "Herring_Gull"], ["Compsognathus", "Binomial_nomenclature", "Herring_Gull"], ["Compsognathus", "Chordate", "Herring_Gull"], ["Compsognathus", "Europe", "Herring_Gull"], ["Compsognathus", "Scientific_classification", "Herring_Gull"]]

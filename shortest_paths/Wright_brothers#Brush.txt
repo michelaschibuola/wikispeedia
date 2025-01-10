@@ -1,1 +1,0 @@
-[["Wright_brothers", "Leonardo_da_Vinci", "Drawing", "Brush"], ["Wright_brothers", "Leonardo_da_Vinci", "Painting", "Brush"], ["Wright_brothers", "Leonardo_da_Vinci", "Visual_arts", "Brush"]]

@@ -1,1 +1,0 @@
-[["Smallpox", "Boston%2C_Massachusetts", "Boston_RFC"], ["Smallpox", "United_States", "Boston_RFC"]]

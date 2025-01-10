@@ -1,1 +1,0 @@
-[["Mother_Teresa", "Africa", "Macau"], ["Mother_Teresa", "Asia", "Macau"], ["Mother_Teresa", "Europe", "Macau"], ["Mother_Teresa", "India", "Macau"], ["Mother_Teresa", "United_States", "Macau"]]

@@ -1,1 +1,0 @@
-[["Galileo_Galilei", "Aberration_of_light", "London"], ["Galileo_Galilei", "Clock", "London"], ["Galileo_Galilei", "Isaac_Newton", "London"], ["Galileo_Galilei", "Tide", "London"], ["Galileo_Galilei", "William_Gilbert", "London"], ["Galileo_Galilei", "John_Milton", "London"], ["Galileo_Galilei", "Robert_Boyle", "London"]]

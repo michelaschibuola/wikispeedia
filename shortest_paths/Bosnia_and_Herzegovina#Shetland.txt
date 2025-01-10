@@ -1,1 +1,0 @@
-[["Bosnia_and_Herzegovina", "Agriculture", "Shetland"], ["Bosnia_and_Herzegovina", "Christianity", "Shetland"], ["Bosnia_and_Herzegovina", "Europe", "Shetland"], ["Bosnia_and_Herzegovina", "World_War_II", "Shetland"]]

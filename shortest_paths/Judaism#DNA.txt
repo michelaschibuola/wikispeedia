@@ -1,1 +1,0 @@
-[["Judaism", "Arecaceae", "DNA"], ["Judaism", "Creationism", "DNA"], ["Judaism", "Evolution", "DNA"], ["Judaism", "Iranian_peoples", "DNA"], ["Judaism", "Ireland", "DNA"], ["Judaism", "United_Kingdom", "DNA"], ["Judaism", "Symmetry", "DNA"]]

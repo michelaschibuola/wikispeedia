@@ -1,1 +1,0 @@
-[["Liverpool_F.C.", "England", "Order_of_St._Patrick"], ["Liverpool_F.C.", "United_Kingdom", "Order_of_St._Patrick"]]

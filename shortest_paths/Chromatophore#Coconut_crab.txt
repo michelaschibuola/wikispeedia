@@ -1,1 +1,0 @@
-[["Chromatophore", "Animal", "Coconut_crab"], ["Chromatophore", "Crustacean", "Coconut_crab"]]

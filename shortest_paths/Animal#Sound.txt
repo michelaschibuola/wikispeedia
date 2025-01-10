@@ -1,1 +1,0 @@
-[["Animal", "1980_eruption_of_Mount_St._Helens", "Sound"], ["Animal", "Bat", "Sound"], ["Animal", "Cat", "Sound"], ["Animal", "Dance", "Sound"], ["Animal", "Sperm_Whale", "Sound"]]

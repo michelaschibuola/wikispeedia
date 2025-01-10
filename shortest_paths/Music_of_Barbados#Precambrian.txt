@@ -1,1 +1,0 @@
-[["Music_of_Barbados", "Elizabeth_I_of_England", "Earth", "Precambrian"], ["Music_of_Barbados", "Folk_music", "Scottish_Highlands", "Precambrian"], ["Music_of_Barbados", "Sugarcane", "Geography_of_India", "Precambrian"], ["Music_of_Barbados", "Sugarcane", "Photosynthesis", "Precambrian"]]

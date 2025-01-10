@@ -1,1 +1,0 @@
-[["English_Channel", "France", "Otto_von_Bismarck"], ["English_Channel", "Paris", "Otto_von_Bismarck"], ["English_Channel", "United_Kingdom", "Otto_von_Bismarck"]]

@@ -1,1 +1,0 @@
-[["Guadeloupe", "Canada", "British_English"], ["Guadeloupe", "United_Kingdom", "British_English"], ["Guadeloupe", "Lebanon", "British_English"]]

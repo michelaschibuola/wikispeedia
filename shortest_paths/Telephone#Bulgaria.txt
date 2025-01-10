@@ -1,1 +1,0 @@
-[["Telephone", "Argentina", "Bulgaria"], ["Telephone", "Monaco", "Bulgaria"], ["Telephone", "Japan", "Bulgaria"], ["Telephone", "South_Korea", "Bulgaria"], ["Telephone", "Sweden", "Bulgaria"], ["Telephone", "United_States", "Bulgaria"]]

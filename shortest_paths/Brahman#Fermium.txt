@@ -1,1 +1,0 @@
-[["Brahman", "Gender", "Oxygen", "Fermium"], ["Brahman", "Human", "Color", "Fermium"], ["Brahman", "Latin", "Color", "Fermium"], ["Brahman", "Latin", "Neutron", "Fermium"], ["Brahman", "Latin", "Radon", "Fermium"]]

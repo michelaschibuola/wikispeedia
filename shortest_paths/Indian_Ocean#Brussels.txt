@@ -1,1 +1,0 @@
-[["Indian_Ocean", "15th_century", "Brussels"], ["Indian_Ocean", "Democratic_Republic_of_the_Congo", "Brussels"], ["Indian_Ocean", "France", "Brussels"], ["Indian_Ocean", "French_language", "Brussels"], ["Indian_Ocean", "Europe", "Brussels"], ["Indian_Ocean", "United_Kingdom", "Brussels"], ["Indian_Ocean", "United_States", "Brussels"]]

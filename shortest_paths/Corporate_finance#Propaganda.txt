@@ -1,1 +1,0 @@
-[["Corporate_finance", "Gold", "Propaganda"], ["Corporate_finance", "United_Kingdom", "Propaganda"], ["Corporate_finance", "United_States", "Propaganda"]]

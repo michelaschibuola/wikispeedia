@@ -1,1 +1,0 @@
-[["Algerian_Civil_War", "European_Union", "Shining_Path"], ["Algerian_Civil_War", "Human_rights", "Shining_Path"], ["Algerian_Civil_War", "Socialism", "Shining_Path"]]

@@ -1,1 +1,0 @@
-[["Neil_Armstrong", "BBC", "Acorn_Computers"]]

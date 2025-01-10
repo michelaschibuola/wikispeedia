@@ -1,1 +1,0 @@
-[["Computer", "20th_century", "7th_century"], ["Computer", "Middle_Ages", "7th_century"]]

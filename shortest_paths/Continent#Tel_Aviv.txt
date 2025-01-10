@@ -1,1 +1,0 @@
-[["Continent", "Mediterranean_Sea", "Tel_Aviv"]]

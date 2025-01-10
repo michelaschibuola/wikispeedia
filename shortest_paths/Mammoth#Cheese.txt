@@ -1,1 +1,0 @@
-[["Mammoth", "Europe", "Cheese"], ["Mammoth", "France", "Cheese"], ["Mammoth", "Mammal", "Cheese"], ["Mammoth", "Switzerland", "Cheese"], ["Mammoth", "United_States", "Cheese"], ["Mammoth", "World_War_II", "Cheese"]]

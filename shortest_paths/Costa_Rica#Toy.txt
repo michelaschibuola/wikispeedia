@@ -1,1 +1,0 @@
-[["Costa_Rica", "Animal", "Toy"], ["Costa_Rica", "Asia", "Toy"], ["Costa_Rica", "Mammal", "Toy"], ["Costa_Rica", "United_States", "Toy"]]

@@ -1,1 +1,0 @@
-[["Mining", "Houston%2C_Texas", "Glynn_Lunney"], ["Mining", "United_States", "Glynn_Lunney"]]

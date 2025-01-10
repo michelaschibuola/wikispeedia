@@ -1,1 +1,0 @@
-[["Arab-Israeli_conflict", "France", "Frankfurt"], ["Arab-Israeli_conflict", "Israel", "Frankfurt"], ["Arab-Israeli_conflict", "Judaism", "Frankfurt"], ["Arab-Israeli_conflict", "United_States", "Frankfurt"], ["Arab-Israeli_conflict", "World_War_II", "Frankfurt"]]

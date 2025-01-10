@@ -1,1 +1,0 @@
-[["Soil_profile", "Soil", "Earth", "Mu_Arae"], ["Soil_profile", "Soil", "Planetary_habitability", "Mu_Arae"], ["Soil_profile", "Soil", "Gravitation", "Mu_Arae"]]

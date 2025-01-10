@@ -1,1 +1,0 @@
-[["Exploration_of_Mars", "Soviet_Union", "Ho_Chi_Minh"], ["Exploration_of_Mars", "United_States", "Ho_Chi_Minh"]]

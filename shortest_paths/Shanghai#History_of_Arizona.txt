@@ -1,1 +1,0 @@
-[["Shanghai", "Cotton", "History_of_Arizona"], ["Shanghai", "Pacific_Ocean", "History_of_Arizona"], ["Shanghai", "Architecture", "History_of_Arizona"], ["Shanghai", "Canada", "History_of_Arizona"], ["Shanghai", "North_America", "History_of_Arizona"], ["Shanghai", "United_States", "History_of_Arizona"], ["Shanghai", "World_War_II", "History_of_Arizona"]]

@@ -1,1 +1,0 @@
-[["Anno_Domini", "Europe", "Attack_on_Pearl_Harbor"], ["Anno_Domini", "Taiwan", "Attack_on_Pearl_Harbor"], ["Anno_Domini", "Japan", "Attack_on_Pearl_Harbor"]]

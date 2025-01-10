@@ -1,1 +1,0 @@
-[["Uganda", "AIDS", "IPod"], ["Uganda", "Minneapolis%2C_Minnesota", "IPod"], ["Uganda", "United_States", "IPod"]]

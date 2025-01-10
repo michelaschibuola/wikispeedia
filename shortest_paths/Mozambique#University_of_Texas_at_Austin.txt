@@ -1,1 +1,0 @@
-[["Mozambique", "India", "University_of_Texas_at_Austin"], ["Mozambique", "Mexico", "University_of_Texas_at_Austin"], ["Mozambique", "World_War_II", "University_of_Texas_at_Austin"]]

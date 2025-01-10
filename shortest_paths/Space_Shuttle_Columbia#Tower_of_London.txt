@@ -1,1 +1,0 @@
-[["Space_Shuttle_Columbia", "Telescope", "Tower_of_London"], ["Space_Shuttle_Columbia", "United_States", "Tower_of_London"]]

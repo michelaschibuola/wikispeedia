@@ -1,1 +1,0 @@
-[["4-6-0", "Petroleum", "Latin", "Cataract"], ["4-6-0", "United_States", "Latin", "Cataract"], ["4-6-0", "United_States", "Hindi", "Cataract"], ["4-6-0", "United_States", "Vitamin_C", "Cataract"]]

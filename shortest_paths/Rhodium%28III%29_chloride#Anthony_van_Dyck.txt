@@ -1,1 +1,0 @@
-[["Rhodium%28III%29_chloride", "Rhodium", "England", "Anthony_van_Dyck"], ["Rhodium%28III%29_chloride", "Ethanol", "France", "Anthony_van_Dyck"], ["Rhodium%28III%29_chloride", "Zinc", "France", "Anthony_van_Dyck"], ["Rhodium%28III%29_chloride", "Zinc", "Belgium", "Anthony_van_Dyck"]]

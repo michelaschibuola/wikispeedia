@@ -1,1 +1,0 @@
-[["Berkelium", "Color", "Television", "Folk_music"], ["Berkelium", "Electron", "Radio", "Folk_music"], ["Berkelium", "Electron", "United_Kingdom", "Folk_music"], ["Berkelium", "Helium", "India", "Folk_music"], ["Berkelium", "Metal", "Guqin", "Folk_music"], ["Berkelium", "Neutron", "England", "Folk_music"]]

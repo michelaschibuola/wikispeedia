@@ -1,1 +1,0 @@
-[["Nature", "Lake_Baikal", "Black_Sea"], ["Nature", "Nitrogen", "Black_Sea"], ["Nature", "Oxygen", "Black_Sea"]]

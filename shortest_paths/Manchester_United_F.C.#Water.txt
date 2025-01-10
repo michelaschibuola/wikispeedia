@@ -1,1 +1,0 @@
-[["Manchester_United_F.C.", "Germany", "Water"], ["Manchester_United_F.C.", "Sweden", "Water"], ["Manchester_United_F.C.", "Tokyo", "Water"], ["Manchester_United_F.C.", "United_States", "Water"], ["Manchester_United_F.C.", "United_Kingdom", "Water"]]

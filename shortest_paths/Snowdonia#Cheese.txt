@@ -1,1 +1,0 @@
-[["Snowdonia", "Agriculture", "Cheese"], ["Snowdonia", "English_language", "Cheese"]]

@@ -1,1 +1,0 @@
-[["Color", "Aesthetics", "Visual_arts"], ["Color", "Light", "Visual_arts"], ["Color", "Film", "Visual_arts"], ["Color", "Glass", "Visual_arts"], ["Color", "Painting", "Visual_arts"], ["Color", "Pigment", "Visual_arts"], ["Color", "Printmaking", "Visual_arts"]]

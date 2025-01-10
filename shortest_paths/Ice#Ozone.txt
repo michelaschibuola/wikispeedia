@@ -1,1 +1,0 @@
-[["Ice", "Climate_change", "Ozone"], ["Ice", "Hydrochloric_acid", "Ozone"], ["Ice", "Carbon_dioxide", "Ozone"], ["Ice", "Earth%27s_atmosphere", "Ozone"], ["Ice", "Phase_%28matter%29", "Ozone"], ["Ice", "Water", "Ozone"]]

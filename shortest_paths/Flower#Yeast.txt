@@ -1,1 +1,0 @@
-[["Flower", "Apple", "Yeast"], ["Flower", "Australia", "Yeast"], ["Flower", "Beer", "Yeast"], ["Flower", "Honey", "Yeast"], ["Flower", "Protein", "Yeast"], ["Flower", "United_Kingdom", "Yeast"], ["Flower", "Potato", "Yeast"], ["Flower", "Scientific_classification", "Yeast"], ["Flower", "Tea", "Yeast"]]

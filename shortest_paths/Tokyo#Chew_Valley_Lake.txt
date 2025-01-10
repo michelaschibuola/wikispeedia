@@ -1,1 +1,0 @@
-[["Tokyo", "England", "Chew_Valley_Lake"], ["Tokyo", "World_War_II", "Chew_Valley_Lake"]]

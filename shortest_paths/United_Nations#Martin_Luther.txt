@@ -1,1 +1,0 @@
-[["United_Nations", "France", "Martin_Luther"], ["United_Nations", "Germany", "Martin_Luther"], ["United_Nations", "Rome", "Martin_Luther"], ["United_Nations", "The_Holocaust", "Martin_Luther"], ["United_Nations", "Berlin", "Martin_Luther"], ["United_Nations", "Italy", "Martin_Luther"]]

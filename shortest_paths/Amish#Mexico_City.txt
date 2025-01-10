@@ -1,1 +1,0 @@
-[["Amish", "20th_century", "Mexico_City"], ["Amish", "Europe", "Mexico_City"], ["Amish", "German_language", "Mexico_City"], ["Amish", "United_States", "Mexico_City"]]

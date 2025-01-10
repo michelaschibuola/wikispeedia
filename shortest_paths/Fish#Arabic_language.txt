@@ -1,1 +1,0 @@
-[["Fish", "Albatross", "Arabic_language"], ["Fish", "Europe", "Arabic_language"], ["Fish", "Khazars", "Arabic_language"], ["Fish", "Kuwait", "Arabic_language"], ["Fish", "Somalia", "Arabic_language"]]

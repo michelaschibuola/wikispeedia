@@ -1,1 +1,0 @@
-[["Taoism", "China", "Franklin_D._Roosevelt"], ["Taoism", "Japan", "Franklin_D._Roosevelt"], ["Taoism", "Republic_of_China", "Franklin_D._Roosevelt"], ["Taoism", "Singapore", "Franklin_D._Roosevelt"], ["Taoism", "Christianity", "Franklin_D._Roosevelt"]]

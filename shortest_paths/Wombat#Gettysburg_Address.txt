@@ -1,1 +1,0 @@
-[["Wombat", "Australia", "United_States", "Gettysburg_Address"], ["Wombat", "Herbivore", "United_States", "Gettysburg_Address"], ["Wombat", "Poetry", "Baltimore%2C_Maryland", "Gettysburg_Address"]]

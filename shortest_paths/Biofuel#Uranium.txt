@@ -1,1 +1,0 @@
-[["Biofuel", "Coal", "Uranium"], ["Biofuel", "Fossil_fuel", "Uranium"], ["Biofuel", "Soil", "Uranium"]]

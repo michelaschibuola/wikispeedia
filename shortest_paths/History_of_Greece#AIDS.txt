@@ -1,1 +1,0 @@
-[["History_of_Greece", "20th_century", "AIDS"], ["History_of_Greece", "Denmark", "AIDS"], ["History_of_Greece", "Europe", "AIDS"], ["History_of_Greece", "France", "AIDS"], ["History_of_Greece", "Germany", "AIDS"], ["History_of_Greece", "Italy", "AIDS"], ["History_of_Greece", "South_Africa", "AIDS"]]

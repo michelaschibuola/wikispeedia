@@ -1,1 +1,0 @@
-[["Slovakia", "Cleveland%2C_Ohio", "Superman"], ["Slovakia", "Europe", "Superman"], ["Slovakia", "Germany", "Superman"], ["Slovakia", "16th_century", "Superman"], ["Slovakia", "Jew", "Superman"], ["Slovakia", "Soviet_Union", "Superman"], ["Slovakia", "World_War_II", "Superman"], ["Slovakia", "United_States", "Superman"]]

@@ -1,1 +1,0 @@
-[["Hawk-Eye", "Computer", "United_States", "Clone_Wars_%28Star_Wars%29"], ["Hawk-Eye", "Davis_Cup", "United_States", "Clone_Wars_%28Star_Wars%29"], ["Hawk-Eye", "Hopman_Cup", "United_States", "Clone_Wars_%28Star_Wars%29"], ["Hawk-Eye", "Television", "United_States", "Clone_Wars_%28Star_Wars%29"], ["Hawk-Eye", "Tennis", "United_States", "Clone_Wars_%28Star_Wars%29"]]

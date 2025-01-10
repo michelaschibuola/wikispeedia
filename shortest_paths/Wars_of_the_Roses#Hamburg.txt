@@ -1,1 +1,0 @@
-[["Wars_of_the_Roses", "Middle_Ages", "Hamburg"], ["Wars_of_the_Roses", "France", "Hamburg"], ["Wars_of_the_Roses", "Switzerland", "Hamburg"]]

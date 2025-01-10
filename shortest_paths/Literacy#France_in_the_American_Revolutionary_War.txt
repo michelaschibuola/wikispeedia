@@ -1,1 +1,0 @@
-[["Literacy", "India", "France_in_the_American_Revolutionary_War"], ["Literacy", "Latin_America", "France_in_the_American_Revolutionary_War"], ["Literacy", "United_States", "France_in_the_American_Revolutionary_War"]]

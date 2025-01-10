@@ -1,1 +1,0 @@
-[["Mumbai", "American_Civil_War", "University_of_Chicago"], ["Mumbai", "Basketball", "University_of_Chicago"], ["Mumbai", "London", "University_of_Chicago"]]

@@ -1,1 +1,0 @@
-[["Prime_number", "United_Kingdom", "Saint-Pierre_and_Miquelon"]]

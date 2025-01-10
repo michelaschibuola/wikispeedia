@@ -1,1 +1,0 @@
-[["Cereal", "Canada", "Nuclear_weapon"], ["Cereal", "New_Zealand", "Nuclear_weapon"], ["Cereal", "United_Kingdom", "Nuclear_weapon"], ["Cereal", "United_Nations", "Nuclear_weapon"], ["Cereal", "United_States", "Nuclear_weapon"], ["Cereal", "David_Cameron", "Nuclear_weapon"], ["Cereal", "Japan", "Nuclear_weapon"], ["Cereal", "North_Korea", "Nuclear_weapon"]]

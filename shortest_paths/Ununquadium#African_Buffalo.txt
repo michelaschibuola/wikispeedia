@@ -1,1 +1,0 @@
-[["Ununquadium", "Lead", "Namibia", "African_Buffalo"], ["Ununquadium", "Russia", "Mozambique", "African_Buffalo"], ["Ununquadium", "Russia", "Somalia", "African_Buffalo"], ["Ununquadium", "Russia", "Tanzania", "African_Buffalo"]]

@@ -1,1 +1,0 @@
-[["Vatican_City", "Ancient_Rome", "Ancient_Egypt"], ["Vatican_City", "Library", "Ancient_Egypt"], ["Vatican_City", "Mediterranean_Sea", "Ancient_Egypt"], ["Vatican_City", "4th_century", "Ancient_Egypt"], ["Vatican_City", "Anno_Domini", "Ancient_Egypt"], ["Vatican_City", "Christianity", "Ancient_Egypt"], ["Vatican_City", "Currency", "Ancient_Egypt"]]

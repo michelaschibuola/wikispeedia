@@ -1,1 +1,0 @@
-[["Temperate", "Honduras", "El_Salvador"], ["Temperate", "North_America", "El_Salvador"]]

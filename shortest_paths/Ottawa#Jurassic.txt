@@ -1,1 +1,0 @@
-[["Ottawa", "Canada", "Jurassic"], ["Ottawa", "North_America", "Jurassic"]]

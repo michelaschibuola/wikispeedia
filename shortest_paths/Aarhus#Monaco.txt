@@ -1,1 +1,0 @@
-[["Aarhus", "Europe", "Monaco"], ["Aarhus", "France", "Monaco"], ["Aarhus", "Germany", "Monaco"], ["Aarhus", "Time_zone", "Monaco"]]

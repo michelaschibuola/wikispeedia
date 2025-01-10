@@ -1,1 +1,0 @@
-[["Albert_Einstein", "Capitalism", "Black_Death"], ["Albert_Einstein", "Germany", "Black_Death"], ["Albert_Einstein", "India", "Black_Death"], ["Albert_Einstein", "Italy", "Black_Death"], ["Albert_Einstein", "Jerusalem", "Black_Death"], ["Albert_Einstein", "Milan", "Black_Death"], ["Albert_Einstein", "History_of_science", "Black_Death"]]

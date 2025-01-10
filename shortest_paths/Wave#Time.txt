@@ -1,1 +1,0 @@
-[["Wave", "Albert_Einstein", "Time"], ["Wave", "Isaac_Newton", "Time"], ["Wave", "Light", "Time"], ["Wave", "Nikola_Tesla", "Time"], ["Wave", "Physics", "Time"], ["Wave", "Quantum_mechanics", "Time"], ["Wave", "Radar", "Time"], ["Wave", "Energy", "Time"], ["Wave", "Schr%C3%B6dinger_equation", "Time"]]

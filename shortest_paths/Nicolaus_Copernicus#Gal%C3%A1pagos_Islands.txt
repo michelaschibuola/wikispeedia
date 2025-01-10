@@ -1,1 +1,0 @@
-[["Nicolaus_Copernicus", "Europe", "Gal%C3%A1pagos_Islands"], ["Nicolaus_Copernicus", "Italy", "Gal%C3%A1pagos_Islands"]]

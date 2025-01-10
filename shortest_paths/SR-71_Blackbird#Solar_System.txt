@@ -1,1 +1,0 @@
-[["SR-71_Blackbird", "Hydrogen", "Solar_System"], ["SR-71_Blackbird", "Soviet_Union", "Solar_System"]]

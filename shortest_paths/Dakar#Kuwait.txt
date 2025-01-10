@@ -1,1 +1,0 @@
-[["Dakar", "Beach", "Kuwait"], ["Dakar", "United_States", "Kuwait"]]

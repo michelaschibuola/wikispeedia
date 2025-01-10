@@ -1,1 +1,0 @@
-[["Baltic_Sea", "England", "Gravitation"], ["Baltic_Sea", "United_Kingdom", "Gravitation"]]

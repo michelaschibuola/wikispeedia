@@ -1,1 +1,0 @@
-[["Superman", "John_F._Kennedy", "Panama"], ["Superman", "Hebrew_language", "Panama"], ["Superman", "Judaism", "Panama"], ["Superman", "United_States", "Panama"]]

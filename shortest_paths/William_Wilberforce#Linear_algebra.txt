@@ -1,1 +1,0 @@
-[["William_Wilberforce", "France", "Linear_algebra"], ["William_Wilberforce", "India", "Linear_algebra"]]

@@ -1,1 +1,0 @@
-[["Koryaksky", "Russia", "Earth", "Spacecraft_propulsion"], ["Koryaksky", "United_Nations", "Earth", "Spacecraft_propulsion"], ["Koryaksky", "Volcano", "Earth", "Spacecraft_propulsion"], ["Koryaksky", "Volcano", "Earth%27s_atmosphere", "Spacecraft_propulsion"], ["Koryaksky", "Volcano", "Sun", "Spacecraft_propulsion"]]

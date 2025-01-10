@@ -1,1 +1,0 @@
-[["Hubble_Deep_Field", "Earth", "Africa", "Accra"], ["Hubble_Deep_Field", "Earth", "Atlantic_Ocean", "Accra"], ["Hubble_Deep_Field", "Earth", "Earthquake", "Accra"], ["Hubble_Deep_Field", "Earth", "Time_zone", "Accra"], ["Hubble_Deep_Field", "Moon", "France", "Accra"], ["Hubble_Deep_Field", "Redshift", "Netherlands", "Accra"]]

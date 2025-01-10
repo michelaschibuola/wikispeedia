@@ -1,1 +1,0 @@
-[["Continent", "Europe", "El_Lissitzky"], ["Continent", "Italy", "El_Lissitzky"], ["Continent", "Russia", "El_Lissitzky"], ["Continent", "United_States", "El_Lissitzky"], ["Continent", "World_War_II", "El_Lissitzky"]]

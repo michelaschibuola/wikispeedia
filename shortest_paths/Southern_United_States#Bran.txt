@@ -1,1 +1,0 @@
-[["Southern_United_States", "Rice", "Bran"], ["Southern_United_States", "United_States", "Bran"]]

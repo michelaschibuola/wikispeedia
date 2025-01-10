@@ -1,1 +1,0 @@
-[["Nintendo_DS", "Europe", "History_of_the_Internet"], ["Nintendo_DS", "Japan", "History_of_the_Internet"]]

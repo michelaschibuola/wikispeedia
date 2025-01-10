@@ -1,1 +1,0 @@
-[["Irish_people", "France", "Antananarivo"], ["Irish_people", "French_language", "Antananarivo"]]

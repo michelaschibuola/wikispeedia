@@ -1,1 +1,0 @@
-[["Quito", "Basketball", "Montreal"], ["Quito", "Canada", "Montreal"], ["Quito", "Europe", "Montreal"], ["Quito", "Football_%28soccer%29", "Montreal"], ["Quito", "Time_zone", "Montreal"], ["Quito", "Toronto", "Montreal"]]

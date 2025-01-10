@@ -1,1 +1,0 @@
-[["Commodore_64", "Europe", "Adam_Smith"], ["Commodore_64", "United_Kingdom", "Adam_Smith"]]

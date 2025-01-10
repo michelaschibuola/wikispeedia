@@ -1,1 +1,0 @@
-[["Christina_Aguilera", "Ireland", "Telescope", "Optical_telescope"], ["Christina_Aguilera", "Latin", "Light", "Optical_telescope"], ["Christina_Aguilera", "United_Kingdom", "Binoculars", "Optical_telescope"], ["Christina_Aguilera", "United_States", "Binoculars", "Optical_telescope"]]

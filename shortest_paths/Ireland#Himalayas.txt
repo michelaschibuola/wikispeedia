@@ -1,1 +1,0 @@
-[["Ireland", "Bird_migration", "Himalayas"], ["Ireland", "Butter", "Himalayas"], ["Ireland", "Continent", "Himalayas"], ["Ireland", "China", "Himalayas"], ["Ireland", "Ice_age", "Himalayas"], ["Ireland", "United_Kingdom", "Himalayas"], ["Ireland", "Plate_tectonics", "Himalayas"], ["Ireland", "Rabindranath_Tagore", "Himalayas"]]

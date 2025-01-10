@@ -1,1 +1,0 @@
-[["RER", "Paris", "Buenos_Aires", "Ollanta_Humala"], ["RER", "Paris", "Brazil", "Ollanta_Humala"], ["RER", "Paris", "South_Korea", "Ollanta_Humala"]]

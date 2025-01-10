@@ -1,1 +1,0 @@
-[["Episcopal_polity", "Christianity", "Mormon"], ["Episcopal_polity", "Jesus", "Mormon"]]

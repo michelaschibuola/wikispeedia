@@ -1,1 +1,0 @@
-[["Lighthouse_of_Alexandria", "Egypt", "Gold", "Roentgenium"], ["Lighthouse_of_Alexandria", "Fire", "Atom", "Roentgenium"], ["Lighthouse_of_Alexandria", "French_language", "Germany", "Roentgenium"], ["Lighthouse_of_Alexandria", "Spanish_language", "Germany", "Roentgenium"], ["Lighthouse_of_Alexandria", "Sunlight", "Color", "Roentgenium"]]

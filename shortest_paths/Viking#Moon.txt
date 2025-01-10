@@ -1,1 +1,0 @@
-[["Viking", "Canada", "Moon"], ["Viking", "English_language", "Moon"], ["Viking", "Ireland", "Moon"], ["Viking", "Middle_Ages", "Moon"], ["Viking", "Old_English_language", "Moon"], ["Viking", "Space_Race", "Moon"], ["Viking", "France", "Moon"], ["Viking", "Russia", "Moon"], ["Viking", "Silver", "Moon"]]

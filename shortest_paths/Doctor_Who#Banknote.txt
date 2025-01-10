@@ -1,1 +1,0 @@
-[["Doctor_Who", "Canada", "Banknote"], ["Doctor_Who", "Japan", "Banknote"], ["Doctor_Who", "United_Kingdom", "Banknote"], ["Doctor_Who", "United_States", "Banknote"], ["Doctor_Who", "Marco_Polo", "Banknote"]]

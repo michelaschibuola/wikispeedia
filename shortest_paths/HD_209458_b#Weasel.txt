@@ -1,1 +1,0 @@
-[["HD_209458_b", "Day", "Europe", "Weasel"], ["HD_209458_b", "Hubble_Space_Telescope", "Europe", "Weasel"], ["HD_209458_b", "Sodium", "Europe", "Weasel"], ["HD_209458_b", "Oxygen", "Animal", "Weasel"], ["HD_209458_b", "Oxygen", "Poultry", "Weasel"], ["HD_209458_b", "Sun", "Winter", "Weasel"]]

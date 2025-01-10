@@ -1,1 +1,0 @@
-[["Falcon", "Europe", "Mozilla_Firefox"]]

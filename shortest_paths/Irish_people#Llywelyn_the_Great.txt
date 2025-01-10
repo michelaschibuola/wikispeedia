@@ -1,1 +1,0 @@
-[["Irish_people", "Ireland", "Llywelyn_the_Great"], ["Irish_people", "Isle_of_Man", "Llywelyn_the_Great"], ["Irish_people", "Wales", "Llywelyn_the_Great"]]

@@ -1,1 +1,0 @@
-[["Sequence_alignment", "Human", "Europe", "War_of_the_Spanish_Succession"], ["Sequence_alignment", "Human", "Madrid", "War_of_the_Spanish_Succession"], ["Sequence_alignment", "Human", "Pound_sterling", "War_of_the_Spanish_Succession"]]

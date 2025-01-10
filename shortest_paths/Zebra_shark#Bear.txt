@@ -1,1 +1,0 @@
-[["Zebra_shark", "Animal", "Bear"], ["Zebra_shark", "Chordate", "Bear"], ["Zebra_shark", "Scientific_classification", "Bear"]]

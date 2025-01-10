@@ -1,1 +1,0 @@
-[["Badminton", "Football_%28soccer%29", "Milan"], ["Badminton", "France", "Milan"], ["Badminton", "Switzerland", "Milan"], ["Badminton", "England", "Milan"]]

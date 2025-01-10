@@ -1,1 +1,0 @@
-[["Abadan", "20th_century", "Binomial_nomenclature", "Magellanic_Penguin"], ["Abadan", "20th_century", "Chile", "Magellanic_Penguin"], ["Abadan", "Petroleum", "Argentina", "Magellanic_Penguin"]]

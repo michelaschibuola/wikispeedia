@@ -1,1 +1,0 @@
-[["Scelidosaurus", "England", "Tobacco"], ["Scelidosaurus", "Scientific_classification", "Tobacco"], ["Scelidosaurus", "United_States", "Tobacco"]]

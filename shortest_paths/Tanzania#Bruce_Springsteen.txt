@@ -1,1 +1,0 @@
-[["Tanzania", "Denmark", "Bruce_Springsteen"], ["Tanzania", "Germany", "Bruce_Springsteen"], ["Tanzania", "United_Kingdom", "Bruce_Springsteen"], ["Tanzania", "United_States", "Bruce_Springsteen"]]

@@ -1,1 +1,0 @@
-[["Spider", "Animal", "Stegosaurus"], ["Spider", "China", "Stegosaurus"], ["Spider", "Mammal", "Stegosaurus"], ["Spider", "Scientific_classification", "Stegosaurus"]]

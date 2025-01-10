@@ -1,1 +1,0 @@
-[["Canberra", "Germany", "Magic__The_Gathering"], ["Canberra", "Italy", "Magic__The_Gathering"], ["Canberra", "Japan", "Magic__The_Gathering"]]

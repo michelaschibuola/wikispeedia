@@ -1,1 +1,0 @@
-[["Turin", "Salt_Lake_City%2C_Utah", "Jazz"], ["Turin", "Argentina", "Jazz"], ["Turin", "France", "Jazz"], ["Turin", "United_States", "Jazz"], ["Turin", "Warsaw", "Jazz"]]

@@ -1,1 +1,0 @@
-[["Bicycle", "India", "Women%27s_rights"], ["Bicycle", "United_Kingdom", "Women%27s_rights"], ["Bicycle", "United_States", "Women%27s_rights"]]

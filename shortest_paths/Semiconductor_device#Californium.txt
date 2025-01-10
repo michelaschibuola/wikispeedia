@@ -1,1 +1,0 @@
-[["Semiconductor_device", "Calcium", "Californium"], ["Semiconductor_device", "Electron", "Californium"]]

@@ -1,1 +1,0 @@
-[["Gravitation", "Carl_Sagan", "Seattle%2C_Washington"], ["Gravitation", "Skiing", "Seattle%2C_Washington"], ["Gravitation", "Water", "Seattle%2C_Washington"]]

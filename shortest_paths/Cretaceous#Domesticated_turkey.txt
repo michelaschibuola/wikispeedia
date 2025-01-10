@@ -1,1 +1,0 @@
-[["Cretaceous", "Bird", "Domesticated_turkey"], ["Cretaceous", "Europe", "Domesticated_turkey"], ["Cretaceous", "North_America", "Domesticated_turkey"]]

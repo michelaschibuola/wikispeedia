@@ -1,1 +1,0 @@
-[["Muhammad_Iqbal", "England", "Ludwig_Wittgenstein"], ["Muhammad_Iqbal", "Germany", "Ludwig_Wittgenstein"], ["Muhammad_Iqbal", "Philosophy", "Ludwig_Wittgenstein"], ["Muhammad_Iqbal", "Trinity_College%2C_Cambridge", "Ludwig_Wittgenstein"], ["Muhammad_Iqbal", "University_of_Cambridge", "Ludwig_Wittgenstein"], ["Muhammad_Iqbal", "World_War_I", "Ludwig_Wittgenstein"]]

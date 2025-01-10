@@ -1,1 +1,0 @@
-[["Vancouver", "Amtrak", "U.S._state"], ["Vancouver", "Los_Angeles%2C_California", "U.S._state"], ["Vancouver", "California", "U.S._state"], ["Vancouver", "New_York_City", "U.S._state"], ["Vancouver", "Seattle%2C_Washington", "U.S._state"], ["Vancouver", "Spain", "U.S._state"], ["Vancouver", "United_States", "U.S._state"], ["Vancouver", "Warren_G._Harding", "U.S._state"]]

@@ -1,1 +1,0 @@
-[["Italy", "Beijing", "Summer"], ["Italy", "Bucharest", "Summer"], ["Italy", "United_States", "Summer"], ["Italy", "Los_Angeles%2C_California", "Summer"], ["Italy", "Luxembourg", "Summer"], ["Italy", "Marginated_Tortoise", "Summer"], ["Italy", "Melbourne", "Summer"], ["Italy", "S%C3%A3o_Paulo", "Summer"]]

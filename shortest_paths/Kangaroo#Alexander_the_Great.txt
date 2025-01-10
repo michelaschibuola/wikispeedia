@@ -1,1 +1,0 @@
-[["Kangaroo", "English_language", "Alexander_the_Great"], ["Kangaroo", "Europe", "Alexander_the_Great"]]

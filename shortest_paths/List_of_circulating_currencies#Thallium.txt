@@ -1,1 +1,0 @@
-[["List_of_circulating_currencies", "Australia", "Thallium"], ["List_of_circulating_currencies", "Cameroon", "Thallium"], ["List_of_circulating_currencies", "Japan", "Thallium"], ["List_of_circulating_currencies", "South_Africa", "Thallium"], ["List_of_circulating_currencies", "United_States", "Thallium"]]

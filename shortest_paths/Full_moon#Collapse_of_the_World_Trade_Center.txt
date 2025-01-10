@@ -1,1 +1,0 @@
-[["Full_moon", "Australia", "September_11%2C_2001_attacks", "Collapse_of_the_World_Trade_Center"], ["Full_moon", "England", "Gypsum", "Collapse_of_the_World_Trade_Center"], ["Full_moon", "England", "New_York_City", "Collapse_of_the_World_Trade_Center"]]

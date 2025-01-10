@@ -1,1 +1,0 @@
-[["Rabies", "United_States", "Pac-Man"]]

@@ -1,1 +1,0 @@
-[["Christianity", "Bible", "Amish"], ["Christianity", "Birth_control", "Amish"], ["Christianity", "Canada", "Amish"], ["Christianity", "A_cappella", "Amish"], ["Christianity", "Europe", "Amish"], ["Christianity", "Roman_Catholic_Church", "Amish"], ["Christianity", "Mormon", "Amish"]]

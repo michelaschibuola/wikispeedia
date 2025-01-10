@@ -1,1 +1,0 @@
-[["North_America", "11th_century", "Time"], ["North_America", "15th_century", "Time"], ["North_America", "17th_century", "Time"], ["North_America", "18th_century", "Time"], ["North_America", "Internet", "Time"], ["North_America", "Leisure", "Time"], ["North_America", "Sociocultural_evolution", "Time"]]

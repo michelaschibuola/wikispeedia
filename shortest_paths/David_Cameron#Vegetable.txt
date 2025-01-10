@@ -1,1 +1,0 @@
-[["David_Cameron", "Cereal", "Vegetable"], ["David_Cameron", "English_language", "Vegetable"], ["David_Cameron", "Japan", "Vegetable"], ["David_Cameron", "Syria", "Vegetable"]]

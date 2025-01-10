@@ -1,1 +1,0 @@
-[["Lake_Powell", "Fishing", "Fish", "Nurse_sharks"], ["Lake_Powell", "Fishing", "Crustacean", "Nurse_sharks"]]

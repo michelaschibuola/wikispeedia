@@ -1,1 +1,0 @@
-[["Finland", "Europe", "Lawn"], ["Finland", "Football", "Lawn"], ["Finland", "United_States", "Lawn"], ["Finland", "Park", "Lawn"], ["Finland", "Water", "Lawn"]]

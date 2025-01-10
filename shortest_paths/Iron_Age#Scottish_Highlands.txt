@@ -1,1 +1,0 @@
-[["Iron_Age", "British_Isles", "Scottish_Highlands"], ["Iron_Age", "Dundee", "Scottish_Highlands"], ["Iron_Age", "Ireland", "Scottish_Highlands"], ["Iron_Age", "Europe", "Scottish_Highlands"], ["Iron_Age", "Scotland", "Scottish_Highlands"], ["Iron_Age", "Loch_Ness", "Scottish_Highlands"], ["Iron_Age", "Orkney", "Scottish_Highlands"], ["Iron_Age", "Sweden", "Scottish_Highlands"]]

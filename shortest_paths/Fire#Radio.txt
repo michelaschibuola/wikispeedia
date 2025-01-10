@@ -1,1 +1,0 @@
-[["Fire", "Atom", "Radio"], ["Fire", "Electricity", "Radio"], ["Fire", "Iron", "Radio"], ["Fire", "Light", "Radio"], ["Fire", "Photon", "Radio"], ["Fire", "Technology", "Radio"]]

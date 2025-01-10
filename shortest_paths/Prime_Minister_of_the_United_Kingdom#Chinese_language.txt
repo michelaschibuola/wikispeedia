@@ -1,1 +1,0 @@
-[["Prime_Minister_of_the_United_Kingdom", "Germany", "Chinese_language"], ["Prime_Minister_of_the_United_Kingdom", "Marxism", "Chinese_language"], ["Prime_Minister_of_the_United_Kingdom", "Northern_Ireland", "Chinese_language"]]

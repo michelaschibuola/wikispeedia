@@ -1,1 +1,0 @@
-[["Laos", "France", "Jyllands-Posten_Muhammad_cartoons_controversy"], ["Laos", "Islam", "Jyllands-Posten_Muhammad_cartoons_controversy"], ["Laos", "World_War_II", "Jyllands-Posten_Muhammad_cartoons_controversy"], ["Laos", "Saudi_Arabia", "Jyllands-Posten_Muhammad_cartoons_controversy"]]

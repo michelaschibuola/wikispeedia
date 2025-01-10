@@ -1,1 +1,0 @@
-[["Osprey", "Europe", "Mozilla_Firefox"]]

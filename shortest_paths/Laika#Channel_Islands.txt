@@ -1,1 +1,0 @@
-[["Laika", "Russia", "Channel_Islands"], ["Laika", "United_Kingdom", "Channel_Islands"], ["Laika", "United_States", "Channel_Islands"]]

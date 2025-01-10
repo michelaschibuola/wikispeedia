@@ -1,1 +1,0 @@
-[["Poverty", "Drinking_water", "Chlorine"], ["Poverty", "Fertilizer", "Chlorine"], ["Poverty", "Food", "Chlorine"], ["Poverty", "Iodine", "Chlorine"], ["Poverty", "Water", "Chlorine"]]

@@ -1,1 +1,0 @@
-[["Muttaburrasaurus", "Animal", "Redwing"], ["Muttaburrasaurus", "Binomial_nomenclature", "Redwing"], ["Muttaburrasaurus", "Chordate", "Redwing"], ["Muttaburrasaurus", "Scientific_classification", "Redwing"]]

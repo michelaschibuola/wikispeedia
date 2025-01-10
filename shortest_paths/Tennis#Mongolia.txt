@@ -1,1 +1,0 @@
-[["Tennis", "Moscow", "Mongolia"], ["Tennis", "Germany", "Mongolia"], ["Tennis", "Russia", "Mongolia"], ["Tennis", "United_States", "Mongolia"]]

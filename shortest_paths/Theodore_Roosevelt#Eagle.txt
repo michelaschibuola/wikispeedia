@@ -1,1 +1,0 @@
-[["Theodore_Roosevelt", "History_of_the_Grand_Canyon_area", "Eagle"], ["Theodore_Roosevelt", "Bible", "Eagle"], ["Theodore_Roosevelt", "Germany", "Eagle"], ["Theodore_Roosevelt", "Nicaragua", "Eagle"], ["Theodore_Roosevelt", "Philippines", "Eagle"]]

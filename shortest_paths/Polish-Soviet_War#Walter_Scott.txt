@@ -1,1 +1,0 @@
-[["Polish-Soviet_War", "Europe", "Walter_Scott"], ["Polish-Soviet_War", "France", "Walter_Scott"], ["Polish-Soviet_War", "Jew", "Walter_Scott"]]

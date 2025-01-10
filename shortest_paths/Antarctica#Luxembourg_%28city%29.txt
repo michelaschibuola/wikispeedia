@@ -1,1 +1,0 @@
-[["Antarctica", "Europe", "Luxembourg_%28city%29"], ["Antarctica", "France", "Luxembourg_%28city%29"], ["Antarctica", "United_Kingdom", "Luxembourg_%28city%29"]]

@@ -1,1 +1,0 @@
-[["Vowel", "Voynich_manuscript", "Marco_Polo"]]

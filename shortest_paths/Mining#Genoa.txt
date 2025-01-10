@@ -1,1 +1,0 @@
-[["Mining", "Ancient_Rome", "Genoa"], ["Mining", "Hasekura_Tsunenaga", "Genoa"], ["Mining", "United_States", "Genoa"]]

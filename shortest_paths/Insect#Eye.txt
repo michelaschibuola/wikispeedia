@@ -1,1 +1,0 @@
-[["Insect", "Arthropod", "Eye"], ["Insect", "Bird", "Eye"], ["Insect", "Brain", "Eye"], ["Insect", "Cat", "Eye"], ["Insect", "Drosophila_melanogaster", "Eye"], ["Insect", "Goldfish", "Eye"], ["Insect", "Evolution", "Eye"], ["Insect", "Human", "Eye"], ["Insect", "Organism", "Eye"], ["Insect", "Protein", "Eye"], ["Insect", "Ultraviolet", "Eye"]]

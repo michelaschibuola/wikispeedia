@@ -1,1 +1,0 @@
-[["Pitcairn_Islands", "English_language", "University_of_Cambridge"], ["Pitcairn_Islands", "Bible", "University_of_Cambridge"], ["Pitcairn_Islands", "United_Kingdom", "University_of_Cambridge"], ["Pitcairn_Islands", "United_States", "University_of_Cambridge"]]

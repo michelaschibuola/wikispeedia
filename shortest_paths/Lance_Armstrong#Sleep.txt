@@ -1,1 +1,0 @@
-[["Lance_Armstrong", "Brain", "Sleep"], ["Lance_Armstrong", "United_States", "Sleep"]]

@@ -1,1 +1,0 @@
-[["Sucre", "South_America", "French_language", "Three_Laws_of_Robotics"], ["Sucre", "Spain", "French_language", "Three_Laws_of_Robotics"], ["Sucre", "Argentina", "Citizen_Kane", "Three_Laws_of_Robotics"], ["Sucre", "Spain", "Citizen_Kane", "Three_Laws_of_Robotics"], ["Sucre", "Peru", "War", "Three_Laws_of_Robotics"], ["Sucre", "Peru", "Religion", "Three_Laws_of_Robotics"]]

@@ -1,1 +1,0 @@
-[["Steel", "New_York_City", "Sydney_Newman"], ["Steel", "Russia", "Sydney_Newman"], ["Steel", "Toronto", "Sydney_Newman"], ["Steel", "United_Kingdom", "Sydney_Newman"]]

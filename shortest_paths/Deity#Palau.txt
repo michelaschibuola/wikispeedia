@@ -1,1 +1,0 @@
-[["Deity", "English_language", "Palau"], ["Deity", "Japan", "Palau"]]

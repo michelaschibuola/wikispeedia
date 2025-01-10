@@ -1,1 +1,0 @@
-[["Lettuce", "United_States", "Pennsylvania_Railroad"]]

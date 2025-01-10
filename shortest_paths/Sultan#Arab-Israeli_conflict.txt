@@ -1,1 +1,0 @@
-[["Sultan", "Islam", "Arab-Israeli_conflict"], ["Sultan", "Ottoman_Empire", "Arab-Israeli_conflict"], ["Sultan", "Arabic_language", "Arab-Israeli_conflict"], ["Sultan", "Egypt", "Arab-Israeli_conflict"], ["Sultan", "Hebrew_language", "Arab-Israeli_conflict"]]

@@ -1,1 +1,0 @@
-[["Khazars", "Azerbaijan", "George_W._Bush"], ["Khazars", "Baghdad", "George_W._Bush"], ["Khazars", "Bible", "George_W._Bush"], ["Khazars", "Georgia_%28country%29", "George_W._Bush"], ["Khazars", "Israel", "George_W._Bush"], ["Khazars", "Kazakhstan", "George_W._Bush"], ["Khazars", "Russia", "George_W._Bush"], ["Khazars", "Ukraine", "George_W._Bush"]]

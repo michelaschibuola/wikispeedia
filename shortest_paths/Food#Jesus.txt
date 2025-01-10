@@ -1,1 +1,0 @@
-[["Food", "Bread", "Jesus"], ["Food", "Dill", "Jesus"], ["Food", "English_language", "Jesus"], ["Food", "Islam", "Jesus"], ["Food", "Judaism", "Jesus"], ["Food", "Religion", "Jesus"], ["Food", "Poverty", "Jesus"]]

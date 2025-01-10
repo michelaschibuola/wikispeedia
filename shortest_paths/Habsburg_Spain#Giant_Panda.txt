@@ -1,1 +1,0 @@
-[["Habsburg_Spain", "Austria", "Giant_Panda"], ["Habsburg_Spain", "France", "Giant_Panda"], ["Habsburg_Spain", "Germany", "Giant_Panda"], ["Habsburg_Spain", "Paris", "Giant_Panda"]]

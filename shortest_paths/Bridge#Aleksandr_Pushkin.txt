@@ -1,1 +1,0 @@
-[["Bridge", "19th_century", "Aleksandr_Pushkin"], ["Bridge", "Greece", "Aleksandr_Pushkin"], ["Bridge", "Russia", "Aleksandr_Pushkin"], ["Bridge", "Saint_Petersburg", "Aleksandr_Pushkin"]]

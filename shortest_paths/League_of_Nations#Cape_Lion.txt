@@ -1,1 +1,0 @@
-[["League_of_Nations", "Africa", "Cape_Lion"], ["League_of_Nations", "Russia", "Cape_Lion"]]

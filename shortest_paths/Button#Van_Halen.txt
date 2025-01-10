@@ -1,1 +1,0 @@
-[["Button", "Aachen", "United_States", "Van_Halen"], ["Button", "Chinese_language", "United_States", "Van_Halen"], ["Button", "Europe", "United_States", "Van_Halen"], ["Button", "Clothing", "Boston%2C_Massachusetts", "Van_Halen"], ["Button", "Europe", "Mexico", "Van_Halen"], ["Button", "Europe", "The_Beatles", "Van_Halen"], ["Button", "Ivory", "Guitar", "Van_Halen"]]

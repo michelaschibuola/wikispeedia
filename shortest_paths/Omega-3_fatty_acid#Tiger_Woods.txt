@@ -1,1 +1,0 @@
-[["Omega-3_fatty_acid", "United_States", "Tiger_Woods"], ["Omega-3_fatty_acid", "Prostate_cancer", "Tiger_Woods"]]

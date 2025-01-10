@@ -1,1 +1,0 @@
-[["Citizenship", "Nationalism", "Turkmenistan"], ["Citizenship", "Human_rights", "Turkmenistan"], ["Citizenship", "Lebanon", "Turkmenistan"]]

@@ -1,1 +1,0 @@
-[["Chicago", "Europe", "Tawny_Owl"]]

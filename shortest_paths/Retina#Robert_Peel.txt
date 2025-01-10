@@ -1,1 +1,0 @@
-[["Retina", "Color_blindness", "Scotland", "Robert_Peel"], ["Retina", "ECHELON", "Scotland", "Robert_Peel"], ["Retina", "ECHELON", "Canada", "Robert_Peel"], ["Retina", "ECHELON", "Ireland", "Robert_Peel"], ["Retina", "Tawny_Owl", "Ireland", "Robert_Peel"], ["Retina", "Cancer", "London", "Robert_Peel"], ["Retina", "Transit_of_Venus", "England", "Robert_Peel"]]

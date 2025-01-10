@@ -1,1 +1,0 @@
-[["HSBC", "Argentina", "Tropics"], ["HSBC", "Brazil", "Tropics"]]

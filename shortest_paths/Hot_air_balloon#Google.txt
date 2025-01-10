@@ -1,1 +1,0 @@
-[["Hot_air_balloon", "China", "Google"], ["Hot_air_balloon", "France", "Google"]]

@@ -1,1 +1,0 @@
-[["Boolean_logic", "Astrophysics_Data_System", "Brazil", "Monaco_Grand_Prix"], ["Boolean_logic", "Astrophysics_Data_System", "France", "Monaco_Grand_Prix"], ["Boolean_logic", "19th_century", "France", "Monaco_Grand_Prix"], ["Boolean_logic", "Google", "France", "Monaco_Grand_Prix"]]

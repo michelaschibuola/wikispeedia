@@ -1,1 +1,0 @@
-[["Booby", "Animal", "Arctic_Tern"], ["Booby", "Bird", "Arctic_Tern"], ["Booby", "Chordate", "Arctic_Tern"], ["Booby", "Europe", "Arctic_Tern"], ["Booby", "Fish", "Arctic_Tern"], ["Booby", "North_America", "Arctic_Tern"], ["Booby", "Scientific_classification", "Arctic_Tern"]]

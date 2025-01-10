@@ -1,1 +1,0 @@
-[["Horn_of_Africa", "Ancient_Greece", "Sun"], ["Horn_of_Africa", "Natural_disaster", "Sun"], ["Horn_of_Africa", "Reptile", "Sun"], ["Horn_of_Africa", "United_States", "Sun"]]

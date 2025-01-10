@@ -1,1 +1,0 @@
-[["Arctic_Ocean", "China", "Water_resources"], ["Arctic_Ocean", "North_America", "Water_resources"], ["Arctic_Ocean", "Russia", "Water_resources"], ["Arctic_Ocean", "Europe", "Water_resources"], ["Arctic_Ocean", "Glacier", "Water_resources"]]

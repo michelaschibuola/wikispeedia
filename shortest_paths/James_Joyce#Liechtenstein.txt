@@ -1,1 +1,0 @@
-[["James_Joyce", "Croatia", "Liechtenstein"], ["James_Joyce", "Italy", "Liechtenstein"], ["James_Joyce", "Norway", "Liechtenstein"], ["James_Joyce", "Switzerland", "Liechtenstein"], ["James_Joyce", "United_States", "Liechtenstein"], ["James_Joyce", "World_War_I", "Liechtenstein"], ["James_Joyce", "Republic_of_Ireland", "Liechtenstein"]]

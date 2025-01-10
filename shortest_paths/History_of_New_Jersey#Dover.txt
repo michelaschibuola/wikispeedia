@@ -1,1 +1,0 @@
-[["History_of_New_Jersey", "Charles_II_of_England", "Dover"], ["History_of_New_Jersey", "England", "Dover"], ["History_of_New_Jersey", "English_Channel", "Dover"], ["History_of_New_Jersey", "France", "Dover"], ["History_of_New_Jersey", "World_War_I", "Dover"], ["History_of_New_Jersey", "World_War_II", "Dover"]]

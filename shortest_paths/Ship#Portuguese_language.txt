@@ -1,1 +1,0 @@
-[["Ship", "Japan", "Portuguese_language"], ["Ship", "Ancient_Greece", "Portuguese_language"]]

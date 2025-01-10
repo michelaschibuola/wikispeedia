@@ -1,1 +1,0 @@
-[["IPod", "Doom", "Bill_Gates"], ["IPod", "AIDS", "Bill_Gates"], ["IPod", "Macintosh", "Bill_Gates"], ["IPod", "Microsoft", "Bill_Gates"], ["IPod", "Microsoft_Windows", "Bill_Gates"], ["IPod", "U2", "Bill_Gates"], ["IPod", "United_States", "Bill_Gates"], ["IPod", "United_States_dollar", "Bill_Gates"]]

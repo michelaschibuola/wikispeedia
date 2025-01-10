@@ -1,1 +1,0 @@
-[["Caroline_Island", "North_America", "Napoleon_I_of_France"], ["Caroline_Island", "Portugal", "Napoleon_I_of_France"], ["Caroline_Island", "United_States", "Napoleon_I_of_France"]]

@@ -1,1 +1,0 @@
-[["Concorde", "France", "Giant_Panda"], ["Concorde", "Germany", "Giant_Panda"], ["Concorde", "Mexico_City", "Giant_Panda"], ["Concorde", "Paris", "Giant_Panda"], ["Concorde", "Soviet_Union", "Giant_Panda"], ["Concorde", "United_States", "Giant_Panda"], ["Concorde", "Washington%2C_D.C.", "Giant_Panda"]]

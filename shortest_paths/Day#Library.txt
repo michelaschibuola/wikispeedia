@@ -1,1 +1,0 @@
-[["Day", "19th_century", "Library"], ["Day", "Ancient_Egypt", "Library"], ["Day", "Europe", "Library"], ["Day", "United_States", "Library"], ["Day", "Mathematics", "Library"]]

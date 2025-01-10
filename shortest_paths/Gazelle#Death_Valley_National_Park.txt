@@ -1,1 +1,0 @@
-[["Gazelle", "Animal", "Death_Valley_National_Park"], ["Gazelle", "Fossil", "Death_Valley_National_Park"], ["Gazelle", "Mammal", "Death_Valley_National_Park"]]

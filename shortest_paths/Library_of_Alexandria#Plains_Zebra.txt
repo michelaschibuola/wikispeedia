@@ -1,1 +1,0 @@
-[["Library_of_Alexandria", "4th_century", "Ethiopia", "Plains_Zebra"], ["Library_of_Alexandria", "Egypt", "Ethiopia", "Plains_Zebra"], ["Library_of_Alexandria", "Aristotle", "Animal", "Plains_Zebra"], ["Library_of_Alexandria", "Aristotle", "Scientific_classification", "Plains_Zebra"], ["Library_of_Alexandria", "Mediterranean_Sea", "South_Africa", "Plains_Zebra"]]

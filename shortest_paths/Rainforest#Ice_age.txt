@@ -1,1 +1,0 @@
-[["Rainforest", "Europe", "Ice_age"], ["Rainforest", "Island_Fox", "Ice_age"], ["Rainforest", "Ivory", "Ice_age"], ["Rainforest", "Papua_New_Guinea", "Ice_age"], ["Rainforest", "Carbon_dioxide", "Ice_age"], ["Rainforest", "Climate", "Ice_age"]]

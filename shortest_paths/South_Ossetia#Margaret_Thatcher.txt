@@ -1,1 +1,0 @@
-[["South_Ossetia", "European_Union", "Margaret_Thatcher"], ["South_Ossetia", "Soviet_Union", "Margaret_Thatcher"]]

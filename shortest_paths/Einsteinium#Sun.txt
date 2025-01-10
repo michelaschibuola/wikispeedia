@@ -1,1 +1,0 @@
-[["Einsteinium", "Albert_Einstein", "Sun"], ["Einsteinium", "Day", "Sun"], ["Einsteinium", "Electron", "Sun"], ["Einsteinium", "Neutron", "Sun"], ["Einsteinium", "Uranium", "Sun"]]

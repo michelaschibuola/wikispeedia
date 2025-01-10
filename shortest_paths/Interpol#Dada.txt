@@ -1,1 +1,0 @@
-[["Interpol", "French_language", "Dada"], ["Interpol", "Georgia_%28country%29", "Dada"], ["Interpol", "Germany", "Dada"], ["Interpol", "Paris", "Dada"], ["Interpol", "Romania", "Dada"], ["Interpol", "Russia", "Dada"], ["Interpol", "Switzerland", "Dada"], ["Interpol", "United_States", "Dada"]]

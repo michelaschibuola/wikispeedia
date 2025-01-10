@@ -1,1 +1,0 @@
-[["Rocky_Mountains", "Geology_of_the_Grand_Canyon_area", "Cave"], ["Rocky_Mountains", "North_America", "Cave"], ["Rocky_Mountains", "Mineral", "Cave"], ["Rocky_Mountains", "United_States", "Cave"]]

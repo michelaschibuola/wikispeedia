@@ -1,1 +1,0 @@
-[["Erie_Canal", "Chicago", "The_Beatles"], ["Erie_Canal", "Manchester", "The_Beatles"], ["Erie_Canal", "United_States", "The_Beatles"]]

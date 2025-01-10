@@ -1,1 +1,0 @@
-[["Internet", "English_language", "Monaco"], ["Internet", "Eurovision_Song_Contest", "Monaco"], ["Internet", "France", "Monaco"], ["Internet", "Germany", "Monaco"], ["Internet", "Europe", "Monaco"], ["Internet", "French_language", "Monaco"], ["Internet", "Telephone", "Monaco"]]

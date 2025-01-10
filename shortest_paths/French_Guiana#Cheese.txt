@@ -1,1 +1,0 @@
-[["French_Guiana", "Brazil", "Cheese"], ["French_Guiana", "Europe", "Cheese"], ["French_Guiana", "France", "Cheese"], ["French_Guiana", "French_language", "Cheese"], ["French_Guiana", "United_States", "Cheese"]]

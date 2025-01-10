@@ -1,1 +1,0 @@
-[["Aristotle", "Middle_Ages", "Claudius"], ["Aristotle", "Stuttering", "Claudius"]]

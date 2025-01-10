@@ -1,1 +1,0 @@
-[["Paul_of_Tarsus", "Christianity", "Cairo"], ["Paul_of_Tarsus", "Damascus", "Cairo"], ["Paul_of_Tarsus", "Syria", "Cairo"]]

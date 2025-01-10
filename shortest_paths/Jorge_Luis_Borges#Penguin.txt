@@ -1,1 +1,0 @@
-[["Jorge_Luis_Borges", "Argentina", "Penguin"], ["Jorge_Luis_Borges", "English_language", "Penguin"], ["Jorge_Luis_Borges", "German_language", "Penguin"], ["Jorge_Luis_Borges", "Germany", "Penguin"], ["Jorge_Luis_Borges", "Sweden", "Penguin"]]

@@ -1,1 +1,0 @@
-[["Costa_Rica", "19th_century", "Backgammon"], ["Costa_Rica", "Germany", "Backgammon"]]

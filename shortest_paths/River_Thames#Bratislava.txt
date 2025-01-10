@@ -1,1 +1,0 @@
-[["River_Thames", "18th_century", "Bratislava"], ["River_Thames", "19th_century", "Bratislava"], ["River_Thames", "Greece", "Bratislava"], ["River_Thames", "Latin", "Bratislava"], ["River_Thames", "Renaissance", "Bratislava"]]

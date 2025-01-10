@@ -1,1 +1,0 @@
-[["Mao_Zedong", "Asia", "Bangkok"], ["Mao_Zedong", "Beijing", "Bangkok"], ["Mao_Zedong", "Cambodia", "Bangkok"], ["Mao_Zedong", "South_Korea", "Bangkok"], ["Mao_Zedong", "United_States", "Bangkok"], ["Mao_Zedong", "People%27s_Republic_of_China", "Bangkok"]]

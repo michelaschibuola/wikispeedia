@@ -1,1 +1,0 @@
-[["Eric_Clapton", "BBC", "Charles_II_of_England"], ["Eric_Clapton", "England", "Charles_II_of_England"], ["Eric_Clapton", "France", "Charles_II_of_England"], ["Eric_Clapton", "London", "Charles_II_of_England"]]

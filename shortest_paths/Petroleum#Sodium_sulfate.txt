@@ -1,1 +1,0 @@
-[["Petroleum", "Canada", "Sodium_sulfate"], ["Petroleum", "Ethanol", "Sodium_sulfate"], ["Petroleum", "Mexico", "Sodium_sulfate"], ["Petroleum", "Heat", "Sodium_sulfate"], ["Petroleum", "Oxygen", "Sodium_sulfate"], ["Petroleum", "Spain", "Sodium_sulfate"], ["Petroleum", "Sodium", "Sodium_sulfate"], ["Petroleum", "Sulfuric_acid", "Sodium_sulfate"]]

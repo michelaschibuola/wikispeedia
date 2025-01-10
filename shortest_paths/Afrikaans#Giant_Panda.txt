@@ -1,1 +1,0 @@
-[["Afrikaans", "France", "Giant_Panda"], ["Afrikaans", "Germany", "Giant_Panda"], ["Afrikaans", "United_States", "Giant_Panda"]]

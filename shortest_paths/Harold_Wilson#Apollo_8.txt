@@ -1,1 +1,0 @@
-[["Harold_Wilson", "BBC", "Apollo_8"]]

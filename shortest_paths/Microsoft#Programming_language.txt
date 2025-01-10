@@ -1,1 +1,0 @@
-[["Microsoft", "Bill_Gates", "Programming_language"], ["Microsoft", "Computer_programming", "Programming_language"], ["Microsoft", "Internet", "Programming_language"], ["Microsoft", "Computer", "Programming_language"], ["Microsoft", "Richard_Stallman", "Programming_language"]]

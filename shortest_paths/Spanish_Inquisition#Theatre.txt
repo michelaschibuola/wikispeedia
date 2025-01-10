@@ -1,1 +1,0 @@
-[["Spanish_Inquisition", "France", "Theatre"], ["Spanish_Inquisition", "Paris", "Theatre"]]

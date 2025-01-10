@@ -1,1 +1,0 @@
-[["Sun", "Gravitation", "London_sewerage_system"]]

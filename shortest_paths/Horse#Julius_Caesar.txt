@@ -1,1 +1,0 @@
-[["Horse", "Ancient_Rome", "Julius_Caesar"], ["Horse", "Athens", "Julius_Caesar"]]

@@ -1,1 +1,0 @@
-[["Roman_Catholic_Church", "Irish_people", "Calgary"], ["Roman_Catholic_Church", "Philippines", "Calgary"], ["Roman_Catholic_Church", "Asia", "Calgary"], ["Roman_Catholic_Church", "Sarajevo", "Calgary"]]

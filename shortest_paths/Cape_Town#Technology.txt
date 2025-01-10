@@ -1,1 +1,0 @@
-[["Cape_Town", "Gold", "Technology"], ["Cape_Town", "Portugal", "Technology"], ["Cape_Town", "Clock", "Technology"]]

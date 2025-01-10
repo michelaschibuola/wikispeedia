@@ -1,1 +1,0 @@
-[["Marie_Curie", "Brussels", "Capital"], ["Marie_Curie", "France", "Capital"], ["Marie_Curie", "Paris", "Capital"], ["Marie_Curie", "United_States", "Capital"], ["Marie_Curie", "Warsaw", "Capital"]]

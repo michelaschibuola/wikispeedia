@@ -1,1 +1,0 @@
-[["Rocky_Mountains", "Agriculture", "Boron"], ["Rocky_Mountains", "Mineral", "Boron"], ["Rocky_Mountains", "Ocean", "Boron"], ["Rocky_Mountains", "United_States", "Boron"]]

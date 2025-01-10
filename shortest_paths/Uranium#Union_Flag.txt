@@ -1,1 +1,0 @@
-[["Uranium", "Australia", "Union_Flag"], ["Uranium", "Canada", "Union_Flag"], ["Uranium", "England", "Union_Flag"]]

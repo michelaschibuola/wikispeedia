@@ -1,1 +1,0 @@
-[["Aruba", "Canada", "World_Heritage_Site"], ["Aruba", "United_States", "World_Heritage_Site"], ["Aruba", "Venezuela", "World_Heritage_Site"], ["Aruba", "Latin_America", "World_Heritage_Site"], ["Aruba", "North_America", "World_Heritage_Site"]]

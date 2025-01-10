@@ -1,1 +1,0 @@
-[["Rudyard_Kipling", "London", "Augustan_literature"], ["Rudyard_Kipling", "Novel", "Augustan_literature"], ["Rudyard_Kipling", "Poetry", "Augustan_literature"], ["Rudyard_Kipling", "United_Kingdom", "Augustan_literature"]]

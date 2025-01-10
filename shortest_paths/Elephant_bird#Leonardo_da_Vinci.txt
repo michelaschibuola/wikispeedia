@@ -1,1 +1,0 @@
-[["Elephant_bird", "16th_century", "Leonardo_da_Vinci"], ["Elephant_bird", "Bird", "Leonardo_da_Vinci"]]

@@ -1,1 +1,0 @@
-[["Asia", "Europe", "Semiconductor_device"], ["Asia", "Japan", "Semiconductor_device"]]

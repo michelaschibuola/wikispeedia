@@ -1,1 +1,0 @@
-[["HIV", "Africa", "Sugar"], ["HIV", "Atom", "Sugar"], ["HIV", "DNA", "Sugar"], ["HIV", "United_States", "Sugar"], ["HIV", "World_Health_Organization", "Sugar"], ["HIV", "History_of_South_Africa", "Sugar"], ["HIV", "Malaria", "Sugar"], ["HIV", "Slavery", "Sugar"], ["HIV", "South_Africa", "Sugar"]]

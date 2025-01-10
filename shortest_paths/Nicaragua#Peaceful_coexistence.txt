@@ -1,1 +1,0 @@
-[["Nicaragua", "Middle_East", "Peaceful_coexistence"], ["Nicaragua", "Taiwan", "Peaceful_coexistence"], ["Nicaragua", "United_States", "Peaceful_coexistence"], ["Nicaragua", "Pope_John_Paul_II", "Peaceful_coexistence"]]

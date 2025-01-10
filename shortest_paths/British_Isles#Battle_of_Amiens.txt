@@ -1,1 +1,0 @@
-[["British_Isles", "France", "Battle_of_Amiens"], ["British_Isles", "United_Kingdom", "Battle_of_Amiens"], ["British_Isles", "United_States", "Battle_of_Amiens"]]

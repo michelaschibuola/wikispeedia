@@ -1,1 +1,0 @@
-[["San_Marino", "Germany", "Manuel_I_Komnenos"], ["San_Marino", "Greece", "Manuel_I_Komnenos"], ["San_Marino", "Italy", "Manuel_I_Komnenos"], ["San_Marino", "Cyprus", "Manuel_I_Komnenos"], ["San_Marino", "France", "Manuel_I_Komnenos"], ["San_Marino", "Spain", "Manuel_I_Komnenos"]]

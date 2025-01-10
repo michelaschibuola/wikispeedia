@@ -1,1 +1,0 @@
-[["Rome", "European_Union", "Windows_Vista"]]

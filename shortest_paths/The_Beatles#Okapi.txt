@@ -1,1 +1,0 @@
-[["The_Beatles", "Europe", "Okapi"], ["The_Beatles", "North_America", "Okapi"]]

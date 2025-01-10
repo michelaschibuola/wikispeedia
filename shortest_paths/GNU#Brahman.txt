@@ -1,1 +1,0 @@
-[["GNU", "Anarchism", "God", "Brahman"], ["GNU", "Computer", "Philosophy_of_mind", "Brahman"], ["GNU", "Emacs", "English_language", "Brahman"], ["GNU", "Internet", "English_language", "Brahman"], ["GNU", "Richard_Stallman", "English_language", "Brahman"], ["GNU", "TeX", "English_language", "Brahman"], ["GNU", "Unix", "Latin", "Brahman"]]

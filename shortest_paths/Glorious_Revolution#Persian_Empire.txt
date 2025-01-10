@@ -1,1 +1,0 @@
-[["Glorious_Revolution", "17th_century", "Persian_Empire"], ["Glorious_Revolution", "18th_century", "Persian_Empire"], ["Glorious_Revolution", "Propaganda", "Persian_Empire"], ["Glorious_Revolution", "Royal_Navy", "Persian_Empire"]]

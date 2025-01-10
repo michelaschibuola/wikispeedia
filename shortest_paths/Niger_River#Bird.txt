@@ -1,1 +1,0 @@
-[["Niger_River", "Agriculture", "Bird"], ["Niger_River", "Latin", "Bird"], ["Niger_River", "Rice", "Bird"]]

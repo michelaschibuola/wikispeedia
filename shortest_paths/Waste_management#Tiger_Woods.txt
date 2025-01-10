@@ -1,1 +1,0 @@
-[["Waste_management", "Oxygen", "Tiger_Woods"], ["Waste_management", "United_States", "Tiger_Woods"]]

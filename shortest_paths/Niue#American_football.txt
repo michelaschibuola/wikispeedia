@@ -1,1 +1,0 @@
-[["Niue", "New_Zealand", "American_football"], ["Niue", "Samoa", "American_football"], ["Niue", "United_Kingdom", "American_football"]]

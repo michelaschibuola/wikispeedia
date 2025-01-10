@@ -1,1 +1,0 @@
-[["Lake_Superior", "Minnesota", "Abraham_Lincoln"]]

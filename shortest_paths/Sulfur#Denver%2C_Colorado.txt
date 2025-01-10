@@ -1,1 +1,0 @@
-[["Sulfur", "Gulf_of_Mexico", "Denver%2C_Colorado"], ["Sulfur", "North_America", "Denver%2C_Colorado"], ["Sulfur", "United_States", "Denver%2C_Colorado"]]

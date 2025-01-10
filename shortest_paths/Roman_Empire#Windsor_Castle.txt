@@ -1,1 +1,0 @@
-[["Roman_Empire", "Edinburgh", "Windsor_Castle"], ["Roman_Empire", "England", "Windsor_Castle"], ["Roman_Empire", "London", "Windsor_Castle"], ["Roman_Empire", "Manorialism", "Windsor_Castle"], ["Roman_Empire", "Palladian_architecture", "Windsor_Castle"], ["Roman_Empire", "Tower_of_London", "Windsor_Castle"]]

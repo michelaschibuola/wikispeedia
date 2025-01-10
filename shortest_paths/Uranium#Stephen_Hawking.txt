@@ -1,1 +1,0 @@
-[["Uranium", "Albert_Einstein", "Stephen_Hawking"], ["Uranium", "Astronomy", "Stephen_Hawking"], ["Uranium", "England", "Stephen_Hawking"]]

@@ -1,1 +1,0 @@
-[["Beer", "Carbon_dioxide", "Sun"], ["Beer", "Japan", "Sun"], ["Beer", "Magnesium", "Sun"], ["Beer", "Mexico", "Sun"], ["Beer", "Nitrogen", "Sun"], ["Beer", "South_America", "Sun"], ["Beer", "United_States", "Sun"], ["Beer", "Water", "Sun"]]

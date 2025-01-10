@@ -1,1 +1,0 @@
-[["Monkey", "George_Byron%2C_6th_Baron_Byron", "Greece"], ["Monkey", "Gibraltar", "Greece"], ["Monkey", "Honey", "Greece"], ["Monkey", "European_Union", "Greece"], ["Monkey", "United_States", "Greece"], ["Monkey", "Toy", "Greece"]]

@@ -1,1 +1,0 @@
-[["Plains_Zebra", "Ethiopia", "Italy", "Typewriter"], ["Plains_Zebra", "South_Africa", "Floppy_disk", "Typewriter"]]

@@ -1,1 +1,0 @@
-[["Winston_Churchill", "Dwight_D._Eisenhower", "Moon_landing"], ["Winston_Churchill", "John_F._Kennedy", "Moon_landing"]]

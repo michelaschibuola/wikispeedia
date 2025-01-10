@@ -1,1 +1,0 @@
-[["Angelica", "Absinthe", "Paris", "Santiago%2C_Chile"], ["Angelica", "Carolus_Linnaeus", "Paris", "Santiago%2C_Chile"], ["Angelica", "Carolus_Linnaeus", "Sperm_Whale", "Santiago%2C_Chile"], ["Angelica", "Scientific_classification", "Sperm_Whale", "Santiago%2C_Chile"], ["Angelica", "Celery", "Europe", "Santiago%2C_Chile"], ["Angelica", "Iceland", "Europe", "Santiago%2C_Chile"]]

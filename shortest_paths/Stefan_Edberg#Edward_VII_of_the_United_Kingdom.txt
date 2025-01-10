@@ -1,1 +1,0 @@
-[["Stefan_Edberg", "France", "Edward_VII_of_the_United_Kingdom"], ["Stefan_Edberg", "London", "Edward_VII_of_the_United_Kingdom"], ["Stefan_Edberg", "United_Kingdom", "Edward_VII_of_the_United_Kingdom"]]

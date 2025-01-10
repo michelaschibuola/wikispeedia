@@ -1,1 +1,0 @@
-[["Southern_United_States", "Scramble_for_Africa", "Citizenship"], ["Southern_United_States", "Fourteenth_Amendment_to_the_United_States_Constitution", "Citizenship"], ["Southern_United_States", "Political_economy", "Citizenship"], ["Southern_United_States", "Slavery", "Citizenship"]]

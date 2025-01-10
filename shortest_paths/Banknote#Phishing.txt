@@ -1,1 +1,0 @@
-[["Banknote", "United_Kingdom", "Phishing"], ["Banknote", "United_States", "Phishing"]]

@@ -1,1 +1,0 @@
-[["Winter", "England", "Sikhism"], ["Winter", "Hong_Kong", "Sikhism"], ["Winter", "Los_Angeles%2C_California", "Sikhism"], ["Winter", "Europe", "Sikhism"], ["Winter", "United_Kingdom", "Sikhism"], ["Winter", "United_States", "Sikhism"], ["Winter", "Water", "Sikhism"]]

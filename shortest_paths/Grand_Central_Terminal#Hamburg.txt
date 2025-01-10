@@ -1,1 +1,0 @@
-[["Grand_Central_Terminal", "France", "Hamburg"], ["Grand_Central_Terminal", "Middle_Ages", "Hamburg"], ["Grand_Central_Terminal", "World_War_II", "Hamburg"]]

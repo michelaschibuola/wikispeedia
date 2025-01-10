@@ -1,1 +1,0 @@
-[["Muhammad", "Ayaan_Hirsi_Ali", "Denmark"], ["Muhammad", "Jew", "Denmark"], ["Muhammad", "Jyllands-Posten_Muhammad_cartoons_controversy", "Denmark"], ["Muhammad", "Mosque", "Denmark"], ["Muhammad", "Armenia", "Denmark"], ["Muhammad", "Christianity", "Denmark"]]

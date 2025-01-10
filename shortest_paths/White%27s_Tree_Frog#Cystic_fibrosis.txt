@@ -1,1 +1,0 @@
-[["White%27s_Tree_Frog", "Oxygen", "Cystic_fibrosis"], ["White%27s_Tree_Frog", "United_States", "Cystic_fibrosis"]]

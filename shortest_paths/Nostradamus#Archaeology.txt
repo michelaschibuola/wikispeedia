@@ -1,1 +1,0 @@
-[["Nostradamus", "Astronomy", "Archaeology"], ["Nostradamus", "Latin", "Archaeology"], ["Nostradamus", "New_York_City", "Archaeology"]]

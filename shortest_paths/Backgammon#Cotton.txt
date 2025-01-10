@@ -1,1 +1,0 @@
-[["Backgammon", "14th_century", "Cotton"], ["Backgammon", "Ancient_Egypt", "Cotton"], ["Backgammon", "Arabic_language", "Cotton"], ["Backgammon", "France", "Cotton"], ["Backgammon", "India", "Cotton"], ["Backgammon", "Mesopotamia", "Cotton"]]

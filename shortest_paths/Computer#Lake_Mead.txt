@@ -1,1 +1,0 @@
-[["Computer", "California", "Lake_Mead"], ["Computer", "United_States", "Lake_Mead"]]

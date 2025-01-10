@@ -1,1 +1,0 @@
-[["Black_Death", "France", "Maghreb"], ["Black_Death", "Italy", "Maghreb"], ["Black_Death", "Spain", "Maghreb"]]

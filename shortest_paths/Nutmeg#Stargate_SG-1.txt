@@ -1,1 +1,0 @@
-[["Nutmeg", "France", "Stargate_SG-1"], ["Nutmeg", "Japan", "Stargate_SG-1"], ["Nutmeg", "Malaysia", "Stargate_SG-1"], ["Nutmeg", "Netherlands", "Stargate_SG-1"], ["Nutmeg", "Portugal", "Stargate_SG-1"], ["Nutmeg", "Spain", "Stargate_SG-1"], ["Nutmeg", "United_States", "Stargate_SG-1"]]

@@ -1,1 +1,0 @@
-[["Lord_Voldemort", "London", "Lake_Vostok"], ["Lord_Voldemort", "Russian_language", "Lake_Vostok"], ["Lord_Voldemort", "United_Kingdom", "Lake_Vostok"]]

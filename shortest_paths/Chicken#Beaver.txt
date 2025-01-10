@@ -1,1 +1,0 @@
-[["Chicken", "Animal", "Beaver"], ["Chicken", "Chordate", "Beaver"], ["Chicken", "France", "Beaver"], ["Chicken", "Great_Britain", "Beaver"], ["Chicken", "Meat", "Beaver"], ["Chicken", "Scientific_classification", "Beaver"]]

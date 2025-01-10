@@ -1,1 +1,0 @@
-[["Bill_Gates", "Science", "Francis_Bacon"], ["Bill_Gates", "University_of_Cambridge", "Francis_Bacon"]]

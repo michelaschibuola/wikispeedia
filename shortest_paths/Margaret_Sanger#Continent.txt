@@ -1,1 +1,0 @@
-[["Margaret_Sanger", "Europe", "Continent"], ["Margaret_Sanger", "Japan", "Continent"], ["Margaret_Sanger", "United_States", "Continent"]]

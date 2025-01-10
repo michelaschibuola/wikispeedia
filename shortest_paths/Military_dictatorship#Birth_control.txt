@@ -1,1 +1,0 @@
-[["Military_dictatorship", "Bangladesh", "Birth_control"], ["Military_dictatorship", "War", "Birth_control"]]

@@ -1,1 +1,0 @@
-[["Tornado", "Brazil", "Georgetown%2C_Guyana"], ["Tornado", "France", "Georgetown%2C_Guyana"], ["Tornado", "Netherlands", "Georgetown%2C_Guyana"], ["Tornado", "South_America", "Georgetown%2C_Guyana"], ["Tornado", "United_States", "Georgetown%2C_Guyana"]]

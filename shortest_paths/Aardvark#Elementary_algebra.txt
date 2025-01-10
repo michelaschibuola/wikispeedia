@@ -1,1 +1,0 @@
-[["Aardvark", "Africa", "Arithmetic", "Elementary_algebra"], ["Aardvark", "Europe", "Algebra", "Elementary_algebra"], ["Aardvark", "Europe", "Calculus", "Elementary_algebra"], ["Aardvark", "Europe", "Number", "Elementary_algebra"]]

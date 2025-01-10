@@ -1,1 +1,0 @@
-[["Whipworm", "Animal", "Latin", "Temple_of_Artemis"], ["Whipworm", "Binomial_nomenclature", "Latin", "Temple_of_Artemis"], ["Whipworm", "Scientific_classification", "Latin", "Temple_of_Artemis"], ["Whipworm", "Carolus_Linnaeus", "18th_century", "Temple_of_Artemis"]]

@@ -1,1 +1,0 @@
-[["Spherical_aberration", "Hubble_Space_Telescope", "Europe", "Postage_stamp"], ["Spherical_aberration", "Hubble_Space_Telescope", "United_States", "Postage_stamp"], ["Spherical_aberration", "Telescope", "Japan", "Postage_stamp"]]

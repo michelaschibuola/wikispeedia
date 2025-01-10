@@ -1,1 +1,0 @@
-[["Galileo_Galilei", "Earth", "Lake_Vostok"], ["Galileo_Galilei", "Moon", "Lake_Vostok"], ["Galileo_Galilei", "Sun", "Lake_Vostok"], ["Galileo_Galilei", "Tide", "Lake_Vostok"]]

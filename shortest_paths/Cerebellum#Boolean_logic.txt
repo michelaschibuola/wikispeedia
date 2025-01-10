@@ -1,1 +1,0 @@
-[["Cerebellum", "Autism", "Computer", "Boolean_logic"], ["Cerebellum", "Chemical_synapse", "Computer", "Boolean_logic"], ["Cerebellum", "Evolution", "Computer", "Boolean_logic"], ["Cerebellum", "Evolution", "19th_century", "Boolean_logic"], ["Cerebellum", "Music", "19th_century", "Boolean_logic"], ["Cerebellum", "Language", "Programming_language", "Boolean_logic"]]

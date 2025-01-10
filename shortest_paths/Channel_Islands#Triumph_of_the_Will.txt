@@ -1,1 +1,0 @@
-[["Channel_Islands", "France", "Triumph_of_the_Will"], ["Channel_Islands", "Nazism", "Triumph_of_the_Will"], ["Channel_Islands", "United_States", "Triumph_of_the_Will"], ["Channel_Islands", "World_War_II", "Triumph_of_the_Will"]]

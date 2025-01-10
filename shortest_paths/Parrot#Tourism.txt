@@ -1,1 +1,0 @@
-[["Parrot", "Belgium", "Tourism"], ["Parrot", "England", "Tourism"], ["Parrot", "Europe", "Tourism"], ["Parrot", "Spain", "Tourism"], ["Parrot", "United_States", "Tourism"]]

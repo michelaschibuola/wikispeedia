@@ -1,1 +1,0 @@
-[["Lake_Mead", "California", "WTA_Tour_Championships"], ["Lake_Mead", "United_States", "WTA_Tour_Championships"]]

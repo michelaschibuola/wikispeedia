@@ -1,1 +1,0 @@
-[["Palau", "Asia", "Gold_standard"], ["Palau", "Currency", "Gold_standard"], ["Palau", "Europe", "Gold_standard"], ["Palau", "Germany", "Gold_standard"], ["Palau", "Japan", "Gold_standard"], ["Palau", "Treaty_of_Versailles", "Gold_standard"], ["Palau", "United_States", "Gold_standard"], ["Palau", "United_States_dollar", "Gold_standard"], ["Palau", "World_War_I", "Gold_standard"]]

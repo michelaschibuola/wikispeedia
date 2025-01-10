@@ -1,1 +1,0 @@
-[["Buckminster_Fuller", "Chicago", "Battle_of_the_Bulge"], ["Buckminster_Fuller", "Paris", "Battle_of_the_Bulge"], ["Buckminster_Fuller", "United_States", "Battle_of_the_Bulge"]]

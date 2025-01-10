@@ -1,1 +1,0 @@
-[["Pythagoras", "Greece", "Indian_Ocean"], ["Pythagoras", "Middle_East", "Indian_Ocean"]]

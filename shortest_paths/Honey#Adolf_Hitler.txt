@@ -1,1 +1,0 @@
-[["Honey", "Germany", "Adolf_Hitler"], ["Honey", "Gold", "Adolf_Hitler"], ["Honey", "Greece", "Adolf_Hitler"], ["Honey", "India", "Adolf_Hitler"], ["Honey", "Middle_East", "Adolf_Hitler"], ["Honey", "United_Kingdom", "Adolf_Hitler"], ["Honey", "United_States", "Adolf_Hitler"]]

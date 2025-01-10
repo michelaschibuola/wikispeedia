@@ -1,1 +1,0 @@
-[["Andrew_Carnegie", "English_language", "Syria"], ["Andrew_Carnegie", "Monarchy", "Syria"], ["Andrew_Carnegie", "Petroleum", "Syria"], ["Andrew_Carnegie", "Spain", "Syria"], ["Andrew_Carnegie", "United_Kingdom", "Syria"]]

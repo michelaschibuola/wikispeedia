@@ -1,1 +1,0 @@
-[["Middle_Ages", "Aristotle", "Speed_of_light"], ["Middle_Ages", "Astronomy", "Speed_of_light"], ["Middle_Ages", "Earth", "Speed_of_light"], ["Middle_Ages", "Light", "Speed_of_light"], ["Middle_Ages", "Islam", "Speed_of_light"], ["Middle_Ages", "Moon", "Speed_of_light"]]

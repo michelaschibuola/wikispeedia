@@ -1,1 +1,0 @@
-[["Jacques_Cartier", "Canada", "Mississippi_River"], ["Jacques_Cartier", "Great_Lakes", "Mississippi_River"]]

@@ -1,1 +1,0 @@
-[["Mass_media", "20th_century", "Trinity_College%2C_Cambridge"], ["Mass_media", "England", "Trinity_College%2C_Cambridge"], ["Mass_media", "United_Kingdom", "Trinity_College%2C_Cambridge"], ["Mass_media", "United_States", "Trinity_College%2C_Cambridge"]]

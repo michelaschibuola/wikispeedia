@@ -1,1 +1,0 @@
-[["Celtic_Park", "London", "Benjamin_Franklin"]]

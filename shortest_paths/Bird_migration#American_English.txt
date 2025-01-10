@@ -1,1 +1,0 @@
-[["Bird_migration", "Canada", "American_English"], ["Bird_migration", "Norway", "American_English"]]

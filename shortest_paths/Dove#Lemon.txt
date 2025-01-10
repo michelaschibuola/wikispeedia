@@ -1,1 +1,0 @@
-[["Dove", "Fruit", "Lemon"], ["Dove", "Scientific_classification", "Lemon"], ["Dove", "United_States", "Lemon"], ["Dove", "Gal%C3%A1pagos_Islands", "Lemon"]]

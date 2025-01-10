@@ -1,1 +1,0 @@
-[["Dice", "France", "Rio_de_Janeiro"], ["Dice", "Japan", "Rio_de_Janeiro"]]

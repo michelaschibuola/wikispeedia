@@ -1,1 +1,0 @@
-[["Lake_Vostok", "Russia", "Avacha_Volcano"], ["Lake_Vostok", "Russian_language", "Avacha_Volcano"]]

@@ -1,1 +1,0 @@
-[["Shroud_of_Turin", "Cotton", "Soybean"], ["Shroud_of_Turin", "Italy", "Soybean"]]

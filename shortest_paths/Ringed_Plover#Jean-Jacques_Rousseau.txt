@@ -1,1 +1,0 @@
-[["Ringed_Plover", "Carolus_Linnaeus", "Jean-Jacques_Rousseau"], ["Ringed_Plover", "France", "Jean-Jacques_Rousseau"]]

@@ -1,1 +1,0 @@
-[["Apple", "Fruit", "Vegetable"], ["Apple", "Plant", "Vegetable"], ["Apple", "Pollinator", "Vegetable"], ["Apple", "Vitamin_C", "Vegetable"], ["Apple", "Juice", "Vegetable"]]

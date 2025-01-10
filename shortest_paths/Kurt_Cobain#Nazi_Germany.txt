@@ -1,1 +1,0 @@
-[["Kurt_Cobain", "Germany", "Nazi_Germany"], ["Kurt_Cobain", "Rome", "Nazi_Germany"], ["Kurt_Cobain", "Samuel_Beckett", "Nazi_Germany"], ["Kurt_Cobain", "United_States", "Nazi_Germany"]]

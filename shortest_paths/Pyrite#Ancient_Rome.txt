@@ -1,1 +1,0 @@
-[["Pyrite", "Diamond", "Ancient_Rome"], ["Pyrite", "Mining", "Ancient_Rome"], ["Pyrite", "Salt", "Ancient_Rome"]]

@@ -1,1 +1,0 @@
-[["Giant_Panda", "Fish", "Freetown"], ["Giant_Panda", "France", "Freetown"], ["Giant_Panda", "United_States", "Freetown"]]

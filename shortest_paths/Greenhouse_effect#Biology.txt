@@ -1,1 +1,0 @@
-[["Greenhouse_effect", "Carbon_dioxide", "Biology"], ["Greenhouse_effect", "Climate_change", "Biology"], ["Greenhouse_effect", "Earth", "Biology"], ["Greenhouse_effect", "Ecology", "Biology"], ["Greenhouse_effect", "Hydrogen", "Biology"], ["Greenhouse_effect", "Nitrogen", "Biology"], ["Greenhouse_effect", "Stephen_Hawking", "Biology"], ["Greenhouse_effect", "Water", "Biology"]]

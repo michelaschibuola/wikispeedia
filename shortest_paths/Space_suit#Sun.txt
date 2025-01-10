@@ -1,1 +1,0 @@
-[["Space_suit", "Earth%27s_atmosphere", "Sun"], ["Space_suit", "Gas", "Sun"], ["Space_suit", "Mars", "Sun"], ["Space_suit", "Moon", "Sun"]]

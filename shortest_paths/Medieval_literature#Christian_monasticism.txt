@@ -1,1 +1,0 @@
-[["Medieval_literature", "Byzantine_Empire", "Christian_monasticism"], ["Medieval_literature", "Ireland", "Christian_monasticism"], ["Medieval_literature", "Latin", "Christian_monasticism"], ["Medieval_literature", "Middle_Ages", "Christian_monasticism"]]

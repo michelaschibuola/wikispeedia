@@ -1,1 +1,0 @@
-[["Education", "Human", "Carnivore"], ["Education", "Latin", "Carnivore"]]

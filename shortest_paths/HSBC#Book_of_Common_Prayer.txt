@@ -1,1 +1,0 @@
-[["HSBC", "England", "Book_of_Common_Prayer"], ["HSBC", "Northern_Ireland", "Book_of_Common_Prayer"], ["HSBC", "Scotland", "Book_of_Common_Prayer"], ["HSBC", "United_Kingdom", "Book_of_Common_Prayer"], ["HSBC", "Wales", "Book_of_Common_Prayer"]]

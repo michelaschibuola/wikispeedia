@@ -1,1 +1,0 @@
-[["Religion", "City", "Milan"], ["Religion", "Fashion", "Milan"], ["Religion", "Italian_Renaissance", "Milan"], ["Religion", "Liberalism", "Milan"], ["Religion", "Nationalism", "Milan"], ["Religion", "Augustine_of_Hippo", "Milan"], ["Religion", "Renaissance", "Milan"]]

@@ -1,1 +1,0 @@
-[["Calgary", "Canada", "Jurassic"], ["Calgary", "Europe", "Jurassic"], ["Calgary", "India", "Jurassic"], ["Calgary", "United_States", "Jurassic"]]

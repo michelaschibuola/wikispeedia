@@ -1,1 +1,0 @@
-[["Belarus", "Sweden", "Bicycle"], ["Belarus", "World_War_I", "Bicycle"], ["Belarus", "Germany", "Bicycle"], ["Belarus", "Netherlands", "Bicycle"], ["Belarus", "Nottingham", "Bicycle"], ["Belarus", "Oat", "Bicycle"]]

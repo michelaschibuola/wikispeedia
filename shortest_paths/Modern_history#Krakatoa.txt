@@ -1,1 +1,0 @@
-[["Modern_history", "2004_Indian_Ocean_earthquake", "Krakatoa"], ["Modern_history", "Australia", "Krakatoa"], ["Modern_history", "South_Africa", "Krakatoa"], ["Modern_history", "United_Kingdom", "Krakatoa"]]

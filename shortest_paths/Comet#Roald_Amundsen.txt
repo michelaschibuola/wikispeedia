@@ -1,1 +1,0 @@
-[["Comet", "Germany", "Roald_Amundsen"]]

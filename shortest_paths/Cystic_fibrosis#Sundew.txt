@@ -1,1 +1,0 @@
-[["Cystic_fibrosis", "Canada", "Sundew"], ["Cystic_fibrosis", "Europe", "Sundew"], ["Cystic_fibrosis", "United_States", "Sundew"]]

@@ -1,1 +1,0 @@
-[["Gothenburg", "18th_century", "Nepal"], ["Gothenburg", "Football_%28soccer%29", "Nepal"], ["Gothenburg", "People%27s_Republic_of_China", "Nepal"], ["Gothenburg", "Time_zone", "Nepal"], ["Gothenburg", "United_States", "Nepal"]]

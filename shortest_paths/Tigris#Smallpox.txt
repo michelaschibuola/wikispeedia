@@ -1,1 +1,0 @@
-[["Tigris", "Middle_East", "Smallpox"], ["Tigris", "Dam", "Smallpox"], ["Tigris", "United_States", "Smallpox"]]

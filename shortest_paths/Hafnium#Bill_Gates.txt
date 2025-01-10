@@ -1,1 +1,0 @@
-[["Hafnium", "Copenhagen", "Bill_Gates"], ["Hafnium", "Denmark", "Bill_Gates"]]

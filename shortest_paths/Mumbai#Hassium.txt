@@ -1,1 +1,0 @@
-[["Mumbai", "Diamond", "Osmium", "Hassium"], ["Mumbai", "London", "Osmium", "Hassium"], ["Mumbai", "Diamond", "Phase_%28matter%29", "Hassium"], ["Mumbai", "Electricity", "Electron", "Hassium"], ["Mumbai", "Engineering", "Periodic_table", "Hassium"], ["Mumbai", "Ptolemy", "Color", "Hassium"]]

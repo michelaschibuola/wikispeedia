@@ -1,1 +1,0 @@
-[["Star_Wars", "Adolf_Hitler", "Parrot"], ["Star_Wars", "England", "Parrot"], ["Star_Wars", "Europe", "Parrot"], ["Star_Wars", "Germany", "Parrot"], ["Star_Wars", "Nazism", "Parrot"]]

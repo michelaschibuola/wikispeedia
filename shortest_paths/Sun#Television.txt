@@ -1,1 +1,0 @@
-[["Sun", "Latin", "Television"], ["Sun", "Neon", "Television"], ["Sun", "United_States", "Television"], ["Sun", "Superman", "Television"]]

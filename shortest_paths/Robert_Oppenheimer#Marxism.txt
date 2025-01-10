@@ -1,1 +1,0 @@
-[["Robert_Oppenheimer", "Communism", "Marxism"], ["Robert_Oppenheimer", "Europe", "Marxism"], ["Robert_Oppenheimer", "Fascism", "Marxism"], ["Robert_Oppenheimer", "Germany", "Marxism"], ["Robert_Oppenheimer", "Jew", "Marxism"], ["Robert_Oppenheimer", "Soviet_Union", "Marxism"], ["Robert_Oppenheimer", "World_War_I", "Marxism"], ["Robert_Oppenheimer", "World_War_II", "Marxism"]]

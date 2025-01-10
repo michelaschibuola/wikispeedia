@@ -1,1 +1,0 @@
-[["Pyramid", "Egypt", "Adolf_Hitler"], ["Pyramid", "France", "Adolf_Hitler"], ["Pyramid", "Paris", "Adolf_Hitler"], ["Pyramid", "United_States", "Adolf_Hitler"], ["Pyramid", "Suez_Canal", "Adolf_Hitler"]]

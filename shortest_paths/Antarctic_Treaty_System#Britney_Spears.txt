@@ -1,1 +1,0 @@
-[["Antarctic_Treaty_System", "Australia", "Britney_Spears"], ["Antarctic_Treaty_System", "Canada", "Britney_Spears"], ["Antarctic_Treaty_System", "United_Kingdom", "Britney_Spears"], ["Antarctic_Treaty_System", "United_States", "Britney_Spears"]]

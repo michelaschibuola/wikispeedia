@@ -1,1 +1,0 @@
-[["Timur", "Islam", "Poverty"], ["Timur", "India", "Poverty"], ["Timur", "Iron", "Poverty"], ["Timur", "Latin", "Poverty"], ["Timur", "Turkmenistan", "Poverty"]]

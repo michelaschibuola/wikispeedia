@@ -1,1 +1,0 @@
-[["Ichthyosaur", "Dorset", "Pottery"], ["Ichthyosaur", "Geology_of_Dorset", "Pottery"], ["Ichthyosaur", "Germany", "Pottery"], ["Ichthyosaur", "Japan", "Pottery"]]

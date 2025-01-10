@@ -1,1 +1,0 @@
-[["Spanish_language", "France", "Manorialism"], ["Spanish_language", "Mediterranean_Sea", "Manorialism"], ["Spanish_language", "Europe", "Manorialism"], ["Spanish_language", "Middle_Ages", "Manorialism"]]

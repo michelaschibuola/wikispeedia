@@ -1,1 +1,0 @@
-[["Bison", "Animal", "Alpaca"], ["Bison", "Chordate", "Alpaca"], ["Bison", "Mammal", "Alpaca"], ["Bison", "Scientific_classification", "Alpaca"]]

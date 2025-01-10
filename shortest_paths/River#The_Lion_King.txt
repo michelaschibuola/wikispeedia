@@ -1,1 +1,0 @@
-[["River", "Africa", "The_Lion_King"], ["River", "Japan", "The_Lion_King"], ["River", "United_States", "The_Lion_King"]]

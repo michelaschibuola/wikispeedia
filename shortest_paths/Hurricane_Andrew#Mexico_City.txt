@@ -1,1 +1,0 @@
-[["Hurricane_Andrew", "Florida", "Mexico_City"], ["Hurricane_Andrew", "20th_century", "Mexico_City"], ["Hurricane_Andrew", "United_States", "Mexico_City"]]

@@ -1,1 +1,0 @@
-[["Ireland", "Continent", "Pikachu"], ["Ireland", "Mammal", "Pikachu"]]

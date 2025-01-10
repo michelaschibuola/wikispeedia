@@ -1,1 +1,0 @@
-[["Women%27s_rights", "Genghis_Khan", "Chinese_language"], ["Women%27s_rights", "Canada", "Chinese_language"], ["Women%27s_rights", "Indonesia", "Chinese_language"], ["Women%27s_rights", "United_States", "Chinese_language"]]

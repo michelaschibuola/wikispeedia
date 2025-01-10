@@ -1,1 +1,0 @@
-[["Chernobyl_disaster", "France", "Western_Front_%28World_War_I%29"], ["Chernobyl_disaster", "Italy", "Western_Front_%28World_War_I%29"], ["Chernobyl_disaster", "Russia", "Western_Front_%28World_War_I%29"], ["Chernobyl_disaster", "United_States", "Western_Front_%28World_War_I%29"]]

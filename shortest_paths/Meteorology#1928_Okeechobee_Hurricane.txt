@@ -1,1 +1,0 @@
-[["Meteorology", "Galveston_Hurricane_of_1900", "1928_Okeechobee_Hurricane"], ["Meteorology", "Hurricane_Camille", "1928_Okeechobee_Hurricane"], ["Meteorology", "Tropical_cyclone", "1928_Okeechobee_Hurricane"]]

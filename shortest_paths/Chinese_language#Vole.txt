@@ -1,1 +1,0 @@
-[["Chinese_language", "Africa", "Vole"], ["Chinese_language", "Asia", "Vole"], ["Chinese_language", "Europe", "Vole"]]

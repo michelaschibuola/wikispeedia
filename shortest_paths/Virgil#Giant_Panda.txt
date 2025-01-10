@@ -1,1 +1,0 @@
-[["Virgil", "United_States", "Giant_Panda"]]

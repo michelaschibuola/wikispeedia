@@ -1,1 +1,0 @@
-[["Election", "United_States", "Newark%2C_New_Jersey"], ["Election", "World_War_II", "Newark%2C_New_Jersey"]]

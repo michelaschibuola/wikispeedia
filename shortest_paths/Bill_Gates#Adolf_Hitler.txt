@@ -1,1 +1,0 @@
-[["Bill_Gates", "Denmark", "Adolf_Hitler"], ["Bill_Gates", "Poland", "Adolf_Hitler"], ["Bill_Gates", "Sweden", "Adolf_Hitler"], ["Bill_Gates", "United_Kingdom", "Adolf_Hitler"], ["Bill_Gates", "United_States", "Adolf_Hitler"]]

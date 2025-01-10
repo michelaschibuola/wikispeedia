@@ -1,1 +1,0 @@
-[["Scottish_Highlands", "England", "Canterbury"], ["Scottish_Highlands", "United_Kingdom", "Canterbury"]]

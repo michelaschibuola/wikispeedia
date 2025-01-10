@@ -1,1 +1,0 @@
-[["Ice_age", "Finland", "Medal_of_Honor"], ["Ice_age", "Canada", "Medal_of_Honor"]]

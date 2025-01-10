@@ -1,1 +1,0 @@
-[["Lothal", "Ancient_history", "Fire"], ["Lothal", "Archaeology", "Fire"], ["Lothal", "Metallurgy", "Fire"], ["Lothal", "Religion", "Fire"], ["Lothal", "Sumer", "Fire"]]

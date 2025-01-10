@@ -1,1 +1,0 @@
-[["Radar", "Adolf_Hitler", "Benito_Mussolini"], ["Radar", "World_War_II", "Benito_Mussolini"]]

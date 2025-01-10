@@ -1,1 +1,0 @@
-[["Citizenship", "3rd_century", "13th_century"], ["Citizenship", "Byzantine_Empire", "13th_century"], ["Citizenship", "Cambodia", "13th_century"], ["Citizenship", "New_Zealand", "13th_century"]]

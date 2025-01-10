@@ -1,1 +1,0 @@
-[["Isle_of_Man", "Europe", "Vampire"], ["Isle_of_Man", "England", "Vampire"]]

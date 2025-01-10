@@ -1,1 +1,0 @@
-[["Economics", "Calculus", "Pythagorean_theorem"], ["Economics", "China", "Pythagorean_theorem"], ["Economics", "Differential_equation", "Pythagorean_theorem"], ["Economics", "Mathematics", "Pythagorean_theorem"], ["Economics", "Trigonometry", "Pythagorean_theorem"]]

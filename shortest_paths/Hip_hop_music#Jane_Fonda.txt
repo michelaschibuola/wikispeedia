@@ -1,1 +1,0 @@
-[["Hip_hop_music", "Atlanta%2C_Georgia", "Jane_Fonda"], ["Hip_hop_music", "France", "Jane_Fonda"], ["Hip_hop_music", "Israel", "Jane_Fonda"], ["Hip_hop_music", "Mexico", "Jane_Fonda"], ["Hip_hop_music", "New_York_City", "Jane_Fonda"], ["Hip_hop_music", "Sweden", "Jane_Fonda"], ["Hip_hop_music", "United_States", "Jane_Fonda"]]

@@ -1,1 +1,0 @@
-[["Athens", "Football_%28soccer%29", "Belfast"], ["Athens", "Nashville%2C_Tennessee", "Belfast"], ["Athens", "People%27s_Republic_of_China", "Belfast"], ["Athens", "United_States", "Belfast"], ["Athens", "World_War_II", "Belfast"], ["Athens", "The_King%27s_Regiment_%28Liverpool%29", "Belfast"]]

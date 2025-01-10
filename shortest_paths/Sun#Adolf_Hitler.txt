@@ -1,1 +1,0 @@
-[["Sun", "Gold", "Adolf_Hitler"], ["Sun", "History_of_nuclear_weapons", "Adolf_Hitler"], ["Sun", "Albert_Einstein", "Adolf_Hitler"], ["Sun", "Egypt", "Adolf_Hitler"], ["Sun", "South_America", "Adolf_Hitler"], ["Sun", "United_States", "Adolf_Hitler"], ["Sun", "Swastika", "Adolf_Hitler"]]

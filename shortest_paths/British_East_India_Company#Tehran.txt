@@ -1,1 +1,0 @@
-[["British_East_India_Company", "17th_century", "Tehran"], ["British_East_India_Company", "China", "Tehran"], ["British_East_India_Company", "South_Africa", "Tehran"], ["British_East_India_Company", "United_Kingdom", "Tehran"]]

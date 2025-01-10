@@ -1,1 +1,0 @@
-[["Ecuador", "Currency", "Numismatics"], ["Ecuador", "Germany", "Numismatics"], ["Ecuador", "World_War_II", "Numismatics"], ["Ecuador", "List_of_circulating_currencies", "Numismatics"], ["Ecuador", "Money", "Numismatics"], ["Ecuador", "United_States", "Numismatics"]]

@@ -1,1 +1,0 @@
-[["Season", "Earth", "Moon"], ["Season", "Kigo", "Moon"], ["Season", "Maya_civilization", "Moon"], ["Season", "Planet", "Moon"], ["Season", "Canada", "Moon"], ["Season", "Ireland", "Moon"], ["Season", "Sun", "Moon"], ["Season", "United_States", "Moon"]]

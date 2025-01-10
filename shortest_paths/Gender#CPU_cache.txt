@@ -1,1 +1,0 @@
-[["Gender", "Electronics", "Computer", "CPU_cache"], ["Gender", "Toy", "Computer", "CPU_cache"]]

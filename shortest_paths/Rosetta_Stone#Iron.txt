@@ -1,1 +1,0 @@
-[["Rosetta_Stone", "Ancient_Egypt", "Iron"], ["Rosetta_Stone", "Behistun_Inscription", "Iron"]]

@@ -1,1 +1,0 @@
-[["Climate_change", "Carbon_dioxide", "Poison_gas_in_World_War_I"], ["Climate_change", "United_States", "Poison_gas_in_World_War_I"]]

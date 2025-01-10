@@ -1,1 +1,0 @@
-[["GNOME", "Computer", "20th_century", "5th_century"], ["GNOME", "Computer", "Middle_Ages", "5th_century"], ["GNOME", "Computer", "Pi", "5th_century"], ["GNOME", "Linux", "21st_century", "5th_century"], ["GNOME", "Linus_Torvalds", "21st_century", "5th_century"]]

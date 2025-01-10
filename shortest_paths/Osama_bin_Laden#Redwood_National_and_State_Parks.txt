@@ -1,1 +1,0 @@
-[["Osama_bin_Laden", "United_Nations", "Redwood_National_and_State_Parks"], ["Osama_bin_Laden", "United_States", "Redwood_National_and_State_Parks"]]

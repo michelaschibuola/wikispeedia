@@ -1,1 +1,0 @@
-[["Earth%27s_atmosphere", "United_States", "Las_Vegas%2C_Nevada"], ["Earth%27s_atmosphere", "Snow", "Las_Vegas%2C_Nevada"], ["Earth%27s_atmosphere", "Thunderstorm", "Las_Vegas%2C_Nevada"]]

@@ -1,1 +1,0 @@
-[["Costa_Rica", "Animal", "Golden_Eagle"], ["Costa_Rica", "Asia", "Golden_Eagle"], ["Costa_Rica", "Mammal", "Golden_Eagle"], ["Costa_Rica", "North_America", "Golden_Eagle"]]

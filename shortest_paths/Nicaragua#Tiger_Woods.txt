@@ -1,1 +1,0 @@
-[["Nicaragua", "Pacific_Ocean", "Tiger_Woods"], ["Nicaragua", "United_States", "Tiger_Woods"]]

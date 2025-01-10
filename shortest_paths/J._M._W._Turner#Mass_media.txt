@@ -1,1 +1,0 @@
-[["J._M._W._Turner", "BBC", "Mass_media"], ["J._M._W._Turner", "England", "Mass_media"], ["J._M._W._Turner", "London", "Mass_media"], ["J._M._W._Turner", "United_Kingdom", "Mass_media"]]

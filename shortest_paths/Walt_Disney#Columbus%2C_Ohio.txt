@@ -1,1 +1,0 @@
-[["Walt_Disney", "Benjamin_Franklin", "Columbus%2C_Ohio"], ["Walt_Disney", "Chicago", "Columbus%2C_Ohio"], ["Walt_Disney", "Ireland", "Columbus%2C_Ohio"], ["Walt_Disney", "United_States", "Columbus%2C_Ohio"], ["Walt_Disney", "World_War_I", "Columbus%2C_Ohio"], ["Walt_Disney", "World_War_II", "Columbus%2C_Ohio"]]

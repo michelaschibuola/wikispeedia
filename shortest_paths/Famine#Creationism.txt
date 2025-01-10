@@ -1,1 +1,0 @@
-[["Famine", "18th_century", "Creationism"], ["Famine", "God", "Creationism"], ["Famine", "Italy", "Creationism"], ["Famine", "United_Kingdom", "Creationism"], ["Famine", "United_States", "Creationism"], ["Famine", "Volcano", "Creationism"]]

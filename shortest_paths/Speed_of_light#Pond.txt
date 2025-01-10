@@ -1,1 +1,0 @@
-[["Speed_of_light", "Japan", "Pond"], ["Speed_of_light", "United_States", "Pond"], ["Speed_of_light", "Water", "Pond"]]

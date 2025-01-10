@@ -1,1 +1,0 @@
-[["Shaka", "19th_century", "Sweden", "July_2006_Java_earthquake"], ["Shaka", "Napoleon_I_of_France", "Sweden", "July_2006_Java_earthquake"], ["Shaka", "19th_century", "Netherlands", "July_2006_Java_earthquake"], ["Shaka", "Napoleon_I_of_France", "Netherlands", "July_2006_Java_earthquake"]]

@@ -1,1 +1,0 @@
-[["Ayaan_Hirsi_Ali", "Arabic_language", "World_Wide_Web"], ["Ayaan_Hirsi_Ali", "English_language", "World_Wide_Web"]]

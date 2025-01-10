@@ -1,1 +1,0 @@
-[["Emu", "Animal", "Gazelle"], ["Emu", "Scientific_classification", "Gazelle"]]

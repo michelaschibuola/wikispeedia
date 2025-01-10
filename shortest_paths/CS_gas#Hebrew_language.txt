@@ -1,1 +1,0 @@
-[["CS_gas", "Canada", "Hebrew_language"], ["CS_gas", "England", "Hebrew_language"], ["CS_gas", "Israel", "Hebrew_language"], ["CS_gas", "United_States", "Hebrew_language"]]

@@ -1,1 +1,0 @@
-[["Stock", "Netherlands", "Afrikaans"], ["Stock", "United_Kingdom", "Afrikaans"], ["Stock", "United_States", "Afrikaans"]]

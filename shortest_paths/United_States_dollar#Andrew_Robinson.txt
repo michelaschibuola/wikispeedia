@@ -1,1 +1,0 @@
-[["United_States_dollar", "United_States", "Andrew_Robinson"], ["United_States_dollar", "Rhode_Island", "Andrew_Robinson"]]

@@ -1,1 +1,0 @@
-[["Great_Wall_of_China", "Beijing", "Ho_Chi_Minh_City"], ["Great_Wall_of_China", "Chinese_language", "Ho_Chi_Minh_City"]]

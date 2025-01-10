@@ -1,1 +1,0 @@
-[["David_Attenborough", "Antarctica", "Pope_John_Paul_II"], ["David_Attenborough", "Elizabeth_II_of_the_United_Kingdom", "Pope_John_Paul_II"], ["David_Attenborough", "George_W._Bush", "Pope_John_Paul_II"], ["David_Attenborough", "Mediterranean_Sea", "Pope_John_Paul_II"]]

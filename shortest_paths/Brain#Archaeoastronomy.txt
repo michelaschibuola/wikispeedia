@@ -1,1 +1,0 @@
-[["Brain", "Archaeology", "Archaeoastronomy"], ["Brain", "Europe", "Archaeoastronomy"], ["Brain", "Herodotus", "Archaeoastronomy"]]

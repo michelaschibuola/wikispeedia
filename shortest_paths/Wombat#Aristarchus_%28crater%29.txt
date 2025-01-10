@@ -1,1 +1,0 @@
-[["Wombat", "Australia", "Italy", "Aristarchus_%28crater%29"], ["Wombat", "Sydney", "Italy", "Aristarchus_%28crater%29"], ["Wombat", "Australia", "Sulfur", "Aristarchus_%28crater%29"], ["Wombat", "Animal", "Oxygen", "Aristarchus_%28crater%29"], ["Wombat", "Fossil", "Oxygen", "Aristarchus_%28crater%29"], ["Wombat", "Fossil", "Mineral", "Aristarchus_%28crater%29"]]

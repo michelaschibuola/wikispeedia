@@ -1,1 +1,0 @@
-[["Guinness", "Carbon_dioxide", "Nuclear_power"], ["Guinness", "Ireland", "Nuclear_power"]]

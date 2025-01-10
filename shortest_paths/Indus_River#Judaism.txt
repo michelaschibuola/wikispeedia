@@ -1,1 +1,0 @@
-[["Indus_River", "Iran", "Judaism"], ["Indus_River", "Islam", "Judaism"], ["Indus_River", "Iranian_peoples", "Judaism"], ["Indus_River", "Muhammad", "Judaism"], ["Indus_River", "Persian_Empire", "Judaism"]]

@@ -1,1 +1,0 @@
-[["Architecture", "Europe", "Tamil_language"], ["Architecture", "India", "Tamil_language"], ["Architecture", "England", "Tamil_language"], ["Architecture", "Human", "Tamil_language"], ["Architecture", "Tamil_people", "Tamil_language"]]

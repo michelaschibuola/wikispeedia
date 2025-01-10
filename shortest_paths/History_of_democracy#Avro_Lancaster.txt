@@ -1,1 +1,0 @@
-[["History_of_democracy", "Japan", "Avro_Lancaster"], ["History_of_democracy", "New_Zealand", "Avro_Lancaster"], ["History_of_democracy", "Poland", "Avro_Lancaster"]]

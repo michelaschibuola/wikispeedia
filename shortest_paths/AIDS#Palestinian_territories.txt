@@ -1,1 +1,0 @@
-[["AIDS", "Sweden", "Palestinian_territories"], ["AIDS", "United_Kingdom", "Palestinian_territories"], ["AIDS", "Barack_Obama", "Palestinian_territories"]]

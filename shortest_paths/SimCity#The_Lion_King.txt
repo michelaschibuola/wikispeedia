@@ -1,1 +1,0 @@
-[["SimCity", "Japan", "The_Lion_King"], ["SimCity", "Nintendo_Entertainment_System", "The_Lion_King"], ["SimCity", "United_States", "The_Lion_King"]]

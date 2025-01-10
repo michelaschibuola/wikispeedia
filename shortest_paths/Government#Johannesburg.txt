@@ -1,1 +1,0 @@
-[["Government", "Botswana", "Johannesburg"], ["Government", "Capital", "Johannesburg"], ["Government", "Employment", "Johannesburg"], ["Government", "Police", "Johannesburg"], ["Government", "History_of_South_Africa_in_the_apartheid_era", "Johannesburg"], ["Government", "Nelson_Mandela", "Johannesburg"], ["Government", "People%27s_Republic_of_China", "Johannesburg"]]

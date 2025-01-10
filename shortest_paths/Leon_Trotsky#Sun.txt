@@ -1,1 +1,0 @@
-[["Leon_Trotsky", "Mexico", "Sun"], ["Leon_Trotsky", "United_States", "Sun"]]

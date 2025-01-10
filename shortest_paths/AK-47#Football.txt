@@ -1,1 +1,0 @@
-[["AK-47", "Australia", "Football"], ["AK-47", "Bulgaria", "Football"], ["AK-47", "Canada", "Football"], ["AK-47", "Finland", "Football"], ["AK-47", "World_War_II", "Football"]]

@@ -1,1 +1,0 @@
-[["Amtrak", "United_States", "Berlin_Wall"], ["Amtrak", "World_War_II", "Berlin_Wall"]]

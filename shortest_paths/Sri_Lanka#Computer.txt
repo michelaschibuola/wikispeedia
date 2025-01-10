@@ -1,1 +1,0 @@
-[["Sri_Lanka", "Asia", "Computer"], ["Sri_Lanka", "Lebanon", "Computer"], ["Sri_Lanka", "United_Kingdom", "Computer"], ["Sri_Lanka", "United_States", "Computer"]]

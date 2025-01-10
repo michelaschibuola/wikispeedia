@@ -1,1 +1,0 @@
-[["English_poetry", "Europe", "Meteorology"], ["English_poetry", "Latin", "Meteorology"], ["English_poetry", "World_War_I", "Meteorology"]]

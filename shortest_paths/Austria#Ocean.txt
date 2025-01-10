@@ -1,1 +1,0 @@
-[["Austria", "City", "Ocean"], ["Austria", "Glacier", "Ocean"], ["Austria", "Suez_Canal", "Ocean"]]

@@ -1,1 +1,0 @@
-[["Grand_Canyon", "United_States", "House"]]

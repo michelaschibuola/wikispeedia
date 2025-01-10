@@ -1,1 +1,0 @@
-[["Evolution", "Mineral", "Lake_Superior"], ["Evolution", "South_America", "Lake_Superior"], ["Evolution", "Lake_Baikal", "Lake_Superior"]]

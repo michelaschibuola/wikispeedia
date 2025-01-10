@@ -1,1 +1,0 @@
-[["Persian_literature", "India", "Water"], ["Persian_literature", "Literature", "Water"], ["Persian_literature", "Turkey", "Water"]]

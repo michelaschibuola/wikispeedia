@@ -1,1 +1,0 @@
-[["Whale_shark", "Binomial_nomenclature", "Ebony"], ["Whale_shark", "Scientific_classification", "Ebony"]]

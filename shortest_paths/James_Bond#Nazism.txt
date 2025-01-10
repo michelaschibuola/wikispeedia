@@ -1,1 +1,0 @@
-[["James_Bond", "Doctor_Who", "Nazism"], ["James_Bond", "Germany", "Nazism"], ["James_Bond", "Japan", "Nazism"], ["James_Bond", "Middle_East", "Nazism"], ["James_Bond", "Star_Wars", "Nazism"], ["James_Bond", "United_States", "Nazism"], ["James_Bond", "World_War_II", "Nazism"], ["James_Bond", "Quatermass_and_the_Pit", "Nazism"]]

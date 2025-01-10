@@ -1,1 +1,0 @@
-[["Speaker_of_the_British_House_of_Commons", "England", "Paul_Kane"], ["Speaker_of_the_British_House_of_Commons", "Pound_sterling", "Paul_Kane"]]

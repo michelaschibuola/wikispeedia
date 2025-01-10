@@ -1,1 +1,0 @@
-[["Wikimedia_Foundation", "United_States", "Australia", "Tasmanian_Devil"], ["Wikimedia_Foundation", "United_States", "Kangaroo", "Tasmanian_Devil"]]

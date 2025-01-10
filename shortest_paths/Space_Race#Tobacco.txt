@@ -1,1 +1,0 @@
-[["Space_Race", "India", "Tobacco"], ["Space_Race", "People%27s_Republic_of_China", "Tobacco"], ["Space_Race", "United_States", "Tobacco"]]

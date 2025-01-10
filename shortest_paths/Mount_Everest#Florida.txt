@@ -1,1 +1,0 @@
-[["Mount_Everest", "English_language", "Florida"], ["Mount_Everest", "Global_warming", "Florida"], ["Mount_Everest", "United_Kingdom", "Florida"], ["Mount_Everest", "United_States", "Florida"]]

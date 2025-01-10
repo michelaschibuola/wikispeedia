@@ -1,1 +1,0 @@
-[["Felice_Beato", "China", "Nuclear_weapon"], ["Felice_Beato", "France", "Nuclear_weapon"], ["Felice_Beato", "India", "Nuclear_weapon"], ["Felice_Beato", "Japan", "Nuclear_weapon"]]

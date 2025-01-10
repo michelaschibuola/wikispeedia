@@ -1,1 +1,0 @@
-[["Cookiecutter_shark", "Symmetry", "Belton_House", "Rococo"], ["Cookiecutter_shark", "Symmetry", "Art", "Rococo"], ["Cookiecutter_shark", "Whale", "18th_century", "Rococo"], ["Cookiecutter_shark", "Whale", "19th_century", "Rococo"]]

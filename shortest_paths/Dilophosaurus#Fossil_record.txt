@@ -1,1 +1,0 @@
-[["Dilophosaurus", "China", "Fossil_record"], ["Dilophosaurus", "Dinosaur", "Fossil_record"], ["Dilophosaurus", "Jurassic", "Fossil_record"], ["Dilophosaurus", "Reptile", "Fossil_record"], ["Dilophosaurus", "Tyrannosaurus", "Fossil_record"]]

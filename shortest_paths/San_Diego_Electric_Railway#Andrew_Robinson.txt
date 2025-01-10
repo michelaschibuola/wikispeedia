@@ -1,1 +1,0 @@
-[["San_Diego_Electric_Railway", "New_York_City", "Andrew_Robinson"], ["San_Diego_Electric_Railway", "United_States", "Andrew_Robinson"], ["San_Diego_Electric_Railway", "World_War_II", "Andrew_Robinson"]]

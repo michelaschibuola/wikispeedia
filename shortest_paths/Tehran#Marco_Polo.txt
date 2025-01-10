@@ -1,1 +1,0 @@
-[["Tehran", "Beijing", "Marco_Polo"], ["Tehran", "13th_century", "Marco_Polo"], ["Tehran", "China", "Marco_Polo"], ["Tehran", "Uzbekistan", "Marco_Polo"]]

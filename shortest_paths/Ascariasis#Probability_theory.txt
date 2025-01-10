@@ -1,1 +1,0 @@
-[["Ascariasis", "Human", "Physics", "Probability_theory"]]

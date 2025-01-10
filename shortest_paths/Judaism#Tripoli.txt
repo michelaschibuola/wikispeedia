@@ -1,1 +1,0 @@
-[["Judaism", "Africa", "Tripoli"], ["Judaism", "Brazil", "Tripoli"], ["Judaism", "France", "Tripoli"], ["Judaism", "Egypt", "Tripoli"], ["Judaism", "Spain", "Tripoli"], ["Judaism", "United_Kingdom", "Tripoli"], ["Judaism", "United_States", "Tripoli"], ["Judaism", "Sarajevo", "Tripoli"], ["Judaism", "Swastika", "Tripoli"]]

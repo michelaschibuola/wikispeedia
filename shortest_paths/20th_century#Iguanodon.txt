@@ -1,1 +1,0 @@
-[["20th_century", "France", "Iguanodon"], ["20th_century", "Germany", "Iguanodon"], ["20th_century", "Spain", "Iguanodon"]]

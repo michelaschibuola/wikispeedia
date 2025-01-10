@@ -1,1 +1,0 @@
-[["Steam_engine", "Gottfried_Leibniz", "Aristotle"], ["Steam_engine", "Motion_%28physics%29", "Aristotle"], ["Steam_engine", "Thermodynamics", "Aristotle"]]

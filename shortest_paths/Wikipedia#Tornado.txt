@@ -1,1 +1,0 @@
-[["Wikipedia", "Austria", "Tornado"], ["Wikipedia", "European_Union", "Tornado"], ["Wikipedia", "Florida", "Tornado"], ["Wikipedia", "Japan", "Tornado"]]

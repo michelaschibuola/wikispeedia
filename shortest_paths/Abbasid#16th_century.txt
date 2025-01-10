@@ -1,1 +1,0 @@
-[["Abbasid", "8th_century", "16th_century"], ["Abbasid", "Baghdad", "16th_century"], ["Abbasid", "Egypt", "16th_century"], ["Abbasid", "Iran", "16th_century"], ["Abbasid", "Spain", "16th_century"], ["Abbasid", "Islam", "16th_century"], ["Abbasid", "Mosque", "16th_century"], ["Abbasid", "Ottoman_Empire", "16th_century"], ["Abbasid", "Suleiman_the_Magnificent", "16th_century"]]

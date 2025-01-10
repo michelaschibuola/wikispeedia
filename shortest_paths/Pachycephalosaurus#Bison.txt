@@ -1,1 +1,0 @@
-[["Pachycephalosaurus", "Animal", "Bison"], ["Pachycephalosaurus", "Chordate", "Bison"], ["Pachycephalosaurus", "North_America", "Bison"], ["Pachycephalosaurus", "Scientific_classification", "Bison"]]

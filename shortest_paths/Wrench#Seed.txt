@@ -1,1 +1,0 @@
-[["Wrench", "Guqin", "Water", "Seed"], ["Wrench", "American_English", "Cereal", "Seed"], ["Wrench", "American_English", "Soybean", "Seed"], ["Wrench", "British_English", "Soybean", "Seed"], ["Wrench", "Automobile", "House_Sparrow", "Seed"], ["Wrench", "British_English", "Fertilizer", "Seed"]]

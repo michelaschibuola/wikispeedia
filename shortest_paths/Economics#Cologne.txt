@@ -1,1 +1,0 @@
-[["Economics", "Spain", "Cologne"], ["Economics", "United_Kingdom", "Cologne"], ["Economics", "United_States", "Cologne"], ["Economics", "Global_city", "Cologne"], ["Economics", "World_War_I", "Cologne"]]

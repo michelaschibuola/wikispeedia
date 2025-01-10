@@ -1,1 +1,0 @@
-[["Baruch_Spinoza", "20th_century", "Swastika"], ["Baruch_Spinoza", "Europe", "Swastika"], ["Baruch_Spinoza", "France", "Swastika"], ["Baruch_Spinoza", "Jew", "Swastika"], ["Baruch_Spinoza", "Judaism", "Swastika"], ["Baruch_Spinoza", "Latin", "Swastika"]]

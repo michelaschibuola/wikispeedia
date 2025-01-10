@@ -1,1 +1,0 @@
-[["Barbados", "Brazil", "Tennis"], ["Barbados", "England", "Tennis"], ["Barbados", "Ireland", "Tennis"], ["Barbados", "Tourism", "Tennis"], ["Barbados", "United_Kingdom", "Tennis"], ["Barbados", "United_States", "Tennis"], ["Barbados", "Commonwealth_Games", "Tennis"], ["Barbados", "Tony_Blair", "Tennis"]]

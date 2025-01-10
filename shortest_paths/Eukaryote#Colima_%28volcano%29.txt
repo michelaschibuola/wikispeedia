@@ -1,1 +1,0 @@
-[["Eukaryote", "Cochineal", "Mexico", "Colima_%28volcano%29"], ["Eukaryote", "Human", "Mexico_City", "Colima_%28volcano%29"], ["Eukaryote", "Nature", "Volcano", "Colima_%28volcano%29"]]

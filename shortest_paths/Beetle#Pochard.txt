@@ -1,1 +1,0 @@
-[["Beetle", "Animal", "Pochard"], ["Beetle", "Carolus_Linnaeus", "Pochard"], ["Beetle", "Insect", "Pochard"], ["Beetle", "Scientific_classification", "Pochard"]]

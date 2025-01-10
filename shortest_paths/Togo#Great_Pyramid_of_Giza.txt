@@ -1,1 +1,0 @@
-[["Togo", "Africa", "Great_Pyramid_of_Giza"], ["Togo", "Agriculture", "Great_Pyramid_of_Giza"]]

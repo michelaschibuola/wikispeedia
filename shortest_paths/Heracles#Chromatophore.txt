@@ -1,1 +1,0 @@
-[["Heracles", "Chicken", "Bird", "Chromatophore"], ["Heracles", "Chicken", "Animal", "Chromatophore"]]

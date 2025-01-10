@@ -1,1 +1,0 @@
-[["Napoleon_I_of_France", "Arsenic", "Recycling"], ["Napoleon_I_of_France", "India", "Recycling"]]

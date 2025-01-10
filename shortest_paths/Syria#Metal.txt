@@ -1,1 +1,0 @@
-[["Syria", "Clothing", "Metal"], ["Syria", "Currency", "Metal"]]

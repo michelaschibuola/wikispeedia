@@ -1,1 +1,0 @@
-[["Nazi_Germany", "Japanese_war_crimes", "Qing_Dynasty"], ["Nazi_Germany", "Modern_history", "Qing_Dynasty"], ["Nazi_Germany", "France", "Qing_Dynasty"], ["Nazi_Germany", "Netherlands", "Qing_Dynasty"], ["Nazi_Germany", "Russia", "Qing_Dynasty"], ["Nazi_Germany", "Sino-German_cooperation_%281911-1941%29", "Qing_Dynasty"]]

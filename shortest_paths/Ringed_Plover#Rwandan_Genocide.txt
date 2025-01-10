@@ -1,1 +1,0 @@
-[["Ringed_Plover", "Africa", "Rwandan_Genocide"], ["Ringed_Plover", "Canada", "Rwandan_Genocide"], ["Ringed_Plover", "Europe", "Rwandan_Genocide"], ["Ringed_Plover", "France", "Rwandan_Genocide"]]

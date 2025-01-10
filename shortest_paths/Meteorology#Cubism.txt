@@ -1,1 +1,0 @@
-[["Meteorology", "20th_century", "Cubism"], ["Meteorology", "Europe", "Cubism"], ["Meteorology", "World_War_I", "Cubism"]]

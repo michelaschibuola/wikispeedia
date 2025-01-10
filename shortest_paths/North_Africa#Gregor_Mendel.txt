@@ -1,1 +1,0 @@
-[["North_Africa", "19th_century", "Gregor_Mendel"], ["North_Africa", "Czech_Republic", "Gregor_Mendel"], ["North_Africa", "20th_century", "Gregor_Mendel"]]

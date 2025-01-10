@@ -1,1 +1,0 @@
-[["Coin", "Australia", "Hanoi"], ["Coin", "Japan", "Hanoi"]]

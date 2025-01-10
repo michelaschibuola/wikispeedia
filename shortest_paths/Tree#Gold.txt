@@ -1,1 +1,0 @@
-[["Tree", "Minoan_civilization", "Gold"], ["Tree", "Suburbs_of_Johannesburg", "Gold"], ["Tree", "California", "Gold"], ["Tree", "Cocoa", "Gold"]]

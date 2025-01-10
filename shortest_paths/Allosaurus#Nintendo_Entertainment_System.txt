@@ -1,1 +1,0 @@
-[["Allosaurus", "Australia", "Nintendo_Entertainment_System"], ["Allosaurus", "Japan", "Nintendo_Entertainment_System"], ["Allosaurus", "North_America", "Nintendo_Entertainment_System"], ["Allosaurus", "United_States", "Nintendo_Entertainment_System"]]

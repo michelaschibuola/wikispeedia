@@ -1,1 +1,0 @@
-[["Functional_programming", "Algorithm", "English_language", "Irish_poetry"]]

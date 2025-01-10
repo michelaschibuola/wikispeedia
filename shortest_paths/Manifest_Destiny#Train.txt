@@ -1,1 +1,0 @@
-[["Manifest_Destiny", "19th_century", "Train"], ["Manifest_Destiny", "History_of_Arizona", "Train"], ["Manifest_Destiny", "California", "Train"], ["Manifest_Destiny", "Canada", "Train"], ["Manifest_Destiny", "Florida", "Train"], ["Manifest_Destiny", "Mexico", "Train"], ["Manifest_Destiny", "United_States", "Train"]]

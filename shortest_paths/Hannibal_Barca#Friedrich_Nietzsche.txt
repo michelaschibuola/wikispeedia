@@ -1,1 +1,0 @@
-[["Hannibal_Barca", "Ancient_Rome", "Friedrich_Nietzsche"], ["Hannibal_Barca", "Italy", "Friedrich_Nietzsche"], ["Hannibal_Barca", "Julius_Caesar", "Friedrich_Nietzsche"], ["Hannibal_Barca", "Philosophy", "Friedrich_Nietzsche"], ["Hannibal_Barca", "Turin", "Friedrich_Nietzsche"]]

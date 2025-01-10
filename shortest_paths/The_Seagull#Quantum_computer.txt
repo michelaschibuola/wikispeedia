@@ -1,1 +1,0 @@
-[["The_Seagull", "19th_century", "Biology", "Quantum_computer"], ["The_Seagull", "19th_century", "Physics", "Quantum_computer"], ["The_Seagull", "19th_century", "Prime_number", "Quantum_computer"]]

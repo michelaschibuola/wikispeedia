@@ -1,1 +1,0 @@
-[["Turquoise", "France", "Santa_Claus"], ["Turquoise", "Iran", "Santa_Claus"], ["Turquoise", "Japan", "Santa_Claus"], ["Turquoise", "Turkey", "Santa_Claus"], ["Turquoise", "United_States", "Santa_Claus"]]

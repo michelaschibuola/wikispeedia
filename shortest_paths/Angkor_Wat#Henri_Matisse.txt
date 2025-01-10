@@ -1,1 +1,0 @@
-[["Angkor_Wat", "France", "Henri_Matisse"], ["Angkor_Wat", "Sculpture", "Henri_Matisse"]]

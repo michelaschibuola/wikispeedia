@@ -1,1 +1,0 @@
-[["Magnet", "Diamond", "Africa", "African_Wild_Dog"], ["Magnet", "Earth", "Africa", "African_Wild_Dog"], ["Magnet", "The_Cantos", "Africa", "African_Wild_Dog"], ["Magnet", "Earth", "Animal", "African_Wild_Dog"], ["Magnet", "Earth", "Mammal", "African_Wild_Dog"], ["Magnet", "Iron", "Mammal", "African_Wild_Dog"]]

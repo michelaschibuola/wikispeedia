@@ -1,1 +1,0 @@
-[["Silver", "Amber", "Cretaceous"], ["Silver", "Rocky_Mountains", "Cretaceous"], ["Silver", "Australia", "Cretaceous"], ["Silver", "China", "Cretaceous"]]

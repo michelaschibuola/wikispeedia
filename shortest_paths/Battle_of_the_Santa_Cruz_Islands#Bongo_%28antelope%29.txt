@@ -1,1 +1,0 @@
-[["Battle_of_the_Santa_Cruz_Islands", "Australia", "Mammal", "Bongo_%28antelope%29"], ["Battle_of_the_Santa_Cruz_Islands", "United_States", "Africa", "Bongo_%28antelope%29"], ["Battle_of_the_Santa_Cruz_Islands", "World_War_II", "Africa", "Bongo_%28antelope%29"], ["Battle_of_the_Santa_Cruz_Islands", "United_States", "Antelope", "Bongo_%28antelope%29"]]

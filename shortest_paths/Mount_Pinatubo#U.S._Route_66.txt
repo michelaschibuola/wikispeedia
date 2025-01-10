@@ -1,1 +1,0 @@
-[["Mount_Pinatubo", "Television", "U.S._Route_66"], ["Mount_Pinatubo", "United_States", "U.S._Route_66"]]

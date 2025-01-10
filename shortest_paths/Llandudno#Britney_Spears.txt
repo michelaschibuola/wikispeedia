@@ -1,1 +1,0 @@
-[["Llandudno", "Australia", "Britney_Spears"], ["Llandudno", "Jew", "Britney_Spears"], ["Llandudno", "United_Kingdom", "Britney_Spears"]]

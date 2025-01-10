@@ -1,1 +1,0 @@
-[["U2", "Bill_Clinton", "Woodrow_Wilson"], ["U2", "France", "Woodrow_Wilson"], ["U2", "Latin_America", "Woodrow_Wilson"], ["U2", "London", "Woodrow_Wilson"], ["U2", "Northern_Ireland", "Woodrow_Wilson"]]

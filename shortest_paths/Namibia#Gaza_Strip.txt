@@ -1,1 +1,0 @@
-[["Namibia", "Domestic_AC_power_plugs_and_sockets", "Gaza_Strip"], ["Namibia", "Dune", "Gaza_Strip"], ["Namibia", "List_of_countries_by_system_of_government", "Gaza_Strip"], ["Namibia", "Christianity", "Gaza_Strip"], ["Namibia", "Currency", "Gaza_Strip"], ["Namibia", "Time_zone", "Gaza_Strip"]]

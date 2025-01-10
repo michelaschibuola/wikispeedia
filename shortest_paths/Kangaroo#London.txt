@@ -1,1 +1,0 @@
-[["Kangaroo", "Guinness", "London"], ["Kangaroo", "James_Cook", "London"], ["Kangaroo", "Europe", "London"], ["Kangaroo", "Tyrannosaurus", "London"], ["Kangaroo", "Yagan", "London"]]

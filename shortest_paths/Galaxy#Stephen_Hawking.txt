@@ -1,1 +1,0 @@
-[["Galaxy", "Astronomy", "Stephen_Hawking"], ["Galaxy", "Big_Bang", "Stephen_Hawking"], ["Galaxy", "Black_hole", "Stephen_Hawking"], ["Galaxy", "Biology", "Stephen_Hawking"], ["Galaxy", "Galileo_Galilei", "Stephen_Hawking"], ["Galaxy", "Gravitation", "Stephen_Hawking"], ["Galaxy", "Physics", "Stephen_Hawking"]]

@@ -1,1 +1,0 @@
-[["Telescope", "France", "Mammoth"], ["Telescope", "Spain", "Mammoth"]]

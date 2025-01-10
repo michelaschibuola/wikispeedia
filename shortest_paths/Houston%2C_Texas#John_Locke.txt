@@ -1,1 +1,0 @@
-[["Houston%2C_Texas", "Education", "John_Locke"], ["Houston%2C_Texas", "France", "John_Locke"], ["Houston%2C_Texas", "United_States", "John_Locke"]]

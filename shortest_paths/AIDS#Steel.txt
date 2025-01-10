@@ -1,1 +1,0 @@
-[["AIDS", "20th_century", "Steel"], ["AIDS", "India", "Steel"], ["AIDS", "United_Kingdom", "Steel"], ["AIDS", "United_States", "Steel"], ["AIDS", "Economy_of_Africa", "Steel"], ["AIDS", "People%27s_Republic_of_China", "Steel"], ["AIDS", "Selenium", "Steel"]]

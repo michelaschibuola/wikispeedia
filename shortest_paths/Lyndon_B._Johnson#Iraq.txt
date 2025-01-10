@@ -1,1 +1,0 @@
-[["Lyndon_B._Johnson", "California", "Iraq"], ["Lyndon_B._Johnson", "Turkey", "Iraq"]]

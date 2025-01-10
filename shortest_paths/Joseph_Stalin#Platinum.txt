@@ -1,1 +1,0 @@
-[["Joseph_Stalin", "Italy", "Platinum"], ["Joseph_Stalin", "United_States", "Platinum"]]

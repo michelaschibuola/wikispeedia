@@ -1,1 +1,0 @@
-[["Great_Auk", "Bird", "Egg_%28food%29"], ["Great_Auk", "Animal", "Egg_%28food%29"]]

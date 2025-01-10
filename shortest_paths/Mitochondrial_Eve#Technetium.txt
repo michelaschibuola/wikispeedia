@@ -1,1 +1,0 @@
-[["Mitochondrial_Eve", "Human", "Technetium"], ["Mitochondrial_Eve", "Japan", "Technetium"]]

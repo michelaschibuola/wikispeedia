@@ -1,1 +1,0 @@
-[["Helmeted_Guineafowl", "English_language", "Elvis_Presley"], ["Helmeted_Guineafowl", "France", "Elvis_Presley"]]

@@ -1,1 +1,0 @@
-[["Baseball", "Japan", "Constitutional_monarchy"], ["Baseball", "Sport", "Constitutional_monarchy"], ["Baseball", "Canada", "Constitutional_monarchy"], ["Baseball", "Sweden", "Constitutional_monarchy"]]

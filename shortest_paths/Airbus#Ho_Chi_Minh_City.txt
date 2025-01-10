@@ -1,1 +1,0 @@
-[["Airbus", "Beijing", "Ho_Chi_Minh_City"], ["Airbus", "France", "Ho_Chi_Minh_City"], ["Airbus", "French_language", "Ho_Chi_Minh_City"], ["Airbus", "United_States", "Ho_Chi_Minh_City"]]

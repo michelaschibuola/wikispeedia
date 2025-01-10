@@ -1,1 +1,0 @@
-[["English_language", "Egypt", "Akkadian_Empire"], ["English_language", "Syria", "Akkadian_Empire"], ["English_language", "Turkey", "Akkadian_Empire"]]

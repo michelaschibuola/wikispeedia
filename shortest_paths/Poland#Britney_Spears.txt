@@ -1,1 +1,0 @@
-[["Poland", "Europe", "Britney_Spears"], ["Poland", "Jew", "Britney_Spears"], ["Poland", "Natalie_Portman", "Britney_Spears"], ["Poland", "United_Kingdom", "Britney_Spears"], ["Poland", "United_States", "Britney_Spears"]]

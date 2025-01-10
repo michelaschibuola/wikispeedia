@@ -1,1 +1,0 @@
-[["Space_suit", "SR-71_Blackbird", "England", "The_Anarchy"], ["Space_suit", "SR-71_Blackbird", "London", "The_Anarchy"], ["Space_suit", "World_War_II", "London", "The_Anarchy"], ["Space_suit", "World_War_II", "Bristol", "The_Anarchy"], ["Space_suit", "World_War_II", "British_monarchy", "The_Anarchy"]]

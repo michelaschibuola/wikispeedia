@@ -1,1 +1,0 @@
-[["Galileo_Galilei", "Alchemy", "Oxygen"], ["Galileo_Galilei", "Earth", "Oxygen"], ["Galileo_Galilei", "Mercury_%28planet%29", "Oxygen"], ["Galileo_Galilei", "Moon", "Oxygen"], ["Galileo_Galilei", "Philosophy", "Oxygen"], ["Galileo_Galilei", "Star", "Oxygen"], ["Galileo_Galilei", "Sun", "Oxygen"], ["Galileo_Galilei", "Jupiter", "Oxygen"], ["Galileo_Galilei", "Saturn", "Oxygen"]]

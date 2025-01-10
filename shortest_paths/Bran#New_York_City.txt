@@ -1,1 +1,0 @@
-[["Bran", "Japan", "New_York_City"], ["Bran", "United_States", "New_York_City"]]

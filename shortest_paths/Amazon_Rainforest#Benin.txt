@@ -1,1 +1,0 @@
-[["Amazon_Rainforest", "Africa", "Benin"], ["Amazon_Rainforest", "Brazil", "Benin"], ["Amazon_Rainforest", "Portugal", "Benin"], ["Amazon_Rainforest", "Democratic_Republic_of_the_Congo", "Benin"]]

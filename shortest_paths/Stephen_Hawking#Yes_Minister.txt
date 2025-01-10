@@ -1,1 +1,0 @@
-[["Stephen_Hawking", "God", "Yes_Minister"], ["Stephen_Hawking", "United_Kingdom", "Yes_Minister"]]

@@ -1,1 +1,0 @@
-[["Abuja", "Brazil", "Bill_Gates", "Internet_Explorer"], ["Abuja", "Brazil", "Biodiversity", "Internet_Explorer"], ["Abuja", "Nigeria", "Biodiversity", "Internet_Explorer"], ["Abuja", "Africa", "Biodiversity", "Internet_Explorer"], ["Abuja", "Brazil", "Phishing", "Internet_Explorer"]]

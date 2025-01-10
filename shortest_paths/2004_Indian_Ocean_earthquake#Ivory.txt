@@ -1,1 +1,0 @@
-[["2004_Indian_Ocean_earthquake", "Colombia", "Ivory"], ["2004_Indian_Ocean_earthquake", "Peru", "Ivory"], ["2004_Indian_Ocean_earthquake", "United_Nations", "Ivory"], ["2004_Indian_Ocean_earthquake", "Hippopotamus", "Ivory"]]

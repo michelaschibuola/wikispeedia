@@ -1,1 +1,0 @@
-[["Insulin", "France", "Vanilla"], ["Insulin", "Latin", "Vanilla"], ["Insulin", "Tea", "Vanilla"]]

@@ -1,1 +1,0 @@
-[["Isaac_Newton", "Elvis_Presley", "Adolf_Hitler"], ["Isaac_Newton", "London", "Adolf_Hitler"], ["Isaac_Newton", "Max_Planck", "Adolf_Hitler"]]

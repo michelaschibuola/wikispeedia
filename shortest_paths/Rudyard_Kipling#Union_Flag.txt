@@ -1,1 +1,0 @@
-[["Rudyard_Kipling", "England", "Union_Flag"], ["Rudyard_Kipling", "Australia", "Union_Flag"], ["Rudyard_Kipling", "British_Empire", "Union_Flag"], ["Rudyard_Kipling", "Canada", "Union_Flag"], ["Rudyard_Kipling", "New_Zealand", "Union_Flag"], ["Rudyard_Kipling", "United_Kingdom", "Union_Flag"]]

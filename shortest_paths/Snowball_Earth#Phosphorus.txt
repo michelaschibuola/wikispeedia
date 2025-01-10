@@ -1,1 +1,0 @@
-[["Snowball_Earth", "Animal", "Phosphorus"], ["Snowball_Earth", "Calcium", "Phosphorus"], ["Snowball_Earth", "Iron", "Phosphorus"], ["Snowball_Earth", "Oxygen", "Phosphorus"], ["Snowball_Earth", "Silicon", "Phosphorus"]]

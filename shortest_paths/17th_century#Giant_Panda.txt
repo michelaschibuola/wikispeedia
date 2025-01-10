@@ -1,1 +1,0 @@
-[["17th_century", "20th_century", "Giant_Panda"], ["17th_century", "China", "Giant_Panda"], ["17th_century", "France", "Giant_Panda"], ["17th_century", "Japan", "Giant_Panda"], ["17th_century", "Chinese_language", "Giant_Panda"], ["17th_century", "Vienna", "Giant_Panda"]]

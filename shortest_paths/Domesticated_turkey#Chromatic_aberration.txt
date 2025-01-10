@@ -1,1 +1,0 @@
-[["Domesticated_turkey", "18th_century", "Light", "Chromatic_aberration"], ["Domesticated_turkey", "Onion", "Microscope", "Chromatic_aberration"], ["Domesticated_turkey", "United_States", "Photography", "Chromatic_aberration"]]

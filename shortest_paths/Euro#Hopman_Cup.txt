@@ -1,1 +1,0 @@
-[["Euro", "Czech_Republic", "Hopman_Cup"], ["Euro", "Germany", "Hopman_Cup"], ["Euro", "Netherlands", "Hopman_Cup"], ["Euro", "Slovakia", "Hopman_Cup"], ["Euro", "Spain", "Hopman_Cup"], ["Euro", "United_States", "Hopman_Cup"]]

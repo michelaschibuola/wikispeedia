@@ -1,1 +1,0 @@
-[["Seoul", "Africa", "Music_of_the_Bahamas"], ["Seoul", "Japan", "Music_of_the_Bahamas"], ["Seoul", "United_Kingdom", "Music_of_the_Bahamas"], ["Seoul", "United_States", "Music_of_the_Bahamas"]]

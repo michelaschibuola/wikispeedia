@@ -1,1 +1,0 @@
-[["Culture", "Europe", "Trinity_test"], ["Culture", "Japan", "Trinity_test"], ["Culture", "United_States", "Trinity_test"], ["Culture", "Soviet_Union", "Trinity_test"]]

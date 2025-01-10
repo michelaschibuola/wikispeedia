@@ -1,1 +1,0 @@
-[["Celeriac", "Plant", "Coal", "Dakota%2C_Minnesota_and_Eastern_Railroad"], ["Celeriac", "Plant", "Wood", "Dakota%2C_Minnesota_and_Eastern_Railroad"], ["Celeriac", "Potato", "Cereal", "Dakota%2C_Minnesota_and_Eastern_Railroad"], ["Celeriac", "Potato", "United_States", "Dakota%2C_Minnesota_and_Eastern_Railroad"]]

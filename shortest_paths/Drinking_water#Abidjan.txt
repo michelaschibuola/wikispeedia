@@ -1,1 +1,0 @@
-[["Drinking_water", "Africa", "Abidjan"], ["Drinking_water", "United_Nations", "Abidjan"]]

@@ -1,1 +1,0 @@
-[["Arctic_Ocean", "Canada", "Halloween"], ["Arctic_Ocean", "North_America", "Halloween"], ["Arctic_Ocean", "United_Kingdom", "Halloween"], ["Arctic_Ocean", "United_States", "Halloween"], ["Arctic_Ocean", "Europe", "Halloween"]]

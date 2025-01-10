@@ -1,1 +1,0 @@
-[["Nuclear_weapon", "Russia", "Diane_Keaton"], ["Nuclear_weapon", "United_States", "Diane_Keaton"]]

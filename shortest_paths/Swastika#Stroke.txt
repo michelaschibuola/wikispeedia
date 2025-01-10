@@ -1,1 +1,0 @@
-[["Swastika", "Europe", "Stroke"], ["Swastika", "United_States", "Stroke"], ["Swastika", "Woodrow_Wilson", "Stroke"]]

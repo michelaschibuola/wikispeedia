@@ -1,1 +1,0 @@
-[["New_Zealand", "Aluminium", "Clay"], ["New_Zealand", "Colditz_Castle", "Clay"], ["New_Zealand", "Jewellery", "Clay"], ["New_Zealand", "Canada", "Clay"], ["New_Zealand", "Tennis", "Clay"], ["New_Zealand", "Tobacco_smoking", "Clay"]]

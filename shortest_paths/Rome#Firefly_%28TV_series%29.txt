@@ -1,1 +1,0 @@
-[["Rome", "Anno_Domini", "Firefly_%28TV_series%29"], ["Rome", "19th_century", "Firefly_%28TV_series%29"], ["Rome", "Nazi_Germany", "Firefly_%28TV_series%29"], ["Rome", "People%27s_Republic_of_China", "Firefly_%28TV_series%29"], ["Rome", "World_War_II", "Firefly_%28TV_series%29"], ["Rome", "Vancouver", "Firefly_%28TV_series%29"]]

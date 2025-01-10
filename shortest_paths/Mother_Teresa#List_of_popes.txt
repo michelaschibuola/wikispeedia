@@ -1,1 +1,0 @@
-[["Mother_Teresa", "Jesus", "List_of_popes"], ["Mother_Teresa", "Pope_John_Paul_II", "List_of_popes"], ["Mother_Teresa", "Roman_Catholic_Church", "List_of_popes"], ["Mother_Teresa", "Rome", "List_of_popes"]]

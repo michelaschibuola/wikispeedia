@@ -1,1 +1,0 @@
-[["Finland", "Biotechnology", "Soybean"], ["Finland", "Cancer", "Soybean"], ["Finland", "Europe", "Soybean"], ["Finland", "Agriculture", "Soybean"], ["Finland", "Meat", "Soybean"], ["Finland", "United_States", "Soybean"]]

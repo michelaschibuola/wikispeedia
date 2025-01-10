@@ -1,1 +1,0 @@
-[["Money", "Currency", "Montserrat"], ["Money", "List_of_circulating_currencies", "Montserrat"]]

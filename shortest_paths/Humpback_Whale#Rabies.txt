@@ -1,1 +1,0 @@
-[["Humpback_Whale", "Animal", "Rabies"], ["Humpback_Whale", "United_States", "Rabies"]]

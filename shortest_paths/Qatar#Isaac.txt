@@ -1,1 +1,0 @@
-[["Qatar", "Arabic_language", "Isaac"], ["Qatar", "Islam", "Isaac"], ["Qatar", "Qur%27an", "Isaac"]]

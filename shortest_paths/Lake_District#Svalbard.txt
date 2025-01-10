@@ -1,1 +1,0 @@
-[["Lake_District", "Tourism", "Svalbard"], ["Lake_District", "Viking", "Svalbard"]]

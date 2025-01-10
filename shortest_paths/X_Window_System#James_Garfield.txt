@@ -1,1 +1,0 @@
-[["X_Window_System", "Unix", "Latin", "James_Garfield"], ["X_Window_System", "Latin_alphabet", "Latin", "James_Garfield"]]

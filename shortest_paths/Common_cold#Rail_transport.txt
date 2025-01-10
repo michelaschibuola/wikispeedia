@@ -1,1 +1,0 @@
-[["Common_cold", "18th_century", "Rail_transport"], ["Common_cold", "United_Kingdom", "Rail_transport"], ["Common_cold", "United_States", "Rail_transport"]]

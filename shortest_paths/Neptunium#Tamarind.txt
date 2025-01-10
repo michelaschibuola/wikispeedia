@@ -1,1 +1,0 @@
-[["Neptunium", "Bismuth", "Mexico", "Tamarind"], ["Neptunium", "History_of_nuclear_weapons", "India", "Tamarind"], ["Neptunium", "Color", "Fruit", "Tamarind"], ["Neptunium", "Lead", "Thailand", "Tamarind"]]

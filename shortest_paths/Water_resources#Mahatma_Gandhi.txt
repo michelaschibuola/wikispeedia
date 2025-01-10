@@ -1,1 +1,0 @@
-[["Water_resources", "China", "Mahatma_Gandhi"], ["Water_resources", "India", "Mahatma_Gandhi"], ["Water_resources", "Poland", "Mahatma_Gandhi"], ["Water_resources", "South_Africa", "Mahatma_Gandhi"]]

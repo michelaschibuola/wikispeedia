@@ -1,1 +1,0 @@
-[["History_of_Arizona", "Train", "Osaka"], ["History_of_Arizona", "United_States", "Osaka"]]

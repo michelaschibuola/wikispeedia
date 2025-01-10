@@ -1,1 +1,0 @@
-[["Vestigial_structure", "Aristotle", "Number", "Fundamental_theorem_of_arithmetic"]]

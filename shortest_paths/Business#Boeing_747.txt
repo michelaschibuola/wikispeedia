@@ -1,1 +1,0 @@
-[["Business", "London", "Boeing_747"], ["Business", "Iran", "Boeing_747"], ["Business", "Seattle%2C_Washington", "Boeing_747"]]

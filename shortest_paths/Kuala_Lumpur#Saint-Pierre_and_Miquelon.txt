@@ -1,1 +1,0 @@
-[["Kuala_Lumpur", "Time_zone", "Saint-Pierre_and_Miquelon"], ["Kuala_Lumpur", "United_Kingdom", "Saint-Pierre_and_Miquelon"]]

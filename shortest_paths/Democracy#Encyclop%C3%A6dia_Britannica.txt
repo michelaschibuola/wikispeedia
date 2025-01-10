@@ -1,1 +1,0 @@
-[["Democracy", "Switzerland", "Encyclop%C3%A6dia_Britannica"], ["Democracy", "United_States", "Encyclop%C3%A6dia_Britannica"], ["Democracy", "Egypt", "Encyclop%C3%A6dia_Britannica"], ["Democracy", "France", "Encyclop%C3%A6dia_Britannica"], ["Democracy", "Voltaire", "Encyclop%C3%A6dia_Britannica"], ["Democracy", "Wikipedia", "Encyclop%C3%A6dia_Britannica"]]

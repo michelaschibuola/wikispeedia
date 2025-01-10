@@ -1,1 +1,0 @@
-[["Baseball", "Argentina", "Egypt"], ["Baseball", "Football_%28soccer%29", "Egypt"], ["Baseball", "Ice_hockey", "Egypt"], ["Baseball", "Israel", "Egypt"], ["Baseball", "September_11%2C_2001_attacks", "Egypt"], ["Baseball", "United_States", "Egypt"], ["Baseball", "New_York_City", "Egypt"], ["Baseball", "Olympic_Games", "Egypt"], ["Baseball", "Seoul", "Egypt"]]

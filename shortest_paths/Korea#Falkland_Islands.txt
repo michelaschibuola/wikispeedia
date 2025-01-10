@@ -1,1 +1,0 @@
-[["Korea", "Argentina", "Falkland_Islands"], ["Korea", "Buenos_Aires", "Falkland_Islands"], ["Korea", "Driving_on_the_left_or_right", "Falkland_Islands"], ["Korea", "Europe", "Falkland_Islands"], ["Korea", "United_Nations", "Falkland_Islands"], ["Korea", "United_States", "Falkland_Islands"], ["Korea", "War", "Falkland_Islands"], ["Korea", "World_War_II", "Falkland_Islands"]]

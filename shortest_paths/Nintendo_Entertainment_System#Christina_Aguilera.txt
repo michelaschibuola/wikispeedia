@@ -1,1 +1,0 @@
-[["Nintendo_Entertainment_System", "Australia", "Christina_Aguilera"], ["Nintendo_Entertainment_System", "Canada", "Christina_Aguilera"], ["Nintendo_Entertainment_System", "Europe", "Christina_Aguilera"], ["Nintendo_Entertainment_System", "United_States", "Christina_Aguilera"]]

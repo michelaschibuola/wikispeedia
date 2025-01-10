@@ -1,1 +1,0 @@
-[["Romania", "European_Union", "Global_warming"], ["Romania", "History_of_the_world", "Global_warming"], ["Romania", "Nuclear_power", "Global_warming"], ["Romania", "United_States", "Global_warming"]]

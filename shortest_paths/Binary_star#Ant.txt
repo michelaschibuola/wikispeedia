@@ -1,1 +1,0 @@
-[["Binary_star", "Earth", "Ant"], ["Binary_star", "Sun", "Ant"]]

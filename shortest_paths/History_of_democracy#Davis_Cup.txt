@@ -1,1 +1,0 @@
-[["History_of_democracy", "India", "Davis_Cup"], ["History_of_democracy", "Italy", "Davis_Cup"], ["History_of_democracy", "New_Zealand", "Davis_Cup"], ["History_of_democracy", "Spain", "Davis_Cup"], ["History_of_democracy", "Switzerland", "Davis_Cup"]]

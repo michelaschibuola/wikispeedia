@@ -1,1 +1,0 @@
-[["Batman", "Christian_Bale", "Nikola_Tesla"]]

@@ -1,1 +1,0 @@
-[["Z%C3%BCrich", "City", "Mediterranean_Sea"], ["Z%C3%BCrich", "Charlemagne", "Mediterranean_Sea"], ["Z%C3%BCrich", "France", "Mediterranean_Sea"], ["Z%C3%BCrich", "German_language", "Mediterranean_Sea"]]

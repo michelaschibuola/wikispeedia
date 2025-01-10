@@ -1,1 +1,0 @@
-[["Beach", "Athens", "Buenos_Aires"], ["Beach", "Paris", "Buenos_Aires"], ["Beach", "South_America", "Buenos_Aires"], ["Beach", "Tourism", "Buenos_Aires"]]

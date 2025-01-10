@@ -1,1 +1,0 @@
-[["The_Hague", "Gottfried_Leibniz", "Ordinary_differential_equation"]]

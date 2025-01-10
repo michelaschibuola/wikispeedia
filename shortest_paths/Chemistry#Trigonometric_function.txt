@@ -1,1 +1,0 @@
-[["Chemistry", "Calculus", "Trigonometric_function"], ["Chemistry", "Mathematics", "Trigonometric_function"], ["Chemistry", "Differential_equation", "Trigonometric_function"], ["Chemistry", "Trigonometry", "Trigonometric_function"]]

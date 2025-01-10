@@ -1,1 +1,0 @@
-[["16_Cygni_Bb", "Day", "Zinc", "Attention-deficit_hyperactivity_disorder"], ["16_Cygni_Bb", "Sun", "Albert_Einstein", "Attention-deficit_hyperactivity_disorder"], ["16_Cygni_Bb", "Water", "Vitamin", "Attention-deficit_hyperactivity_disorder"]]

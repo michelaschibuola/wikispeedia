@@ -1,1 +1,0 @@
-[["Lake_Edward", "Africa", "Crocodile", "Tuatara"], ["Lake_Edward", "Nile", "Crocodile", "Tuatara"], ["Lake_Edward", "Africa", "Deity", "Tuatara"], ["Lake_Edward", "Uganda", "New_Zealand", "Tuatara"], ["Lake_Edward", "List_of_lakes", "New_Zealand", "Tuatara"]]

@@ -1,1 +1,0 @@
-[["Mogadishu", "China", "Belize"], ["Mogadishu", "Saudi_Arabia", "Belize"], ["Mogadishu", "Syria", "Belize"], ["Mogadishu", "Uganda", "Belize"], ["Mogadishu", "United_States", "Belize"]]

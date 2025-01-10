@@ -1,1 +1,0 @@
-[["Erie_Canal", "Chicago", "Chicago_Bears"], ["Erie_Canal", "United_States", "Chicago_Bears"]]

@@ -1,1 +1,0 @@
-[["Esperanto", "Argentina", "ALCO_FA"], ["Esperanto", "Mexico", "ALCO_FA"]]

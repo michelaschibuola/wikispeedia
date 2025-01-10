@@ -1,1 +1,0 @@
-[["Geneva", "Auckland", "Afrikaans"], ["Geneva", "France", "Afrikaans"], ["Geneva", "French_language", "Afrikaans"], ["Geneva", "German_language", "Afrikaans"]]

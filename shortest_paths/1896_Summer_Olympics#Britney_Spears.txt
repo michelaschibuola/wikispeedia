@@ -1,1 +1,0 @@
-[["1896_Summer_Olympics", "Australia", "Britney_Spears"], ["1896_Summer_Olympics", "Europe", "Britney_Spears"], ["1896_Summer_Olympics", "United_States", "Britney_Spears"]]

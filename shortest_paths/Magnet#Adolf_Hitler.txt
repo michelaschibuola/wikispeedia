@@ -1,1 +1,0 @@
-[["Magnet", "Aluminium", "Adolf_Hitler"], ["Magnet", "Art", "Adolf_Hitler"]]

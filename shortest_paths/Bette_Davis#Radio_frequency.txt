@@ -1,1 +1,0 @@
-[["Bette_Davis", "Television", "Radio_frequency"]]

@@ -1,1 +1,0 @@
-[["Norway", "Colditz_Castle", "Guitar"], ["Norway", "10th_century", "Guitar"], ["Norway", "English_language", "Guitar"], ["Norway", "Republic_of_Ireland", "Guitar"]]

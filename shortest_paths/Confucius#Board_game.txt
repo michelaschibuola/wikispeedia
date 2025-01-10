@@ -1,1 +1,0 @@
-[["Confucius", "China", "Board_game"]]

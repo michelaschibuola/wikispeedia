@@ -1,1 +1,0 @@
-[["Oceania", "Archaeology", "Science"], ["Oceania", "Esperanto", "Science"], ["Oceania", "Human", "Science"], ["Oceania", "Israel", "Science"], ["Oceania", "Geography", "Science"], ["Oceania", "Malaysia", "Science"], ["Oceania", "United_States", "Science"]]

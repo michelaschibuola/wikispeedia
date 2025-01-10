@@ -1,1 +1,0 @@
-[["Linguistics", "Archaeology", "Rice"], ["Linguistics", "Human", "Rice"], ["Linguistics", "Japan", "Rice"], ["Linguistics", "Arabic_language", "Rice"], ["Linguistics", "Middle_East", "Rice"], ["Linguistics", "Tamil_language", "Rice"]]

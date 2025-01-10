@@ -1,1 +1,0 @@
-[["Fyodor_Dostoevsky", "Condoleezza_Rice", "George_W._Bush"], ["Fyodor_Dostoevsky", "Kazakhstan", "George_W._Bush"], ["Fyodor_Dostoevsky", "Philosophy", "George_W._Bush"]]

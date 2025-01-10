@@ -1,1 +1,0 @@
-[["Crusades", "Christianity", "John_Dee"], ["Crusades", "England", "John_Dee"], ["Crusades", "Europe", "John_Dee"], ["Crusades", "Poland", "John_Dee"], ["Crusades", "Religion", "John_Dee"], ["Crusades", "Renaissance", "John_Dee"], ["Crusades", "Heliocentrism", "John_Dee"], ["Crusades", "Roman_Catholic_Church", "John_Dee"]]

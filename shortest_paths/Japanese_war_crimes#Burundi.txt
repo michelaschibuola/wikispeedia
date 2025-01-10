@@ -1,1 +1,0 @@
-[["Japanese_war_crimes", "League_of_Nations", "Burundi"], ["Japanese_war_crimes", "Military_dictatorship", "Burundi"], ["Japanese_war_crimes", "World_War_I", "Burundi"], ["Japanese_war_crimes", "World_War_II", "Burundi"]]

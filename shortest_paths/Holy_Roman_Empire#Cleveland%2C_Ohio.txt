@@ -1,1 +1,0 @@
-[["Holy_Roman_Empire", "Slovenia", "Cleveland%2C_Ohio"], ["Holy_Roman_Empire", "Hungary", "Cleveland%2C_Ohio"], ["Holy_Roman_Empire", "United_States", "Cleveland%2C_Ohio"]]

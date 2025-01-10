@@ -1,1 +1,0 @@
-[["Amber", "Asia", "Mestizo"], ["Amber", "Canada", "Mestizo"], ["Amber", "Dominican_Republic", "Mestizo"], ["Amber", "Latin", "Mestizo"], ["Amber", "Mexico", "Mestizo"], ["Amber", "North_America", "Mestizo"], ["Amber", "Spanish_language", "Mestizo"], ["Amber", "United_States", "Mestizo"]]

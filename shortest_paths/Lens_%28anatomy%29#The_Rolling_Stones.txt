@@ -1,1 +1,0 @@
-[["Lens_%28anatomy%29", "Contact_lens", "United_States", "The_Rolling_Stones"], ["Lens_%28anatomy%29", "Glasses", "United_States", "The_Rolling_Stones"], ["Lens_%28anatomy%29", "Glasses", "Coronation_Street", "The_Rolling_Stones"], ["Lens_%28anatomy%29", "Glasses", "The_Beatles", "The_Rolling_Stones"], ["Lens_%28anatomy%29", "Glasses", "United_Kingdom", "The_Rolling_Stones"]]

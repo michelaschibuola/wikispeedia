@@ -1,1 +1,0 @@
-[["Deity", "Africa", "River", "Meander"], ["Deity", "Japan", "River", "Meander"], ["Deity", "Greek_mythology", "River", "Meander"], ["Deity", "Earth", "Landform", "Meander"], ["Deity", "Universe", "Landform", "Meander"], ["Deity", "Tuatara", "Landform", "Meander"], ["Deity", "God", "Jordan_River", "Meander"], ["Deity", "Jesus", "Jordan_River", "Meander"]]

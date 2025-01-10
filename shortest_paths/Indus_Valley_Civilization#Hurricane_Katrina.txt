@@ -1,1 +1,0 @@
-[["Indus_Valley_Civilization", "India", "Hurricane_Katrina"], ["Indus_Valley_Civilization", "Pakistan", "Hurricane_Katrina"]]

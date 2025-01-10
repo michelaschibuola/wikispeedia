@@ -1,1 +1,0 @@
-[["Sodium_sulfate", "Canada", "Russian_language"], ["Sodium_sulfate", "Mexico", "Russian_language"], ["Sodium_sulfate", "Spain", "Russian_language"]]

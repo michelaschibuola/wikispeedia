@@ -1,1 +1,0 @@
-[["Coriander", "Latin_America", "Manifest_Destiny"], ["Coriander", "Middle_East", "Manifest_Destiny"], ["Coriander", "United_States", "Manifest_Destiny"]]

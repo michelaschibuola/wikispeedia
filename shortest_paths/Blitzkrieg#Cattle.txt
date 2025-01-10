@@ -1,1 +1,0 @@
-[["Blitzkrieg", "France", "Cattle"], ["Blitzkrieg", "Poland", "Cattle"]]

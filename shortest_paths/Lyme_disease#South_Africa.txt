@@ -1,1 +1,0 @@
-[["Lyme_disease", "AIDS", "South_Africa"], ["Lyme_disease", "China", "South_Africa"], ["Lyme_disease", "Europe", "South_Africa"], ["Lyme_disease", "Netherlands", "South_Africa"], ["Lyme_disease", "North_America", "South_Africa"], ["Lyme_disease", "Portugal", "South_Africa"]]

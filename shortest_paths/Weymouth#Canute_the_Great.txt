@@ -1,1 +1,0 @@
-[["Weymouth", "Dorset", "Canute_the_Great"], ["Weymouth", "Southampton", "Canute_the_Great"], ["Weymouth", "England", "Canute_the_Great"]]

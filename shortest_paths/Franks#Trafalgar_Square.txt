@@ -1,1 +1,0 @@
-[["Franks", "Germany", "Trafalgar_Square"]]

@@ -1,1 +1,0 @@
-[["Claude_Monet", "World_War_I", "Tutsi"]]

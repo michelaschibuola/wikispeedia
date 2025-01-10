@@ -1,1 +1,0 @@
-[["Hebrew_calendar", "Bible", "Sweden"], ["Hebrew_calendar", "Israel", "Sweden"], ["Hebrew_calendar", "Jerusalem", "Sweden"], ["Hebrew_calendar", "Judaism", "Sweden"]]

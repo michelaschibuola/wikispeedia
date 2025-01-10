@@ -1,1 +1,0 @@
-[["Adolf_Hitler", "France", "Nintendo"], ["Adolf_Hitler", "Germany", "Nintendo"], ["Adolf_Hitler", "London", "Nintendo"], ["Adolf_Hitler", "United_States", "Nintendo"], ["Adolf_Hitler", "Battle_of_Normandy", "Nintendo"]]

@@ -1,1 +1,0 @@
-[["Bonobo", "Africa", "Agriculture"], ["Bonobo", "Germany", "Agriculture"], ["Bonobo", "Human", "Agriculture"], ["Bonobo", "United_States", "Agriculture"], ["Bonobo", "Democratic_Republic_of_the_Congo", "Agriculture"], ["Bonobo", "History_of_Earth", "Agriculture"], ["Bonobo", "Mountain_Gorilla", "Agriculture"]]

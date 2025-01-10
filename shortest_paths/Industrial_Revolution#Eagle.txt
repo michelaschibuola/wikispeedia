@@ -1,1 +1,0 @@
-[["Industrial_Revolution", "Germany", "Eagle"], ["Industrial_Revolution", "Austria", "Eagle"], ["Industrial_Revolution", "George_Byron%2C_6th_Baron_Byron", "Eagle"], ["Industrial_Revolution", "Great_Britain", "Eagle"], ["Industrial_Revolution", "North_America", "Eagle"], ["Industrial_Revolution", "United_States", "Eagle"]]

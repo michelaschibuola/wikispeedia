@@ -1,1 +1,0 @@
-[["Pope_John_Paul_II", "20th_century", "Book"], ["Pope_John_Paul_II", "China", "Book"], ["Pope_John_Paul_II", "Egypt", "Book"], ["Pope_John_Paul_II", "Internet", "Book"]]

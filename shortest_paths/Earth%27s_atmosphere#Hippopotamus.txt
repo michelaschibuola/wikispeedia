@@ -1,1 +1,0 @@
-[["Earth%27s_atmosphere", "Bacteria", "Hippopotamus"], ["Earth%27s_atmosphere", "Ultraviolet", "Hippopotamus"]]

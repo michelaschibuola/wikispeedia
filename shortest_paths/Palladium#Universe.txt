@@ -1,1 +1,0 @@
-[["Palladium", "Electron", "Universe"], ["Palladium", "Hydrogen", "Universe"], ["Palladium", "Neutron", "Universe"], ["Palladium", "Solar_System", "Universe"]]

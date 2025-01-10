@@ -1,1 +1,0 @@
-[["Mongol_Empire", "Globalization", "Internet"], ["Mongol_Empire", "History_of_Singapore", "Internet"], ["Mongol_Empire", "Europe", "Internet"], ["Mongol_Empire", "Iran", "Internet"]]

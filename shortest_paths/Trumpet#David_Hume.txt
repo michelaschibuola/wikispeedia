@@ -1,1 +1,0 @@
-[["Trumpet", "English_language", "David_Hume"], ["Trumpet", "French_language", "David_Hume"]]

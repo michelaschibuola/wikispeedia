@@ -1,1 +1,0 @@
-[["Guatemala", "North_America", "Gas_turbine-electric_locomotive"]]

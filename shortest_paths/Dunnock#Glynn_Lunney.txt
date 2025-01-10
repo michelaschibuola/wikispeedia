@@ -1,1 +1,0 @@
-[["Dunnock", "Asia", "Houston%2C_Texas", "Glynn_Lunney"], ["Dunnock", "Asia", "Soviet_Union", "Glynn_Lunney"], ["Dunnock", "Europe", "Soviet_Union", "Glynn_Lunney"], ["Dunnock", "Europe", "International_Space_Station", "Glynn_Lunney"], ["Dunnock", "Europe", "United_States", "Glynn_Lunney"], ["Dunnock", "House_Sparrow", "United_States", "Glynn_Lunney"]]

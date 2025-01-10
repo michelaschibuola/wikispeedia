@@ -1,1 +1,0 @@
-[["Bill_Gates", "Poland", "10th_century"], ["Bill_Gates", "Sweden", "10th_century"]]

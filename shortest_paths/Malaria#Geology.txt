@@ -1,1 +1,0 @@
-[["Malaria", "Athanasius_Kircher", "Geology"], ["Malaria", "Evolution", "Geology"], ["Malaria", "Europe", "Geology"], ["Malaria", "Theodore_Roosevelt", "Geology"]]

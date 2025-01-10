@@ -1,1 +1,0 @@
-[["Pikachu", "New_York_City", "Diane_Keaton"]]

@@ -1,1 +1,0 @@
-[["Mercia", "British_monarchy", "Constitutional_monarchy"], ["Mercia", "England", "Constitutional_monarchy"], ["Mercia", "Denmark", "Constitutional_monarchy"], ["Mercia", "United_Kingdom", "Constitutional_monarchy"], ["Mercia", "Wales", "Constitutional_monarchy"]]

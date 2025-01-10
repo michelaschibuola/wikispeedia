@@ -1,1 +1,0 @@
-[["Eyelid", "Contact_lens", "Germany", "Ray_of_Light"], ["Eyelid", "Contact_lens", "Japan", "Ray_of_Light"], ["Eyelid", "Contact_lens", "United_States", "Ray_of_Light"]]

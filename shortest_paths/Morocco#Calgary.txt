@@ -1,1 +1,0 @@
-[["Morocco", "Europe", "Calgary"], ["Morocco", "India", "Calgary"], ["Morocco", "Time_zone", "Calgary"], ["Morocco", "United_States", "Calgary"]]

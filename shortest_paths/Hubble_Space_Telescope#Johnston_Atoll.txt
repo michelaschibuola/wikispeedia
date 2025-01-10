@@ -1,1 +1,0 @@
-[["Hubble_Space_Telescope", "United_States", "Johnston_Atoll"], ["Hubble_Space_Telescope", "World_War_II", "Johnston_Atoll"]]

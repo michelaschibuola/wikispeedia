@@ -1,1 +1,0 @@
-[["List_of_universities_in_the_United_Kingdom", "United_Kingdom", "Bat", "Vertebrate"], ["List_of_universities_in_the_United_Kingdom", "United_Kingdom", "Elephant", "Vertebrate"], ["List_of_universities_in_the_United_Kingdom", "United_Kingdom", "Frog", "Vertebrate"], ["List_of_universities_in_the_United_Kingdom", "University_of_Cambridge", "Tiktaalik", "Vertebrate"]]

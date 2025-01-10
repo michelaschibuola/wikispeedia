@@ -1,1 +1,0 @@
-[["Rubidium", "Clock", "London", "Edward_IV_of_England"], ["Rubidium", "Gold", "London", "Edward_IV_of_England"], ["Rubidium", "Earth", "Henry_VIII_of_England", "Edward_IV_of_England"], ["Rubidium", "Latin", "British_monarchy", "Edward_IV_of_England"], ["Rubidium", "Latin", "Edinburgh", "Edward_IV_of_England"], ["Rubidium", "Latin", "France", "Edward_IV_of_England"]]

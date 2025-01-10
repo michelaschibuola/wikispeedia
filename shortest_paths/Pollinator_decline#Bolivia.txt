@@ -1,1 +1,0 @@
-[["Pollinator_decline", "Agriculture", "Bolivia"], ["Pollinator_decline", "Cotton", "Bolivia"], ["Pollinator_decline", "United_States", "Bolivia"]]

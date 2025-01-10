@@ -1,1 +1,0 @@
-[["Aarhus", "Coal", "Cretaceous"], ["Aarhus", "Europe", "Cretaceous"]]

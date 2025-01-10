@@ -1,1 +1,0 @@
-[["Robert_Oppenheimer", "Soviet_Union", "Mir"], ["Robert_Oppenheimer", "United_States", "Mir"]]

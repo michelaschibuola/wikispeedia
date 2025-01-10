@@ -1,1 +1,0 @@
-[["Malta", "21st_century", "HIV"], ["Malta", "Roman_Catholic_Church", "HIV"], ["Malta", "Pope_John_Paul_II", "HIV"]]

@@ -1,1 +1,0 @@
-[["Election", "Hong_Kong", "British_East_India_Company"], ["Election", "United_Kingdom", "British_East_India_Company"], ["Election", "History_of_Singapore", "British_East_India_Company"]]

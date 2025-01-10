@@ -1,1 +1,0 @@
-[["Vampire", "Birmingham", "John_Sentamu"], ["Vampire", "England", "John_Sentamu"], ["Vampire", "London", "John_Sentamu"]]

@@ -1,1 +1,0 @@
-[["Latin_America", "Africa", "Malcolm_X"], ["Latin_America", "Che_Guevara", "Malcolm_X"], ["Latin_America", "Communism", "Malcolm_X"], ["Latin_America", "Fidel_Castro", "Malcolm_X"], ["Latin_America", "John_F._Kennedy", "Malcolm_X"], ["Latin_America", "France", "Malcolm_X"], ["Latin_America", "Islam", "Malcolm_X"], ["Latin_America", "United_States", "Malcolm_X"]]

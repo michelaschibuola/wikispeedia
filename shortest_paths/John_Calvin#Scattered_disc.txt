@@ -1,1 +1,0 @@
-[["John_Calvin", "16th_century", "Sun", "Scattered_disc"], ["John_Calvin", "Humanities", "Sun", "Scattered_disc"], ["John_Calvin", "Philosophy", "Sun", "Scattered_disc"], ["John_Calvin", "History_of_science", "Neptune", "Scattered_disc"], ["John_Calvin", "France", "Neptune", "Scattered_disc"], ["John_Calvin", "History_of_science", "Solar_System", "Scattered_disc"]]

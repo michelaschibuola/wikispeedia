@@ -1,1 +1,0 @@
-[["Tourette_syndrome", "Brain", "Horse"], ["Tourette_syndrome", "Psychology", "Horse"]]

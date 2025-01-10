@@ -1,1 +1,0 @@
-[["Arab-Israeli_conflict", "20th_century", "Svalbard", "Puffin"], ["Arab-Israeli_conflict", "Christianity", "Faroe_Islands", "Puffin"], ["Arab-Israeli_conflict", "List_of_European_Union_member_states_by_accession", "Faroe_Islands", "Puffin"], ["Arab-Israeli_conflict", "France", "Surtsey", "Puffin"]]

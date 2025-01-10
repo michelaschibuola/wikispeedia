@@ -1,1 +1,0 @@
-[["Goldfish", "China", "Natural_disaster"], ["Goldfish", "Ice", "Natural_disaster"], ["Goldfish", "Japan", "Natural_disaster"], ["Goldfish", "United_States", "Natural_disaster"]]

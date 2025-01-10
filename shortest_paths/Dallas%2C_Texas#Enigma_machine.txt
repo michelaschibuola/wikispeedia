@@ -1,1 +1,0 @@
-[["Dallas%2C_Texas", "Spain", "Enigma_machine"], ["Dallas%2C_Texas", "United_States", "Enigma_machine"], ["Dallas%2C_Texas", "World_War_II", "Enigma_machine"]]

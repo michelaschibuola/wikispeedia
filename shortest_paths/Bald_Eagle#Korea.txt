@@ -1,1 +1,0 @@
-[["Bald_Eagle", "Canada", "Korea"], ["Bald_Eagle", "Golden_Eagle", "Korea"], ["Bald_Eagle", "United_States", "Korea"]]

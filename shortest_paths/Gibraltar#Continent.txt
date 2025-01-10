@@ -1,1 +1,0 @@
-[["Gibraltar", "English_language", "Continent"], ["Gibraltar", "Europe", "Continent"], ["Gibraltar", "Australia", "Continent"], ["Gibraltar", "Mediterranean_Sea", "Continent"], ["Gibraltar", "North_Africa", "Continent"], ["Gibraltar", "World_War_II", "Continent"], ["Gibraltar", "Ocean", "Continent"], ["Gibraltar", "United_States", "Continent"]]

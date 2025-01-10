@@ -1,1 +1,0 @@
-[["Water_purification", "Calcium", "Great_Salt_Lake"], ["Water_purification", "Drought", "Great_Salt_Lake"], ["Water_purification", "Magnesium", "Great_Salt_Lake"], ["Water_purification", "Mineral", "Great_Salt_Lake"], ["Water_purification", "Potassium", "Great_Salt_Lake"]]

@@ -1,1 +1,0 @@
-[["Wolverine", "Russia", "Famine"], ["Wolverine", "United_States", "Famine"]]

@@ -1,1 +1,0 @@
-[["World_War_I", "Africa", "Falcon"], ["World_War_I", "Canada", "Falcon"], ["World_War_I", "Europe", "Falcon"]]

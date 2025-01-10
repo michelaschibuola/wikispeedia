@@ -1,1 +1,0 @@
-[["Geography", "City", "Amsterdam"], ["Geography", "16th_century", "Amsterdam"], ["Geography", "17th_century", "Amsterdam"], ["Geography", "Berlin", "Amsterdam"], ["Geography", "Europe", "Amsterdam"], ["Geography", "Paris", "Amsterdam"], ["Geography", "Jew", "Amsterdam"]]

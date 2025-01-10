@@ -1,1 +1,0 @@
-[["Emu", "Animal", "Black-backed_Jackal"], ["Emu", "Binomial_nomenclature", "Black-backed_Jackal"], ["Emu", "Chordate", "Black-backed_Jackal"], ["Emu", "Scientific_classification", "Black-backed_Jackal"]]

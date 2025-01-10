@@ -1,1 +1,0 @@
-[["Dolphin", "Ancient_Rome", "Latin_alphabet"], ["Dolphin", "Australia", "Latin_alphabet"], ["Dolphin", "Scrooge_McDuck", "Latin_alphabet"]]

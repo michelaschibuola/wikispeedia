@@ -1,1 +1,0 @@
-[["Hamburg", "North_Sea", "River_Thames"], ["Hamburg", "United_Kingdom", "River_Thames"], ["Hamburg", "River", "River_Thames"]]

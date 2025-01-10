@@ -1,1 +1,0 @@
-[["Eldfell", "Europe", "Chile"], ["Eldfell", "Irish_people", "Chile"], ["Eldfell", "Tourism", "Chile"], ["Eldfell", "United_States", "Chile"], ["Eldfell", "Volcano", "Chile"]]

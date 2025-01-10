@@ -1,1 +1,0 @@
-[["Hubble_Space_Telescope", "United_Kingdom", "Mixed-breed_dog"], ["Hubble_Space_Telescope", "United_States", "Mixed-breed_dog"]]

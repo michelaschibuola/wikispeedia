@@ -1,1 +1,0 @@
-[["Cave", "Africa", "Mount_Kilimanjaro"], ["Cave", "Austria", "Mount_Kilimanjaro"], ["Cave", "Germany", "Mount_Kilimanjaro"]]

@@ -1,1 +1,0 @@
-[["Music_of_the_Bahamas", "Europe", "Acetic_acid"], ["Music_of_the_Bahamas", "Japan", "Acetic_acid"], ["Music_of_the_Bahamas", "United_States", "Acetic_acid"]]

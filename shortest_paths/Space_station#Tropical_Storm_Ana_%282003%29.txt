@@ -1,1 +1,0 @@
-[["Space_station", "International_Space_Station", "Tropical_cyclone", "Tropical_Storm_Ana_%282003%29"], ["Space_station", "Saturn_V", "Atlantic_Ocean", "Tropical_Storm_Ana_%282003%29"], ["Space_station", "City", "Atlantic_Ocean", "Tropical_Storm_Ana_%282003%29"], ["Space_station", "Saturn_V", "Florida", "Tropical_Storm_Ana_%282003%29"]]

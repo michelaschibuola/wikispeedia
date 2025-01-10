@@ -1,1 +1,0 @@
-[["Munich", "Germany", "Kazakhstan"], ["Munich", "Communism", "Kazakhstan"], ["Munich", "German_language", "Kazakhstan"], ["Munich", "Ice_hockey", "Kazakhstan"], ["Munich", "Israel", "Kazakhstan"], ["Munich", "List_of_countries", "Kazakhstan"], ["Munich", "Ukraine", "Kazakhstan"], ["Munich", "United_Kingdom", "Kazakhstan"], ["Munich", "World_War_II", "Kazakhstan"]]

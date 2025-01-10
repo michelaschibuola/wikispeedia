@@ -1,1 +1,0 @@
-[["Minneapolis%2C_Minnesota", "China", "Economy_of_India"], ["Minneapolis%2C_Minnesota", "Germany", "Economy_of_India"], ["Minneapolis%2C_Minnesota", "Japan", "Economy_of_India"], ["Minneapolis%2C_Minnesota", "United_States", "Economy_of_India"]]

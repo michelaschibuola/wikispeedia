@@ -1,1 +1,0 @@
-[["Ringed_Plover", "Animal", "Otter"], ["Ringed_Plover", "Bird", "Otter"], ["Ringed_Plover", "Scientific_classification", "Otter"]]

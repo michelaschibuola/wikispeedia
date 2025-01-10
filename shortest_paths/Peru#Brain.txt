@@ -1,1 +1,0 @@
-[["Peru", "Archaeology", "Brain"], ["Peru", "Copper", "Brain"], ["Peru", "Europe", "Brain"], ["Peru", "Meat", "Brain"], ["Peru", "Mexico", "Brain"], ["Peru", "Zinc", "Brain"]]

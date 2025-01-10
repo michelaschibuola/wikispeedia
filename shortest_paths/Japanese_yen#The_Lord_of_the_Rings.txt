@@ -1,1 +1,0 @@
-[["Japanese_yen", "English_language", "The_Lord_of_the_Rings"], ["Japanese_yen", "United_Kingdom", "The_Lord_of_the_Rings"], ["Japanese_yen", "United_States", "The_Lord_of_the_Rings"], ["Japanese_yen", "World_War_II", "The_Lord_of_the_Rings"]]

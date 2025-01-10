@@ -1,1 +1,0 @@
-[["Stephen_Hawking", "Astronomy", "Glasses"], ["Stephen_Hawking", "China", "Glasses"], ["Stephen_Hawking", "United_Kingdom", "Glasses"], ["Stephen_Hawking", "United_States", "Glasses"]]

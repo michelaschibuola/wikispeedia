@@ -1,1 +1,0 @@
-[["Cholera", "London", "London_Zoo"]]

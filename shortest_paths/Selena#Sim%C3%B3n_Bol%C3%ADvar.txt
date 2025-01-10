@@ -1,1 +1,0 @@
-[["Selena", "Argentina", "Sim%C3%B3n_Bol%C3%ADvar"], ["Selena", "New_York_City", "Sim%C3%B3n_Bol%C3%ADvar"]]

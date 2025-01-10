@@ -1,1 +1,0 @@
-[["Buddhist_art", "Greek_mythology", "Virgil"], ["Buddhist_art", "Roman_Empire", "Virgil"]]

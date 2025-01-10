@@ -1,1 +1,0 @@
-[["Scurvy", "20th_century", "Internet", "Spyware"], ["Scurvy", "Jan_Mayen", "Internet", "Spyware"], ["Scurvy", "Food", "Advertising", "Spyware"]]

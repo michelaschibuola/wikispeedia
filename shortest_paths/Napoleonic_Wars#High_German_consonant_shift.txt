@@ -1,1 +1,0 @@
-[["Napoleonic_Wars", "D%C3%BCsseldorf", "High_German_consonant_shift"], ["Napoleonic_Wars", "Austria", "High_German_consonant_shift"]]

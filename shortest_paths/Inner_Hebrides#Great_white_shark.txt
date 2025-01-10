@@ -1,1 +1,0 @@
-[["Inner_Hebrides", "British_Isles", "BBC", "Great_white_shark"], ["Inner_Hebrides", "British_Isles_%28terminology%29", "BBC", "Great_white_shark"], ["Inner_Hebrides", "Orkney", "Carolus_Linnaeus", "Great_white_shark"], ["Inner_Hebrides", "Orkney", "Fish", "Great_white_shark"], ["Inner_Hebrides", "Scotland", "Canada", "Great_white_shark"]]

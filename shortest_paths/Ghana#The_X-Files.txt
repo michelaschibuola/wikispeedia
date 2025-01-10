@@ -1,1 +1,0 @@
-[["Ghana", "United_Kingdom", "The_X-Files"], ["Ghana", "United_States", "The_X-Files"]]

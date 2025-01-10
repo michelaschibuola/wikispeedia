@@ -1,1 +1,0 @@
-[["Plant", "Animal", "Ascariasis"], ["Plant", "Binomial_nomenclature", "Ascariasis"], ["Plant", "Carolus_Linnaeus", "Ascariasis"], ["Plant", "Scientific_classification", "Ascariasis"], ["Plant", "Sugar", "Ascariasis"]]

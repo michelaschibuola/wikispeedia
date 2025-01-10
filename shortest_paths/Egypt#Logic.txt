@@ -1,1 +1,0 @@
-[["Egypt", "Age_of_Enlightenment", "Logic"], ["Egypt", "Culture", "Logic"], ["Egypt", "Gottfried_Leibniz", "Logic"], ["Egypt", "History_of_science", "Logic"], ["Egypt", "Italian_Renaissance", "Logic"], ["Egypt", "Plato", "Logic"], ["Egypt", "University", "Logic"]]

@@ -1,1 +1,0 @@
-[["Sweden", "19th_century", "Andrew_Jackson"], ["Sweden", "Napoleon_I_of_France", "Andrew_Jackson"]]

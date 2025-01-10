@@ -1,1 +1,0 @@
-[["Tenzin_Gyatso%2C_14th_Dalai_Lama", "Canada", "Western_Front_%28World_War_I%29"], ["Tenzin_Gyatso%2C_14th_Dalai_Lama", "France", "Western_Front_%28World_War_I%29"], ["Tenzin_Gyatso%2C_14th_Dalai_Lama", "United_States", "Western_Front_%28World_War_I%29"]]

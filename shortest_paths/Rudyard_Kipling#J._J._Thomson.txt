@@ -1,1 +1,0 @@
-[["Rudyard_Kipling", "England", "J._J._Thomson"], ["Rudyard_Kipling", "Westminster_Abbey", "J._J._Thomson"]]

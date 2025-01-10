@@ -1,1 +1,0 @@
-[["Cryptography", "Mongolia", "Korea"], ["Cryptography", "People%27s_Republic_of_China", "Korea"], ["Cryptography", "Russia", "Korea"], ["Cryptography", "United_States", "Korea"], ["Cryptography", "World_War_II", "Korea"]]

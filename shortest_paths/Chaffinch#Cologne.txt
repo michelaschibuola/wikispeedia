@@ -1,1 +1,0 @@
-[["Chaffinch", "Belgium", "Cologne"], ["Chaffinch", "Dutch_language", "Cologne"], ["Chaffinch", "Europe", "Cologne"]]

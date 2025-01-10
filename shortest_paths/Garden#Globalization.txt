@@ -1,1 +1,0 @@
-[["Garden", "Art", "Globalization"], ["Garden", "Canada", "Globalization"], ["Garden", "Pollution", "Globalization"], ["Garden", "Tourism", "Globalization"]]

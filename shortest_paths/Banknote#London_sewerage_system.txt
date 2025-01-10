@@ -1,1 +1,0 @@
-[["Banknote", "London", "London_sewerage_system"]]

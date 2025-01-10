@@ -1,1 +1,0 @@
-[["Fusarium", "Contact_lens", "Germany", "Adolf_Hitler"], ["Fusarium", "Contact_lens", "Netherlands", "Adolf_Hitler"], ["Fusarium", "Contact_lens", "United_States", "Adolf_Hitler"], ["Fusarium", "Cornea", "Romania", "Adolf_Hitler"], ["Fusarium", "Scientific_classification", "Parrot", "Adolf_Hitler"], ["Fusarium", "Scientific_classification", "Race", "Adolf_Hitler"]]

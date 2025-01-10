@@ -1,1 +1,0 @@
-[["Internet_Explorer", "Biodiversity", "Rainforest", "Turtle"], ["Internet_Explorer", "Biodiversity", "South_America", "Turtle"], ["Internet_Explorer", "Windows_XP", "South_America", "Turtle"], ["Internet_Explorer", "Biodiversity", "Guyana", "Turtle"]]

@@ -1,1 +1,0 @@
-[["Accra", "Africa", "Sudan"], ["Accra", "France", "Sudan"], ["Accra", "Ghana", "Sudan"], ["Accra", "Portugal", "Sudan"], ["Accra", "Time_zone", "Sudan"], ["Accra", "Global_spread_of_H5N1", "Sudan"], ["Accra", "Malcolm_X", "Sudan"]]

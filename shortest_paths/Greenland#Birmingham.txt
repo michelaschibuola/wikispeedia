@@ -1,1 +1,0 @@
-[["Greenland", "Europe", "Birmingham"], ["Greenland", "Football_%28soccer%29", "Birmingham"], ["Greenland", "Germany", "Birmingham"], ["Greenland", "North_America", "Birmingham"], ["Greenland", "United_States", "Birmingham"], ["Greenland", "Weather", "Birmingham"], ["Greenland", "World_War_II", "Birmingham"]]

@@ -1,1 +1,0 @@
-[["Zebra", "Ostrich", "18th_century"], ["Zebra", "Ethiopia", "18th_century"]]

@@ -1,1 +1,0 @@
-[["HTTP_cookie", "English_language", "The_Hobbit"], ["HTTP_cookie", "United_States", "The_Hobbit"]]

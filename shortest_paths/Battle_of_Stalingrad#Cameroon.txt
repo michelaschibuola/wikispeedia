@@ -1,1 +1,0 @@
-[["Battle_of_Stalingrad", "Croatia", "Cameroon"], ["Battle_of_Stalingrad", "United_States", "Cameroon"], ["Battle_of_Stalingrad", "Germany", "Cameroon"], ["Battle_of_Stalingrad", "Petroleum", "Cameroon"]]

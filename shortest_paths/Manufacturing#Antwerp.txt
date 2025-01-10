@@ -1,1 +1,0 @@
-[["Manufacturing", "Global_city", "Antwerp"], ["Manufacturing", "Europe", "Antwerp"], ["Manufacturing", "Guild", "Antwerp"], ["Manufacturing", "Paris", "Antwerp"], ["Manufacturing", "Shanghai", "Antwerp"]]

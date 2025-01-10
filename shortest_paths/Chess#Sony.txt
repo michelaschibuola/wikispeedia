@@ -1,1 +1,0 @@
-[["Chess", "Italy", "Sony"], ["Chess", "Japan", "Sony"], ["Chess", "Computer_and_video_games", "Sony"]]

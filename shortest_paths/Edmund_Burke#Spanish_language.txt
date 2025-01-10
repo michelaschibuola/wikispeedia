@@ -1,1 +1,0 @@
-[["Edmund_Burke", "18th_century", "Spanish_language"], ["Edmund_Burke", "England", "Spanish_language"], ["Edmund_Burke", "English_language", "Spanish_language"], ["Edmund_Burke", "Europe", "Spanish_language"], ["Edmund_Burke", "London", "Spanish_language"], ["Edmund_Burke", "United_States", "Spanish_language"]]

@@ -1,1 +1,0 @@
-[["Merseburg_Incantations", "German_language", "South_Africa", "Plains_Zebra"], ["Merseburg_Incantations", "Latin", "Angola", "Plains_Zebra"], ["Merseburg_Incantations", "Latin", "Animal", "Plains_Zebra"], ["Merseburg_Incantations", "Latin", "Binomial_nomenclature", "Plains_Zebra"], ["Merseburg_Incantations", "Latin", "Scientific_classification", "Plains_Zebra"]]

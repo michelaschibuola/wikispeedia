@@ -1,1 +1,0 @@
-[["Poetry", "Art", "Money"], ["Poetry", "Human", "Money"], ["Poetry", "Mesopotamia", "Money"], ["Poetry", "Voltaire", "Money"]]

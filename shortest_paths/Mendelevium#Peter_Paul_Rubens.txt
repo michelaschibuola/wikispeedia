@@ -1,1 +1,0 @@
-[["Mendelevium", "Dmitri_Mendeleev", "London", "Peter_Paul_Rubens"], ["Mendelevium", "Color", "Vincent_van_Gogh", "Peter_Paul_Rubens"], ["Mendelevium", "Color", "Painting", "Peter_Paul_Rubens"], ["Mendelevium", "Metal", "Painting", "Peter_Paul_Rubens"]]

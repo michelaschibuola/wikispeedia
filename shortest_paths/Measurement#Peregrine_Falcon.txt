@@ -1,1 +1,0 @@
-[["Measurement", "United_States", "Peregrine_Falcon"]]

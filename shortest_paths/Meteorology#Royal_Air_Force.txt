@@ -1,1 +1,0 @@
-[["Meteorology", "Europe", "Royal_Air_Force"], ["Meteorology", "Latin", "Royal_Air_Force"], ["Meteorology", "Supermarine_Spitfire", "Royal_Air_Force"]]

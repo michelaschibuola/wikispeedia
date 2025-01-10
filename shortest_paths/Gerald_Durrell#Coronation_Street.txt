@@ -1,1 +1,0 @@
-[["Gerald_Durrell", "Australia", "Coronation_Street"], ["Gerald_Durrell", "BBC", "Coronation_Street"], ["Gerald_Durrell", "England", "Coronation_Street"], ["Gerald_Durrell", "Manchester", "Coronation_Street"], ["Gerald_Durrell", "Netherlands", "Coronation_Street"], ["Gerald_Durrell", "New_Zealand", "Coronation_Street"], ["Gerald_Durrell", "United_Kingdom", "Coronation_Street"]]

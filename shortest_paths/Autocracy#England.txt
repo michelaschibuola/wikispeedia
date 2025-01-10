@@ -1,1 +1,0 @@
-[["Autocracy", "Monarchy", "England"], ["Autocracy", "Oligarchy", "England"], ["Autocracy", "Constitutional_monarchy", "England"], ["Autocracy", "Roman_Empire", "England"]]

@@ -1,1 +1,0 @@
-[["Martin_Luther", "England", "Tourism"], ["Martin_Luther", "France", "Tourism"], ["Martin_Luther", "Italy", "Tourism"], ["Martin_Luther", "Rome", "Tourism"]]

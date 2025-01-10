@@ -1,1 +1,0 @@
-[["Cape_Town", "Christianity", "Sassanid_Empire"], ["Cape_Town", "India", "Sassanid_Empire"], ["Cape_Town", "Judaism", "Sassanid_Empire"], ["Cape_Town", "Latin", "Sassanid_Empire"]]

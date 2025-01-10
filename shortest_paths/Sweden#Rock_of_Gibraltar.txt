@@ -1,1 +1,0 @@
-[["Sweden", "Atlantic_Ocean", "Rock_of_Gibraltar"], ["Sweden", "Europe", "Rock_of_Gibraltar"], ["Sweden", "World_War_II", "Rock_of_Gibraltar"]]

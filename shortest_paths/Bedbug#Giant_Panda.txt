@@ -1,1 +1,0 @@
-[["Bedbug", "Animal", "Giant_Panda"], ["Bedbug", "Scientific_classification", "Giant_Panda"], ["Bedbug", "South_America", "Giant_Panda"]]

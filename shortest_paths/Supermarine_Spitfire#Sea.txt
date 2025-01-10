@@ -1,1 +1,0 @@
-[["Supermarine_Spitfire", "Hampshire", "Sea"], ["Supermarine_Spitfire", "New_Zealand", "Sea"], ["Supermarine_Spitfire", "Turkey", "Sea"]]

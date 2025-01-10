@@ -1,1 +1,0 @@
-[["Baghdad", "Electricity", "Waste_management"], ["Baghdad", "Infrastructure", "Waste_management"], ["Baghdad", "Transport", "Waste_management"], ["Baghdad", "United_States", "Waste_management"]]

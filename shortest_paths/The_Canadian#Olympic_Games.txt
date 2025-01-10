@@ -1,1 +1,0 @@
-[["The_Canadian", "Canada", "Olympic_Games"], ["The_Canadian", "United_States", "Olympic_Games"], ["The_Canadian", "World_War_II", "Olympic_Games"]]

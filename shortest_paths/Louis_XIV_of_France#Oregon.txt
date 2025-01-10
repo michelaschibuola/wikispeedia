@@ -1,1 +1,0 @@
-[["Louis_XIV_of_France", "French_language", "Oregon"], ["Louis_XIV_of_France", "North_America", "Oregon"], ["Louis_XIV_of_France", "Spain", "Oregon"], ["Louis_XIV_of_France", "United_States", "Oregon"], ["Louis_XIV_of_France", "U.S._state", "Oregon"]]

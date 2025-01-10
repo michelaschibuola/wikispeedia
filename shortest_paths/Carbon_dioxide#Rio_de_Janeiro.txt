@@ -1,1 +1,0 @@
-[["Carbon_dioxide", "United_States", "Rio_de_Janeiro"], ["Carbon_dioxide", "Germany", "Rio_de_Janeiro"], ["Carbon_dioxide", "Kyoto_Protocol", "Rio_de_Janeiro"]]

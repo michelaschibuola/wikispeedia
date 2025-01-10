@@ -1,1 +1,0 @@
-[["Tsunami", "Indonesia", "Indonesian_language"], ["Tsunami", "Krakatoa", "Indonesian_language"], ["Tsunami", "Sumatra", "Indonesian_language"], ["Tsunami", "India", "Indonesian_language"], ["Tsunami", "Malaysia", "Indonesian_language"], ["Tsunami", "Religion", "Indonesian_language"]]

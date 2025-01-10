@@ -1,1 +1,0 @@
-[["Roman_Britain", "Architecture", "Light", "Optical_telescope"], ["Roman_Britain", "Ireland", "Telescope", "Optical_telescope"], ["Roman_Britain", "Tower_of_London", "Telescope", "Optical_telescope"], ["Roman_Britain", "Iron", "Asteroid", "Optical_telescope"], ["Roman_Britain", "United_Kingdom", "Binoculars", "Optical_telescope"]]

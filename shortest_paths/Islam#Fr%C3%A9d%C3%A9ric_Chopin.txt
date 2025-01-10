@@ -1,1 +1,0 @@
-[["Islam", "England", "Fr%C3%A9d%C3%A9ric_Chopin"], ["Islam", "France", "Fr%C3%A9d%C3%A9ric_Chopin"], ["Islam", "19th_century", "Fr%C3%A9d%C3%A9ric_Chopin"], ["Islam", "Russia", "Fr%C3%A9d%C3%A9ric_Chopin"], ["Islam", "Nationalism", "Fr%C3%A9d%C3%A9ric_Chopin"], ["Islam", "Scotland", "Fr%C3%A9d%C3%A9ric_Chopin"]]

@@ -1,1 +1,0 @@
-[["Government_of_France", "Currency", "Indonesia"], ["Government_of_France", "Television", "Indonesia"]]

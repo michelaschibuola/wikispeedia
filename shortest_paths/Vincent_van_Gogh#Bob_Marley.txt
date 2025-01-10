@@ -1,1 +1,0 @@
-[["Vincent_van_Gogh", "London", "Bob_Marley"], ["Vincent_van_Gogh", "New_York_City", "Bob_Marley"]]

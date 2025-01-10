@@ -1,1 +1,0 @@
-[["Postage_stamp", "Belgium", "Cheese"], ["Postage_stamp", "Bhutan", "Cheese"], ["Postage_stamp", "Brazil", "Cheese"], ["Postage_stamp", "Europe", "Cheese"], ["Postage_stamp", "Switzerland", "Cheese"], ["Postage_stamp", "United_States", "Cheese"], ["Postage_stamp", "San_Marino", "Cheese"]]

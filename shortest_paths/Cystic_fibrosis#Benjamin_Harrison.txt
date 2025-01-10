@@ -1,1 +1,0 @@
-[["Cystic_fibrosis", "Pneumonia", "Benjamin_Harrison"], ["Cystic_fibrosis", "Tuberculosis", "Benjamin_Harrison"]]

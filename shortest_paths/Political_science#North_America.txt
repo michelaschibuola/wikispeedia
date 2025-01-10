@@ -1,1 +1,0 @@
-[["Political_science", "Human_rights", "North_America"], ["Political_science", "Anthropology", "North_America"]]

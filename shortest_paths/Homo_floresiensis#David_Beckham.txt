@@ -1,1 +1,0 @@
-[["Homo_floresiensis", "Australia", "David_Beckham"]]

@@ -1,1 +1,0 @@
-[["Paul_McCartney", "London", "Mexico_City"], ["Paul_McCartney", "New_York_City", "Mexico_City"], ["Paul_McCartney", "Tokyo", "Mexico_City"], ["Paul_McCartney", "United_States", "Mexico_City"]]

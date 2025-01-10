@@ -1,1 +1,0 @@
-[["Cheese", "Ancient_Egypt", "Trigonometry"]]

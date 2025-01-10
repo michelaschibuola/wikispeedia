@@ -1,1 +1,0 @@
-[["Common_Tern", "Animal", "Stegosaurus"], ["Common_Tern", "Binomial_nomenclature", "Stegosaurus"], ["Common_Tern", "Chordate", "Stegosaurus"], ["Common_Tern", "North_America", "Stegosaurus"], ["Common_Tern", "Scientific_classification", "Stegosaurus"]]

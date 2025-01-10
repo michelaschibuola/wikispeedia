@@ -1,1 +1,0 @@
-[["Coal", "United_States", "Pollinator_decline"], ["Coal", "Plant", "Pollinator_decline"]]

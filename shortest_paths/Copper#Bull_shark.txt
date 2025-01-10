@@ -1,1 +1,0 @@
-[["Copper", "Australia", "Bull_shark"]]

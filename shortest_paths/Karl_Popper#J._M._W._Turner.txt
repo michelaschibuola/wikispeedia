@@ -1,1 +1,0 @@
-[["Karl_Popper", "England", "J._M._W._Turner"], ["Karl_Popper", "London", "J._M._W._Turner"], ["Karl_Popper", "United_Kingdom", "J._M._W._Turner"]]

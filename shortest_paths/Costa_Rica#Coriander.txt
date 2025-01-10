@@ -1,1 +1,0 @@
-[["Costa_Rica", "Asia", "Coriander"], ["Costa_Rica", "Germany", "Coriander"], ["Costa_Rica", "Middle_East", "Coriander"], ["Costa_Rica", "Plant", "Coriander"], ["Costa_Rica", "Spanish_language", "Coriander"], ["Costa_Rica", "United_States", "Coriander"], ["Costa_Rica", "Latin_America", "Coriander"]]

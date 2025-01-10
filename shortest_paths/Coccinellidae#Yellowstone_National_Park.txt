@@ -1,1 +1,0 @@
-[["Coccinellidae", "Europe", "Yellowstone_National_Park"], ["Coccinellidae", "North_America", "Yellowstone_National_Park"]]

@@ -1,1 +1,0 @@
-[["Guinea", "French_language", "Edward_III_of_England"], ["Guinea", "France", "Edward_III_of_England"]]

@@ -1,1 +1,0 @@
-[["Caravaggio", "Painting", "Sand"]]

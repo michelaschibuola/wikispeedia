@@ -1,1 +1,0 @@
-[["Bill_Clinton", "California", "Pyramid"], ["Bill_Clinton", "United_States", "Pyramid"]]

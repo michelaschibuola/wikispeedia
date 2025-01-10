@@ -1,1 +1,0 @@
-[["Quantum_mechanics", "Electron", "Europium"], ["Quantum_mechanics", "Magnetism", "Europium"], ["Quantum_mechanics", "Periodic_table", "Europium"], ["Quantum_mechanics", "Neutron", "Europium"]]

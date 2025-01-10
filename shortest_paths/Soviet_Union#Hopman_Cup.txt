@@ -1,1 +1,0 @@
-[["Soviet_Union", "Czech_Republic", "Hopman_Cup"], ["Soviet_Union", "Fed_Cup", "Hopman_Cup"], ["Soviet_Union", "Germany", "Hopman_Cup"], ["Soviet_Union", "Slovakia", "Hopman_Cup"], ["Soviet_Union", "United_States", "Hopman_Cup"], ["Soviet_Union", "Spain", "Hopman_Cup"], ["Soviet_Union", "Yugoslavia", "Hopman_Cup"]]

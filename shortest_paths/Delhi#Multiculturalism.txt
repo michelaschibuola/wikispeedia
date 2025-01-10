@@ -1,1 +1,0 @@
-[["Delhi", "19th_century", "Multiculturalism"], ["Delhi", "British_Empire", "Multiculturalism"], ["Delhi", "Mosque", "Multiculturalism"], ["Delhi", "Slavery", "Multiculturalism"]]

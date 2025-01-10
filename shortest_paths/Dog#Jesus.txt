@@ -1,1 +1,0 @@
-[["Dog", "Animal_rights", "Jesus"], ["Dog", "Athanasius_Kircher", "Jesus"], ["Dog", "Chicken", "Jesus"], ["Dog", "English_language", "Jesus"], ["Dog", "Elizabeth_II_of_the_United_Kingdom", "Jesus"]]

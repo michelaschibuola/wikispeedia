@@ -1,1 +1,0 @@
-[["Sydney", "Manchester", "M1_motorway"], ["Sydney", "London", "M1_motorway"], ["Sydney", "United_Kingdom", "M1_motorway"]]

@@ -1,1 +1,0 @@
-[["Minoan_civilization", "Atlantis", "Sweden"], ["Minoan_civilization", "Bronze_Age", "Sweden"], ["Minoan_civilization", "Cattle", "Sweden"], ["Minoan_civilization", "Clay", "Sweden"], ["Minoan_civilization", "Fish", "Sweden"], ["Minoan_civilization", "Greece", "Sweden"], ["Minoan_civilization", "Iron_Age", "Sweden"], ["Minoan_civilization", "Tree", "Sweden"]]

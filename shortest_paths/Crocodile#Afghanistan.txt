@@ -1,1 +1,0 @@
-[["Crocodile", "Asia", "Afghanistan"], ["Crocodile", "River", "Afghanistan"], ["Crocodile", "Geography_of_India", "Afghanistan"]]

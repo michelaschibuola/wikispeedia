@@ -1,1 +1,0 @@
-[["Thucydides", "Greek_mythology", "Apollo"], ["Thucydides", "Athens", "Apollo"], ["Thucydides", "Herodotus", "Apollo"], ["Thucydides", "Trojan_War", "Apollo"]]

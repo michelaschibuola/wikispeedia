@@ -1,1 +1,0 @@
-[["George_W._Bush", "Europe", "The_Brothers_Karamazov"], ["George_W._Bush", "Jesus", "The_Brothers_Karamazov"], ["George_W._Bush", "Philosophy", "The_Brothers_Karamazov"], ["George_W._Bush", "Russia", "The_Brothers_Karamazov"]]

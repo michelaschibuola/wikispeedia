@@ -1,1 +1,0 @@
-[["Ornithischia", "Iguanodon", "France", "Parthenon"], ["Ornithischia", "Jurassic", "France", "Parthenon"], ["Ornithischia", "Stegosaurus", "France", "Parthenon"], ["Ornithischia", "Jurassic", "United_Kingdom", "Parthenon"]]

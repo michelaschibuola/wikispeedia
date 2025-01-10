@@ -1,1 +1,0 @@
-[["Corinthian_War", "Ancient_Greece", "Physics", "Isospin"], ["Corinthian_War", "Egypt", "Symmetry", "Isospin"]]

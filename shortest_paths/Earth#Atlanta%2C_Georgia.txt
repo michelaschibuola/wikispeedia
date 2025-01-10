@@ -1,1 +1,0 @@
-[["Earth", "Atlantic_Ocean", "Atlanta%2C_Georgia"], ["Earth", "Baseball", "Atlanta%2C_Georgia"], ["Earth", "Australia", "Atlanta%2C_Georgia"], ["Earth", "United_States", "Atlanta%2C_Georgia"], ["Earth", "Granite", "Atlanta%2C_Georgia"], ["Earth", "Time_zone", "Atlanta%2C_Georgia"], ["Earth", "United_Kingdom", "Atlanta%2C_Georgia"]]

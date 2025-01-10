@@ -1,1 +1,0 @@
-[["Household_income_in_the_United_States", "California", "Alice%27s_Adventures_in_Wonderland"], ["Household_income_in_the_United_States", "England", "Alice%27s_Adventures_in_Wonderland"], ["Household_income_in_the_United_States", "United_States", "Alice%27s_Adventures_in_Wonderland"]]

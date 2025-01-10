@@ -1,1 +1,0 @@
-[["Asia", "20th_century", "Existentialism"], ["Asia", "Bible", "Existentialism"], ["Asia", "World_War_II", "Existentialism"], ["Asia", "Germany", "Existentialism"], ["Asia", "Mysticism", "Existentialism"]]

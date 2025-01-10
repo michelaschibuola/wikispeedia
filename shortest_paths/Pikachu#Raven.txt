@@ -1,1 +1,0 @@
-[["Pikachu", "North_America", "Raven"]]

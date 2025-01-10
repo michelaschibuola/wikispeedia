@@ -1,1 +1,0 @@
-[["Equatorial_Guinea", "Continent", "Fox"], ["Equatorial_Guinea", "Slovenia", "Fox"]]

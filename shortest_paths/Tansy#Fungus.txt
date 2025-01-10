@@ -1,1 +1,0 @@
-[["Tansy", "Ant", "Fungus"], ["Tansy", "Binomial_nomenclature", "Fungus"], ["Tansy", "Carolus_Linnaeus", "Fungus"], ["Tansy", "Plant", "Fungus"], ["Tansy", "Scientific_classification", "Fungus"]]

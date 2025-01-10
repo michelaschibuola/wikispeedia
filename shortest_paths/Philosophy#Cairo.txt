@@ -1,1 +1,0 @@
-[["Philosophy", "Bertrand_Russell", "Cairo"], ["Philosophy", "Africa", "Cairo"], ["Philosophy", "Baghdad", "Cairo"], ["Philosophy", "Islam", "Cairo"], ["Philosophy", "Middle_East", "Cairo"], ["Philosophy", "North_Africa", "Cairo"], ["Philosophy", "United_States", "Cairo"], ["Philosophy", "Roman_Empire", "Cairo"]]

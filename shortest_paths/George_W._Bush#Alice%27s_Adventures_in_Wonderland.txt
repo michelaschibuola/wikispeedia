@@ -1,1 +1,0 @@
-[["George_W._Bush", "England", "Alice%27s_Adventures_in_Wonderland"], ["George_W._Bush", "France", "Alice%27s_Adventures_in_Wonderland"], ["George_W._Bush", "New_York_City", "Alice%27s_Adventures_in_Wonderland"], ["George_W._Bush", "United_States", "Alice%27s_Adventures_in_Wonderland"], ["George_W._Bush", "Japan", "Alice%27s_Adventures_in_Wonderland"]]

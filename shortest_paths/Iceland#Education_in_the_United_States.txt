@@ -1,1 +1,0 @@
-[["Iceland", "English_language", "Education_in_the_United_States"], ["Iceland", "German_language", "Education_in_the_United_States"], ["Iceland", "United_States", "Education_in_the_United_States"]]

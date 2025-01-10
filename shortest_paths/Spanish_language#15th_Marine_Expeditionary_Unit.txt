@@ -1,1 +1,0 @@
-[["Spanish_language", "California", "15th_Marine_Expeditionary_Unit"], ["Spanish_language", "Australia", "15th_Marine_Expeditionary_Unit"], ["Spanish_language", "United_Kingdom", "15th_Marine_Expeditionary_Unit"], ["Spanish_language", "United_States", "15th_Marine_Expeditionary_Unit"]]

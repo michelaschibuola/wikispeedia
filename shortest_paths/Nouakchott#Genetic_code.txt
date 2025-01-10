@@ -1,1 +1,0 @@
-[["Nouakchott", "Africa", "Biology", "Genetic_code"], ["Nouakchott", "Africa", "Malaria", "Genetic_code"], ["Nouakchott", "Africa", "Sickle-cell_disease", "Genetic_code"]]

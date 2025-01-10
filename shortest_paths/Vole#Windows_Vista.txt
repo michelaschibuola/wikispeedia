@@ -1,1 +1,0 @@
-[["Vole", "Microsoft", "Windows_Vista"]]

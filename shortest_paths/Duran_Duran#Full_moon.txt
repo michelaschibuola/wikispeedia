@@ -1,1 +1,0 @@
-[["Duran_Duran", "Australia", "Full_moon"], ["Duran_Duran", "England", "Full_moon"]]

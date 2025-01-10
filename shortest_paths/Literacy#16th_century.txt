@@ -1,1 +1,0 @@
-[["Literacy", "Anglo-Saxon_literature", "16th_century"], ["Literacy", "History_of_Greece", "16th_century"], ["Literacy", "19th_century", "16th_century"], ["Literacy", "India", "16th_century"], ["Literacy", "Sweden", "16th_century"]]

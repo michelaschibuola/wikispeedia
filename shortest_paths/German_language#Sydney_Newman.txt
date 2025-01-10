@@ -1,1 +1,0 @@
-[["German_language", "Canada", "Sydney_Newman"], ["German_language", "Russia", "Sydney_Newman"], ["German_language", "United_Kingdom", "Sydney_Newman"]]

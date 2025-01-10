@@ -1,1 +1,0 @@
-[["IG_Farben_Building", "Germany", "Vienna"], ["IG_Farben_Building", "World_War_II", "Vienna"]]

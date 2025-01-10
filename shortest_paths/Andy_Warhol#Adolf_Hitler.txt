@@ -1,1 +1,0 @@
-[["Andy_Warhol", "United_States", "Adolf_Hitler"], ["Andy_Warhol", "Art", "Adolf_Hitler"], ["Andy_Warhol", "The_Adventures_of_Tintin", "Adolf_Hitler"]]

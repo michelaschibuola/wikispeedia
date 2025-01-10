@@ -1,1 +1,0 @@
-[["Karl_Popper", "20th_century", "Yeti"], ["Karl_Popper", "London", "Yeti"]]

@@ -1,1 +1,0 @@
-[["Berlin_Wall", "United_States", "Calgary"], ["Berlin_Wall", "Europe", "Calgary"], ["Berlin_Wall", "Winston_Churchill", "Calgary"]]

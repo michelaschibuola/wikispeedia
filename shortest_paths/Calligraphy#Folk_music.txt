@@ -1,1 +1,0 @@
-[["Calligraphy", "Bible", "Folk_music"], ["Calligraphy", "England", "Folk_music"], ["Calligraphy", "Nepal", "Folk_music"], ["Calligraphy", "Ottoman_Empire", "Folk_music"]]

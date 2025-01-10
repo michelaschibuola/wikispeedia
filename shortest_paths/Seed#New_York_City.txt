@@ -1,1 +1,0 @@
-[["Seed", "Celery", "New_York_City"], ["Seed", "Israel", "New_York_City"], ["Seed", "Tobacco", "New_York_City"]]

@@ -1,1 +1,0 @@
-[["Antarctica", "Europe", "Isaac_Brock"], ["Antarctica", "France", "Isaac_Brock"], ["Antarctica", "United_States", "Isaac_Brock"]]

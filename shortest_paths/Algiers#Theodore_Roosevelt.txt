@@ -1,1 +1,0 @@
-[["Algiers", "France", "Theodore_Roosevelt"], ["Algiers", "Germany", "Theodore_Roosevelt"], ["Algiers", "Morocco", "Theodore_Roosevelt"], ["Algiers", "New_York_City", "Theodore_Roosevelt"], ["Algiers", "Russia", "Theodore_Roosevelt"]]

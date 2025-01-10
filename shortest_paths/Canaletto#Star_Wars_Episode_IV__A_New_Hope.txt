@@ -1,1 +1,0 @@
-[["Canaletto", "Austria", "Stargate_SG-1", "Star_Wars_Episode_IV__A_New_Hope"], ["Canaletto", "Impressionism", "20th_century", "Star_Wars_Episode_IV__A_New_Hope"], ["Canaletto", "Westminster_Abbey", "20th_century", "Star_Wars_Episode_IV__A_New_Hope"]]

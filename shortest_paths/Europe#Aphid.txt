@@ -1,1 +1,0 @@
-[["Europe", "Blue_Tit", "Aphid"], ["Europe", "Carboniferous", "Aphid"], ["Europe", "Coccinellidae", "Aphid"], ["Europe", "Cretaceous", "Aphid"], ["Europe", "Honey", "Aphid"], ["Europe", "Maize", "Aphid"], ["Europe", "New_Zealand", "Aphid"]]

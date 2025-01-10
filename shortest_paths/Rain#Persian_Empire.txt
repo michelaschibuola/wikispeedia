@@ -1,1 +1,0 @@
-[["Rain", "Delhi", "Persian_Empire"], ["Rain", "Africa", "Persian_Empire"], ["Rain", "India", "Persian_Empire"], ["Rain", "Middle_East", "Persian_Empire"]]

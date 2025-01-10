@@ -1,1 +1,0 @@
-[["Humpback_Whale", "Great_Barrier_Reef", "Global_warming"], ["Humpback_Whale", "Extinction", "Global_warming"], ["Humpback_Whale", "Ocean", "Global_warming"], ["Humpback_Whale", "United_States", "Global_warming"]]

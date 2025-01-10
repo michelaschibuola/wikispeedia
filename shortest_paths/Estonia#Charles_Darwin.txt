@@ -1,1 +1,0 @@
-[["Estonia", "19th_century", "Charles_Darwin"], ["Estonia", "20th_century", "Charles_Darwin"], ["Estonia", "Atheism", "Charles_Darwin"], ["Estonia", "Germany", "Charles_Darwin"], ["Estonia", "Nazi_Germany", "Charles_Darwin"]]

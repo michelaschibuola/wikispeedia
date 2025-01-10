@@ -1,1 +1,0 @@
-[["Laozi", "Atheism", "Ancient_Greece", "Epaminondas"], ["Laozi", "Plato", "Ancient_Greece", "Epaminondas"], ["Laozi", "Plato", "Athens", "Epaminondas"], ["Laozi", "Plato", "Battle_of_Marathon", "Epaminondas"], ["Laozi", "Plato", "History_of_Greece", "Epaminondas"], ["Laozi", "Philosophy", "Alexander_the_Great", "Epaminondas"]]

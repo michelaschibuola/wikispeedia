@@ -1,1 +1,0 @@
-[["Mediterranean_Sea", "Africa", "Lesotho"], ["Mediterranean_Sea", "European_Union", "Lesotho"], ["Mediterranean_Sea", "Germany", "Lesotho"], ["Mediterranean_Sea", "List_of_rivers_by_length", "Lesotho"], ["Mediterranean_Sea", "South_Africa", "Lesotho"]]

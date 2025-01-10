@@ -1,1 +1,0 @@
-[["East_Africa", "Ancient_Egypt", "Honey"], ["East_Africa", "Europe", "Honey"], ["East_Africa", "Milk", "Honey"], ["East_Africa", "Tea", "Honey"]]

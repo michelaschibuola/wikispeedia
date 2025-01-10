@@ -1,1 +1,0 @@
-[["African_American_literature", "France", "Cider"], ["African_American_literature", "French_language", "Cider"], ["African_American_literature", "United_States", "Cider"]]

@@ -1,1 +1,0 @@
-[["Democracy", "Human", "Vertebrate"]]

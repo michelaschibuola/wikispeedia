@@ -1,1 +1,0 @@
-[["Photography", "Art", "Poetry"], ["Photography", "Nature", "Poetry"], ["Photography", "Painting", "Poetry"], ["Photography", "Aesthetics", "Poetry"]]

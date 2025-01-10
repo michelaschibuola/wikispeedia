@@ -1,1 +1,0 @@
-[["Coin", "Birmingham", "Southampton"], ["Coin", "Australia", "Southampton"], ["Coin", "Canada", "Southampton"], ["Coin", "China", "Southampton"], ["Coin", "United_Kingdom", "Southampton"], ["Coin", "Roman_Britain", "Southampton"]]

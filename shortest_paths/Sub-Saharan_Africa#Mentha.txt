@@ -1,1 +1,0 @@
-[["Sub-Saharan_Africa", "Asia", "Mentha"], ["Sub-Saharan_Africa", "Europe", "Mentha"], ["Sub-Saharan_Africa", "North_America", "Mentha"]]

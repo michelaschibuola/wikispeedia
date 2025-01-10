@@ -1,1 +1,0 @@
-[["Henry_IV_of_England", "Norway", "Fish", "Chromatophore"], ["Henry_IV_of_England", "Sweden", "Fish", "Chromatophore"], ["Henry_IV_of_England", "Peregrine_Falcon", "Animal", "Chromatophore"], ["Henry_IV_of_England", "Peregrine_Falcon", "Bird", "Chromatophore"]]

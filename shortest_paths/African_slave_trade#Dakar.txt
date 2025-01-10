@@ -1,1 +1,0 @@
-[["African_slave_trade", "Portugal", "Dakar"], ["African_slave_trade", "Scramble_for_Africa", "Dakar"], ["African_slave_trade", "United_States", "Dakar"]]

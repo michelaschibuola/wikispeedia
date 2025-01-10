@@ -1,1 +1,0 @@
-[["Eruption_column", "Gravitation", "Physical_science"], ["Eruption_column", "Weather", "Physical_science"]]

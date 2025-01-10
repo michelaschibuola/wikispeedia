@@ -1,1 +1,0 @@
-[["Celery", "Binomial_nomenclature", "Black_Rhinoceros"], ["Celery", "Carolus_Linnaeus", "Black_Rhinoceros"], ["Celery", "Scientific_classification", "Black_Rhinoceros"]]

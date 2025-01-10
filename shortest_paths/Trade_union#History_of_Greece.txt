@@ -1,1 +1,0 @@
-[["Trade_union", "Adolf_Hitler", "History_of_Greece"], ["Trade_union", "Libya", "History_of_Greece"], ["Trade_union", "18th_century", "History_of_Greece"], ["Trade_union", "France", "History_of_Greece"], ["Trade_union", "Germany", "History_of_Greece"], ["Trade_union", "World_War_I", "History_of_Greece"]]

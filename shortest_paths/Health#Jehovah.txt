@@ -1,1 +1,0 @@
-[["Health", "El_Hatillo_Municipality%2C_Miranda", "Jesus", "Jehovah"], ["Health", "El_Hatillo_Municipality%2C_Miranda", "Switzerland", "Jehovah"], ["Health", "World_Health_Organization", "Switzerland", "Jehovah"], ["Health", "Tourism", "Switzerland", "Jehovah"]]

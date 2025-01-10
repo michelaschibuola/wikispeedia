@@ -1,1 +1,0 @@
-[["Jupiter", "China", "Swan"], ["Jupiter", "Japan", "Swan"]]

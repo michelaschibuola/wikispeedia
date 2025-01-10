@@ -1,1 +1,0 @@
-[["Crimean_Karaites", "Europe", "Luftwaffe"], ["Crimean_Karaites", "The_Holocaust", "Luftwaffe"], ["Crimean_Karaites", "United_States", "Luftwaffe"], ["Crimean_Karaites", "World_War_II", "Luftwaffe"]]

@@ -1,1 +1,0 @@
-[["Airbus_A380", "France", "Libertarianism"], ["Airbus_A380", "Germany", "Libertarianism"]]

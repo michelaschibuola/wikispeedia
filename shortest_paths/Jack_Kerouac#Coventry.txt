@@ -1,1 +1,0 @@
-[["Jack_Kerouac", "Canada", "Coventry"], ["Jack_Kerouac", "United_States", "Coventry"], ["Jack_Kerouac", "World_War_II", "Coventry"]]

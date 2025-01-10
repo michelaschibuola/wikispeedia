@@ -1,1 +1,0 @@
-[["Berlin", "Athens", "Stoicism"], ["Berlin", "Roman_Catholic_Church", "Stoicism"], ["Berlin", "United_States", "Stoicism"]]

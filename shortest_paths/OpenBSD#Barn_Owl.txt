@@ -1,1 +1,0 @@
-[["OpenBSD", "Calgary", "Europe", "Barn_Owl"], ["OpenBSD", "Mozilla_Firefox", "Europe", "Barn_Owl"], ["OpenBSD", "Open_source", "Australia", "Barn_Owl"]]

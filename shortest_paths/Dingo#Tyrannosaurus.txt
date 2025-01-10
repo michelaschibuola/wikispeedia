@@ -1,1 +1,0 @@
-[["Dingo", "Animal", "Tyrannosaurus"], ["Dingo", "Carnivore", "Tyrannosaurus"], ["Dingo", "Chordate", "Tyrannosaurus"], ["Dingo", "Kangaroo", "Tyrannosaurus"], ["Dingo", "Mammal", "Tyrannosaurus"], ["Dingo", "Scientific_classification", "Tyrannosaurus"]]

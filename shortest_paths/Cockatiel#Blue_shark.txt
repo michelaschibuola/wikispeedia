@@ -1,1 +1,0 @@
-[["Cockatiel", "Animal", "Blue_shark"], ["Cockatiel", "Binomial_nomenclature", "Blue_shark"], ["Cockatiel", "Chordate", "Blue_shark"], ["Cockatiel", "Scientific_classification", "Blue_shark"]]

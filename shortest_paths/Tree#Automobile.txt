@@ -1,1 +1,0 @@
-[["Tree", "Beijing", "Automobile"], ["Tree", "Los_Angeles%2C_California", "Automobile"], ["Tree", "Suburbs_of_Johannesburg", "Automobile"], ["Tree", "Transport", "Automobile"], ["Tree", "Mexico", "Automobile"], ["Tree", "Sunlight", "Automobile"]]

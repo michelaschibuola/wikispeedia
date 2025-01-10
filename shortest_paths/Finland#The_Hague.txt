@@ -1,1 +1,0 @@
-[["Finland", "Europe", "The_Hague"], ["Finland", "European_Union", "The_Hague"], ["Finland", "France", "The_Hague"], ["Finland", "NATO", "The_Hague"], ["Finland", "Netherlands", "The_Hague"], ["Finland", "United_Nations", "The_Hague"], ["Finland", "World_War_II", "The_Hague"], ["Finland", "Law", "The_Hague"], ["Finland", "Library", "The_Hague"]]

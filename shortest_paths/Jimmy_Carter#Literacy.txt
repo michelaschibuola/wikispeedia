@@ -1,1 +1,0 @@
-[["Jimmy_Carter", "Cuba", "Literacy"], ["Jimmy_Carter", "India", "Literacy"], ["Jimmy_Carter", "Israel", "Literacy"], ["Jimmy_Carter", "Latin_America", "Literacy"], ["Jimmy_Carter", "United_Kingdom", "Literacy"], ["Jimmy_Carter", "United_Nations", "Literacy"]]

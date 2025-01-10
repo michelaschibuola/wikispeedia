@@ -1,1 +1,0 @@
-[["Mecca", "City", "Istanbul"], ["Mecca", "Indonesia", "Istanbul"], ["Mecca", "Islam", "Istanbul"], ["Mecca", "Saudi_Arabia", "Istanbul"], ["Mecca", "Mosque", "Istanbul"], ["Mecca", "Qur%27an", "Istanbul"], ["Mecca", "Suleiman_the_Magnificent", "Istanbul"]]

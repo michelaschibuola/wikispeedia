@@ -1,1 +1,0 @@
-[["Bandicoot", "Animal", "Domestic_goat"], ["Bandicoot", "Chordate", "Domestic_goat"], ["Bandicoot", "Mammal", "Domestic_goat"], ["Bandicoot", "Scientific_classification", "Domestic_goat"], ["Bandicoot", "Fauna_of_Australia", "Domestic_goat"]]

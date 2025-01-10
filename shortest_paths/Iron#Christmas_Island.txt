@@ -1,1 +1,0 @@
-[["Iron", "Japan", "Christmas_Island"], ["Iron", "Moon", "Christmas_Island"], ["Iron", "Perth%2C_Western_Australia", "Christmas_Island"]]

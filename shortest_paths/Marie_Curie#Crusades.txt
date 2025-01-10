@@ -1,1 +1,0 @@
-[["Marie_Curie", "France", "Crusades"], ["Marie_Curie", "Jew", "Crusades"], ["Marie_Curie", "Poland", "Crusades"], ["Marie_Curie", "World_War_I", "Crusades"]]

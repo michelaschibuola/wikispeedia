@@ -1,1 +1,0 @@
-[["Impressionism", "Germany", "Newcastle_upon_Tyne"], ["Impressionism", "Italy", "Newcastle_upon_Tyne"], ["Impressionism", "London", "Newcastle_upon_Tyne"]]

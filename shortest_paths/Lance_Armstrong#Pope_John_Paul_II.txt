@@ -1,1 +1,0 @@
-[["Lance_Armstrong", "21st_century", "Pope_John_Paul_II"], ["Lance_Armstrong", "France", "Pope_John_Paul_II"], ["Lance_Armstrong", "George_W._Bush", "Pope_John_Paul_II"], ["Lance_Armstrong", "Spain", "Pope_John_Paul_II"], ["Lance_Armstrong", "United_States", "Pope_John_Paul_II"]]

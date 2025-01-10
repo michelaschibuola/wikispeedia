@@ -1,1 +1,0 @@
-[["John_Howard", "Indonesia", "Battle_of_Midway"], ["John_Howard", "United_States", "Battle_of_Midway"]]

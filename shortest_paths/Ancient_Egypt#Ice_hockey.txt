@@ -1,1 +1,0 @@
-[["Ancient_Egypt", "Egypt", "Ice_hockey"], ["Ancient_Egypt", "Berlin", "Ice_hockey"], ["Ancient_Egypt", "Chicago", "Ice_hockey"], ["Ancient_Egypt", "Stargate_SG-1", "Ice_hockey"]]

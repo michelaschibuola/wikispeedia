@@ -1,1 +1,0 @@
-[["Police_state", "People%27s_Republic_of_China", "Bird", "Puffin"], ["Police_state", "Nazi_Germany", "Faroe_Islands", "Puffin"], ["Police_state", "Nineteen_Eighty-Four", "Faroe_Islands", "Puffin"], ["Police_state", "United_Kingdom", "Faroe_Islands", "Puffin"]]

@@ -1,1 +1,0 @@
-[["British_Empire", "Dante_Alighieri", "Medieval_music"], ["British_Empire", "Germany", "Medieval_music"], ["British_Empire", "Italy", "Medieval_music"], ["British_Empire", "Jew", "Medieval_music"], ["British_Empire", "Spain", "Medieval_music"]]

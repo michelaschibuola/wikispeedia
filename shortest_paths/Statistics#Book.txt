@@ -1,1 +1,0 @@
-[["Statistics", "Library", "Book"], ["Statistics", "19th_century", "Book"], ["Statistics", "Voynich_manuscript", "Book"]]

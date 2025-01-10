@@ -1,1 +1,0 @@
-[["Volcano", "Continent", "Atlantic_slave_trade"], ["Volcano", "Russia", "Atlantic_slave_trade"], ["Volcano", "S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe", "Atlantic_slave_trade"], ["Volcano", "United_States", "Atlantic_slave_trade"], ["Volcano", "Mexico", "Atlantic_slave_trade"], ["Volcano", "Spain", "Atlantic_slave_trade"]]

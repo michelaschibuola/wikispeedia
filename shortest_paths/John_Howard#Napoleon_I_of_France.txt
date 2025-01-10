@@ -1,1 +1,0 @@
-[["John_Howard", "Islam", "Napoleon_I_of_France"], ["John_Howard", "Norway", "Napoleon_I_of_France"], ["John_Howard", "Russia", "Napoleon_I_of_France"], ["John_Howard", "Saint_Petersburg", "Napoleon_I_of_France"], ["John_Howard", "United_Kingdom", "Napoleon_I_of_France"], ["John_Howard", "United_States", "Napoleon_I_of_France"]]

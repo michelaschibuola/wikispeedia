@@ -1,1 +1,0 @@
-[["Pinworm", "Animal", "Oxygen", "Steel"], ["Pinworm", "Animal", "Water", "Steel"], ["Pinworm", "Animal", "Earth", "Steel"], ["Pinworm", "Animal", "Molybdenum", "Steel"], ["Pinworm", "Animal", "Phosphorus", "Steel"], ["Pinworm", "Animal", "Sumer", "Steel"], ["Pinworm", "Animal", "Vanadium", "Steel"]]

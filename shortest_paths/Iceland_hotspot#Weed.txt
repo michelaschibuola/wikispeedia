@@ -1,1 +1,0 @@
-[["Iceland_hotspot", "Iceland", "Agriculture", "Weed"], ["Iceland_hotspot", "Water", "Agriculture", "Weed"], ["Iceland_hotspot", "Water", "Lawn", "Weed"], ["Iceland_hotspot", "Water", "Rice", "Weed"], ["Iceland_hotspot", "Water", "Greenhouse_effect", "Weed"]]

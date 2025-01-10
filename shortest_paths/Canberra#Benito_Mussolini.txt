@@ -1,1 +1,0 @@
-[["Canberra", "France", "Benito_Mussolini"], ["Canberra", "Germany", "Benito_Mussolini"], ["Canberra", "Italy", "Benito_Mussolini"], ["Canberra", "United_Kingdom", "Benito_Mussolini"], ["Canberra", "United_States", "Benito_Mussolini"], ["Canberra", "World_War_II", "Benito_Mussolini"]]

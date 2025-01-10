@@ -1,1 +1,0 @@
-[["Star_anise", "China", "Minneapolis%2C_Minnesota"], ["Star_anise", "Japan", "Minneapolis%2C_Minnesota"]]

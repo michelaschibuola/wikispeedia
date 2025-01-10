@@ -1,1 +1,0 @@
-[["Rabbit", "Animal", "Emperor_Penguin"], ["Rabbit", "Chordate", "Emperor_Penguin"], ["Rabbit", "Scientific_classification", "Emperor_Penguin"]]

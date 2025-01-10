@@ -1,1 +1,0 @@
-[["Time", "10th_century", "Beer"], ["Time", "14th_century", "Beer"], ["Time", "15th_century", "Beer"], ["Time", "17th_century", "Beer"], ["Time", "Business", "Beer"], ["Time", "Sumer", "Beer"]]

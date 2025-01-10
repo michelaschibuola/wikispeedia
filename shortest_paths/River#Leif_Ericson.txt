@@ -1,1 +1,0 @@
-[["River", "Germany", "Leif_Ericson"], ["River", "Canada", "Leif_Ericson"], ["River", "Europe", "Leif_Ericson"], ["River", "United_States", "Leif_Ericson"]]

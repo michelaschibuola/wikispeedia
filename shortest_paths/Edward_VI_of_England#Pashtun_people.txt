@@ -1,1 +1,0 @@
-[["Edward_VI_of_England", "16th_century", "Pashtun_people"], ["Edward_VI_of_England", "France", "Pashtun_people"], ["Edward_VI_of_England", "Germany", "Pashtun_people"], ["Edward_VI_of_England", "Netherlands", "Pashtun_people"], ["Edward_VI_of_England", "United_States", "Pashtun_people"]]

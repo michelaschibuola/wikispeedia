@@ -1,1 +1,0 @@
-[["West_Virginia", "Biodiversity", "Paleontology"], ["West_Virginia", "Mining", "Paleontology"]]

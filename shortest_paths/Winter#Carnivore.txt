@@ -1,1 +1,0 @@
-[["Winter", "Bear", "Carnivore"], ["Winter", "Europe", "Carnivore"], ["Winter", "Frog", "Carnivore"]]

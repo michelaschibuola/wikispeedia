@@ -1,1 +1,0 @@
-[["Lisbon", "Europe", "Imperial_Japanese_Navy"], ["Lisbon", "Christianity", "Imperial_Japanese_Navy"], ["Lisbon", "France", "Imperial_Japanese_Navy"], ["Lisbon", "Germany", "Imperial_Japanese_Navy"], ["Lisbon", "United_States", "Imperial_Japanese_Navy"], ["Lisbon", "World_War_II", "Imperial_Japanese_Navy"]]

@@ -1,1 +1,0 @@
-[["Netherlands_Antilles", "France", "British_monarchy"], ["Netherlands_Antilles", "Monarchy", "British_monarchy"], ["Netherlands_Antilles", "Constitutional_monarchy", "British_monarchy"], ["Netherlands_Antilles", "French_language", "British_monarchy"], ["Netherlands_Antilles", "Latin", "British_monarchy"], ["Netherlands_Antilles", "North_America", "British_monarchy"]]

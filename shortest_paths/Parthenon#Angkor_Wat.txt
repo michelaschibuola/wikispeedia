@@ -1,1 +1,0 @@
-[["Parthenon", "Ancient_Greece", "Angkor_Wat"], ["Parthenon", "Architecture", "Angkor_Wat"], ["Parthenon", "France", "Angkor_Wat"], ["Parthenon", "Symmetry", "Angkor_Wat"]]

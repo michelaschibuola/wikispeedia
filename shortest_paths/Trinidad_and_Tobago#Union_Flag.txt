@@ -1,1 +1,0 @@
-[["Trinidad_and_Tobago", "British_Empire", "Union_Flag"], ["Trinidad_and_Tobago", "Commonwealth_Games", "Union_Flag"], ["Trinidad_and_Tobago", "Canada", "Union_Flag"], ["Trinidad_and_Tobago", "China", "Union_Flag"], ["Trinidad_and_Tobago", "United_States", "Union_Flag"]]

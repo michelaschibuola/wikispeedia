@@ -1,1 +1,0 @@
-[["Time", "Albert_Einstein", "Munich"], ["Time", "Clock", "Munich"]]

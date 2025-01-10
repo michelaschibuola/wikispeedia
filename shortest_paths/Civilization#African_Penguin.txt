@@ -1,1 +1,0 @@
-[["Civilization", "Africa", "African_Penguin"], ["Civilization", "South_America", "African_Penguin"]]

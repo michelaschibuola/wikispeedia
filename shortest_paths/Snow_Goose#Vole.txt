@@ -1,1 +1,0 @@
-[["Snow_Goose", "Animal", "Vole"], ["Snow_Goose", "Chordate", "Vole"], ["Snow_Goose", "North_America", "Vole"], ["Snow_Goose", "Scientific_classification", "Vole"]]

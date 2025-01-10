@@ -1,1 +1,0 @@
-[["Corporation", "Sweden", "Tiger_Woods"], ["Corporation", "United_States", "Tiger_Woods"], ["Corporation", "Louisville%2C_Kentucky", "Tiger_Woods"]]

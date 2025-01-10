@@ -1,1 +1,0 @@
-[["Nash_equilibrium", "Economics", "Gold", "Corrosion"], ["Nash_equilibrium", "Economics", "Gold_standard", "Corrosion"], ["Nash_equilibrium", "John_von_Neumann", "Entropy", "Corrosion"]]

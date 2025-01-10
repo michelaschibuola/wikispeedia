@@ -1,1 +1,0 @@
-[["Copper", "Australia", "Computer_and_video_games"], ["Copper", "Canada", "Computer_and_video_games"], ["Copper", "Mexico", "Computer_and_video_games"], ["Copper", "United_States", "Computer_and_video_games"], ["Copper", "Internet", "Computer_and_video_games"]]

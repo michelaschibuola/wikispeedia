@@ -1,1 +1,0 @@
-[["Formula_One", "Canada", "Kubla_Khan"]]

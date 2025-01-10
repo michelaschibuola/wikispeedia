@@ -1,1 +1,0 @@
-[["Eric_Clapton", "Canada", "Viking"], ["Eric_Clapton", "Cardiff", "Viking"], ["Eric_Clapton", "England", "Viking"], ["Eric_Clapton", "France", "Viking"], ["Eric_Clapton", "Italy", "Viking"], ["Eric_Clapton", "London", "Viking"], ["Eric_Clapton", "Wales", "Viking"]]

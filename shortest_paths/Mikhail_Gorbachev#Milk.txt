@@ -1,1 +1,0 @@
-[["Mikhail_Gorbachev", "Canada", "Milk"], ["Mikhail_Gorbachev", "Chernobyl_disaster", "Milk"], ["Mikhail_Gorbachev", "France", "Milk"], ["Mikhail_Gorbachev", "Meat", "Milk"], ["Mikhail_Gorbachev", "Russia", "Milk"], ["Mikhail_Gorbachev", "Sweden", "Milk"], ["Mikhail_Gorbachev", "United_Kingdom", "Milk"], ["Mikhail_Gorbachev", "United_States", "Milk"]]

@@ -1,1 +1,0 @@
-[["Money", "Art", "Carl_Jung"]]

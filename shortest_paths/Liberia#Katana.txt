@@ -1,1 +1,0 @@
-[["Liberia", "English_language", "Katana"], ["Liberia", "World_War_II", "Katana"]]

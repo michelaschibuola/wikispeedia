@@ -1,1 +1,0 @@
-[["Ethanol", "Bacteria", "Life"], ["Ethanol", "Carbon", "Life"], ["Ethanol", "Fungus", "Life"], ["Ethanol", "Virus", "Life"], ["Ethanol", "Water", "Life"]]

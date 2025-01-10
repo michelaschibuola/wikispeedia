@@ -1,1 +1,0 @@
-[["Potassium", "Aluminium", "Adolf_Hitler"], ["Potassium", "Germany", "Adolf_Hitler"], ["Potassium", "Italy", "Adolf_Hitler"]]

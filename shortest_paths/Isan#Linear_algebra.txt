@@ -1,1 +1,0 @@
-[["Isan", "France", "Linear_algebra"], ["Isan", "United_States", "Linear_algebra"]]

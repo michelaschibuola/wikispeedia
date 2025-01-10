@@ -1,1 +1,0 @@
-[["Henry_VI_of_England", "Ireland", "George_Fox"], ["Henry_VI_of_England", "London", "George_Fox"]]

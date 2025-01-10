@@ -1,1 +1,0 @@
-[["Hello_Garci_scandal", "Philippines", "20th_century", "Astronomy"], ["Hello_Garci_scandal", "Philippines", "China", "Astronomy"], ["Hello_Garci_scandal", "Philippines", "India", "Astronomy"], ["Hello_Garci_scandal", "Philippines", "Roman_Catholic_Church", "Astronomy"]]

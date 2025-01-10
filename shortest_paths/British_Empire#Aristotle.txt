@@ -1,1 +1,0 @@
-[["British_Empire", "Bertrand_Russell", "Aristotle"], ["British_Empire", "Adam_Smith", "Aristotle"], ["British_Empire", "Greece", "Aristotle"], ["British_Empire", "Jew", "Aristotle"], ["British_Empire", "Law", "Aristotle"]]

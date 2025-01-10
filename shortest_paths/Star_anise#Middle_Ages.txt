@@ -1,1 +1,0 @@
-[["Star_anise", "Dill", "Middle_Ages"], ["Star_anise", "Fennel", "Middle_Ages"]]

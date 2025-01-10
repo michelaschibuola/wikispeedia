@@ -1,1 +1,0 @@
-[["Bible", "Jew", "Kerala"], ["Bible", "Kochi_%28India%29", "Kerala"], ["Bible", "Literacy", "Kerala"], ["Bible", "Tamil_language", "Kerala"]]

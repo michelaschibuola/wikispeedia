@@ -1,1 +1,0 @@
-[["Earth", "Africa", "Camel"], ["Earth", "Asia", "Camel"], ["Earth", "Animal", "Camel"], ["Earth", "Australia", "Camel"], ["Earth", "Dead_Sea", "Camel"], ["Earth", "Desert", "Camel"], ["Earth", "Iron", "Camel"], ["Earth", "Mammal", "Camel"], ["Earth", "Ferdinand_Magellan", "Camel"], ["Earth", "South_Africa", "Camel"]]

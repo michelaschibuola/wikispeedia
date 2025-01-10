@@ -1,1 +1,0 @@
-[["Electrical_engineering", "Ireland", "James_Callaghan"], ["Electrical_engineering", "United_Kingdom", "James_Callaghan"], ["Electrical_engineering", "United_States", "James_Callaghan"]]

@@ -1,1 +1,0 @@
-[["Florence_Nightingale", "19th_century", "Korea"], ["Florence_Nightingale", "Australia", "Korea"], ["Florence_Nightingale", "Venus", "Korea"]]

@@ -1,1 +1,0 @@
-[["Belarus", "English_language", "TeX"], ["Belarus", "Netherlands", "TeX"]]

@@ -1,1 +1,0 @@
-[["German_reunification", "Berlin", "Polish-Soviet_War"], ["German_reunification", "France", "Polish-Soviet_War"], ["German_reunification", "Hungary", "Polish-Soviet_War"], ["German_reunification", "Poland", "Polish-Soviet_War"], ["German_reunification", "Soviet_Union", "Polish-Soviet_War"], ["German_reunification", "Joseph_Stalin", "Polish-Soviet_War"]]

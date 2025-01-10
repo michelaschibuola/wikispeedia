@@ -1,1 +1,0 @@
-[["Backgammon", "11th_century", "Faroe_Islands"], ["Backgammon", "Germany", "Faroe_Islands"], ["Backgammon", "Iceland", "Faroe_Islands"]]

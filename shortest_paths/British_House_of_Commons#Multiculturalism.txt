@@ -1,1 +1,0 @@
-[["British_House_of_Commons", "BBC", "Multiculturalism"], ["British_House_of_Commons", "Democracy", "Multiculturalism"], ["British_House_of_Commons", "Germany", "Multiculturalism"], ["British_House_of_Commons", "United_Kingdom", "Multiculturalism"], ["British_House_of_Commons", "David_Cameron", "Multiculturalism"], ["British_House_of_Commons", "London", "Multiculturalism"]]

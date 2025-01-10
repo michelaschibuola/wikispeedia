@@ -1,1 +1,0 @@
-[["Jurassic", "Canada", "Tsunami"], ["Jurassic", "France", "Tsunami"], ["Jurassic", "India", "Tsunami"], ["Jurassic", "Japan", "Tsunami"], ["Jurassic", "Russia", "Tsunami"], ["Jurassic", "United_States", "Tsunami"], ["Jurassic", "Puerto_Rico", "Tsunami"], ["Jurassic", "Sea_level_rise", "Tsunami"]]

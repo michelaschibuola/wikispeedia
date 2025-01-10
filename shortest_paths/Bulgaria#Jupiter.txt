@@ -1,1 +1,0 @@
-[["Bulgaria", "Ancient_Rome", "Jupiter"], ["Bulgaria", "Antarctica", "Jupiter"], ["Bulgaria", "Japan", "Jupiter"], ["Bulgaria", "Vietnam", "Jupiter"]]

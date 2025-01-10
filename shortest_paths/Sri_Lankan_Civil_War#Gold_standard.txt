@@ -1,1 +1,0 @@
-[["Sri_Lankan_Civil_War", "Germany", "Gold_standard"], ["Sri_Lankan_Civil_War", "India", "Gold_standard"], ["Sri_Lankan_Civil_War", "Norway", "Gold_standard"], ["Sri_Lankan_Civil_War", "Switzerland", "Gold_standard"], ["Sri_Lankan_Civil_War", "United_States", "Gold_standard"]]

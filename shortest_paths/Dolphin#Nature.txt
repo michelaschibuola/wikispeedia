@@ -1,1 +1,0 @@
-[["Dolphin", "Animal", "Nature"], ["Dolphin", "Australia", "Nature"], ["Dolphin", "Chimpanzee", "Nature"], ["Dolphin", "Mammal", "Nature"], ["Dolphin", "Human", "Nature"]]

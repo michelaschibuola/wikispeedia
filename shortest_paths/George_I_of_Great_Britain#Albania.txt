@@ -1,1 +1,0 @@
-[["George_I_of_Great_Britain", "English_language", "Albania"], ["George_I_of_Great_Britain", "France", "Albania"], ["George_I_of_Great_Britain", "Roman_Catholic_Church", "Albania"], ["George_I_of_Great_Britain", "Sweden", "Albania"]]

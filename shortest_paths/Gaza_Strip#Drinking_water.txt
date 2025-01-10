@@ -1,1 +1,0 @@
-[["Gaza_Strip", "Asia", "Drinking_water"], ["Gaza_Strip", "Egypt", "Drinking_water"], ["Gaza_Strip", "Poverty", "Drinking_water"]]

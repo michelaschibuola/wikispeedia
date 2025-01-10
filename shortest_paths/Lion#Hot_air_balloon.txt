@@ -1,1 +1,0 @@
-[["Lion", "Bath%2C_Somerset", "Hot_air_balloon"], ["Lion", "France", "Hot_air_balloon"], ["Lion", "India", "Hot_air_balloon"], ["Lion", "United_Kingdom", "Hot_air_balloon"]]

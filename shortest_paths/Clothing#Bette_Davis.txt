@@ -1,1 +1,0 @@
-[["Clothing", "Film", "Bette_Davis"], ["Clothing", "Television", "Bette_Davis"]]

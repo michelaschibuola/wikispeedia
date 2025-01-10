@@ -1,1 +1,0 @@
-[["Wikinews", "French_language", "Virgil"], ["Wikinews", "German_language", "Virgil"]]

@@ -1,1 +1,0 @@
-[["Switzerland", "Argentina", "Maize"], ["Switzerland", "Austria", "Maize"], ["Switzerland", "Europe", "Maize"], ["Switzerland", "France", "Maize"], ["Switzerland", "Italy", "Maize"], ["Switzerland", "Liechtenstein", "Maize"], ["Switzerland", "New_Zealand", "Maize"], ["Switzerland", "United_States", "Maize"], ["Switzerland", "World_War_II", "Maize"]]

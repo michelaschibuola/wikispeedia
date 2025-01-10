@@ -1,1 +1,0 @@
-[["Industry", "Belarus", "Clay"], ["Industry", "Civilization", "Clay"], ["Industry", "Houston%2C_Texas", "Clay"], ["Industry", "Coal", "Clay"], ["Industry", "Technology", "Clay"]]

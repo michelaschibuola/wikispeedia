@@ -1,1 +1,0 @@
-[["Morris_dance", "France", "Communism"], ["Morris_dance", "Hong_Kong", "Communism"], ["Morris_dance", "Italy", "Communism"], ["Morris_dance", "Oliver_Cromwell", "Communism"], ["Morris_dance", "Spain", "Communism"], ["Morris_dance", "Munich", "Communism"]]

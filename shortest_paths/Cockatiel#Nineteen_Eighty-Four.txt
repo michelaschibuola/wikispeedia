@@ -1,1 +1,0 @@
-[["Cockatiel", "Australia", "Nineteen_Eighty-Four"], ["Cockatiel", "Europe", "Nineteen_Eighty-Four"]]

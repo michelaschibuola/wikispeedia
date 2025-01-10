@@ -1,1 +1,0 @@
-[["Mass_media", "London", "Douglas_Adams"], ["Mass_media", "BBC", "Douglas_Adams"], ["Mass_media", "Tim_Berners-Lee", "Douglas_Adams"], ["Mass_media", "World_Wide_Web", "Douglas_Adams"]]

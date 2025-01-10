@@ -1,1 +1,0 @@
-[["Katana", "Japan", "France"], ["Katana", "Japanese_war_crimes", "France"], ["Katana", "World_War_II", "France"]]

@@ -1,1 +1,0 @@
-[["Metal", "Art", "Ottoman_Empire"], ["Metal", "Currency", "Ottoman_Empire"]]

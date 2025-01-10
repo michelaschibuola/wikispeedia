@@ -1,1 +1,0 @@
-[["Las_Palmas_de_Gran_Canaria", "Africa", "Los_Angeles%2C_California", "Super_Chief"], ["Las_Palmas_de_Gran_Canaria", "Christopher_Columbus", "Chicago", "Super_Chief"], ["Las_Palmas_de_Gran_Canaria", "Spain", "Kansas_City%2C_Missouri", "Super_Chief"]]

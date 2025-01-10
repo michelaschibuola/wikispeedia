@@ -1,1 +1,0 @@
-[["Great_Auk", "Canada", "Formula_One"], ["Great_Auk", "Iceland", "Formula_One"], ["Great_Auk", "Ireland", "Formula_One"], ["Great_Auk", "Norway", "Formula_One"]]

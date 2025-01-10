@@ -1,1 +1,0 @@
-[["Virtuti_Militari", "John_Pershing", "Cuba"], ["Virtuti_Militari", "France", "Cuba"], ["Virtuti_Militari", "Russia", "Cuba"], ["Virtuti_Militari", "Soviet_Union", "Cuba"], ["Virtuti_Militari", "Spain", "Cuba"], ["Virtuti_Militari", "United_States", "Cuba"], ["Virtuti_Militari", "World_War_II", "Cuba"]]

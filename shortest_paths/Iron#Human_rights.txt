@@ -1,1 +1,0 @@
-[["Iron", "Argentina", "Human_rights"], ["Iron", "Bolivia", "Human_rights"], ["Iron", "Democratic_Republic_of_the_Congo", "Human_rights"], ["Iron", "Mesopotamia", "Human_rights"], ["Iron", "Russia", "Human_rights"], ["Iron", "Japan", "Human_rights"], ["Iron", "Libya", "Human_rights"], ["Iron", "Poverty", "Human_rights"]]

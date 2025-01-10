@@ -1,1 +1,0 @@
-[["Yellowstone_National_Park", "19th_century", "East_Africa"], ["Yellowstone_National_Park", "Continent", "East_Africa"], ["Yellowstone_National_Park", "Earth", "East_Africa"], ["Yellowstone_National_Park", "Europe", "East_Africa"], ["Yellowstone_National_Park", "France", "East_Africa"]]

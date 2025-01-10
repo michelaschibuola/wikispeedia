@@ -1,1 +1,0 @@
-[["Cape_Town", "17th_century", "Accra"], ["Cape_Town", "Africa", "Accra"], ["Cape_Town", "Atlantic_Ocean", "Accra"], ["Cape_Town", "France", "Accra"], ["Cape_Town", "Netherlands", "Accra"], ["Cape_Town", "Portugal", "Accra"], ["Cape_Town", "Time_zone", "Accra"]]

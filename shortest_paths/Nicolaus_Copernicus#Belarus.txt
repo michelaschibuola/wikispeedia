@@ -1,1 +1,0 @@
-[["Nicolaus_Copernicus", "Europe", "Belarus"], ["Nicolaus_Copernicus", "German_language", "Belarus"], ["Nicolaus_Copernicus", "Nazi_Germany", "Belarus"], ["Nicolaus_Copernicus", "Poland", "Belarus"]]

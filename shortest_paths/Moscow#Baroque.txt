@@ -1,1 +1,0 @@
-[["Moscow", "Diamond_simulant", "Baroque"], ["Moscow", "Europe", "Baroque"], ["Moscow", "Germany", "Baroque"], ["Moscow", "Mosaic", "Baroque"], ["Moscow", "Painting", "Baroque"], ["Moscow", "Russia", "Baroque"], ["Moscow", "Saint_Petersburg", "Baroque"], ["Moscow", "Sculpture", "Baroque"], ["Moscow", "Warsaw", "Baroque"]]

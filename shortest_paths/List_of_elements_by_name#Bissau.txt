@@ -1,1 +1,0 @@
-[["List_of_elements_by_name", "Carbon", "Africa", "Bissau"], ["List_of_elements_by_name", "Gold", "Africa", "Bissau"], ["List_of_elements_by_name", "Magnesium", "Palm_oil", "Bissau"], ["List_of_elements_by_name", "Tantalum", "Portugal", "Bissau"], ["List_of_elements_by_name", "Tungsten", "Portugal", "Bissau"]]

@@ -1,1 +1,0 @@
-[["Dresden", "River", "Amazon_River"], ["Dresden", "World_War_II", "Amazon_River"]]

@@ -1,1 +1,0 @@
-[["Moon_landing", "Moon", "Sun"], ["Moon_landing", "United_States", "Sun"]]

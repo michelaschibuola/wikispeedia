@@ -1,1 +1,0 @@
-[["God", "Anne_Frank", "Adolf_Hitler"], ["God", "Bertrand_Russell", "Adolf_Hitler"], ["God", "France", "Adolf_Hitler"], ["God", "Genealogy", "Adolf_Hitler"], ["God", "India", "Adolf_Hitler"], ["God", "Marxism", "Adolf_Hitler"], ["God", "United_States", "Adolf_Hitler"], ["God", "Roman_Catholic_Church", "Adolf_Hitler"], ["God", "Zionism", "Adolf_Hitler"]]

@@ -1,1 +1,0 @@
-[["Abhidhamma_Pitaka", "Buddha", "Japan", "Sudoku"], ["Abhidhamma_Pitaka", "Buddhism", "Japan", "Sudoku"], ["Abhidhamma_Pitaka", "Sanskrit", "Japan", "Sudoku"]]

@@ -1,1 +1,0 @@
-[["Quito", "Canada", "Ireland"], ["Quito", "Europe", "Ireland"], ["Quito", "Football_%28soccer%29", "Ireland"], ["Quito", "Poland", "Ireland"], ["Quito", "Time_zone", "Ireland"]]

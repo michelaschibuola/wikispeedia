@@ -1,1 +1,0 @@
-[["Andrew_Dickson_White", "Christopher_Columbus", "Ptolemy"], ["Andrew_Dickson_White", "Europe", "Ptolemy"], ["Andrew_Dickson_White", "Flat_Earth", "Ptolemy"]]

@@ -1,1 +1,0 @@
-[["Coriander", "Europe", "Cystic_fibrosis"], ["Coriander", "Genetics", "Cystic_fibrosis"], ["Coriander", "United_States", "Cystic_fibrosis"], ["Coriander", "Turmeric", "Cystic_fibrosis"]]

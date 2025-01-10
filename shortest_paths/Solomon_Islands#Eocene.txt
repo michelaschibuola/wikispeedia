@@ -1,1 +1,0 @@
-[["Solomon_Islands", "Australia", "Eocene"], ["Solomon_Islands", "Bat", "Eocene"]]

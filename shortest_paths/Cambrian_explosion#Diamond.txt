@@ -1,1 +1,0 @@
-[["Cambrian_explosion", "Carbon", "Diamond"], ["Cambrian_explosion", "Fossil", "Diamond"], ["Cambrian_explosion", "North_America", "Diamond"], ["Cambrian_explosion", "Earth", "Diamond"]]

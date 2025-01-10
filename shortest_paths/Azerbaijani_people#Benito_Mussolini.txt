@@ -1,1 +1,0 @@
-[["Azerbaijani_people", "Atheism", "Benito_Mussolini"], ["Azerbaijani_people", "Germany", "Benito_Mussolini"], ["Azerbaijani_people", "Nationalism", "Benito_Mussolini"], ["Azerbaijani_people", "Nobel_Peace_Prize", "Benito_Mussolini"], ["Azerbaijani_people", "Soviet_Union", "Benito_Mussolini"], ["Azerbaijani_people", "United_States", "Benito_Mussolini"]]

@@ -1,1 +1,0 @@
-[["Sugar", "Arabic_language", "Iron_Age"], ["Sugar", "South_Africa", "Iron_Age"], ["Sugar", "China", "Iron_Age"], ["Sugar", "Europe", "Iron_Age"], ["Sugar", "Middle_East", "Iron_Age"]]

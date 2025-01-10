@@ -1,1 +1,0 @@
-[["Hawaiian_Goose", "Animal", "African_Wild_Dog"], ["Hawaiian_Goose", "Binomial_nomenclature", "African_Wild_Dog"], ["Hawaiian_Goose", "Chordate", "African_Wild_Dog"], ["Hawaiian_Goose", "Scientific_classification", "African_Wild_Dog"]]

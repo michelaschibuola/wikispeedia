@@ -1,1 +1,0 @@
-[["Nouakchott", "French_language", "Domestic_goat"], ["Nouakchott", "Sahara", "Domestic_goat"]]

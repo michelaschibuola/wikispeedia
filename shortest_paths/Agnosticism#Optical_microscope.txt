@@ -1,1 +1,0 @@
-[["Agnosticism", "God", "Light", "Optical_microscope"], ["Agnosticism", "Philosophy", "Galileo_Galilei", "Optical_microscope"], ["Agnosticism", "Humanism", "Galileo_Galilei", "Optical_microscope"], ["Agnosticism", "Religion", "Symmetry", "Optical_microscope"], ["Agnosticism", "Australia", "Symmetry", "Optical_microscope"]]

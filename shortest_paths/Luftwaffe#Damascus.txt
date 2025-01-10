@@ -1,1 +1,0 @@
-[["Luftwaffe", "Europe", "Damascus"], ["Luftwaffe", "League_of_Nations", "Damascus"], ["Luftwaffe", "Spain", "Damascus"], ["Luftwaffe", "World_War_II", "Damascus"], ["Luftwaffe", "Manchester", "Damascus"]]

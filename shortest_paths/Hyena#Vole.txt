@@ -1,1 +1,0 @@
-[["Hyena", "Africa", "Vole"], ["Hyena", "Animal", "Vole"], ["Hyena", "Asia", "Vole"], ["Hyena", "Europe", "Vole"], ["Hyena", "Mammal", "Vole"], ["Hyena", "Scientific_classification", "Vole"]]

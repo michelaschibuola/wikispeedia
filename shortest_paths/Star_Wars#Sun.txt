@@ -1,1 +1,0 @@
-[["Star_Wars", "Andromeda_Galaxy", "Sun"], ["Star_Wars", "Binary_star", "Sun"], ["Star_Wars", "Earth", "Sun"], ["Star_Wars", "England", "Sun"], ["Star_Wars", "Tycho_Brahe", "Sun"]]

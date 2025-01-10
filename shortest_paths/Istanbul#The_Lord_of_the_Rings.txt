@@ -1,1 +1,0 @@
-[["Istanbul", "English_language", "The_Lord_of_the_Rings"], ["Istanbul", "Religion", "The_Lord_of_the_Rings"], ["Istanbul", "United_States", "The_Lord_of_the_Rings"]]

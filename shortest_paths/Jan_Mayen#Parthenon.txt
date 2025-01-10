@@ -1,1 +1,0 @@
-[["Jan_Mayen", "France", "Parthenon"], ["Jan_Mayen", "World_War_II", "Parthenon"]]

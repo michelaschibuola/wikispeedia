@@ -1,1 +1,0 @@
-[["Ice_age", "Culture", "Cultural_identity"], ["Ice_age", "Ireland", "Cultural_identity"]]

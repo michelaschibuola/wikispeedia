@@ -1,1 +1,0 @@
-[["Shoe_polish", "France", "Sierra_Leone"], ["Shoe_polish", "India", "Sierra_Leone"], ["Shoe_polish", "Pakistan", "Sierra_Leone"], ["Shoe_polish", "Sub-Saharan_Africa", "Sierra_Leone"], ["Shoe_polish", "United_Kingdom", "Sierra_Leone"], ["Shoe_polish", "United_States", "Sierra_Leone"], ["Shoe_polish", "World_War_II", "Sierra_Leone"]]

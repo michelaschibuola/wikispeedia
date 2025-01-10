@@ -1,1 +1,0 @@
-[["Emotion", "Animal", "Giant_Panda"], ["Emotion", "Fish", "Giant_Panda"], ["Emotion", "Mammal", "Giant_Panda"]]

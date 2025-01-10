@@ -1,1 +1,0 @@
-[["Curium", "Aluminium", "China", "Super_Mario_64"], ["Curium", "Metal", "Japan", "Super_Mario_64"], ["Curium", "Plutonium", "Japan", "Super_Mario_64"], ["Curium", "Radium", "Japan", "Super_Mario_64"], ["Curium", "Radon", "Japan", "Super_Mario_64"], ["Curium", "Technetium", "Japan", "Super_Mario_64"]]

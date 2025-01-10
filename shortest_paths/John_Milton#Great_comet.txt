@@ -1,1 +1,0 @@
-[["John_Milton", "17th_century", "Comet_Halley", "Great_comet"], ["John_Milton", "Eilmer_of_Malmesbury", "Comet_Halley", "Great_comet"], ["John_Milton", "England", "Comet", "Great_comet"], ["John_Milton", "Galileo_Galilei", "Comet", "Great_comet"], ["John_Milton", "Greek_mythology", "Solar_System", "Great_comet"], ["John_Milton", "Galileo_Galilei", "Solar_System", "Great_comet"]]

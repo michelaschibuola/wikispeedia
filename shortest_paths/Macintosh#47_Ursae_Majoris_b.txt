@@ -1,1 +1,0 @@
-[["Macintosh", "Internet", "Cloud", "47_Ursae_Majoris_b"], ["Macintosh", "Mars_Exploration_Rover", "Water", "47_Ursae_Majoris_b"], ["Macintosh", "Mars_Reconnaissance_Orbiter", "Star", "47_Ursae_Majoris_b"]]

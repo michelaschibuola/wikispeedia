@@ -1,1 +1,0 @@
-[["Flood", "Bryce_Canyon_National_Park", "Skiing"], ["Flood", "Canada", "Skiing"], ["Flood", "Europe", "Skiing"], ["Flood", "Snow", "Skiing"], ["Flood", "United_States", "Skiing"]]

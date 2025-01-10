@@ -1,1 +1,0 @@
-[["Sulfuric_acid", "Oxygen", "Fossil_record"]]

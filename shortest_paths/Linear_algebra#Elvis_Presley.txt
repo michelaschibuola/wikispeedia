@@ -1,1 +1,0 @@
-[["Linear_algebra", "Australia", "Elvis_Presley"], ["Linear_algebra", "France", "Elvis_Presley"], ["Linear_algebra", "Germany", "Elvis_Presley"], ["Linear_algebra", "United_Kingdom", "Elvis_Presley"], ["Linear_algebra", "United_States", "Elvis_Presley"]]

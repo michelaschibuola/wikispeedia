@@ -1,1 +1,0 @@
-[["Planet", "Global_warming", "Nuclear_power"], ["Planet", "Greenhouse_effect", "Nuclear_power"], ["Planet", "Gas", "Nuclear_power"], ["Planet", "Japan", "Nuclear_power"]]

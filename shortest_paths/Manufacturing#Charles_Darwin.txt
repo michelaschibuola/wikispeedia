@@ -1,1 +1,0 @@
-[["Manufacturing", "Argentina", "Charles_Darwin"], ["Manufacturing", "United_Kingdom", "Charles_Darwin"]]

@@ -1,1 +1,0 @@
-[["Superman", "Apollo", "Jesus"], ["Superman", "Odysseus", "Jesus"], ["Superman", "Europe", "Jesus"], ["Superman", "Hebrew_language", "Jesus"], ["Superman", "Jew", "Jesus"], ["Superman", "Judaism", "Jesus"]]

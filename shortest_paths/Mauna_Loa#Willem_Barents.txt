@@ -1,1 +1,0 @@
-[["Mauna_Loa", "Decade_Volcanoes", "Russia", "Willem_Barents"], ["Mauna_Loa", "Tsunami", "Russia", "Willem_Barents"], ["Mauna_Loa", "Volcano", "Russia", "Willem_Barents"], ["Mauna_Loa", "Earthquake", "Netherlands", "Willem_Barents"], ["Mauna_Loa", "Greenhouse_effect", "Svalbard", "Willem_Barents"]]

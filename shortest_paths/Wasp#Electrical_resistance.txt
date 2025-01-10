@@ -1,1 +1,0 @@
-[["Wasp", "Animal", "Action_potential", "Electrical_resistance"], ["Wasp", "Animal", "Energy", "Electrical_resistance"]]

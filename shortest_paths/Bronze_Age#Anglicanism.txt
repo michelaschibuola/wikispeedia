@@ -1,1 +1,0 @@
-[["Bronze_Age", "Ireland", "Anglicanism"], ["Bronze_Age", "England", "Anglicanism"], ["Bronze_Age", "Wine", "Anglicanism"]]

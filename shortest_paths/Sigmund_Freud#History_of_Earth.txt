@@ -1,1 +1,0 @@
-[["Sigmund_Freud", "Human", "History_of_Earth"], ["Sigmund_Freud", "Leonardo_da_Vinci", "History_of_Earth"], ["Sigmund_Freud", "Oxygen", "History_of_Earth"]]

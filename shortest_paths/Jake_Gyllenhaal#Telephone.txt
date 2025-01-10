@@ -1,1 +1,0 @@
-[["Jake_Gyllenhaal", "London", "Telephone"], ["Jake_Gyllenhaal", "New_York_City", "Telephone"], ["Jake_Gyllenhaal", "Sweden", "Telephone"], ["Jake_Gyllenhaal", "United_States", "Telephone"]]

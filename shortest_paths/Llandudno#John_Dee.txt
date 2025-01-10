@@ -1,1 +1,0 @@
-[["Llandudno", "Roman_Catholic_Church", "John_Dee"], ["Llandudno", "United_Kingdom", "John_Dee"], ["Llandudno", "Wales", "John_Dee"]]

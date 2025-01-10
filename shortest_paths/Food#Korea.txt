@@ -1,1 +1,0 @@
-[["Food", "Culture", "Korea"], ["Food", "Pottery", "Korea"], ["Food", "Protein", "Korea"], ["Food", "United_Nations", "Korea"], ["Food", "War", "Korea"], ["Food", "Hong_Kong", "Korea"], ["Food", "Tofu", "Korea"]]

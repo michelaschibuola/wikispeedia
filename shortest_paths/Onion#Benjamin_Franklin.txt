@@ -1,1 +1,0 @@
-[["Onion", "Science", "Benjamin_Franklin"], ["Onion", "United_States", "Benjamin_Franklin"]]

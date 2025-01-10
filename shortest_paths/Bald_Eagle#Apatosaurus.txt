@@ -1,1 +1,0 @@
-[["Bald_Eagle", "Animal", "Apatosaurus"], ["Bald_Eagle", "Bird", "Apatosaurus"], ["Bald_Eagle", "Chordate", "Apatosaurus"], ["Bald_Eagle", "Scientific_classification", "Apatosaurus"], ["Bald_Eagle", "United_States", "Apatosaurus"]]

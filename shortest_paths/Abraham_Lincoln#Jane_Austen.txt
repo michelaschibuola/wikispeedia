@@ -1,1 +1,0 @@
-[["Abraham_Lincoln", "19th_century", "Jane_Austen"], ["Abraham_Lincoln", "London", "Jane_Austen"], ["Abraham_Lincoln", "United_Kingdom", "Jane_Austen"], ["Abraham_Lincoln", "William_Shakespeare", "Jane_Austen"]]

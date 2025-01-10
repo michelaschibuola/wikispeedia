@@ -1,1 +1,0 @@
-[["Great_Lakes", "Canada", "Stephen_Harper"], ["Great_Lakes", "Toronto", "Stephen_Harper"], ["Great_Lakes", "Montreal", "Stephen_Harper"], ["Great_Lakes", "Ottawa", "Stephen_Harper"]]

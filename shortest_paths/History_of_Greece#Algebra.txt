@@ -1,1 +1,0 @@
-[["History_of_Greece", "Ancient_Egypt", "Algebra"], ["History_of_Greece", "Euclid", "Algebra"], ["History_of_Greece", "Europe", "Algebra"], ["History_of_Greece", "Islam", "Algebra"], ["History_of_Greece", "Latin", "Algebra"]]

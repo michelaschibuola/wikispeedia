@@ -1,1 +1,0 @@
-[["Common_Eland", "Antelope", "United_States", "Equal_Protection_Clause"], ["Common_Eland", "Animal", "Property", "Equal_Protection_Clause"], ["Common_Eland", "East_Africa", "World_War_II", "Equal_Protection_Clause"], ["Common_Eland", "East_Africa", "Slavery", "Equal_Protection_Clause"], ["Common_Eland", "Scientific_classification", "Race", "Equal_Protection_Clause"]]

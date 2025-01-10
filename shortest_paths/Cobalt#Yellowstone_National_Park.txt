@@ -1,1 +1,0 @@
-[["Cobalt", "Human", "Yellowstone_National_Park"], ["Cobalt", "Sulfur", "Yellowstone_National_Park"], ["Cobalt", "Craters_of_the_Moon_National_Monument_and_Preserve", "Yellowstone_National_Park"]]

@@ -1,1 +1,0 @@
-[["Hippocrates", "Ancient_history", "Pompeii"], ["Hippocrates", "Latin", "Pompeii"]]

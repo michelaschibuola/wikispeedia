@@ -1,1 +1,0 @@
-[["Epic_of_Gilgamesh", "Asia", "Textile", "Corn_oil"], ["Epic_of_Gilgamesh", "Mesopotamia", "Textile", "Corn_oil"], ["Epic_of_Gilgamesh", "Asia", "List_of_vegetable_oils", "Corn_oil"], ["Epic_of_Gilgamesh", "Asia", "Soybean", "Corn_oil"]]

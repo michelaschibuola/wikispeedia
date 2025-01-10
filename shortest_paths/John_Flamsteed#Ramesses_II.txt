@@ -1,1 +1,0 @@
-[["John_Flamsteed", "England", "Black_pepper", "Ramesses_II"], ["John_Flamsteed", "England", "Paris", "Ramesses_II"], ["John_Flamsteed", "Solar_eclipse", "Herodotus", "Ramesses_II"]]

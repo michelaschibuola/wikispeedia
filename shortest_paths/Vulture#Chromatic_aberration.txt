@@ -1,1 +1,0 @@
-[["Vulture", "Antarctica", "Microscope", "Chromatic_aberration"], ["Vulture", "Egypt", "Glass", "Chromatic_aberration"]]

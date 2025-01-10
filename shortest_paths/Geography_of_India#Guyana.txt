@@ -1,1 +1,0 @@
-[["Geography_of_India", "Biodiversity", "Guyana"], ["Geography_of_India", "Climate", "Guyana"], ["Geography_of_India", "Hindi", "Guyana"], ["Geography_of_India", "India", "Guyana"], ["Geography_of_India", "Rice", "Guyana"]]

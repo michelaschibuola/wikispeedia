@@ -1,1 +1,0 @@
-[["Anaconda", "Animal", "Allosaurus"], ["Anaconda", "Bird", "Allosaurus"], ["Anaconda", "Chordate", "Allosaurus"], ["Anaconda", "Reptile", "Allosaurus"], ["Anaconda", "Scientific_classification", "Allosaurus"]]

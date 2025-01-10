@@ -1,1 +1,0 @@
-[["Serbia", "River", "Rain"], ["Serbia", "Agriculture", "Rain"], ["Serbia", "Denmark", "Rain"], ["Serbia", "United_Kingdom", "Rain"]]

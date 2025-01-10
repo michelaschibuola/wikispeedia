@@ -1,1 +1,0 @@
-[["Gettysburg_Address", "United_States", "Carlsbad_Caverns_National_Park"], ["Gettysburg_Address", "Washington%2C_D.C.", "Carlsbad_Caverns_National_Park"]]

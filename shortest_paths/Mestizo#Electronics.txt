@@ -1,1 +1,0 @@
-[["Mestizo", "Costa_Rica", "Electronics"], ["Mestizo", "19th_century", "Electronics"], ["Mestizo", "Japan", "Electronics"], ["Mestizo", "United_States", "Electronics"]]

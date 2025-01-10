@@ -1,1 +1,0 @@
-[["Scrooge_McDuck", "Business", "Bill_Gates"], ["Scrooge_McDuck", "United_States", "Bill_Gates"]]

@@ -1,1 +1,0 @@
-[["Azerbaijan", "Cattle", "Oregon"], ["Azerbaijan", "Fruit", "Oregon"], ["Azerbaijan", "Spain", "Oregon"], ["Azerbaijan", "United_Kingdom", "Oregon"]]

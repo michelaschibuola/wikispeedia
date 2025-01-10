@@ -1,1 +1,0 @@
-[["U.S._state", "Andrew_Carnegie", "Jurassic"], ["U.S._state", "Russia", "Jurassic"], ["U.S._state", "Atlantic_Ocean", "Jurassic"], ["U.S._state", "France", "Jurassic"], ["U.S._state", "Puerto_Rico", "Jurassic"], ["U.S._state", "United_States", "Jurassic"]]

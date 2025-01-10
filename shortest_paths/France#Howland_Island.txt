@@ -1,1 +1,0 @@
-[["France", "19th_century", "Howland_Island"], ["France", "Australia", "Howland_Island"], ["France", "Pacific_Ocean", "Howland_Island"], ["France", "Time_zone", "Howland_Island"], ["France", "United_States", "Howland_Island"], ["France", "World_War_II", "Howland_Island"], ["France", "Navassa_Island", "Howland_Island"]]

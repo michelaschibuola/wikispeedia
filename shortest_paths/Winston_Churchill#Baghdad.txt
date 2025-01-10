@@ -1,1 +1,0 @@
-[["Winston_Churchill", "Iraq_and_weapons_of_mass_destruction", "Baghdad"], ["Winston_Churchill", "Persian_Empire", "Baghdad"], ["Winston_Churchill", "Tehran", "Baghdad"], ["Winston_Churchill", "Tony_Blair", "Baghdad"], ["Winston_Churchill", "Mesopotamia", "Baghdad"], ["Winston_Churchill", "Water", "Baghdad"], ["Winston_Churchill", "World_War_I", "Baghdad"]]

@@ -1,1 +1,0 @@
-[["Diabetes_mellitus", "United_Kingdom", "Screw"]]

@@ -1,1 +1,0 @@
-[["Tyrannosaurus", "Animal", "Ape"], ["Tyrannosaurus", "Asia", "Ape"], ["Tyrannosaurus", "Chordate", "Ape"], ["Tyrannosaurus", "Evolution", "Ape"], ["Tyrannosaurus", "Hyena", "Ape"], ["Tyrannosaurus", "Mammal", "Ape"], ["Tyrannosaurus", "Scientific_classification", "Ape"]]

@@ -1,1 +1,0 @@
-[["Latvia", "Czech_Republic", "Krazy_Kat"], ["Latvia", "France", "Krazy_Kat"], ["Latvia", "Italy", "Krazy_Kat"]]

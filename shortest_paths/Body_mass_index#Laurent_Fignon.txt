@@ -1,1 +1,0 @@
-[["Body_mass_index", "Belgium", "France", "Laurent_Fignon"], ["Body_mass_index", "Belgium", "Tour_de_France", "Laurent_Fignon"], ["Body_mass_index", "Belgium", "Paris", "Laurent_Fignon"]]

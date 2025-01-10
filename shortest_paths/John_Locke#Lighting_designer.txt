@@ -1,1 +1,0 @@
-[["John_Locke", "Existentialism", "Theatre", "Lighting_designer"], ["John_Locke", "Aristotle", "Theatre", "Lighting_designer"], ["John_Locke", "France", "Theatre", "Lighting_designer"], ["John_Locke", "United_States", "Theatre", "Lighting_designer"]]

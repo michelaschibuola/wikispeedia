@@ -1,1 +1,0 @@
-[["Galaxy", "Fermi_paradox", "Oxygen"], ["Galaxy", "Hydrogen", "Oxygen"], ["Galaxy", "Planet", "Oxygen"], ["Galaxy", "Star", "Oxygen"], ["Galaxy", "Sun", "Oxygen"], ["Galaxy", "Nature", "Oxygen"], ["Galaxy", "Orion_Nebula", "Oxygen"], ["Galaxy", "Planetary_nebula", "Oxygen"]]

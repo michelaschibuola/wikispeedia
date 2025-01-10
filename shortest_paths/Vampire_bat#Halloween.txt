@@ -1,1 +1,0 @@
-[["Vampire_bat", "Bat", "Halloween"], ["Vampire_bat", "Vampire", "Halloween"], ["Vampire_bat", "Mexico", "Halloween"]]

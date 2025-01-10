@@ -1,1 +1,0 @@
-[["Egypt", "Hebrew_language", "ASCII"], ["Egypt", "Latin_alphabet", "ASCII"]]

@@ -1,1 +1,0 @@
-[["Triassic", "Coal", "World_War_I", "Phonograph_cylinder"], ["Triassic", "History_of_Earth", "World_War_I", "Phonograph_cylinder"], ["Triassic", "Irish_Sea", "World_War_I", "Phonograph_cylinder"], ["Triassic", "Rhine", "World_War_I", "Phonograph_cylinder"], ["Triassic", "Morocco", "World_War_I", "Phonograph_cylinder"]]

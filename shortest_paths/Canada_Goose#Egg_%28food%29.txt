@@ -1,1 +1,0 @@
-[["Canada_Goose", "Animal", "Egg_%28food%29"], ["Canada_Goose", "Bird", "Egg_%28food%29"], ["Canada_Goose", "Goose", "Egg_%28food%29"], ["Canada_Goose", "United_States", "Egg_%28food%29"]]

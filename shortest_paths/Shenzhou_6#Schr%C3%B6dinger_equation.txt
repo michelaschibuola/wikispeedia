@@ -1,1 +1,0 @@
-[["Shenzhou_6", "Russia", "David_Hilbert", "Schr%C3%B6dinger_equation"], ["Shenzhou_6", "Silver", "Superconductivity", "Schr%C3%B6dinger_equation"], ["Shenzhou_6", "United_States", "Richard_Feynman", "Schr%C3%B6dinger_equation"]]

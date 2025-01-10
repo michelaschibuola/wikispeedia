@@ -1,1 +1,0 @@
-[["Intelligence", "Albert_Einstein", "Big_Bang"]]

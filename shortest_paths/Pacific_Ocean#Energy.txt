@@ -1,1 +1,0 @@
-[["Pacific_Ocean", "Albatross", "Energy"], ["Pacific_Ocean", "Earth", "Energy"], ["Pacific_Ocean", "Earthquake", "Energy"], ["Pacific_Ocean", "Plate_tectonics", "Energy"], ["Pacific_Ocean", "Tropical_cyclone", "Energy"], ["Pacific_Ocean", "Tsunami", "Energy"], ["Pacific_Ocean", "Volcano", "Energy"], ["Pacific_Ocean", "Water", "Energy"]]

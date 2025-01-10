@@ -1,1 +1,0 @@
-[["Harry_S._Truman", "Europe", "Albatross"], ["Harry_S._Truman", "France", "Albatross"], ["Harry_S._Truman", "United_Kingdom", "Albatross"]]

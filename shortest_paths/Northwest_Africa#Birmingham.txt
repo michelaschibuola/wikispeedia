@@ -1,1 +1,0 @@
-[["Northwest_Africa", "Europe", "Birmingham"], ["Northwest_Africa", "North_America", "Birmingham"]]

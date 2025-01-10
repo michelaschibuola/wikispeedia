@@ -1,1 +1,0 @@
-[["Peru", "14th_century", "Ars_moriendi"], ["Peru", "15th_century", "Ars_moriendi"], ["Peru", "Europe", "Ars_moriendi"], ["Peru", "Poetry", "Ars_moriendi"]]

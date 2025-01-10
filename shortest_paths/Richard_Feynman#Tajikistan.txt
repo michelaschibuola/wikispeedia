@@ -1,1 +1,0 @@
-[["Richard_Feynman", "Jew", "Tajikistan"], ["Richard_Feynman", "United_States", "Tajikistan"]]

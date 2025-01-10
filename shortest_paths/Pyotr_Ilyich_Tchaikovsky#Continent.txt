@@ -1,1 +1,0 @@
-[["Pyotr_Ilyich_Tchaikovsky", "English_language", "Continent"], ["Pyotr_Ilyich_Tchaikovsky", "Italy", "Continent"], ["Pyotr_Ilyich_Tchaikovsky", "Russia", "Continent"], ["Pyotr_Ilyich_Tchaikovsky", "United_States", "Continent"]]

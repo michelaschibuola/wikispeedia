@@ -1,1 +1,0 @@
-[["History", "Ancient_history", "Bangladesh"], ["History", "English_language", "Bangladesh"], ["History", "Lebanon", "Bangladesh"]]

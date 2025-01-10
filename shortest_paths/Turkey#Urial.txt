@@ -1,1 +1,0 @@
-[["Turkey", "Asia", "Urial"], ["Turkey", "Russia", "Urial"], ["Turkey", "India", "Urial"], ["Turkey", "Pakistan", "Urial"]]

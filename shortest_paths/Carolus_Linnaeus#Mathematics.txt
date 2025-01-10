@@ -1,1 +1,0 @@
-[["Carolus_Linnaeus", "Biology", "Mathematics"], ["Carolus_Linnaeus", "Medicine", "Mathematics"], ["Carolus_Linnaeus", "Emanuel_Swedenborg", "Mathematics"]]

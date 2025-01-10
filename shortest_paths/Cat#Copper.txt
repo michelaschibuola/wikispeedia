@@ -1,1 +1,0 @@
-[["Cat", "Ancient_Egypt", "Copper"], ["Cat", "Color", "Copper"], ["Cat", "Cyprus", "Copper"]]

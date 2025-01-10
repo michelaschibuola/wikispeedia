@@ -1,1 +1,0 @@
-[["Napoleon_I_of_France", "Germany", "Penguin"], ["Napoleon_I_of_France", "Sweden", "Penguin"]]

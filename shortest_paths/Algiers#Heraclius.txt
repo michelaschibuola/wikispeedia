@@ -1,1 +1,0 @@
-[["Algiers", "Byzantine_Empire", "Heraclius"], ["Algiers", "Latin", "Heraclius"], ["Algiers", "Roman_Empire", "Heraclius"]]

@@ -1,1 +1,0 @@
-[["Electricity", "Arsenic", "Pigment"], ["Electricity", "Carbon", "Pigment"], ["Electricity", "Copper", "Pigment"], ["Electricity", "Light", "Pigment"], ["Electricity", "Mexico", "Pigment"], ["Electricity", "Salt", "Pigment"], ["Electricity", "Titanium", "Pigment"]]

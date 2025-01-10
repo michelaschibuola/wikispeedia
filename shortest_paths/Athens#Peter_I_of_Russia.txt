@@ -1,1 +1,0 @@
-[["Athens", "Capital", "Peter_I_of_Russia"], ["Athens", "Moscow", "Peter_I_of_Russia"], ["Athens", "Ottoman_Empire", "Peter_I_of_Russia"], ["Athens", "Poland", "Peter_I_of_Russia"], ["Athens", "Russia", "Peter_I_of_Russia"], ["Athens", "Ukraine", "Peter_I_of_Russia"]]

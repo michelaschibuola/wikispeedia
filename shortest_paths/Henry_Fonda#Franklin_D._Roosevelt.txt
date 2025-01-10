@@ -1,1 +1,0 @@
-[["Henry_Fonda", "Battle_of_the_Bulge", "Franklin_D._Roosevelt"], ["Henry_Fonda", "Film", "Franklin_D._Roosevelt"], ["Henry_Fonda", "Italy", "Franklin_D._Roosevelt"], ["Henry_Fonda", "New_York_City", "Franklin_D._Roosevelt"], ["Henry_Fonda", "United_States", "Franklin_D._Roosevelt"], ["Henry_Fonda", "World_War_II", "Franklin_D._Roosevelt"]]

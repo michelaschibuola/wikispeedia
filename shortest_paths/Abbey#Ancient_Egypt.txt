@@ -1,1 +1,0 @@
-[["Abbey", "4th_century", "Ancient_Egypt"], ["Abbey", "Christianity", "Ancient_Egypt"], ["Abbey", "Egypt", "Ancient_Egypt"], ["Abbey", "Nile", "Ancient_Egypt"]]

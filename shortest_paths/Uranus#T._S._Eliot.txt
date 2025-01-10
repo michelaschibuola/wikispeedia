@@ -1,1 +1,0 @@
-[["Uranus", "London", "T._S._Eliot"], ["Uranus", "William_Shakespeare", "T._S._Eliot"]]

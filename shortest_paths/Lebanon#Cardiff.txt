@@ -1,1 +1,0 @@
-[["Lebanon", "Bulgaria", "Cardiff"], ["Lebanon", "Germany", "Cardiff"], ["Lebanon", "English_language", "Cardiff"], ["Lebanon", "France", "Cardiff"], ["Lebanon", "Ukraine", "Cardiff"], ["Lebanon", "United_Kingdom", "Cardiff"]]

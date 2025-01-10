@@ -1,1 +1,0 @@
-[["Rotterdam", "European_Union", "Margaret_Thatcher"], ["Rotterdam", "Europe", "Margaret_Thatcher"], ["Rotterdam", "France", "Margaret_Thatcher"]]

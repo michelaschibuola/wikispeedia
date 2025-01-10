@@ -1,1 +1,0 @@
-[["Shoe_polish", "Chicago", "Autorack"], ["Shoe_polish", "United_States", "Autorack"]]

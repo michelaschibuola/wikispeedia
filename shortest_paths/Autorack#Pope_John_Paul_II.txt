@@ -1,1 +1,0 @@
-[["Autorack", "Germany", "Pope_John_Paul_II"], ["Autorack", "United_States", "Pope_John_Paul_II"]]

@@ -1,1 +1,0 @@
-[["Diamond", "Austria", "William_Pitt_the_Younger"], ["Diamond", "Canada", "William_Pitt_the_Younger"], ["Diamond", "Gold", "William_Pitt_the_Younger"], ["Diamond", "London", "William_Pitt_the_Younger"], ["Diamond", "Mumbai", "William_Pitt_the_Younger"]]

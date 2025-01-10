@@ -1,1 +1,0 @@
-[["Miguel_de_Cervantes", "20th_century", "Mozambique"], ["Miguel_de_Cervantes", "Spain", "Mozambique"], ["Miguel_de_Cervantes", "Portuguese_language", "Mozambique"]]

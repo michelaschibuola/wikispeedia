@@ -1,1 +1,0 @@
-[["Music", "Confucianism", "Political_science"], ["Music", "Middle_Ages", "Political_science"], ["Music", "Anthropology", "Political_science"], ["Music", "Propaganda", "Political_science"]]

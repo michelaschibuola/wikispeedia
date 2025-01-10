@@ -1,1 +1,0 @@
-[["Cretaceous", "Europe", "Double-decker_bus"], ["Cretaceous", "India", "Double-decker_bus"], ["Cretaceous", "North_America", "Double-decker_bus"], ["Cretaceous", "Mumbai", "Double-decker_bus"]]

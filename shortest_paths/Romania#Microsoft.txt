@@ -1,1 +1,0 @@
-[["Romania", "Miami%2C_Florida", "Microsoft"], ["Romania", "United_States", "Microsoft"]]

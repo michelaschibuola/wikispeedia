@@ -1,1 +1,0 @@
-[["Taiwan", "Dominica", "Invasion_of_Grenada"], ["Taiwan", "United_Kingdom", "Invasion_of_Grenada"], ["Taiwan", "Vietnam_War", "Invasion_of_Grenada"]]

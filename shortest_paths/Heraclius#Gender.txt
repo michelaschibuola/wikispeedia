@@ -1,1 +1,0 @@
-[["Heraclius", "Latin", "Gender"]]

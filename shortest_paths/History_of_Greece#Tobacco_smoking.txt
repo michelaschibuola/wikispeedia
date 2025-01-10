@@ -1,1 +1,0 @@
-[["History_of_Greece", "20th_century", "Tobacco_smoking"], ["History_of_Greece", "Australia", "Tobacco_smoking"], ["History_of_Greece", "England", "Tobacco_smoking"], ["History_of_Greece", "Italy", "Tobacco_smoking"], ["History_of_Greece", "New_Zealand", "Tobacco_smoking"], ["History_of_Greece", "Spain", "Tobacco_smoking"]]

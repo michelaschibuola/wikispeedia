@@ -1,1 +1,0 @@
-[["2-8-0", "United_States", "National_parks_of_England_and_Wales"], ["2-8-0", "World_War_II", "National_parks_of_England_and_Wales"]]

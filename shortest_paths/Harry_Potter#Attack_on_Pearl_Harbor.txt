@@ -1,1 +1,0 @@
-[["Harry_Potter", "United_Kingdom", "Attack_on_Pearl_Harbor"], ["Harry_Potter", "United_States", "Attack_on_Pearl_Harbor"]]

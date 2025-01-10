@@ -1,1 +1,0 @@
-[["Arsenal_F.C.", "England", "Coventry"], ["Arsenal_F.C.", "Football_%28soccer%29", "Coventry"], ["Arsenal_F.C.", "London", "Coventry"], ["Arsenal_F.C.", "The_Hitchhiker%27s_Guide_to_the_Galaxy", "Coventry"], ["Arsenal_F.C.", "United_States", "Coventry"], ["Arsenal_F.C.", "World_War_II", "Coventry"]]

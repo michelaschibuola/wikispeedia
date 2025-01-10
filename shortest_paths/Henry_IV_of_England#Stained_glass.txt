@@ -1,1 +1,0 @@
-[["Henry_IV_of_England", "Canterbury_Cathedral", "Stained_glass"], ["Henry_IV_of_England", "Thomas_Becket", "Stained_glass"], ["Henry_IV_of_England", "Henry_VIII_of_England", "Stained_glass"]]

@@ -1,1 +1,0 @@
-[["Winston_Churchill", "European_Union", "Eurovision_Song_Contest"], ["Winston_Churchill", "Canada", "Eurovision_Song_Contest"], ["Winston_Churchill", "Germany", "Eurovision_Song_Contest"], ["Winston_Churchill", "India", "Eurovision_Song_Contest"], ["Winston_Churchill", "London", "Eurovision_Song_Contest"], ["Winston_Churchill", "Yugoslavia", "Eurovision_Song_Contest"]]

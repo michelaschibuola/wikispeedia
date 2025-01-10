@@ -1,1 +1,0 @@
-[["Eric_Clapton", "Canada", "Winston_Churchill"], ["Eric_Clapton", "England", "Winston_Churchill"], ["Eric_Clapton", "London", "Winston_Churchill"]]

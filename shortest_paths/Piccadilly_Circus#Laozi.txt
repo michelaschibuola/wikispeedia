@@ -1,1 +1,0 @@
-[["Piccadilly_Circus", "Sweden", "Chinese_language", "Laozi"], ["Piccadilly_Circus", "United_States", "Chinese_language", "Laozi"], ["Piccadilly_Circus", "United_States", "Atheism", "Laozi"], ["Piccadilly_Circus", "United_States", "Philosophy", "Laozi"]]

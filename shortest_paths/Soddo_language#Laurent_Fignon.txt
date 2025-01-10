@@ -1,1 +1,0 @@
-[["Soddo_language", "Ethiopia", "France", "Laurent_Fignon"], ["Soddo_language", "English_language", "Paris", "Laurent_Fignon"]]

@@ -1,1 +1,0 @@
-[["Bogot%C3%A1", "Miami%2C_Florida", "Citrus"], ["Bogot%C3%A1", "South_America", "Citrus"]]

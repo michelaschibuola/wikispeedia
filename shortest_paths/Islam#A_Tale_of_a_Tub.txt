@@ -1,1 +1,0 @@
-[["Islam", "Christianity", "A_Tale_of_a_Tub"], ["Islam", "Great_Britain", "A_Tale_of_a_Tub"], ["Islam", "Medicine", "A_Tale_of_a_Tub"]]

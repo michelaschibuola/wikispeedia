@@ -1,1 +1,0 @@
-[["Park", "Canada", "American_English"], ["Park", "Chicago", "American_English"], ["Park", "Philadelphia", "American_English"], ["Park", "United_States", "American_English"]]

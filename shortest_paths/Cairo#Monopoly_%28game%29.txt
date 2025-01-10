@@ -1,1 +1,0 @@
-[["Cairo", "Germany", "Monopoly_%28game%29"], ["Cairo", "New_York_City", "Monopoly_%28game%29"], ["Cairo", "United_States", "Monopoly_%28game%29"]]

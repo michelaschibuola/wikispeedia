@@ -1,1 +1,0 @@
-[["Snow_Goose", "20th_century", "Human_rights"], ["Snow_Goose", "North_America", "Human_rights"], ["Snow_Goose", "United_States", "Human_rights"]]

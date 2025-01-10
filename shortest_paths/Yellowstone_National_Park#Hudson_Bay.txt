@@ -1,1 +1,0 @@
-[["Yellowstone_National_Park", "Glacier_National_Park_%28US%29", "Hudson_Bay"], ["Yellowstone_National_Park", "Atlantic_Ocean", "Hudson_Bay"], ["Yellowstone_National_Park", "North_America", "Hudson_Bay"]]

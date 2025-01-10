@@ -1,1 +1,0 @@
-[["Rubidium", "Latin", "Baltic_Sea"], ["Rubidium", "Oxygen", "Baltic_Sea"], ["Rubidium", "Silver", "Baltic_Sea"]]

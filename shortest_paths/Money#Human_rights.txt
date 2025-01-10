@@ -1,1 +1,0 @@
-[["Money", "John_Locke", "Human_rights"], ["Money", "Mesopotamia", "Human_rights"]]

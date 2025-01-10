@@ -1,1 +1,0 @@
-[["Guernsey", "Driving_on_the_left_or_right", "Midway_Atoll"], ["Guernsey", "World_War_II", "Midway_Atoll"], ["Guernsey", "United_States", "Midway_Atoll"]]

@@ -1,1 +1,0 @@
-[["Weather", "Radar", "Adolf_Hitler"], ["Weather", "Swastika", "Adolf_Hitler"], ["Weather", "Middle_East", "Adolf_Hitler"]]

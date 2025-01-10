@@ -1,1 +1,0 @@
-[["Avro_Lancaster", "Canada", "Chad"], ["Avro_Lancaster", "Egypt", "Chad"], ["Avro_Lancaster", "France", "Chad"], ["Avro_Lancaster", "Poland", "Chad"], ["Avro_Lancaster", "United_Kingdom", "Chad"], ["Avro_Lancaster", "World_War_II", "Chad"]]

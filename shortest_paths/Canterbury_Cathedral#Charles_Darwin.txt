@@ -1,1 +1,0 @@
-[["Canterbury_Cathedral", "Anglicanism", "Charles_Darwin"], ["Canterbury_Cathedral", "Church_of_England", "Charles_Darwin"], ["Canterbury_Cathedral", "England", "Charles_Darwin"], ["Canterbury_Cathedral", "United_Kingdom", "Charles_Darwin"]]

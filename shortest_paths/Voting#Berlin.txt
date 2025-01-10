@@ -1,1 +1,0 @@
-[["Voting", "Argentina", "Berlin"], ["Voting", "Belgium", "Berlin"], ["Voting", "Buenos_Aires", "Berlin"]]

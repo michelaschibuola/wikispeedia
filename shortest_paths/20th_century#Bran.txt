@@ -1,1 +1,0 @@
-[["20th_century", "Japan", "Bran"], ["20th_century", "United_States", "Bran"], ["20th_century", "Vitamin", "Bran"], ["20th_century", "Bread", "Bran"], ["20th_century", "Rice", "Bran"]]

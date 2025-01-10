@@ -1,1 +1,0 @@
-[["Einsteinium", "Electron", "Thermodynamic_temperature"], ["Einsteinium", "Metal", "Thermodynamic_temperature"], ["Einsteinium", "Nuclear_weapon", "Thermodynamic_temperature"]]

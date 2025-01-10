@@ -1,1 +1,0 @@
-[["A_Tale_of_a_Tub", "Bible", "Water", "Soil_moisture"], ["A_Tale_of_a_Tub", "Christianity", "Water", "Soil_moisture"], ["A_Tale_of_a_Tub", "Literature", "Water", "Soil_moisture"], ["A_Tale_of_a_Tub", "Industrial_Revolution", "Agriculture", "Soil_moisture"]]

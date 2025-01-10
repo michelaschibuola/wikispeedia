@@ -1,1 +1,0 @@
-[["Hurricane_Andrew", "Africa", "Ocean"], ["Hurricane_Andrew", "Tropical_cyclone", "Ocean"]]

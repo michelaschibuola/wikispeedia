@@ -1,1 +1,0 @@
-[["Euro", "Economy_of_the_Republic_of_Ireland", "Microsoft"], ["Euro", "United_States", "Microsoft"], ["Euro", "IPod", "Microsoft"], ["Euro", "United_States_dollar", "Microsoft"]]

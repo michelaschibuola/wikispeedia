@@ -1,1 +1,0 @@
-[["Virgil", "Christianity", "Ape"], ["Virgil", "English_language", "Ape"]]

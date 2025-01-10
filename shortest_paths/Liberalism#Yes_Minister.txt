@@ -1,1 +1,0 @@
-[["Liberalism", "Canada", "Yes_Minister"], ["Liberalism", "Margaret_Thatcher", "Yes_Minister"], ["Liberalism", "Sweden", "Yes_Minister"], ["Liberalism", "United_Kingdom", "Yes_Minister"], ["Liberalism", "Winston_Churchill", "Yes_Minister"]]

@@ -1,1 +1,0 @@
-[["Space_Race", "Earth", "Elizabeth_I_of_England"], ["Space_Race", "United_States", "Elizabeth_I_of_England"]]

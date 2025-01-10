@@ -1,1 +1,0 @@
-[["Antarctica", "Africa", "Antelope"], ["Antarctica", "United_States", "Antelope"], ["Antarctica", "Pliocene", "Antelope"], ["Antarctica", "Wind", "Antelope"]]

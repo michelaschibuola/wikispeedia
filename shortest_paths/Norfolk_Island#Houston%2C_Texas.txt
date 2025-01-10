@@ -1,1 +1,0 @@
-[["Norfolk_Island", "France", "Houston%2C_Texas"], ["Norfolk_Island", "Time_zone", "Houston%2C_Texas"], ["Norfolk_Island", "Tourism", "Houston%2C_Texas"]]

@@ -1,1 +1,0 @@
-[["Battle_of_Britain", "England", "Calcium", "Thulium"], ["Battle_of_Britain", "England", "Neutron", "Thulium"], ["Battle_of_Britain", "United_Kingdom", "Electron", "Thulium"]]

@@ -1,1 +1,0 @@
-[["Bird", "Albatross", "Peru"], ["Bird", "Amazon_Rainforest", "Peru"], ["Bird", "Anaconda", "Peru"], ["Bird", "Biodiversity", "Peru"], ["Bird", "19th_century", "Peru"], ["Bird", "Agriculture", "Peru"], ["Bird", "Cormorant", "Peru"], ["Bird", "Emu", "Peru"], ["Bird", "Peanut", "Peru"], ["Bird", "Rice", "Peru"]]

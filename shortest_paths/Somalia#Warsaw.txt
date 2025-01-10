@@ -1,1 +1,0 @@
-[["Somalia", "Country", "Warsaw"], ["Somalia", "Russia", "Warsaw"], ["Somalia", "United_Kingdom", "Warsaw"], ["Somalia", "United_States", "Warsaw"]]

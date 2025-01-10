@@ -1,1 +1,0 @@
-[["Zeus", "Ancient_Rome", "Princeton_University"], ["Zeus", "Milky_Way", "Princeton_University"], ["Zeus", "Ancient_Greece", "Princeton_University"], ["Zeus", "Sculpture", "Princeton_University"]]

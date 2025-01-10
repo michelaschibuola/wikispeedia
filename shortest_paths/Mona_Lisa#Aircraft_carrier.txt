@@ -1,1 +1,0 @@
-[["Mona_Lisa", "France", "Aircraft_carrier"], ["Mona_Lisa", "Germany", "Aircraft_carrier"], ["Mona_Lisa", "Italy", "Aircraft_carrier"], ["Mona_Lisa", "John_F._Kennedy", "Aircraft_carrier"], ["Mona_Lisa", "United_States", "Aircraft_carrier"], ["Mona_Lisa", "World_War_II", "Aircraft_carrier"]]

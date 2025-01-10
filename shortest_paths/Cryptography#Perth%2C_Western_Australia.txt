@@ -1,1 +1,0 @@
-[["Cryptography", "France", "Perth%2C_Western_Australia"], ["Cryptography", "Pakistan", "Perth%2C_Western_Australia"], ["Cryptography", "Singapore", "Perth%2C_Western_Australia"], ["Cryptography", "Vietnam", "Perth%2C_Western_Australia"]]

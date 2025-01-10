@@ -1,1 +1,0 @@
-[["Sigmund_Freud", "Nazi_Germany", "Petroleum"], ["Sigmund_Freud", "German_language", "Petroleum"], ["Sigmund_Freud", "Oxygen", "Petroleum"]]

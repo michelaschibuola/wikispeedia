@@ -1,1 +1,0 @@
-[["Dundee", "France", "Theodore_Roosevelt"], ["Dundee", "Germany", "Theodore_Roosevelt"], ["Dundee", "Winston_Churchill", "Theodore_Roosevelt"]]

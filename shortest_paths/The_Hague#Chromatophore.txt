@@ -1,1 +1,0 @@
-[["The_Hague", "20th_century", "Mammal", "Chromatophore"], ["The_Hague", "Europe", "Mammal", "Chromatophore"], ["The_Hague", "Europe", "Crustacean", "Chromatophore"], ["The_Hague", "Europe", "Fish", "Chromatophore"], ["The_Hague", "France", "Frog", "Chromatophore"]]

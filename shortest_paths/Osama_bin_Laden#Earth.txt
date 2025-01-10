@@ -1,1 +1,0 @@
-[["Osama_bin_Laden", "Africa", "Earth"], ["Osama_bin_Laden", "Arabic_language", "Earth"], ["Osama_bin_Laden", "Europe", "Earth"], ["Osama_bin_Laden", "French_language", "Earth"], ["Osama_bin_Laden", "Government", "Earth"], ["Osama_bin_Laden", "Middle_East", "Earth"], ["Osama_bin_Laden", "United_Nations", "Earth"], ["Osama_bin_Laden", "United_States", "Earth"]]

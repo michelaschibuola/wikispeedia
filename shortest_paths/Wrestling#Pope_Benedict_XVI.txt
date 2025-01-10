@@ -1,1 +1,0 @@
-[["Wrestling", "China", "Pope_Benedict_XVI"], ["Wrestling", "Europe", "Pope_Benedict_XVI"], ["Wrestling", "Turkey", "Pope_Benedict_XVI"]]

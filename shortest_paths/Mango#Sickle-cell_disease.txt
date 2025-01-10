@@ -1,1 +1,0 @@
-[["Mango", "India", "Sickle-cell_disease"], ["Mango", "Africa", "Sickle-cell_disease"], ["Mango", "United_States", "Sickle-cell_disease"]]

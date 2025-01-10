@@ -1,1 +1,0 @@
-[["Wayne_Rooney", "England", "Alexander_Graham_Bell", "Electrical_resistance"], ["Wayne_Rooney", "England", "Rhodium", "Electrical_resistance"], ["Wayne_Rooney", "United_Kingdom", "Bismuth", "Electrical_resistance"]]

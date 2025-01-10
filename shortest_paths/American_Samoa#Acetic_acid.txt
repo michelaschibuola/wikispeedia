@@ -1,1 +1,0 @@
-[["American_Samoa", "Europe", "Acetic_acid"], ["American_Samoa", "Germany", "Acetic_acid"], ["American_Samoa", "United_States", "Acetic_acid"]]

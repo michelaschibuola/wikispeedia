@@ -1,1 +1,0 @@
-[["Stratford-upon-Avon", "London", "Mount_Everest", "Tenzing_Norgay"], ["Stratford-upon-Avon", "London", "Yeti", "Tenzing_Norgay"], ["Stratford-upon-Avon", "Vivien_Leigh", "India", "Tenzing_Norgay"]]

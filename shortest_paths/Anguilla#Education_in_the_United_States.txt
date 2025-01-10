@@ -1,1 +1,0 @@
-[["Anguilla", "English_language", "Education_in_the_United_States"], ["Anguilla", "Puerto_Rico", "Education_in_the_United_States"], ["Anguilla", "United_States", "Education_in_the_United_States"]]

@@ -1,1 +1,0 @@
-[["Cheese", "France", "Television"], ["Cheese", "Germany", "Television"], ["Cheese", "Latin", "Television"], ["Cheese", "New_Zealand", "Television"], ["Cheese", "Spanish_language", "Television"], ["Cheese", "Sweden", "Television"], ["Cheese", "United_Kingdom", "Television"], ["Cheese", "United_States", "Television"]]

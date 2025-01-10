@@ -1,1 +1,0 @@
-[["Uranus", "Jupiter", "Antarctica"], ["Uranus", "Mercury_%28planet%29", "Antarctica"], ["Uranus", "Planet", "Antarctica"], ["Uranus", "Solar_System", "Antarctica"], ["Uranus", "Asteroid", "Antarctica"], ["Uranus", "Earth", "Antarctica"], ["Uranus", "Sun", "Antarctica"]]

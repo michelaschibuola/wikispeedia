@@ -1,1 +1,0 @@
-[["Bristol", "BBC", "1973_oil_crisis"], ["Bristol", "Concorde", "1973_oil_crisis"], ["Bristol", "Newspaper", "1973_oil_crisis"], ["Bristol", "Portugal", "1973_oil_crisis"], ["Bristol", "United_Kingdom", "1973_oil_crisis"], ["Bristol", "World_War_II", "1973_oil_crisis"]]

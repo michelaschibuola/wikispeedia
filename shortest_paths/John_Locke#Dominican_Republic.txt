@@ -1,1 +1,0 @@
-[["John_Locke", "Government", "Dominican_Republic"], ["John_Locke", "United_States", "Dominican_Republic"]]

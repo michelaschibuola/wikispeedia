@@ -1,1 +1,0 @@
-[["Black_panther", "China", "Jupiter", "PSR_B1620-26c"], ["Black_panther", "India", "Milky_Way", "PSR_B1620-26c"], ["Black_panther", "Spain", "Milky_Way", "PSR_B1620-26c"]]

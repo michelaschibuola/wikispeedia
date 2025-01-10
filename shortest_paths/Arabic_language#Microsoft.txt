@@ -1,1 +1,0 @@
-[["Arabic_language", "World_Wide_Web", "Microsoft"], ["Arabic_language", "Calligraphy", "Microsoft"], ["Arabic_language", "Dubai", "Microsoft"], ["Arabic_language", "Windows_2000", "Microsoft"]]

@@ -1,1 +1,0 @@
-[["Peru", "Greece", "Great_Pyramid_of_Giza"], ["Peru", "Agriculture", "Great_Pyramid_of_Giza"], ["Peru", "Mexico", "Great_Pyramid_of_Giza"]]

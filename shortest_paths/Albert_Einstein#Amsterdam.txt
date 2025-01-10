@@ -1,1 +1,0 @@
-[["Albert_Einstein", "Africa", "Amsterdam"], ["Albert_Einstein", "Berlin", "Amsterdam"], ["Albert_Einstein", "Brazil", "Amsterdam"], ["Albert_Einstein", "Jew", "Amsterdam"], ["Albert_Einstein", "Prague", "Amsterdam"], ["Albert_Einstein", "World_War_I", "Amsterdam"], ["Albert_Einstein", "World_War_II", "Amsterdam"], ["Albert_Einstein", "Baruch_Spinoza", "Amsterdam"]]

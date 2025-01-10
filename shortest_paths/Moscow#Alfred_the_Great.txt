@@ -1,1 +1,0 @@
-[["Moscow", "London", "Alfred_the_Great"], ["Moscow", "Baltic_Sea", "Alfred_the_Great"], ["Moscow", "India", "Alfred_the_Great"], ["Moscow", "Ireland", "Alfred_the_Great"], ["Moscow", "Winston_Churchill", "Alfred_the_Great"]]

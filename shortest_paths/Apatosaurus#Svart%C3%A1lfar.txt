@@ -1,1 +1,0 @@
-[["Apatosaurus", "Greek_mythology", "Norse_mythology", "Svart%C3%A1lfar"], ["Apatosaurus", "United_States", "Norse_mythology", "Svart%C3%A1lfar"], ["Apatosaurus", "United_States", "German_language", "Svart%C3%A1lfar"]]

@@ -1,1 +1,0 @@
-[["Hot_air_balloon", "China", "Buddhist_art"], ["Hot_air_balloon", "Japan", "Buddhist_art"]]

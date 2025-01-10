@@ -1,1 +1,0 @@
-[["Frederick_Douglass", "England", "Wallaby"], ["Frederick_Douglass", "Scotland", "Wallaby"]]

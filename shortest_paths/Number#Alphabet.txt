@@ -1,1 +1,0 @@
-[["Number", "China", "Alphabet"], ["Number", "Egypt", "Alphabet"], ["Number", "Sanskrit", "Alphabet"]]

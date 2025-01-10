@@ -1,1 +1,0 @@
-[["Blue_Jay", "Animal", "Turkey_%28bird%29"], ["Blue_Jay", "Bird", "Turkey_%28bird%29"], ["Blue_Jay", "Carolus_Linnaeus", "Turkey_%28bird%29"], ["Blue_Jay", "Chordate", "Turkey_%28bird%29"], ["Blue_Jay", "North_America", "Turkey_%28bird%29"], ["Blue_Jay", "Scientific_classification", "Turkey_%28bird%29"]]

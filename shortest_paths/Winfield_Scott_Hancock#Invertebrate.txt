@@ -1,1 +1,0 @@
-[["Winfield_Scott_Hancock", "California", "Fishing", "Invertebrate"], ["Winfield_Scott_Hancock", "California", "Miocene", "Invertebrate"], ["Winfield_Scott_Hancock", "California", "Otter", "Invertebrate"], ["Winfield_Scott_Hancock", "California", "Spider", "Invertebrate"], ["Winfield_Scott_Hancock", "Florida", "Cane_Toad", "Invertebrate"]]

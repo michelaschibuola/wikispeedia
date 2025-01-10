@@ -1,1 +1,0 @@
-[["Scooby-Doo", "Batman", "Ronald_Reagan"], ["Scooby-Doo", "United_States", "Ronald_Reagan"]]

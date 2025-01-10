@@ -1,1 +1,0 @@
-[["Vanadium", "Animal", "Herring_Gull"]]

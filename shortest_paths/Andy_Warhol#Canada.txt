@@ -1,1 +1,0 @@
-[["Andy_Warhol", "The_Rolling_Stones", "Canada"], ["Andy_Warhol", "United_States", "Canada"], ["Andy_Warhol", "Fidel_Castro", "Canada"], ["Andy_Warhol", "The_Adventures_of_Tintin", "Canada"]]

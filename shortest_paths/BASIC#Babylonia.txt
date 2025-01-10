@@ -1,1 +1,0 @@
-[["BASIC", "Computer", "Astrology", "Babylonia"], ["BASIC", "Computer", "Trigonometry", "Babylonia"], ["BASIC", "Programming_language", "Trigonometry", "Babylonia"], ["BASIC", "Computer", "Syria", "Babylonia"], ["BASIC", "Computer", "Trigonometric_function", "Babylonia"]]

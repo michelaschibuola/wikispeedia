@@ -1,1 +1,0 @@
-[["Whooping_Crane", "Bird_migration", "Vulture"], ["Whooping_Crane", "Animal", "Vulture"], ["Whooping_Crane", "Chordate", "Vulture"], ["Whooping_Crane", "Scientific_classification", "Vulture"]]

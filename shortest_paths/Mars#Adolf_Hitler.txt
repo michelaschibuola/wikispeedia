@@ -1,1 +1,0 @@
-[["Mars", "Italy", "Adolf_Hitler"], ["Mars", "Soviet_Union", "Adolf_Hitler"], ["Mars", "Wernher_von_Braun", "Adolf_Hitler"]]

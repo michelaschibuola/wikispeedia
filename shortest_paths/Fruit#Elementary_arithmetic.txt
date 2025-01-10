@@ -1,1 +1,0 @@
-[["Fruit", "California", "Computer", "Elementary_arithmetic"], ["Fruit", "Evolution", "Computer", "Elementary_arithmetic"], ["Fruit", "Food", "Computer", "Elementary_arithmetic"], ["Fruit", "Syria", "Computer", "Elementary_arithmetic"], ["Fruit", "Evolution", "Algorithm", "Elementary_arithmetic"], ["Fruit", "James_Cook", "Algebra", "Elementary_arithmetic"]]

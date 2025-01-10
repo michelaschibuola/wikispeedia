@@ -1,1 +1,0 @@
-[["Crab_Nebula", "Hydrogen", "Greenhouse_effect"], ["Crab_Nebula", "Nitrogen", "Greenhouse_effect"], ["Crab_Nebula", "Oxygen", "Greenhouse_effect"]]

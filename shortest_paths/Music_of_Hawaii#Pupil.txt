@@ -1,1 +1,0 @@
-[["Music_of_Hawaii", "20th_century", "Ancient_Rome", "Pupil"], ["Music_of_Hawaii", "English_language", "Ancient_Rome", "Pupil"], ["Music_of_Hawaii", "Dance", "Animal", "Pupil"], ["Music_of_Hawaii", "Dance", "Human", "Pupil"], ["Music_of_Hawaii", "English_language", "Human", "Pupil"], ["Music_of_Hawaii", "Tokyo", "Human", "Pupil"], ["Music_of_Hawaii", "Genealogy", "Cat", "Pupil"]]

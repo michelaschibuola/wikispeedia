@@ -1,1 +1,0 @@
-[["Edema", "Gravitation", "Earth"]]

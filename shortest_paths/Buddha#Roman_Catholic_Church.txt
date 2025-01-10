@@ -1,1 +1,0 @@
-[["Buddha", "God", "Roman_Catholic_Church"], ["Buddha", "Hong_Kong", "Roman_Catholic_Church"], ["Buddha", "Jesus", "Roman_Catholic_Church"], ["Buddha", "Ordination_of_women", "Roman_Catholic_Church"]]

@@ -1,1 +1,0 @@
-[["Alfred_Hitchcock", "Germany", "Istanbul"], ["Alfred_Hitchcock", "London", "Istanbul"], ["Alfred_Hitchcock", "United_States", "Istanbul"]]

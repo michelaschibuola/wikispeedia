@@ -1,1 +1,0 @@
-[["Belgium", "France", "Blaise_Pascal"], ["Belgium", "Germany", "Blaise_Pascal"], ["Belgium", "Latin", "Blaise_Pascal"], ["Belgium", "Paris", "Blaise_Pascal"]]

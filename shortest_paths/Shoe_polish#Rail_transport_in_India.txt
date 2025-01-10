@@ -1,1 +1,0 @@
-[["Shoe_polish", "India", "Rail_transport_in_India"], ["Shoe_polish", "Mumbai", "Rail_transport_in_India"], ["Shoe_polish", "Pakistan", "Rail_transport_in_India"], ["Shoe_polish", "United_Kingdom", "Rail_transport_in_India"], ["Shoe_polish", "World_War_I", "Rail_transport_in_India"], ["Shoe_polish", "World_War_II", "Rail_transport_in_India"]]

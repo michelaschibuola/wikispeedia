@@ -1,1 +1,0 @@
-[["History_of_South_Carolina", "Fish", "Beer"], ["History_of_South_Carolina", "Rice", "Beer"], ["History_of_South_Carolina", "United_States", "Beer"]]

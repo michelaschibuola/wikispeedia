@@ -1,1 +1,0 @@
-[["Milgram_experiment", "Jerusalem", "City"], ["Milgram_experiment", "United_Kingdom", "City"]]

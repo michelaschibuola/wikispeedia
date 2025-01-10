@@ -1,1 +1,0 @@
-[["Arabic_language", "Jew", "Geography"], ["Arabic_language", "Lebanon", "Geography"], ["Arabic_language", "Middle_Ages", "Geography"], ["Arabic_language", "Earth", "Geography"], ["Arabic_language", "Europe", "Geography"], ["Arabic_language", "Human", "Geography"], ["Arabic_language", "Muhammad_ibn_Musa_al-Khwarizmi", "Geography"], ["Arabic_language", "Ptolemy", "Geography"]]

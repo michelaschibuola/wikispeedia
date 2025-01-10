@@ -1,1 +1,0 @@
-[["Nicolaus_Copernicus", "Earth", "Tropical_cyclone"], ["Nicolaus_Copernicus", "Europe", "Tropical_cyclone"], ["Nicolaus_Copernicus", "God", "Tropical_cyclone"], ["Nicolaus_Copernicus", "Sun", "Tropical_cyclone"], ["Nicolaus_Copernicus", "Physical_science", "Tropical_cyclone"]]

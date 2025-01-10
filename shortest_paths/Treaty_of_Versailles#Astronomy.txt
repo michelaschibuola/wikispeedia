@@ -1,1 +1,0 @@
-[["Treaty_of_Versailles", "Law", "Astronomy"], ["Treaty_of_Versailles", "China", "Astronomy"], ["Treaty_of_Versailles", "Wernher_von_Braun", "Astronomy"]]

@@ -1,1 +1,0 @@
-[["Guangzhou", "Germany", "Pope"], ["Guangzhou", "Italy", "Pope"], ["Guangzhou", "Portugal", "Pope"], ["Guangzhou", "Macau", "Pope"]]

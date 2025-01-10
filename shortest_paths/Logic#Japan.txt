@@ -1,1 +1,0 @@
-[["Logic", "Alice%27s_Adventures_in_Wonderland", "Japan"], ["Logic", "Astrophysics_Data_System", "Japan"], ["Logic", "Bertrand_Russell", "Japan"], ["Logic", "Culture", "Japan"], ["Logic", "20th_century", "Japan"], ["Logic", "Philosophy", "Japan"], ["Logic", "Modern_history", "Japan"], ["Logic", "Sudoku", "Japan"], ["Logic", "University", "Japan"]]

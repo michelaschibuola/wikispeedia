@@ -1,1 +1,0 @@
-[["Saladin", "Islam", "Arab-Israeli_conflict"], ["Saladin", "Jerusalem", "Arab-Israeli_conflict"], ["Saladin", "Christianity", "Arab-Israeli_conflict"], ["Saladin", "Egypt", "Arab-Israeli_conflict"], ["Saladin", "Iraq", "Arab-Israeli_conflict"], ["Saladin", "Syria", "Arab-Israeli_conflict"]]

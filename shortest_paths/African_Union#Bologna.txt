@@ -1,1 +1,0 @@
-[["African_Union", "European_Union", "Bologna"], ["African_Union", "France", "Bologna"], ["African_Union", "NATO", "Bologna"]]

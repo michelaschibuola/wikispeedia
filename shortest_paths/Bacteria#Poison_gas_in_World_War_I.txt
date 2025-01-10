@@ -1,1 +1,0 @@
-[["Bacteria", "Carbon_dioxide", "Poison_gas_in_World_War_I"], ["Bacteria", "Pneumonia", "Poison_gas_in_World_War_I"], ["Bacteria", "Tuberculosis", "Poison_gas_in_World_War_I"], ["Bacteria", "Chlorine", "Poison_gas_in_World_War_I"]]

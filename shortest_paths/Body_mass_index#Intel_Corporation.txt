@@ -1,1 +1,0 @@
-[["Body_mass_index", "World_Health_Organization", "United_States", "Intel_Corporation"], ["Body_mass_index", "Myocardial_infarction", "United_States", "Intel_Corporation"], ["Body_mass_index", "World_Health_Organization", "Japan", "Intel_Corporation"]]

@@ -1,1 +1,0 @@
-[["Chimpanzee", "David_Attenborough", "Global_warming"], ["Chimpanzee", "History_of_Earth", "Global_warming"]]

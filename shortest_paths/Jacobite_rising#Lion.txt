@@ -1,1 +1,0 @@
-[["Jacobite_rising", "England", "Lion"], ["Jacobite_rising", "France", "Lion"], ["Jacobite_rising", "Scotland", "Lion"]]

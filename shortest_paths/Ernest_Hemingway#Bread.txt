@@ -1,1 +1,0 @@
-[["Ernest_Hemingway", "20th_century", "Bread"], ["Ernest_Hemingway", "Germany", "Bread"], ["Ernest_Hemingway", "United_States", "Bread"], ["Ernest_Hemingway", "Kansas_City%2C_Missouri", "Bread"]]

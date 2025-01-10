@@ -1,1 +1,0 @@
-[["Coconut_crab", "Fruit", "Kyrgyzstan"], ["Coconut_crab", "Germany", "Kyrgyzstan"]]

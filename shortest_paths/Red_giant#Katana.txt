@@ -1,1 +1,0 @@
-[["Red_giant", "Helium", "World_War_II", "Katana"], ["Red_giant", "Superman", "World_War_II", "Katana"], ["Red_giant", "Sun", "Japan", "Katana"], ["Red_giant", "Technetium", "Japan", "Katana"]]

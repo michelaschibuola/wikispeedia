@@ -1,1 +1,0 @@
-[["19th_century", "Atlantic_Ocean", "Antarctic_krill"], ["19th_century", "Japan", "Antarctic_krill"], ["19th_century", "Bird", "Antarctic_krill"], ["19th_century", "Whale", "Antarctic_krill"], ["19th_century", "Winter", "Antarctic_krill"]]

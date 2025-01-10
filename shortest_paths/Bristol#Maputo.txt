@@ -1,1 +1,0 @@
-[["Bristol", "Africa", "Maputo"], ["Bristol", "Mozambique", "Maputo"], ["Bristol", "Portugal", "Maputo"]]

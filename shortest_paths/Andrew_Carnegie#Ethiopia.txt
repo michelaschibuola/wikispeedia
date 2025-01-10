@@ -1,1 +1,0 @@
-[["Andrew_Carnegie", "English_language", "Ethiopia"], ["Andrew_Carnegie", "Spain", "Ethiopia"], ["Andrew_Carnegie", "United_Kingdom", "Ethiopia"], ["Andrew_Carnegie", "United_States", "Ethiopia"]]

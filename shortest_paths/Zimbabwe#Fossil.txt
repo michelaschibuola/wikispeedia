@@ -1,1 +1,0 @@
-[["Zimbabwe", "Africa", "Fossil"], ["Zimbabwe", "History_of_South_Africa", "Fossil"], ["Zimbabwe", "Kenya", "Fossil"], ["Zimbabwe", "Massospondylus", "Fossil"], ["Zimbabwe", "South_Africa", "Fossil"], ["Zimbabwe", "China", "Fossil"]]

@@ -1,1 +1,0 @@
-[["Weapon", "Siege", "Antwerp"], ["Weapon", "Renaissance", "Antwerp"], ["Weapon", "World_War_I", "Antwerp"], ["Weapon", "World_War_II", "Antwerp"]]

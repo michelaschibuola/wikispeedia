@@ -1,1 +1,0 @@
-[["Celtic_F.C.", "Religion", "Sun", "HD_209458_b"], ["Celtic_F.C.", "United_Kingdom", "Hubble_Space_Telescope", "HD_209458_b"], ["Celtic_F.C.", "United_Kingdom", "Hydrogen", "HD_209458_b"]]

@@ -1,1 +1,0 @@
-[["Ancient_Rome", "Africa", "Accra"], ["Ancient_Rome", "17th_century", "Accra"], ["Ancient_Rome", "France", "Accra"], ["Ancient_Rome", "Netherlands", "Accra"], ["Ancient_Rome", "Clothing", "Accra"], ["Ancient_Rome", "Great_Britain", "Accra"], ["Ancient_Rome", "Portugal", "Accra"]]

@@ -1,1 +1,0 @@
-[["Anguilla", "England", "The_Cantos"], ["Anguilla", "Monarchy", "The_Cantos"], ["Anguilla", "United_States", "The_Cantos"]]

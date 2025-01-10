@@ -1,1 +1,0 @@
-[["Eye_%28cyclone%29", "Cloud", "Lightning_rod"], ["Eye_%28cyclone%29", "United_States", "Lightning_rod"]]

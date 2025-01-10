@@ -1,1 +1,0 @@
-[["Election", "Russia", "Tibet"], ["Election", "United_Nations", "Tibet"], ["Election", "History_of_democracy", "Tibet"]]

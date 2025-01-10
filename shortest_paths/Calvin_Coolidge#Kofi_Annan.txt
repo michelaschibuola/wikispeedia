@@ -1,1 +1,0 @@
-[["Calvin_Coolidge", "Bill_Clinton", "Kofi_Annan"], ["Calvin_Coolidge", "United_Kingdom", "Kofi_Annan"]]

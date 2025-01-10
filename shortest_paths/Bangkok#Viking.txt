@@ -1,1 +1,0 @@
-[["Bangkok", "Christianity", "Viking"], ["Bangkok", "English_language", "Viking"], ["Bangkok", "Islam", "Viking"], ["Bangkok", "Russia", "Viking"], ["Bangkok", "Finland", "Viking"]]

@@ -1,1 +1,0 @@
-[["Cyclops", "Apollo", "Jesus", "Onion_dome"], ["Cyclops", "Odysseus", "Jesus", "Onion_dome"], ["Cyclops", "Elephant", "Taj_Mahal", "Onion_dome"], ["Cyclops", "Homer", "Munich", "Onion_dome"], ["Cyclops", "Trojan_War", "Munich", "Onion_dome"]]

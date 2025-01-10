@@ -1,1 +1,0 @@
-[["Precambrian", "Animal", "Human"], ["Precambrian", "Antarctica", "Human"], ["Precambrian", "Creation-evolution_controversy", "Human"], ["Precambrian", "Organism", "Human"], ["Precambrian", "Earth", "Human"], ["Precambrian", "History_of_Earth", "Human"]]

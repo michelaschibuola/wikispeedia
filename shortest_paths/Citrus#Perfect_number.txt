@@ -1,1 +1,0 @@
-[["Citrus", "Apple", "Ancient_Greece", "Perfect_number"], ["Citrus", "Hippocrates", "Ancient_Greece", "Perfect_number"], ["Citrus", "Juniper_berry", "Ancient_Greece", "Perfect_number"], ["Citrus", "Wine", "Ancient_Greece", "Perfect_number"]]

@@ -1,1 +1,0 @@
-[["Zulu", "19th_century", "Jesus"], ["Zulu", "Ladysmith_Black_Mambazo", "Jesus"], ["Zulu", "Christianity", "Jesus"], ["Zulu", "English_language", "Jesus"]]

@@ -1,1 +1,0 @@
-[["Quark", "James_Joyce", "French_language", "Mayotte"], ["Quark", "Buddhism", "France", "Mayotte"]]

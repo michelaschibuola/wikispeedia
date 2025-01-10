@@ -1,1 +1,0 @@
-[["Fr%C3%A9d%C3%A9ric_Chopin", "Barcelona", "Sarajevo"], ["Fr%C3%A9d%C3%A9ric_Chopin", "England", "Sarajevo"], ["Fr%C3%A9d%C3%A9ric_Chopin", "France", "Sarajevo"], ["Fr%C3%A9d%C3%A9ric_Chopin", "Vienna", "Sarajevo"]]

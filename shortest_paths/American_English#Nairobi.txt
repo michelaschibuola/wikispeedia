@@ -1,1 +1,0 @@
-[["American_English", "United_States", "Nairobi"], ["American_English", "Asia", "Nairobi"]]

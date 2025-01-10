@@ -1,1 +1,0 @@
-[["Nitrogen", "20th_century", "Kyrgyzstan"], ["Nitrogen", "Agriculture", "Kyrgyzstan"], ["Nitrogen", "Beer", "Kyrgyzstan"], ["Nitrogen", "Coal", "Kyrgyzstan"], ["Nitrogen", "Gold", "Kyrgyzstan"], ["Nitrogen", "Natural_gas", "Kyrgyzstan"], ["Nitrogen", "Petroleum", "Kyrgyzstan"], ["Nitrogen", "Tobacco", "Kyrgyzstan"]]

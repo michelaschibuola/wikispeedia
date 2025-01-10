@@ -1,1 +1,0 @@
-[["Ming_Dynasty", "India", "Tobacco"], ["Ming_Dynasty", "Slavery", "Tobacco"], ["Ming_Dynasty", "Tea", "Tobacco"]]

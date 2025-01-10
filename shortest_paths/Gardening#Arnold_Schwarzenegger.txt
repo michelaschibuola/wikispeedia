@@ -1,1 +1,0 @@
-[["Gardening", "United_Kingdom", "Arnold_Schwarzenegger"], ["Gardening", "United_States", "Arnold_Schwarzenegger"]]

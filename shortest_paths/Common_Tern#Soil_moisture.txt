@@ -1,1 +1,0 @@
-[["Common_Tern", "Animal", "Water", "Soil_moisture"], ["Common_Tern", "Asia", "Water", "Soil_moisture"], ["Common_Tern", "Canada", "Water", "Soil_moisture"], ["Common_Tern", "Bird", "Agriculture", "Soil_moisture"], ["Common_Tern", "Scotland", "Agriculture", "Soil_moisture"]]

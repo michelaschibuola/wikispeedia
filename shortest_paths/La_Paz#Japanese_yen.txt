@@ -1,1 +1,0 @@
-[["La_Paz", "Capital", "Japanese_yen"], ["La_Paz", "English_language", "Japanese_yen"], ["La_Paz", "Tin", "Japanese_yen"]]

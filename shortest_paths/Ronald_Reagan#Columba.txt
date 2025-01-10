@@ -1,1 +1,0 @@
-[["Ronald_Reagan", "Ireland", "Columba"], ["Ronald_Reagan", "Scotland", "Columba"]]

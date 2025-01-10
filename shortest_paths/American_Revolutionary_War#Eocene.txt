@@ -1,1 +1,0 @@
-[["American_Revolutionary_War", "Atlantic_Ocean", "Eocene"], ["American_Revolutionary_War", "India", "Eocene"], ["American_Revolutionary_War", "North_America", "Eocene"], ["American_Revolutionary_War", "United_States", "Eocene"], ["American_Revolutionary_War", "Horse", "Eocene"]]

@@ -1,1 +1,0 @@
-[["Radar", "Adolf_Hitler", "The_Lion_King"], ["Radar", "English_language", "The_Lion_King"]]

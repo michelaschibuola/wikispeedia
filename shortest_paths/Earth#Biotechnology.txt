@@ -1,1 +1,0 @@
-[["Earth", "Bioinformatics", "Biotechnology"], ["Earth", "Biology", "Biotechnology"], ["Earth", "Canada", "Biotechnology"], ["Earth", "Europe", "Biotechnology"], ["Earth", "Latin_America", "Biotechnology"], ["Earth", "Organism", "Biotechnology"], ["Earth", "Nitrogen_fixation", "Biotechnology"]]

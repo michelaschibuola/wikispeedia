@@ -1,1 +1,0 @@
-[["Capital", "18th_century", "Amish"], ["Capital", "Germany", "Amish"], ["Capital", "United_States", "Amish"], ["Capital", "Community", "Amish"], ["Capital", "Europe", "Amish"], ["Capital", "Minnesota", "Amish"]]

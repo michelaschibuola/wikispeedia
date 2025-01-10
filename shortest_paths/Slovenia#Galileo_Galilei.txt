@@ -1,1 +1,0 @@
-[["Slovenia", "Italy", "Galileo_Galilei"], ["Slovenia", "Netherlands", "Galileo_Galilei"], ["Slovenia", "Philosophy", "Galileo_Galilei"]]

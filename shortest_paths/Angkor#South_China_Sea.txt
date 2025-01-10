@@ -1,1 +1,0 @@
-[["Angkor", "Cambodia", "South_China_Sea"], ["Angkor", "Mekong", "South_China_Sea"], ["Angkor", "Thailand", "South_China_Sea"]]

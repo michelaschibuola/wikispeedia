@@ -1,1 +1,0 @@
-[["Barley", "Agriculture", "Sierra_Leone"], ["Barley", "France", "Sierra_Leone"], ["Barley", "Turkey", "Sierra_Leone"], ["Barley", "United_Kingdom", "Sierra_Leone"], ["Barley", "United_States", "Sierra_Leone"], ["Barley", "Yemen", "Sierra_Leone"]]

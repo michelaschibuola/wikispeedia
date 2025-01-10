@@ -1,1 +1,0 @@
-[["Florence_Nightingale", "19th_century", "Slavery"], ["Florence_Nightingale", "American_Civil_War", "Slavery"], ["Florence_Nightingale", "Cholera", "Slavery"], ["Florence_Nightingale", "India", "Slavery"], ["Florence_Nightingale", "Istanbul", "Slavery"], ["Florence_Nightingale", "London", "Slavery"], ["Florence_Nightingale", "Turkey", "Slavery"]]

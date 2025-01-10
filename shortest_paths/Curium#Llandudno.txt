@@ -1,1 +1,0 @@
-[["Curium", "Aluminium", "Australia", "Llandudno"], ["Curium", "Radium", "Australia", "Llandudno"], ["Curium", "Electron", "United_Kingdom", "Llandudno"], ["Curium", "Marie_Curie", "Jew", "Llandudno"]]

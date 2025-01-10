@@ -1,1 +1,0 @@
-[["Vanilla", "Portugal", "Philip_II_of_Spain"], ["Vanilla", "Spain", "Philip_II_of_Spain"], ["Vanilla", "Spanish_language", "Philip_II_of_Spain"]]

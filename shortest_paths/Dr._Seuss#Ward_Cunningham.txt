@@ -1,1 +1,0 @@
-[["Dr._Seuss", "United_States", "Ward_Cunningham"]]

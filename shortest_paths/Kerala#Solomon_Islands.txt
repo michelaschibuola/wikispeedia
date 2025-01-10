@@ -1,1 +1,0 @@
-[["Kerala", "Coconut", "Solomon_Islands"], ["Kerala", "Parliamentary_system", "Solomon_Islands"], ["Kerala", "Time_zone", "Solomon_Islands"]]

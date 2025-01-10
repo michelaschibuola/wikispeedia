@@ -1,1 +1,0 @@
-[["Television", "France", "Formic_acid"], ["Television", "Latin", "Formic_acid"]]

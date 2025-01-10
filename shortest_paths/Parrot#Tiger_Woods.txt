@@ -1,1 +1,0 @@
-[["Parrot", "United_States", "Tiger_Woods"]]

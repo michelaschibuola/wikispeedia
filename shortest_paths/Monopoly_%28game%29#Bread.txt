@@ -1,1 +1,0 @@
-[["Monopoly_%28game%29", "Germany", "Bread"], ["Monopoly_%28game%29", "Money", "Bread"], ["Monopoly_%28game%29", "United_States", "Bread"]]

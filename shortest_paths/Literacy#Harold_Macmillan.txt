@@ -1,1 +1,0 @@
-[["Literacy", "United_Kingdom", "Harold_Macmillan"], ["Literacy", "United_Nations", "Harold_Macmillan"], ["Literacy", "United_States", "Harold_Macmillan"]]

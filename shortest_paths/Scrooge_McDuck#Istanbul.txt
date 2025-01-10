@@ -1,1 +1,0 @@
-[["Scrooge_McDuck", "English_language", "Istanbul"], ["Scrooge_McDuck", "Morocco", "Istanbul"], ["Scrooge_McDuck", "United_States", "Istanbul"]]

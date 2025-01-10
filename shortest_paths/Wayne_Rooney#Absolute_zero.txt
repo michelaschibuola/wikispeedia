@@ -1,1 +1,0 @@
-[["Wayne_Rooney", "Arsenal_F.C.", "Diamond", "Absolute_zero"], ["Wayne_Rooney", "England", "Diamond", "Absolute_zero"], ["Wayne_Rooney", "England", "Robert_Boyle", "Absolute_zero"], ["Wayne_Rooney", "United_Kingdom", "Earth", "Absolute_zero"], ["Wayne_Rooney", "United_Nations", "Earth", "Absolute_zero"]]

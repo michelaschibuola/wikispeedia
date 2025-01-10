@@ -1,1 +1,0 @@
-[["Japanese_yen", "Human", "God"], ["Japanese_yen", "United_States", "God"]]

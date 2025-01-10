@@ -1,1 +1,0 @@
-[["CS_gas", "England", "Clock"], ["CS_gas", "Mercury_%28element%29", "Clock"]]

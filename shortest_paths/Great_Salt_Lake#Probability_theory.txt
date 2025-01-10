@@ -1,1 +1,0 @@
-[["Great_Salt_Lake", "Horse", "Dice", "Probability_theory"]]

@@ -1,1 +1,0 @@
-[["Petroleum", "Chlorine", "Neon"], ["Petroleum", "Earth", "Neon"], ["Petroleum", "Hydrogen", "Neon"], ["Petroleum", "Sulfur", "Neon"], ["Petroleum", "Sun", "Neon"], ["Petroleum", "Sodium", "Neon"]]

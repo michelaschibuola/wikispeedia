@@ -1,1 +1,0 @@
-[["Palace_of_Westminster", "Glorious_Revolution", "William_and_Mary"], ["Palace_of_Westminster", "Parliament_of_the_United_Kingdom", "William_and_Mary"], ["Palace_of_Westminster", "Scotland", "William_and_Mary"]]

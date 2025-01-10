@@ -1,1 +1,0 @@
-[["Photosynthesis", "Animal", "Psychology"], ["Photosynthesis", "Austria", "Psychology"]]

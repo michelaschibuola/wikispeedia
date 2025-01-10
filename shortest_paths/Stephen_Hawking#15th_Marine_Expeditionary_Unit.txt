@@ -1,1 +1,0 @@
-[["Stephen_Hawking", "United_Kingdom", "15th_Marine_Expeditionary_Unit"], ["Stephen_Hawking", "United_States", "15th_Marine_Expeditionary_Unit"]]

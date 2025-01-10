@@ -1,1 +1,0 @@
-[["Religious_Society_of_Friends", "Bolivia", "Computer", "Chemical_synapse"], ["Religious_Society_of_Friends", "United_States", "Computer", "Chemical_synapse"], ["Religious_Society_of_Friends", "United_States", "Morphine", "Chemical_synapse"]]

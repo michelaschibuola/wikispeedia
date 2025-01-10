@@ -1,1 +1,0 @@
-[["Science", "19th_century", "Guatemala"], ["Science", "Human", "Guatemala"], ["Science", "Los_Angeles%2C_California", "Guatemala"], ["Science", "People%27s_Republic_of_China", "Guatemala"], ["Science", "United_States", "Guatemala"]]

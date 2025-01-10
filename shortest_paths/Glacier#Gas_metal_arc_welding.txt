@@ -1,1 +1,0 @@
-[["Glacier", "Europe", "Gas_metal_arc_welding"], ["Glacier", "North_America", "Gas_metal_arc_welding"]]

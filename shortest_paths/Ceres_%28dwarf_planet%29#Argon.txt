@@ -1,1 +1,0 @@
-[["Ceres_%28dwarf_planet%29", "Day", "Argon"], ["Ceres_%28dwarf_planet%29", "Mars", "Argon"], ["Ceres_%28dwarf_planet%29", "Planet", "Argon"], ["Ceres_%28dwarf_planet%29", "Venus", "Argon"]]

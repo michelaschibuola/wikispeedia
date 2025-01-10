@@ -1,1 +1,0 @@
-[["Aluminium", "Moon", "Apollo_8"], ["Aluminium", "Earth", "Apollo_8"], ["Aluminium", "Saturn_V", "Apollo_8"]]

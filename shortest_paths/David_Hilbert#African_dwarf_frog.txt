@@ -1,1 +1,0 @@
-[["David_Hilbert", "Albert_Einstein", "Africa", "African_dwarf_frog"], ["David_Hilbert", "Paris", "Africa", "African_dwarf_frog"]]

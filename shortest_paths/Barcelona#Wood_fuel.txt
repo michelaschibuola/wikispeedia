@@ -1,1 +1,0 @@
-[["Barcelona", "United_States", "Wood_fuel"]]

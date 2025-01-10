@@ -1,1 +1,0 @@
-[["Athanasius_Kircher", "Mathematics", "Pythagoras"], ["Athanasius_Kircher", "Music", "Pythagoras"], ["Athanasius_Kircher", "Philosophy", "Pythagoras"]]

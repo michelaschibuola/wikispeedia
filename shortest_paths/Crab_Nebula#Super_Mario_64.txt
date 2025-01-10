@@ -1,1 +1,0 @@
-[["Crab_Nebula", "Astronomy", "China", "Super_Mario_64"], ["Crab_Nebula", "Hubble_Space_Telescope", "Europe", "Super_Mario_64"], ["Crab_Nebula", "Iron", "Japan", "Super_Mario_64"], ["Crab_Nebula", "Moon", "Japan", "Super_Mario_64"], ["Crab_Nebula", "Speed_of_light", "Japan", "Super_Mario_64"], ["Crab_Nebula", "Sun", "Japan", "Super_Mario_64"]]

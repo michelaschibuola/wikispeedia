@@ -1,1 +1,0 @@
-[["Nazi_Germany", "Cold_War", "SR-71_Blackbird"], ["Nazi_Germany", "Japan", "SR-71_Blackbird"], ["Nazi_Germany", "Soviet_Union", "SR-71_Blackbird"]]

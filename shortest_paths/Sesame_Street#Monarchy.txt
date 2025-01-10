@@ -1,1 +1,0 @@
-[["Sesame_Street", "Australia", "Monarchy"], ["Sesame_Street", "Jordan", "Monarchy"], ["Sesame_Street", "New_Zealand", "Monarchy"], ["Sesame_Street", "South_Africa", "Monarchy"], ["Sesame_Street", "United_Kingdom", "Monarchy"]]

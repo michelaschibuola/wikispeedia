@@ -1,1 +1,0 @@
-[["North_America", "Bald_Eagle", "Island_Fox"], ["North_America", "Golden_Eagle", "Island_Fox"], ["North_America", "Ice_age", "Island_Fox"], ["North_America", "Mammal", "Island_Fox"], ["North_America", "United_States", "Island_Fox"]]

@@ -1,1 +1,0 @@
-[["Schizophrenia", "Emotion", "Beriberi"], ["Schizophrenia", "Japan", "Beriberi"], ["Schizophrenia", "Russia", "Beriberi"], ["Schizophrenia", "Vitamin", "Beriberi"]]

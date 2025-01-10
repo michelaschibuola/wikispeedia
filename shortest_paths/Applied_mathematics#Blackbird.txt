@@ -1,1 +1,0 @@
-[["Applied_mathematics", "Mathematics", "Asia", "Blackbird"], ["Applied_mathematics", "Indian_Institutes_of_Technology", "Asia", "Blackbird"], ["Applied_mathematics", "Mathematics", "Australia", "Blackbird"], ["Applied_mathematics", "Republic_of_Ireland", "Europe", "Blackbird"], ["Applied_mathematics", "Indian_Institutes_of_Technology", "Europe", "Blackbird"]]

@@ -1,1 +1,0 @@
-[["Anno_Domini", "England", "Southampton"], ["Anno_Domini", "Europe", "Southampton"], ["Anno_Domini", "Middle_Ages", "Southampton"]]

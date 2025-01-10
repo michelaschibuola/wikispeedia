@@ -1,1 +1,0 @@
-[["Mongoose", "Japan", "Iron"], ["Mongoose", "Mammal", "Iron"], ["Mongoose", "South_Africa", "Iron"]]

@@ -1,1 +1,0 @@
-[["Almond", "California", "Arnold_Schwarzenegger"], ["Almond", "United_States", "Arnold_Schwarzenegger"]]

@@ -1,1 +1,0 @@
-[["Blaise_Pascal", "Germany", "Parliamentary_system"]]

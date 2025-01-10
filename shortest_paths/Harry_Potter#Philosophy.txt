@@ -1,1 +1,0 @@
-[["Harry_Potter", "Alchemy", "Philosophy"], ["Harry_Potter", "Logic", "Philosophy"], ["Harry_Potter", "People%27s_Republic_of_China", "Philosophy"], ["Harry_Potter", "Pope_John_Paul_II", "Philosophy"], ["Harry_Potter", "United_States", "Philosophy"]]

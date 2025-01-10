@@ -1,1 +1,0 @@
-[["Battle_of_Austerlitz", "English_language", "Ethiopia"], ["Battle_of_Austerlitz", "Europe", "Ethiopia"], ["Battle_of_Austerlitz", "Malta", "Ethiopia"]]

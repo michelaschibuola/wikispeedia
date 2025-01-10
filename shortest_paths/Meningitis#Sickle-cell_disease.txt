@@ -1,1 +1,0 @@
-[["Meningitis", "Sub-Saharan_Africa", "Sickle-cell_disease"], ["Meningitis", "United_States", "Sickle-cell_disease"]]

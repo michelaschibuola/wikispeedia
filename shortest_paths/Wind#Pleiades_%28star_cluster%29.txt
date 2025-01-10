@@ -1,1 +1,0 @@
-[["Wind", "Comet", "Pleiades_%28star_cluster%29"], ["Wind", "Earth", "Pleiades_%28star_cluster%29"], ["Wind", "Greek_mythology", "Pleiades_%28star_cluster%29"]]

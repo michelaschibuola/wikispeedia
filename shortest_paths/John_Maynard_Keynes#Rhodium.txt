@@ -1,1 +1,0 @@
-[["John_Maynard_Keynes", "Gold", "Rhodium"]]

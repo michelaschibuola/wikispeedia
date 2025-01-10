@@ -1,1 +1,0 @@
-[["Uranus", "Astronomy", "Universe"], ["Uranus", "Extraterrestrial_life", "Universe"], ["Uranus", "Gravitation", "Universe"], ["Uranus", "Solar_System", "Universe"], ["Uranus", "Star", "Universe"], ["Uranus", "Earth", "Universe"], ["Uranus", "Helium", "Universe"], ["Uranus", "Hubble_Space_Telescope", "Universe"], ["Uranus", "Hydrogen", "Universe"]]

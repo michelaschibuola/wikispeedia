@@ -1,1 +1,0 @@
-[["Arctic_Monkeys", "Australia", "Carbon"], ["Arctic_Monkeys", "United_States", "Carbon"]]

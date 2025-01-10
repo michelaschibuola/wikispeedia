@@ -1,1 +1,0 @@
-[["Ozone", "Gas_metal_arc_welding", "Cornea"], ["Ozone", "Shielded_metal_arc_welding", "Cornea"], ["Ozone", "Welding", "Cornea"]]

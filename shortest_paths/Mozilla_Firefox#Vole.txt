@@ -1,1 +1,0 @@
-[["Mozilla_Firefox", "Europe", "Vole"], ["Mozilla_Firefox", "Microsoft", "Vole"]]

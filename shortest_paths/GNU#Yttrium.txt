@@ -1,1 +1,0 @@
-[["GNU", "Computer", "Television", "Yttrium"], ["GNU", "AT%26T", "Television", "Yttrium"], ["GNU", "Internet", "Television", "Yttrium"], ["GNU", "Internet", "Copper", "Yttrium"]]

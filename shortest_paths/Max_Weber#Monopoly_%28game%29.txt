@@ -1,1 +1,0 @@
-[["Max_Weber", "Germany", "Monopoly_%28game%29"], ["Max_Weber", "Economics", "Monopoly_%28game%29"], ["Max_Weber", "Mathematics", "Monopoly_%28game%29"], ["Max_Weber", "United_Kingdom", "Monopoly_%28game%29"], ["Max_Weber", "United_States", "Monopoly_%28game%29"]]

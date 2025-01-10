@@ -1,1 +1,0 @@
-[["City_status_in_the_United_Kingdom", "England", "Russian_language"], ["City_status_in_the_United_Kingdom", "United_Kingdom", "Russian_language"]]

@@ -1,1 +1,0 @@
-[["Iron_Maiden", "Japan", "Civilization"], ["Iron_Maiden", "United_States", "Civilization"]]

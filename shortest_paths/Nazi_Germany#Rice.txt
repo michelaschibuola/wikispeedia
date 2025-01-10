@@ -1,1 +1,0 @@
-[["Nazi_Germany", "Japan", "Rice"], ["Nazi_Germany", "Japanese_war_crimes", "Rice"], ["Nazi_Germany", "English_language", "Rice"], ["Nazi_Germany", "France", "Rice"], ["Nazi_Germany", "United_States", "Rice"]]

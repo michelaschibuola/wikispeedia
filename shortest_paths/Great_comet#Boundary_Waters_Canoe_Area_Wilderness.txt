@@ -1,1 +1,0 @@
-[["Great_comet", "Comet_Hale-Bopp", "United_States", "Boundary_Waters_Canoe_Area_Wilderness"], ["Great_comet", "Comet", "France", "Boundary_Waters_Canoe_Area_Wilderness"], ["Great_comet", "Comet_Halley", "France", "Boundary_Waters_Canoe_Area_Wilderness"]]

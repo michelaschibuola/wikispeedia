@@ -1,1 +1,0 @@
-[["Constitutional_monarchy", "Canada", "Azerbaijani_people"], ["Constitutional_monarchy", "Iran", "Azerbaijani_people"], ["Constitutional_monarchy", "Middle_East", "Azerbaijani_people"], ["Constitutional_monarchy", "Ottoman_Empire", "Azerbaijani_people"], ["Constitutional_monarchy", "Turkish_literature", "Azerbaijani_people"]]

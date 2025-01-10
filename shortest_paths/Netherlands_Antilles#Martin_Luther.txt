@@ -1,1 +1,0 @@
-[["Netherlands_Antilles", "France", "Martin_Luther"], ["Netherlands_Antilles", "19th_century", "Martin_Luther"], ["Netherlands_Antilles", "Christianity", "Martin_Luther"], ["Netherlands_Antilles", "German_language", "Martin_Luther"], ["Netherlands_Antilles", "Jew", "Martin_Luther"]]

@@ -1,1 +1,0 @@
-[["Newcastle_upon_Tyne", "Europe", "Pumpkin"], ["Newcastle_upon_Tyne", "India", "Pumpkin"], ["Newcastle_upon_Tyne", "United_States", "Pumpkin"]]

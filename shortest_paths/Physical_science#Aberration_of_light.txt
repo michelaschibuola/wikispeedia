@@ -1,1 +1,0 @@
-[["Physical_science", "Earth", "Aberration_of_light"], ["Physical_science", "Galaxy", "Aberration_of_light"], ["Physical_science", "Heliocentrism", "Aberration_of_light"], ["Physical_science", "Isaac_Newton", "Aberration_of_light"], ["Physical_science", "Solar_System", "Aberration_of_light"], ["Physical_science", "Sun", "Aberration_of_light"]]

@@ -1,1 +1,0 @@
-[["Carl_Jung", "Christianity", "Senegal"], ["Carl_Jung", "Kenya", "Senegal"], ["Carl_Jung", "Philosophy", "Senegal"]]

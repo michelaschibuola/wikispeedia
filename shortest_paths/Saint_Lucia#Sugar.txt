@@ -1,1 +1,0 @@
-[["Saint_Lucia", "Barbados", "Sugar"], ["Saint_Lucia", "North_America", "Sugar"], ["Saint_Lucia", "European_Union", "Sugar"], ["Saint_Lucia", "Great_Britain", "Sugar"], ["Saint_Lucia", "Latin_America", "Sugar"], ["Saint_Lucia", "Martinique", "Sugar"], ["Saint_Lucia", "Sugarcane", "Sugar"], ["Saint_Lucia", "United_States", "Sugar"]]

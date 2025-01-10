@@ -1,1 +1,0 @@
-[["Wolverine", "Canada", "Guadeloupe"], ["Wolverine", "Europe", "Guadeloupe"], ["Wolverine", "North_America", "Guadeloupe"], ["Wolverine", "South_America", "Guadeloupe"], ["Wolverine", "United_States", "Guadeloupe"]]

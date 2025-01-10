@@ -1,1 +1,0 @@
-[["Infrastructure", "European_Union", "Ireland"], ["Infrastructure", "Guyana", "Ireland"], ["Infrastructure", "19th_century", "Ireland"], ["Infrastructure", "Stone_Age", "Ireland"]]

@@ -1,1 +1,0 @@
-[["Transport", "Rail_transport", "Ghana"], ["Transport", "Denmark", "Ghana"]]

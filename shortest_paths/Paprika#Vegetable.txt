@@ -1,1 +1,0 @@
-[["Paprika", "Fennel", "Vegetable"], ["Paprika", "Fruit", "Vegetable"], ["Paprika", "Scurvy", "Vegetable"], ["Paprika", "Vitamin_C", "Vegetable"], ["Paprika", "Soup", "Vegetable"]]

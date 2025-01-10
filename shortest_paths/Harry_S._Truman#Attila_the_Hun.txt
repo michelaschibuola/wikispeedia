@@ -1,1 +1,0 @@
-[["Harry_S._Truman", "Europe", "Attila_the_Hun"], ["Harry_S._Truman", "France", "Attila_the_Hun"], ["Harry_S._Truman", "Germany", "Attila_the_Hun"], ["Harry_S._Truman", "Turkey", "Attila_the_Hun"]]

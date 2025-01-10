@@ -1,1 +1,0 @@
-[["Ankylosaurus", "Canada", "Nashville%2C_Tennessee"], ["Ankylosaurus", "Japan", "Nashville%2C_Tennessee"], ["Ankylosaurus", "New_York_City", "Nashville%2C_Tennessee"], ["Ankylosaurus", "United_States", "Nashville%2C_Tennessee"]]

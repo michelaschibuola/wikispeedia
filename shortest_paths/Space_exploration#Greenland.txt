@@ -1,1 +1,0 @@
-[["Space_exploration", "Germany", "Greenland"], ["Space_exploration", "Russia", "Greenland"], ["Space_exploration", "United_States", "Greenland"], ["Space_exploration", "World_War_II", "Greenland"]]

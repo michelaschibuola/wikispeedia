@@ -1,1 +1,0 @@
-[["Homer", "Albania", "Libya"], ["Homer", "Ancient_Greece", "Libya"], ["Homer", "Asia", "Libya"], ["Homer", "Greece", "Libya"], ["Homer", "History_of_Greece", "Libya"], ["Homer", "Italy", "Libya"], ["Homer", "Roman_Empire", "Libya"]]

@@ -1,1 +1,0 @@
-[["Romania", "Europe", "Cubism"], ["Romania", "Czech_Republic", "Cubism"], ["Romania", "World_War_I", "Cubism"]]

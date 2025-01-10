@@ -1,1 +1,0 @@
-[["Canada", "France", "David_Beckham"], ["Canada", "Hebrew_language", "David_Beckham"], ["Canada", "Israel", "David_Beckham"], ["Canada", "Jew", "David_Beckham"], ["Canada", "Malaysia", "David_Beckham"]]

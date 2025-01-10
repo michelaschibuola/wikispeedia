@@ -1,1 +1,0 @@
-[["Jurassic", "Canada", "American_English"], ["Jurassic", "United_States", "American_English"]]

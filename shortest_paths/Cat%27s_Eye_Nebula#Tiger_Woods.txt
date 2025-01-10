@@ -1,1 +1,0 @@
-[["Cat%27s_Eye_Nebula", "Helium", "Tiger_Woods"], ["Cat%27s_Eye_Nebula", "Nitrogen", "Tiger_Woods"], ["Cat%27s_Eye_Nebula", "Oxygen", "Tiger_Woods"]]

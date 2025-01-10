@@ -1,1 +1,0 @@
-[["Lisbon", "Latin", "Education"], ["Lisbon", "Paris", "Education"], ["Lisbon", "United_States", "Education"], ["Lisbon", "University", "Education"]]

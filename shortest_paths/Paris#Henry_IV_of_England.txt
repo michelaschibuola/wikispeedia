@@ -1,1 +1,0 @@
-[["Paris", "Henry_V_of_England", "Henry_IV_of_England"], ["Paris", "Hundred_Years%27_War", "Henry_IV_of_England"], ["Paris", "Thomas_Becket", "Henry_IV_of_England"]]

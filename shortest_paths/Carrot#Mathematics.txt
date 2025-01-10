@@ -1,1 +1,0 @@
-[["Carrot", "16th_century", "Mathematics"], ["Carrot", "Folklore", "Mathematics"]]

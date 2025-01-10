@@ -1,1 +1,0 @@
-[["Avalanche", "Europe", "The_Simpsons"], ["Avalanche", "France", "The_Simpsons"], ["Avalanche", "United_States", "The_Simpsons"]]

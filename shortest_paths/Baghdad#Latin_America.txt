@@ -1,1 +1,0 @@
-[["Baghdad", "Asia", "Latin_America"], ["Baghdad", "City", "Latin_America"], ["Baghdad", "Jew", "Latin_America"], ["Baghdad", "United_States", "Latin_America"], ["Baghdad", "Bah%C3%A1%27%C3%AD_Faith", "Latin_America"], ["Baghdad", "George_W._Bush", "Latin_America"], ["Baghdad", "Islam", "Latin_America"], ["Baghdad", "Syria", "Latin_America"]]

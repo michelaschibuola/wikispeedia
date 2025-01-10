@@ -1,1 +1,0 @@
-[["Radio_telescope", "Europe", "Mississippi_River"]]

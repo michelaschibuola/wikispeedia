@@ -1,1 +1,0 @@
-[["Family", "China", "Southern_Africa"], ["Family", "Politics", "Southern_Africa"]]

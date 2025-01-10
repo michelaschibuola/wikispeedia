@@ -1,1 +1,0 @@
-[["Dominica", "Africa", "Accra"], ["Dominica", "France", "Accra"], ["Dominica", "Time_zone", "Accra"]]

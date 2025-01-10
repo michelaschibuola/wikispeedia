@@ -1,1 +1,0 @@
-[["Biotechnology", "Agriculture", "Mancala"], ["Biotechnology", "Egypt", "Mancala"], ["Biotechnology", "Europe", "Mancala"], ["Biotechnology", "India", "Mancala"]]

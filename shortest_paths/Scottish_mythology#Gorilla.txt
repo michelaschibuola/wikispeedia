@@ -1,1 +1,0 @@
-[["Scottish_mythology", "Folklore", "Human", "Gorilla"], ["Scottish_mythology", "Mythology", "Human", "Gorilla"], ["Scottish_mythology", "Scotland", "AC_DC", "Gorilla"]]

@@ -1,1 +1,0 @@
-[["Astatine", "Metal", "Fire"]]

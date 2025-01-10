@@ -1,1 +1,0 @@
-[["Bath%2C_Somerset", "Germany", "Wolfgang_Amadeus_Mozart"], ["Bath%2C_Somerset", "London", "Wolfgang_Amadeus_Mozart"]]

@@ -1,1 +1,0 @@
-[["Baghdad", "Electricity", "Loch_Ness"], ["Baghdad", "United_Kingdom", "Loch_Ness"]]

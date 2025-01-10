@@ -1,1 +1,0 @@
-[["Tuna", "United_States", "Piccadilly_Circus"]]

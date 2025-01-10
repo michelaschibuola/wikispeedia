@@ -1,1 +1,0 @@
-[["The_Beatles", "England", "Globe_Theatre"], ["The_Beatles", "Chicago", "Globe_Theatre"]]

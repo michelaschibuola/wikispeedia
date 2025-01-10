@@ -1,1 +1,0 @@
-[["Natural_gas", "Argentina", "Saxophone"], ["Natural_gas", "Indonesia", "Saxophone"], ["Natural_gas", "Thailand", "Saxophone"], ["Natural_gas", "United_States", "Saxophone"]]

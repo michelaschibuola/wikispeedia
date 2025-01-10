@@ -1,1 +1,0 @@
-[["Nutmeg", "15th_century", "20th_century"], ["Nutmeg", "17th_century", "20th_century"], ["Nutmeg", "Asia", "20th_century"], ["Nutmeg", "France", "20th_century"], ["Nutmeg", "Japan", "20th_century"], ["Nutmeg", "Netherlands", "20th_century"], ["Nutmeg", "Spain", "20th_century"], ["Nutmeg", "United_States", "20th_century"]]

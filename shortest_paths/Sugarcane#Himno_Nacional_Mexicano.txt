@@ -1,1 +1,0 @@
-[["Sugarcane", "Cuba", "Himno_Nacional_Mexicano"], ["Sugarcane", "Japan", "Himno_Nacional_Mexicano"], ["Sugarcane", "United_States", "Himno_Nacional_Mexicano"]]

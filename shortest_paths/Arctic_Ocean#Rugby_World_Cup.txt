@@ -1,1 +1,0 @@
-[["Arctic_Ocean", "United_Kingdom", "Rugby_World_Cup"], ["Arctic_Ocean", "Europe", "Rugby_World_Cup"]]

@@ -1,1 +1,0 @@
-[["Seed", "Almond", "Iran"], ["Seed", "Cyclamen", "Iran"], ["Seed", "Dove", "Iran"], ["Seed", "Flower", "Iran"], ["Seed", "Pigeon", "Iran"], ["Seed", "Rice", "Iran"], ["Seed", "Israel", "Iran"]]

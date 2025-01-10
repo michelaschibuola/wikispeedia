@@ -1,1 +1,0 @@
-[["Herring_Gull", "Animal", "Medicine"]]

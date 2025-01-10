@@ -1,1 +1,0 @@
-[["Carl_Lewis", "Europe", "Tour_de_France"]]

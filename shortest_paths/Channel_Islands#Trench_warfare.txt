@@ -1,1 +1,0 @@
-[["Channel_Islands", "France", "Trench_warfare"], ["Channel_Islands", "Germany", "Trench_warfare"], ["Channel_Islands", "Telephone", "Trench_warfare"], ["Channel_Islands", "United_Kingdom", "Trench_warfare"], ["Channel_Islands", "United_States", "Trench_warfare"], ["Channel_Islands", "World_War_II", "Trench_warfare"]]

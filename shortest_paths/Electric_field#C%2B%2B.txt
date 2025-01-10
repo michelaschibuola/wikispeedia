@@ -1,1 +1,0 @@
-[["Electric_field", "Electricity", "Computer", "C%2B%2B"], ["Electric_field", "Physics", "Computer", "C%2B%2B"], ["Electric_field", "Energy", "Computer", "C%2B%2B"], ["Electric_field", "Semiconductor", "Computer", "C%2B%2B"], ["Electric_field", "Physics", "Dennis_Ritchie", "C%2B%2B"]]

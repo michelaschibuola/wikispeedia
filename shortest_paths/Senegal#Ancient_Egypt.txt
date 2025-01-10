@@ -1,1 +1,0 @@
-[["Senegal", "Africa", "Ancient_Egypt"], ["Senegal", "Cotton", "Ancient_Egypt"], ["Senegal", "Eritrea", "Ancient_Egypt"], ["Senegal", "Islam", "Ancient_Egypt"], ["Senegal", "Christianity", "Ancient_Egypt"], ["Senegal", "Currency", "Ancient_Egypt"], ["Senegal", "Judaism", "Ancient_Egypt"], ["Senegal", "Slavery", "Ancient_Egypt"], ["Senegal", "Sudan", "Ancient_Egypt"]]

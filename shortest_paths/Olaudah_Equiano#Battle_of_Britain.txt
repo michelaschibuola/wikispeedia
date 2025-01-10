@@ -1,1 +1,0 @@
-[["Olaudah_Equiano", "England", "Battle_of_Britain"], ["Olaudah_Equiano", "London", "Battle_of_Britain"], ["Olaudah_Equiano", "Royal_Navy", "Battle_of_Britain"]]

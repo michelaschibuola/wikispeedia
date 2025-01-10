@@ -1,1 +1,0 @@
-[["4th_century", "16th_century", "Mathematics"], ["4th_century", "China", "Mathematics"], ["4th_century", "Time", "Mathematics"], ["4th_century", "Ancient_Egypt", "Mathematics"], ["4th_century", "Iran", "Mathematics"]]

@@ -1,1 +1,0 @@
-[["Nauru", "Australia", "Airbus_A380"], ["Nauru", "Melbourne", "Airbus_A380"], ["Nauru", "People%27s_Republic_of_China", "Airbus_A380"], ["Nauru", "United_Kingdom", "Airbus_A380"], ["Nauru", "United_States_dollar", "Airbus_A380"]]

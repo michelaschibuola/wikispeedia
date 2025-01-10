@@ -1,1 +1,0 @@
-[["Manila", "Asia", "Damascus"], ["Manila", "France", "Damascus"], ["Manila", "India", "Damascus"], ["Manila", "Spain", "Damascus"], ["Manila", "World_Heritage_Site", "Damascus"]]

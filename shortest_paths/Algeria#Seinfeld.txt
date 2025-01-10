@@ -1,1 +1,0 @@
-[["Algeria", "United_States", "Seinfeld"], ["Algeria", "Italy", "Seinfeld"]]

@@ -1,1 +1,0 @@
-[["Bible", "5th_century", "History_of_Anglo-Saxon_England"], ["Bible", "Anglo-Saxon_literature", "History_of_Anglo-Saxon_England"], ["Bible", "Byzantine_Empire", "History_of_Anglo-Saxon_England"], ["Bible", "Medieval_literature", "History_of_Anglo-Saxon_England"]]

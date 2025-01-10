@@ -1,1 +1,0 @@
-[["Sudoku", "Czech_Republic", "Water", "Photosynthetic_reaction_centre"], ["Sudoku", "Leonhard_Euler", "Light", "Photosynthetic_reaction_centre"]]

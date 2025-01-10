@@ -1,1 +1,0 @@
-[["Baseball", "Cuba", "Mary_Seacole"], ["Baseball", "Panama", "Mary_Seacole"], ["Baseball", "United_States", "Mary_Seacole"]]

@@ -1,1 +1,0 @@
-[["Antarctic_Treaty_System", "France", "Novel"], ["Antarctic_Treaty_System", "Poland", "Novel"], ["Antarctic_Treaty_System", "United_Kingdom", "Novel"]]

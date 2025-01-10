@@ -1,1 +1,0 @@
-[["Mosque", "India", "Urial"], ["Mosque", "Pakistan", "Urial"]]

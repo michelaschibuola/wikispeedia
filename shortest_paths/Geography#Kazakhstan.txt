@@ -1,1 +1,0 @@
-[["Geography", "Desert", "Kazakhstan"], ["Geography", "16th_century", "Kazakhstan"], ["Geography", "19th_century", "Kazakhstan"], ["Geography", "Europe", "Kazakhstan"], ["Geography", "Lebanon", "Kazakhstan"]]

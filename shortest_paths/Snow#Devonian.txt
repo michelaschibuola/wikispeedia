@@ -1,1 +1,0 @@
-[["Snow", "Ben_Nevis", "Devonian"], ["Snow", "England", "Devonian"], ["Snow", "Louisville%2C_Kentucky", "Devonian"], ["Snow", "Earth%27s_atmosphere", "Devonian"]]

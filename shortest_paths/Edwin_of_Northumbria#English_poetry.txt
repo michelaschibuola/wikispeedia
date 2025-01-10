@@ -1,1 +1,0 @@
-[["Edwin_of_Northumbria", "7th_century", "English_poetry"], ["Edwin_of_Northumbria", "Bede", "English_poetry"], ["Edwin_of_Northumbria", "Ireland", "English_poetry"], ["Edwin_of_Northumbria", "Old_English_language", "English_poetry"]]

@@ -1,1 +1,0 @@
-[["Bicycle", "United_Kingdom", "Mustard_plant"], ["Bicycle", "United_States", "Mustard_plant"]]

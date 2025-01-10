@@ -1,1 +1,0 @@
-[["Ununoctium", "Periodic_table", "19th_century", "Programming_language"], ["Ununoctium", "Russia", "19th_century", "Programming_language"], ["Ununoctium", "Color", "Language", "Programming_language"], ["Ununoctium", "Phase_%28matter%29", "Set", "Programming_language"]]

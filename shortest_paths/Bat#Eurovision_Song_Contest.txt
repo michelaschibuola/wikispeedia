@@ -1,1 +1,0 @@
-[["Bat", "United_Kingdom", "Eurovision_Song_Contest"], ["Bat", "New_Zealand", "Eurovision_Song_Contest"]]

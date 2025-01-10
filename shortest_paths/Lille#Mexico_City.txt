@@ -1,1 +1,0 @@
-[["Lille", "Global_city", "Mexico_City"], ["Lille", "Capital", "Mexico_City"], ["Lille", "London", "Mexico_City"], ["Lille", "Paris", "Mexico_City"], ["Lille", "United_States", "Mexico_City"], ["Lille", "Lyon", "Mexico_City"]]

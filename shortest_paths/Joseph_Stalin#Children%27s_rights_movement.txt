@@ -1,1 +1,0 @@
-[["Joseph_Stalin", "Adolf_Hitler", "Children%27s_rights_movement"], ["Joseph_Stalin", "Finland", "Children%27s_rights_movement"], ["Joseph_Stalin", "Ukraine", "Children%27s_rights_movement"], ["Joseph_Stalin", "World_War_II", "Children%27s_rights_movement"]]

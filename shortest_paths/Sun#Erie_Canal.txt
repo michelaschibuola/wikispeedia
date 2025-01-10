@@ -1,1 +1,0 @@
-[["Sun", "Ice_age", "Erie_Canal"], ["Sun", "United_States", "Erie_Canal"]]

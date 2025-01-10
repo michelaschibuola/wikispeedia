@@ -1,1 +1,0 @@
-[["Madrid", "Arabic_language", "Sahara"], ["Madrid", "Libya", "Sahara"], ["Madrid", "Mauritania", "Sahara"], ["Madrid", "Morocco", "Sahara"], ["Madrid", "North_Africa", "Sahara"], ["Madrid", "Nouakchott", "Sahara"], ["Madrid", "Portugal", "Sahara"]]

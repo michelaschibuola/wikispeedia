@@ -1,1 +1,0 @@
-[["North_Africa", "Egypt", "Heracles"], ["North_Africa", "Mediterranean_Sea", "Heracles"], ["North_Africa", "Rome", "Heracles"]]

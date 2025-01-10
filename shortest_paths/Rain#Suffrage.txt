@@ -1,1 +1,0 @@
-[["Rain", "Macau", "Suffrage"], ["Rain", "United_Kingdom", "Suffrage"]]

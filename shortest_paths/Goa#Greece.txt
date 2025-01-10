@@ -1,1 +1,0 @@
-[["Goa", "Architecture", "Greece"], ["Goa", "British_Empire", "Greece"], ["Goa", "Europe", "Greece"], ["Goa", "Law", "Greece"], ["Goa", "Netherlands", "Greece"], ["Goa", "Portugal", "Greece"], ["Goa", "Rail_transport", "Greece"], ["Goa", "Time_zone", "Greece"], ["Goa", "University", "Greece"], ["Goa", "Muscat%2C_Oman", "Greece"], ["Goa", "Slavery", "Greece"]]

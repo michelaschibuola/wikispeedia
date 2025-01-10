@@ -1,1 +1,0 @@
-[["Laos", "Communism", "Dwight_D._Eisenhower"], ["Laos", "John_F._Kennedy", "Dwight_D._Eisenhower"], ["Laos", "France", "Dwight_D._Eisenhower"], ["Laos", "Japan", "Dwight_D._Eisenhower"], ["Laos", "Soviet_Union", "Dwight_D._Eisenhower"], ["Laos", "World_War_II", "Dwight_D._Eisenhower"], ["Laos", "Richard_Nixon", "Dwight_D._Eisenhower"]]

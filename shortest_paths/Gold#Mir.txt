@@ -1,1 +1,0 @@
-[["Gold", "Earth%27s_atmosphere", "Mir"], ["Gold", "Russia", "Mir"], ["Gold", "United_States", "Mir"], ["Gold", "New_Zealand", "Mir"], ["Gold", "United_States_dollar", "Mir"]]

@@ -1,1 +1,0 @@
-[["The_Rite_of_Spring", "London", "Alexander_Graham_Bell", "Electrical_resistance"], ["The_Rite_of_Spring", "United_States", "Alexander_Graham_Bell", "Electrical_resistance"], ["The_Rite_of_Spring", "Sony", "Semiconductor", "Electrical_resistance"], ["The_Rite_of_Spring", "United_States", "Lightning_rod", "Electrical_resistance"]]

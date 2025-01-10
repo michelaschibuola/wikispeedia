@@ -1,1 +1,0 @@
-[["Sand_art_and_play", "Buddhism", "Calligraphy", "Windows_Vista"], ["Sand_art_and_play", "Buddhism", "European_Union", "Windows_Vista"], ["Sand_art_and_play", "Water", "European_Union", "Windows_Vista"]]

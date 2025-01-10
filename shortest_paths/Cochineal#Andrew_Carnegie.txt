@@ -1,1 +1,0 @@
-[["Cochineal", "Australia", "Andrew_Carnegie"], ["Cochineal", "Iron", "Andrew_Carnegie"], ["Cochineal", "Spain", "Andrew_Carnegie"], ["Cochineal", "United_States_dollar", "Andrew_Carnegie"]]

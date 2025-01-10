@@ -1,1 +1,0 @@
-[["St_Paul%27s_Cathedral", "London", "Ezra_Pound"], ["St_Paul%27s_Cathedral", "Rome", "Ezra_Pound"]]

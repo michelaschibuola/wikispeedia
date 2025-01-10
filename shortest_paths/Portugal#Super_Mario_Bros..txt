@@ -1,1 +1,0 @@
-[["Portugal", "Europe", "Super_Mario_Bros."], ["Portugal", "Japan", "Super_Mario_Bros."], ["Portugal", "United_States", "Super_Mario_Bros."]]

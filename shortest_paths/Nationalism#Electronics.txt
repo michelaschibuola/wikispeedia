@@ -1,1 +1,0 @@
-[["Nationalism", "20th_century", "Electronics"], ["Nationalism", "19th_century", "Electronics"], ["Nationalism", "Armenia", "Electronics"], ["Nationalism", "Gender", "Electronics"], ["Nationalism", "Japan", "Electronics"], ["Nationalism", "United_States", "Electronics"]]

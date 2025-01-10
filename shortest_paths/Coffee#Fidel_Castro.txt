@@ -1,1 +1,0 @@
-[["Coffee", "Africa", "Fidel_Castro"], ["Coffee", "Agriculture", "Fidel_Castro"], ["Coffee", "Cancer", "Fidel_Castro"], ["Coffee", "Ethiopia", "Fidel_Castro"], ["Coffee", "Italy", "Fidel_Castro"], ["Coffee", "Turkey", "Fidel_Castro"], ["Coffee", "Guatemala", "Fidel_Castro"], ["Coffee", "Nicaragua", "Fidel_Castro"], ["Coffee", "Venezuela", "Fidel_Castro"]]

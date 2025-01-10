@@ -1,1 +1,0 @@
-[["Helen_Gandy", "Trout", "Geology_of_the_Grand_Canyon_area", "Worm"], ["Helen_Gandy", "Trout", "Invertebrate", "Worm"], ["Helen_Gandy", "United_States", "Captain_Marvel_%28DC_Comics%29", "Worm"]]

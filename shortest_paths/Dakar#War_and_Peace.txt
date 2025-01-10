@@ -1,1 +1,0 @@
-[["Dakar", "Paris", "War_and_Peace"], ["Dakar", "United_States", "War_and_Peace"]]

@@ -1,1 +1,0 @@
-[["Norwich", "Europe", "Firearm"], ["Norwich", "United_States", "Firearm"], ["Norwich", "World_War_I", "Firearm"]]

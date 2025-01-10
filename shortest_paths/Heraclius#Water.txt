@@ -1,1 +1,0 @@
-[["Heraclius", "Islam", "Water"], ["Heraclius", "Mesopotamia", "Water"], ["Heraclius", "Syria", "Water"]]

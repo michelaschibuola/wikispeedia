@@ -1,1 +1,0 @@
-[["Cubism", "Europe", "Beirut"], ["Cubism", "World_War_I", "Beirut"]]

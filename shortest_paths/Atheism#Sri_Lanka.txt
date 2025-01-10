@@ -1,1 +1,0 @@
-[["Atheism", "Buddhism", "Sri_Lanka"], ["Atheism", "Cold_War", "Sri_Lanka"], ["Atheism", "English_language", "Sri_Lanka"], ["Atheism", "India", "Sri_Lanka"], ["Atheism", "United_States", "Sri_Lanka"], ["Atheism", "Christianity", "Sri_Lanka"], ["Atheism", "Turkey", "Sri_Lanka"]]

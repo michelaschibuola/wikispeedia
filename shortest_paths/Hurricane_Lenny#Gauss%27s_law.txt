@@ -1,1 +1,0 @@
-[["Hurricane_Lenny", "Tropical_cyclone", "Gravitation", "Gauss%27s_law"], ["Hurricane_Lenny", "United_States", "Carl_Friedrich_Gauss", "Gauss%27s_law"]]

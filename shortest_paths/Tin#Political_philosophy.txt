@@ -1,1 +1,0 @@
-[["Tin", "Earth", "Political_philosophy"], ["Tin", "Europe", "Political_philosophy"]]

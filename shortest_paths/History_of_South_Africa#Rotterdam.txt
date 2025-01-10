@@ -1,1 +1,0 @@
-[["History_of_South_Africa", "Atlantic_Ocean", "Rotterdam"], ["History_of_South_Africa", "France", "Rotterdam"], ["History_of_South_Africa", "Germany", "Rotterdam"], ["History_of_South_Africa", "Netherlands", "Rotterdam"], ["History_of_South_Africa", "World_War_II", "Rotterdam"]]

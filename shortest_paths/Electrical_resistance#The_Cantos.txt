@@ -1,1 +1,0 @@
-[["Electrical_resistance", "Magnet", "The_Cantos"], ["Electrical_resistance", "Physics", "The_Cantos"]]

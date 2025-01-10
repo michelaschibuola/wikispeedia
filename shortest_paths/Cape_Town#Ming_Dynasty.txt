@@ -1,1 +1,0 @@
-[["Cape_Town", "17th_century", "Ming_Dynasty"], ["Cape_Town", "India", "Ming_Dynasty"], ["Cape_Town", "Portugal", "Ming_Dynasty"]]

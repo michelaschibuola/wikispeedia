@@ -1,1 +1,0 @@
-[["Tanzania", "France", "James_II_of_England"], ["Tanzania", "London", "James_II_of_England"], ["Tanzania", "Royal_Navy", "James_II_of_England"], ["Tanzania", "Saint_Helena", "James_II_of_England"], ["Tanzania", "Spain", "James_II_of_England"]]

@@ -1,1 +1,0 @@
-[["History_of_the_world", "Africa", "Harare"], ["History_of_the_world", "City", "Harare"], ["History_of_the_world", "Germany", "Harare"], ["History_of_the_world", "Italy", "Harare"], ["History_of_the_world", "Steel", "Harare"], ["History_of_the_world", "United_States", "Harare"]]

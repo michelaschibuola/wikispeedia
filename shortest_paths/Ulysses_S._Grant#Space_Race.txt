@@ -1,1 +1,0 @@
-[["Ulysses_S._Grant", "Dwight_D._Eisenhower", "Space_Race"], ["Ulysses_S._Grant", "China", "Space_Race"], ["Ulysses_S._Grant", "United_States", "Space_Race"], ["Ulysses_S._Grant", "World_War_II", "Space_Race"], ["Ulysses_S._Grant", "United_States_dollar", "Space_Race"]]

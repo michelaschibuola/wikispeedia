@@ -1,1 +1,0 @@
-[["Jamaica", "Europe", "Lung_cancer"], ["Jamaica", "United_Kingdom", "Lung_cancer"], ["Jamaica", "United_States", "Lung_cancer"]]

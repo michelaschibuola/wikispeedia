@@ -1,1 +1,0 @@
-[["Basking_shark", "Canada", "17th_century"], ["Basking_shark", "Japan", "17th_century"], ["Basking_shark", "New_Zealand", "17th_century"], ["Basking_shark", "Norway", "17th_century"]]

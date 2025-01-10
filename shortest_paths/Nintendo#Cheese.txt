@@ -1,1 +1,0 @@
-[["Nintendo", "Australia", "Cheese"], ["Nintendo", "Brazil", "Cheese"], ["Nintendo", "Europe", "Cheese"], ["Nintendo", "France", "Cheese"], ["Nintendo", "Germany", "Cheese"], ["Nintendo", "People%27s_Republic_of_China", "Cheese"], ["Nintendo", "United_States", "Cheese"], ["Nintendo", "United_States_dollar", "Cheese"]]

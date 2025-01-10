@@ -1,1 +1,0 @@
-[["Oil_refinery", "2005_Atlantic_hurricane_season", "Florida"], ["Oil_refinery", "Hurricane_Katrina", "Florida"], ["Oil_refinery", "United_States", "Florida"], ["Oil_refinery", "World_War_II", "Florida"]]

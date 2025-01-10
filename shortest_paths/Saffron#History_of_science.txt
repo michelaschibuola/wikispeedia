@@ -1,1 +1,0 @@
-[["Saffron", "Arabic_language", "History_of_science"], ["Saffron", "Black_Death", "History_of_science"], ["Saffron", "Egypt", "History_of_science"], ["Saffron", "Europe", "History_of_science"], ["Saffron", "Latin", "History_of_science"], ["Saffron", "Medicine", "History_of_science"]]

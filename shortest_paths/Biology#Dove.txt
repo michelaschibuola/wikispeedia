@@ -1,1 +1,0 @@
-[["Biology", "Animal", "Dove"], ["Biology", "Human", "Dove"], ["Biology", "Scientific_classification", "Dove"], ["Biology", "Bird", "Dove"]]

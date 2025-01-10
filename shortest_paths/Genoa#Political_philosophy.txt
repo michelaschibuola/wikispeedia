@@ -1,1 +1,0 @@
-[["Genoa", "Ottoman_Empire", "Political_philosophy"], ["Genoa", "United_States", "Political_philosophy"], ["Genoa", "World_War_II", "Political_philosophy"]]

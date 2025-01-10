@@ -1,1 +1,0 @@
-[["Mount_Everest", "Canada", "Celine_Dion"], ["Mount_Everest", "London", "Celine_Dion"], ["Mount_Everest", "Switzerland", "Celine_Dion"], ["Mount_Everest", "United_Kingdom", "Celine_Dion"], ["Mount_Everest", "United_States", "Celine_Dion"]]

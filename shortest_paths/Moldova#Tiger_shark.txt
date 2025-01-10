@@ -1,1 +1,0 @@
-[["Moldova", "Petroleum", "Tiger_shark"], ["Moldova", "Temperate", "Tiger_shark"]]

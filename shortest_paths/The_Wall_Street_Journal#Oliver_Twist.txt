@@ -1,1 +1,0 @@
-[["The_Wall_Street_Journal", "South_Africa", "Oliver_Twist"], ["The_Wall_Street_Journal", "London", "Oliver_Twist"], ["The_Wall_Street_Journal", "United_States", "Oliver_Twist"]]

@@ -1,1 +1,0 @@
-[["Barbary_Macaque", "Animal", "Domesticated_turkey"], ["Barbary_Macaque", "Europe", "Domesticated_turkey"], ["Barbary_Macaque", "Scientific_classification", "Domesticated_turkey"], ["Barbary_Macaque", "World_War_II", "Domesticated_turkey"]]

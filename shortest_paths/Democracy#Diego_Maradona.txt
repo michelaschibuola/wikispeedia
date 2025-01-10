@@ -1,1 +1,0 @@
-[["Democracy", "Croatia", "Diego_Maradona"], ["Democracy", "Switzerland", "Diego_Maradona"], ["Democracy", "Spain", "Diego_Maradona"]]

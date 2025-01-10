@@ -1,1 +1,0 @@
-[["Mars", "Cornell_University", "Washington%2C_D.C."], ["Mars", "George_W._Bush", "Washington%2C_D.C."], ["Mars", "Neil_Armstrong", "Washington%2C_D.C."], ["Mars", "Wernher_von_Braun", "Washington%2C_D.C."]]

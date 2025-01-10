@@ -1,1 +1,0 @@
-[["Eyelid", "Contact_lens", "Germany", "F-4_Phantom_II"], ["Eyelid", "Contact_lens", "Japan", "F-4_Phantom_II"], ["Eyelid", "Contact_lens", "United_States", "F-4_Phantom_II"]]

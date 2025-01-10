@@ -1,1 +1,0 @@
-[["Bison", "Cattle", "Sweden"], ["Bison", "Europe", "Sweden"], ["Bison", "Stone_Age", "Sweden"]]

@@ -1,1 +1,0 @@
-[["Harald_Maddadsson", "Isle_of_Man", "Tony_Blair", "Obi-Wan_Kenobi"], ["Harald_Maddadsson", "Norway", "Shanghai", "Obi-Wan_Kenobi"], ["Harald_Maddadsson", "Norway", "Star_Wars", "Obi-Wan_Kenobi"], ["Harald_Maddadsson", "Pope", "Clone_Wars_%28Star_Wars%29", "Obi-Wan_Kenobi"], ["Harald_Maddadsson", "Scotland_in_the_High_Middle_Ages", "Slavery", "Obi-Wan_Kenobi"]]

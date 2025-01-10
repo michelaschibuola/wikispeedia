@@ -1,1 +1,0 @@
-[["Birth_control", "Bangladesh", "Water"], ["Birth_control", "Arsenic", "Water"], ["Birth_control", "Asia", "Water"], ["Birth_control", "Christianity", "Water"], ["Birth_control", "Germany", "Water"], ["Birth_control", "Hinduism", "Water"], ["Birth_control", "Islam", "Water"], ["Birth_control", "Judaism", "Water"], ["Birth_control", "Poverty", "Water"]]

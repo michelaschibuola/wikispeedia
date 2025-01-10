@@ -1,1 +1,0 @@
-[["History_of_slavery", "Maize", "Zion_National_Park"], ["History_of_slavery", "Tobacco", "Zion_National_Park"], ["History_of_slavery", "United_States", "Zion_National_Park"]]

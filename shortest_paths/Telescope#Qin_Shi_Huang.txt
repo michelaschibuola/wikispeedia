@@ -1,1 +1,0 @@
-[["Telescope", "Earth", "Qin_Shi_Huang"], ["Telescope", "Japan", "Qin_Shi_Huang"]]

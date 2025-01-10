@@ -1,1 +1,0 @@
-[["Atlanta%2C_Georgia", "Capital", "Chadian-Sudanese_conflict"], ["Atlanta%2C_Georgia", "France", "Chadian-Sudanese_conflict"], ["Atlanta%2C_Georgia", "Lagos", "Chadian-Sudanese_conflict"], ["Atlanta%2C_Georgia", "Nigeria", "Chadian-Sudanese_conflict"]]

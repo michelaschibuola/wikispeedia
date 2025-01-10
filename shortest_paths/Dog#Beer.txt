@@ -1,1 +1,0 @@
-[["Dog", "Africa", "Beer"], ["Dog", "Russia", "Beer"], ["Dog", "Sikkim", "Beer"]]

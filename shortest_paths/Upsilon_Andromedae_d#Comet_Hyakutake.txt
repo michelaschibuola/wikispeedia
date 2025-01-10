@@ -1,1 +1,0 @@
-[["Upsilon_Andromedae_d", "Gravitation", "Comet_Hyakutake"], ["Upsilon_Andromedae_d", "Solar_System", "Comet_Hyakutake"], ["Upsilon_Andromedae_d", "Star", "Comet_Hyakutake"], ["Upsilon_Andromedae_d", "Sun", "Comet_Hyakutake"], ["Upsilon_Andromedae_d", "Water", "Comet_Hyakutake"]]

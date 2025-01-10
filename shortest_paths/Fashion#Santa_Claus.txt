@@ -1,1 +1,0 @@
-[["Fashion", "New_York_City", "Santa_Claus"]]

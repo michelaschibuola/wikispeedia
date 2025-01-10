@@ -1,1 +1,0 @@
-[["German_reunification", "European_Union", "Newspaper"], ["German_reunification", "France", "Newspaper"], ["German_reunification", "Germany", "Newspaper"], ["German_reunification", "United_States", "Newspaper"]]

@@ -1,1 +1,0 @@
-[["TeX", "Emacs", "OpenBSD"], ["TeX", "Linux", "OpenBSD"], ["TeX", "Microsoft_Windows", "OpenBSD"], ["TeX", "Unix", "OpenBSD"]]

@@ -1,1 +1,0 @@
-[["Chimpanzee", "Human", "Antarctica"], ["Chimpanzee", "Pliocene", "Antarctica"], ["Chimpanzee", "David_Attenborough", "Antarctica"]]

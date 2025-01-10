@@ -1,1 +1,0 @@
-[["Nirvana_%28band%29", "Chicago", "Autorack"], ["Nirvana_%28band%29", "Germany", "Autorack"], ["Nirvana_%28band%29", "Los_Angeles%2C_California", "Autorack"], ["Nirvana_%28band%29", "United_States", "Autorack"], ["Nirvana_%28band%29", "Washington%2C_D.C.", "Autorack"]]

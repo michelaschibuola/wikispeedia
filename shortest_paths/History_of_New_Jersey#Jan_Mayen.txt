@@ -1,1 +1,0 @@
-[["History_of_New_Jersey", "France", "Jan_Mayen"], ["History_of_New_Jersey", "Glacier", "Jan_Mayen"], ["History_of_New_Jersey", "Netherlands", "Jan_Mayen"], ["History_of_New_Jersey", "World_War_II", "Jan_Mayen"]]

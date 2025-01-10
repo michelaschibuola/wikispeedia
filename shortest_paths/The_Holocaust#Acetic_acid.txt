@@ -1,1 +1,0 @@
-[["The_Holocaust", "Germany", "Acetic_acid"], ["The_Holocaust", "Europe", "Acetic_acid"], ["The_Holocaust", "Greece", "Acetic_acid"]]

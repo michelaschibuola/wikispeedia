@@ -1,1 +1,0 @@
-[["Penguin", "Latin", "Rock_of_Gibraltar"]]

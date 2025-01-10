@@ -1,1 +1,0 @@
-[["Avro_Lancaster", "Egypt", "Sun", "16_Cygni"], ["Avro_Lancaster", "Japan", "Sun", "16_Cygni"], ["Avro_Lancaster", "Europe", "Day", "16_Cygni"], ["Avro_Lancaster", "Japan", "Jupiter", "16_Cygni"], ["Avro_Lancaster", "Poland", "Extrasolar_planet", "16_Cygni"]]

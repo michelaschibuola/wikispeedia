@@ -1,1 +1,0 @@
-[["Arsenal_F.C.", "London", "Clifton_Suspension_Bridge"], ["Arsenal_F.C.", "River_Thames", "Clifton_Suspension_Bridge"], ["Arsenal_F.C.", "United_Kingdom", "Clifton_Suspension_Bridge"]]

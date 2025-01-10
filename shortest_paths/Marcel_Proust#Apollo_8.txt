@@ -1,1 +1,0 @@
-[["Marcel_Proust", "Paris", "Apollo_8"]]

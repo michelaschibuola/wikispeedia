@@ -1,1 +1,0 @@
-[["Swastika", "English_language", "Emacs", "GNU_Project"], ["Swastika", "English_language", "Richard_Stallman", "GNU_Project"], ["Swastika", "French_language", "Richard_Stallman", "GNU_Project"], ["Swastika", "Spanish_language", "Richard_Stallman", "GNU_Project"], ["Swastika", "Sweden", "Richard_Stallman", "GNU_Project"], ["Swastika", "Latin", "Unix", "GNU_Project"]]

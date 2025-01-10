@@ -1,1 +1,0 @@
-[["Venezuela", "Madrid", "Giant_Panda"], ["Venezuela", "South_America", "Giant_Panda"], ["Venezuela", "United_States", "Giant_Panda"], ["Venezuela", "20th_century", "Giant_Panda"]]

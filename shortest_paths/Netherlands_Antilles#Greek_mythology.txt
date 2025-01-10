@@ -1,1 +1,0 @@
-[["Netherlands_Antilles", "France", "Greek_mythology"], ["Netherlands_Antilles", "19th_century", "Greek_mythology"], ["Netherlands_Antilles", "Agriculture", "Greek_mythology"], ["Netherlands_Antilles", "Christianity", "Greek_mythology"]]

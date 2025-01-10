@@ -1,1 +1,0 @@
-[["History_of_slavery", "Morocco", "Ascariasis"], ["History_of_slavery", "Nigeria", "Ascariasis"], ["History_of_slavery", "Sugar", "Ascariasis"], ["History_of_slavery", "United_States", "Ascariasis"]]

@@ -1,1 +1,0 @@
-[["Tiger", "Global_spread_of_H5N1", "Cameroon"], ["Tiger", "Animal", "Cameroon"], ["Tiger", "Human", "Cameroon"], ["Tiger", "Turkey", "Cameroon"]]

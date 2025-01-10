@@ -1,1 +1,0 @@
-[["Hampshire", "20th_century", "Dutch_language"], ["Hampshire", "England", "Dutch_language"], ["Hampshire", "Europe", "Dutch_language"], ["Hampshire", "United_Kingdom", "Dutch_language"]]

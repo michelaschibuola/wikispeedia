@@ -1,1 +1,0 @@
-[["David_Attenborough", "England", "Stephen_Hawking"], ["David_Attenborough", "Global_warming", "Stephen_Hawking"], ["David_Attenborough", "God", "Stephen_Hawking"], ["David_Attenborough", "University_of_Cambridge", "Stephen_Hawking"]]

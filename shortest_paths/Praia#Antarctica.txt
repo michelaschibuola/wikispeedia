@@ -1,1 +1,0 @@
-[["Praia", "Africa", "Antarctica"], ["Praia", "Atlantic_Ocean", "Antarctica"], ["Praia", "Fishing", "Antarctica"]]

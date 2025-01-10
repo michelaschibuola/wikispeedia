@@ -1,1 +1,0 @@
-[["Canada", "2004_Indian_Ocean_earthquake", "Salt"], ["Canada", "Aluminium", "Salt"], ["Canada", "Armand_Jean_du_Plessis%2C_Cardinal_Richelieu", "Salt"], ["Canada", "Latin", "Salt"], ["Canada", "Titanium", "Salt"], ["Canada", "Turtle", "Salt"], ["Canada", "Uranium", "Salt"], ["Canada", "Water", "Salt"]]

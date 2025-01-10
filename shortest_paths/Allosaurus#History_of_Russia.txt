@@ -1,1 +1,0 @@
-[["Allosaurus", "Latin", "History_of_Russia"], ["Allosaurus", "United_States", "History_of_Russia"]]

@@ -1,1 +1,0 @@
-[["Space_suit", "Shenzhou_6", "Pacific_Ocean"], ["Space_suit", "World_War_II", "Pacific_Ocean"]]

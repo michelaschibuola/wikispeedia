@@ -1,1 +1,0 @@
-[["Shoshone_National_Forest", "Antarctica", "Orca"], ["Shoshone_National_Forest", "Arctic", "Orca"], ["Shoshone_National_Forest", "Greenland", "Orca"]]

@@ -1,1 +1,0 @@
-[["Gliese_876_c", "Day", "United_States", "Senate_of_Canada"], ["Gliese_876_c", "Sun", "United_States", "Senate_of_Canada"], ["Gliese_876_c", "Gravitation", "United_Kingdom", "Senate_of_Canada"]]
