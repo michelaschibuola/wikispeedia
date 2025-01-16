@@ -1,2 +1,2 @@
 # wikispeedia
-Learning from Network Project
+Learning from Networks Project
